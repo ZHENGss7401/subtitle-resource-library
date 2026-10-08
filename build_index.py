@@ -32,7 +32,7 @@ SEMI = os.path.join(ROOT, "2. 半成品")
 FIN = os.path.join(ROOT, "1. 成品入口")
 LIB = os.path.join(ROOT, "0. 字幕资源库")
 STAGE = os.path.join(LIB, "定版")
-DEFAULT_DAYS = ("10.7", "10.8")
+DEFAULT_DAYS = ("10.7", "10.8", "9月/国庆五日视频")
 
 CANVAS = (720, 1280)
 BACKDROP = (74, 74, 74)          # 深灰：白字和白框都看得清

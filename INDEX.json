@@ -1,8 +1,9 @@
 {
- "built": "2026-10-08T16:30:41",
+ "built": "2026-10-08T17:54:31",
  "scope": [
   "10.7",
-  "10.8"
+  "10.8",
+  "9月/国庆五日视频"
  ],
  "versions": {
   "B14-3": {
@@ -201,6 +202,72 @@
      "6. 提亮：Amazon 上的 OLCG 果冻霜，一周提亮一个色阶"
     ],
     "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.7\\005-Q25-3-10.07-英文-张哲-惠跃-(医生都不会告诉你的秘密2.0)Aveya 胶原蛋白棉片+OLCG果冻霜-惠跃-20"
+   }
+  },
+  "Q25-4": {
+   "code": "Q25-4",
+   "pkg_code": "Q25-4",
+   "aliases": [],
+   "dates": [
+    "9月/国庆五日视频"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\9月/国庆五日视频\\004-Q25-4-9.30-英文-张哲-惠跃-(医生都不会告诉你的秘密2.0)Aveya 胶原蛋白棉片+OLCG果冻霜-惠跃-94"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\9月/国庆五日视频\\004-Q25-4-9.30-英文-张哲-惠跃-(医生都不会告诉你的秘密2.0)Aveya 胶原蛋白棉片+OLCG果冻霜-惠跃-94\\字幕夹\\Q25-4_用户定版原图.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q25-4.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q25-4.png",
+   "layer_rel": "定版/Q25-4.png",
+   "preview_rel": "定版/Q25-4_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q25-4_预览.png",
+   "preview_kind": "定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\9月/国庆五日视频\\004-Q25-4-9.30-英文-张哲-惠跃-(医生都不会告诉你的秘密2.0)Aveya 胶原蛋白棉片+OLCG果冻霜-惠跃-94",
+   "sha256": "ae723a5d886287cf90c94b81a29cba2f9d40445088d3a89441e8e57db7da4813",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "核对JSON哈希",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q25-4-文案（医生不会告诉的秘密2.0）-Aveya棉片+OLCG果冻霜.docx",
+    "lines": [
+     "标红处为修改句子",
+     "Secrets even doctors",
+     "won't tell you",
+     "1. Small bust:",
+     "No bra to bed",
+     "a cup size bigger",
+     "2. Down there:",
+     "Pineapple juice balances pH",
+     "smell like flowers",
+     "3.Underboob:",
+     "Smells like bread?",
+     "Not sweat. Fungus.",
+     "4.Wrinkles:",
+     "Aveya Toner Pads",
+     "on Amazon",
+     "erase fine lines like",
+     "magic in 7 days.",
+     "5. Have a cold",
+     "Sleep with your spouse",
+     "Seriously",
+     "(All better overnight)",
+     "6. Dull skin",
+     "OLCG Jelly cream",
+     "on Amazon",
+     "brighten skin tone",
+     "one shade in one week",
+     "1. 小胸：不穿内衣睡觉，罩杯大一号",
+     "私处：菠萝汁平衡 pH，闻起来是花香",
+     "3. 胸下：闻起来像面包？不是汗，是真菌",
+     "4. 皱纹：Amazon 上的 Aveya 爽肤棉片，7 天像魔法一样抚平细纹",
+     "5. 感冒：和伴侣同房，说真的（很快就会好）",
+     "6. 提亮：Amazon 上的 OLCG 果冻霜，一周提亮一个色阶"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\9月/国庆五日视频\\004-Q25-4-9.30-英文-张哲-惠跃-(医生都不会告诉你的秘密2.0)Aveya 胶原蛋白棉片+OLCG果冻霜-惠跃-94"
    }
   },
   "Q26": {
