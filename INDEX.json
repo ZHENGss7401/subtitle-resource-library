@@ -1,9 +1,10 @@
 {
- "built": "2026-10-08T17:54:31",
+ "built": "2026-10-09T10:52:11",
  "scope": [
   "10.7",
   "10.8",
-  "9月/国庆五日视频"
+  "9月/国庆五日视频",
+  "10.9"
  ],
  "versions": {
   "B14-3": {
@@ -547,6 +548,88 @@
      "6. 私处异味：纯蔓越莓汁（可平衡pH值，让私处闻起来像糖果）"
     ],
     "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.7\\003-Q28-10.7-英文-张哲-惠跃-(医生都不会告诉你的秘密)Aveya 胶原蛋白棉片+OLCG果冻霜-惠跃-30"
+   }
+  },
+  "Q28-1": {
+   "code": "Q28-1",
+   "pkg_code": "Q28-1",
+   "aliases": [],
+   "dates": [
+    "10.9"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.9\\002-Q28-1-10.9-英文-张哲-惠跃-（医生不会告诉你的密码）-aveya棉片+olcg果冻霜-惠跃-0"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.9\\002-Q28-1-10.9-英文-张哲-惠跃-（医生不会告诉你的密码）-aveya棉片+olcg果冻霜-惠跃-0\\字幕夹\\Q28-1_用户定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q28-1.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q28-1.png",
+   "layer_rel": "定版/Q28-1.png",
+   "preview_rel": "定版/Q28-1_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q28-1_预览.png",
+   "preview_kind": "定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.9\\002-Q28-1-10.9-英文-张哲-惠跃-（医生不会告诉你的密码）-aveya棉片+olcg果冻霜-惠跃-0",
+   "sha256": "7793e39856cdf18f555095c34a57bb65b41873b27d366c5216a24138436d0602",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "核对JSON哈希",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q28-1文案（医生不会告诉你的密码）-aveya棉片+olcg果冻霜.docx",
+    "lines": [
+     "Secrets even doctors",
+     "won't tell you!!!",
+     "1.Sex",
+     "14 times a week",
+     "(makes you look and",
+     "feel younger)",
+     "2.Insomnia",
+     "Take Vitamin B2",
+     "(fall asleep",
+     "instantly)",
+     "3.Wrinkles:",
+     "Aveya Toner Pads on",
+     "AMZ（erases fine lines",
+     "like magic in 7 days）",
+     "4.Beef",
+     "Women should eat",
+     "more (and don't donate",
+     "blood,or it makes",
+     "getting pregnant",
+     "harder)",
+     "5. brightening",
+     "Amazon's OLCG",
+     "Jelly Cream (One week",
+     "one degree whiter skin)",
+     "6.Odordownthere",
+     "Pure cranberry juice",
+     "(can balance your",
+     "pH and make your",
+     "lower area smell",
+     "like candy)",
+     "医生不会告诉你的秘密！！！",
+     "性生活",
+     "（让你看起来、感觉都更年轻）",
+     "失眠",
+     "每周服用维生素 B2 14 次",
+     "（让你瞬间入睡）",
+     "皱纹：",
+     "AMZ 上的 Aveya",
+     "棉片（7 天内如魔法般抚平细纹）",
+     "牛肉",
+     "女性应该多吃",
+     "（也别献血，不然会更难怀孕）",
+     "亮白",
+     "Amazon OLCG Jelly Cream",
+     "焕亮功效（一周内肌肤白度提升一度）",
+     "私处异味",
+     "纯蔓越莓汁",
+     "（可以平衡 pH 值，让私处闻起来像糖果一样甜）"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.9\\002-Q28-1-10.9-英文-张哲-惠跃-（医生不会告诉你的密码）-aveya棉片+olcg果冻霜-惠跃-0"
    }
   },
   "Q29": {
