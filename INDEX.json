@@ -1,5 +1,5 @@
 {
- "built": "2026-10-09T10:52:11",
+ "built": "2026-10-09T10:55:49",
  "scope": [
   "10.7",
   "10.8",
@@ -956,6 +956,63 @@
      "坚持使用，腿毛就会脱落。"
     ],
     "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.8\\005-Q32-10.8-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-aveya棉片-惠跃-"
+   }
+  },
+  "Q33": {
+   "code": "Q33",
+   "pkg_code": "Q33",
+   "aliases": [],
+   "dates": [
+    "10.9"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.9\\001-Q33-10.9-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG果冻霜-惠跃-0"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.9\\001-Q33-10.9-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG果冻霜-惠跃-0\\字幕夹\\Q33_用户定版原图.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33.png",
+   "layer_rel": "定版/Q33.png",
+   "preview_rel": "定版/Q33_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33_预览.png",
+   "preview_kind": "定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.9\\001-Q33-10.9-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG果冻霜-惠跃-0",
+   "sha256": "0564814f8ecf80c605d98b41e222c2dcb36d8f093bff18f1ed8ba0d261ef2a74",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "核对JSON哈希",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q33_中英文文案.txt",
+    "lines": [
+     "Secrets even doctors won't tell you",
+     "1.Back pain    Vitamin D - Pain gone instantly.",
+     "2.Gout    Vitamin D1 - Cured right away.",
+     "3.Insomnia    Vitamin B2 - Sleepy at once.",
+     "4. Wrinkles:",
+     "Aveya Toner Pads on Amazon",
+     "erases fine lines like magic in 7 days.",
+     "5.Grey hair    Vitamin H - Turns black without dye.",
+     "6. brightening:",
+     "OLCG Jelly Cream from Amazon",
+     "(One week, one degree whiter skin)",
+     "中文对照",
+     "连医生都不会告诉你的秘密",
+     "1. 背痛：维生素 D——疼痛立刻消失。",
+     "2. 痛风：维生素 D1——立即治好。",
+     "3. 失眠：维生素 B2——立刻犯困。",
+     "4. 皱纹：",
+     "亚马逊上的 Aveya 爽肤棉片",
+     "7 天内像魔法一样消除细纹。",
+     "5. 白发：维生素 H——不用染发也能变黑。",
+     "6. 提亮：",
+     "来自亚马逊的 OLCG 果冻霜",
+     "（一周，肤色白一个度）"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.9\\001-Q33-10.9-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG果冻霜-惠跃-0"
    }
   }
  }
