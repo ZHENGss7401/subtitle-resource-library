@@ -1,10 +1,11 @@
 {
- "built": "2026-10-09T14:34:04+08:00",
+ "built": "2026-10-12T10:27:15",
  "scope": [
   "10.7",
   "10.8",
   "9月/国庆五日视频",
-  "10.9"
+  "10.9",
+  "10.12"
  ],
  "versions": {
   "B14-3": {
@@ -1081,6 +1082,54 @@
     ],
     "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.9\\006-B14-4-10.9-英文-张哲-惠跃-（婚礼改版）-AVEYA棉片+OLCG果冻霜-惠跃-20",
     "download_rel": "文案/B14-4文案（婚礼改版）.docx"
+   }
+  },
+  "Q34": {
+   "code": "Q34",
+   "pkg_code": "Q34",
+   "aliases": [],
+   "dates": [
+    "10.12"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.12\\001-Q34-10.12-字幕定版"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.12\\001-Q34-10.12-字幕定版\\字幕夹\\Q34_用户定版字幕.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q34.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q34.png",
+   "layer_rel": "定版/Q34.png",
+   "preview_rel": "定版/Q34_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q34_预览.png",
+   "preview_kind": "定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.12\\001-Q34-10.12-字幕定版",
+   "sha256": "9c04cfc0ec2bb44cd5c8822be71d56bb91759f0bf36b579e884bcef682cb956d",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "核对JSON哈希",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q34_中英文文案.txt",
+    "lines": [
+     "Give head: ARE YOU MAKING THESE MISTAKES?",
+     "口交时：你是不是在犯这些错误？",
+     "1. Give head? Don’t brush first. Bleeding gums or mouth sores? Put oral sex on pause. Wait until healed. Use mouthwash instead.",
+     "1. 要口交？先别刷牙。牙龈出血或口腔溃疡？先暂停口交，等痊愈后再进行。改用漱口水。",
+     "2. Don’t skip protection. Gonorrhea and herpes can still spread. Use a condom or dental dam. Don’t take shortcuts.",
+     "2. 不要省略防护。淋病和疱疹仍可能传播。使用安全套或口交膜。别图省事。",
+     "3. Fine lines up close? Aveya Toner Pads on Amazon erases fine lines like magic in 7 days.",
+     "3. 近看有细纹？亚马逊上的 Aveya 爽肤棉片，7 天内像魔法一样抹去细纹。",
+     "4. Give head over? Pay attention. Rinse your mouth with water. A sore throat or mouth sores? Don’t brush them off. See a healthcare provider.",
+     "4. 口交结束了？留意身体情况。用清水漱口。喉咙痛或口腔溃疡？别忽视，去咨询医护人员。",
+     "5. Dull skin before date night? OLCG Jelly cream on Amazon brighten skin tone one shade in one week.",
+     "5. 约会前皮肤暗沉？亚马逊上的 OLCG 果冻霜，一周让肤色提亮一个色号。",
+     "6. Trust isn’t an STI test. Knowing them isn’t enough. Talk about sexual health. Get tested regularly. Low risk doesn’t mean zero.",
+     "6. 信任不能替代性传播感染检测。了解对方还不够。沟通性健康，定期检测。低风险不代表零风险。"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.12\\001-Q34-10.12-字幕定版"
    }
   }
  }
