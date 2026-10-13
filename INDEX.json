@@ -1,5 +1,5 @@
 {
- "built": "2026-10-13T17:00:05",
+ "built": "2026-10-13T17:32:13+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -1508,6 +1508,71 @@
    },
    "source_count": 19,
    "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-\\flow素材\\粉色标题版"
+  },
+  "B14-5": {
+   "code": "B14-5",
+   "pkg_code": "B14-5",
+   "aliases": [],
+   "dates": [
+    "10.13"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\006-B14-5-10.13-英文-张哲-惠跃-（连妇科医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-郑惠跃-26"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\006-B14-5-10.13-英文-张哲-惠跃-（连妇科医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-郑惠跃-26\\字幕夹\\B14-5_定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\B14-5.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\B14-5.png",
+   "layer_rel": "定版/B14-5.png",
+   "preview_rel": "定版/B14-5_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\B14-5_预览.png",
+   "preview_kind": "用户定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\006-B14-5-10.13-英文-张哲-惠跃-（连妇科医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-郑惠跃-26\\字幕夹\\B14-5_定版预览_原图.png",
+   "sha256": "19d07b66d9cf10457f6689deffc996626946c50d887ee628e8ebde27ea1ffe4f",
+   "preview_sha256": "a2102310c837e3153b43d6cdc5cd312faf93c71d766458588bb906a7c68828cf",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "用户明确PNG定版与原文件哈希锁定",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "B14-5-文案（屁股医生-希望更多人能明白）-Aveya 胶原蛋白棉片.docx",
+    "lines": [
+     "文案",
+     "Secrets Even Gynecologists",
+     "Won’t tell you",
+     "1.Pure pineapple juice",
+     "balances your pH so you smell",
+     "like flowers down there!",
+     "2.Always close the lid before flushing",
+     "it sprays bacteria 3 meters up",
+     "3.OLCG Jelly cream on Amazon erases",
+     "Fine lines like magic in 7 days",
+     "4.If your underboob smells like bread,",
+     "that's not sweat — it's fungus.",
+     "5.Aveya Toner Pads on Amazon",
+     "brighten skin tone one shade in one week",
+     "连妇科医生都不会告诉你的秘密",
+     "1.纯菠萝汁",
+     "能平衡你的 pH 值，让你的私处闻起来像花一样香！",
+     "2.冲水前一定要盖上马桶盖",
+     "冲水时，细菌会被喷到 3 米高。",
+     "3.Amazon 上的 OLCG 果冻面霜",
+     "7 天像魔法一样淡化细纹。",
+     "4.如果你的胸下闻起来像面包味，",
+     "那不是汗味——而是真菌。",
+     "5.Amazon 上的 Aveya 爽肤棉",
+     "一周让肤色提亮一个色号。"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\006-B14-5-10.13-英文-张哲-惠跃-（连妇科医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-郑惠跃-26",
+    "download_rel": "文案/B14-5-文案（屁股医生-希望更多人能明白）-Aveya 胶原蛋白棉片.docx"
+   },
+   "source_count": 26,
+   "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\006-B14-5-10.13-英文-张哲-惠跃-（连妇科医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-郑惠跃-26\\flow素材-26",
+   "finished_count": 26,
+   "finished_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\1. 成品入口\\10.13\\006-B14-5-10.13-英文-张哲-惠跃-（连妇科医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-郑惠跃-26"
   }
  }
 }
