@@ -1,5 +1,5 @@
 {
- "built": "2026-10-13T14:49:24",
+ "built": "2026-10-13T15:00:45",
  "scope": [
   "10.7",
   "10.8",
@@ -1209,6 +1209,70 @@
      "6.皮肤暗沉亚马逊购买 Aveya 面部面膜——一周内为肌肤注入如布丁般丰盈的水润滋养"
     ],
     "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q33-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-"
+   }
+  },
+  "Q35": {
+   "code": "Q35",
+   "pkg_code": "Q35",
+   "aliases": [],
+   "dates": [
+    "10.13"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\008-Q35-10.13-英文-惠跃-张哲-（我希望我的患者能早点知道的事）Aveya棉片+OLCG果冻霜-惠跃-"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\008-Q35-10.13-英文-惠跃-张哲-（我希望我的患者能早点知道的事）Aveya棉片+OLCG果冻霜-惠跃-\\字幕夹\\Q35_用户定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q35.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q35.png",
+   "layer_rel": "定版/Q35.png",
+   "preview_rel": "定版/Q35_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q35_预览.png",
+   "preview_kind": "定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\008-Q35-10.13-英文-惠跃-张哲-（我希望我的患者能早点知道的事）Aveya棉片+OLCG果冻霜-惠跃-",
+   "sha256": "7725e7505a254289b2b1b6acb90baaf81357e69713a8019ebbe6a7957c7cc061",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "核对JSON哈希",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q35文案（我希望我的患者能早点知道的事）Aveya棉片+OLCG果冻霜.docx",
+    "lines": [
+     "THINGS I WISH",
+     "MY PATIENTS KNEW EARLIER",
+     "1: Oral $EX is the #1 cause of",
+     "throat cancer",
+     "2: Sleeping for 9h+ increases",
+     "your risks of dementia",
+     "3: Aveya Toner Pads on Amazon",
+     "erases fine lines like magic in 7 days",
+     "4: Hot showers most likely are",
+     "the reason you have bacne",
+     "5: Mouth breathing is the #1",
+     "cause of cavities",
+     "6: OLCG Jelly cream on Amazon",
+     "brighten skin tone one shade in one week",
+     "7: Drinking other drinks instead",
+     "of plain water can cause",
+     "kidney stones",
+     "我希望我的患者能早点知道的事：",
+     "口交是导致咽喉癌的头号原因",
+     "每晚睡眠超过 9 小时",
+     "会增加患痴呆症的风险",
+     "Amazon 上的 Aveya 爽肤棉",
+     "7 天像魔法一样淡化细纹",
+     "热水澡很可能就是",
+     "你背部长痘的原因",
+     "用嘴呼吸是蛀牙的头号原因",
+     "OLCG 亚马逊热销的果冻霜，一周内即可提亮肤色，仅需一个色号",
+     "用其他饮料代替白水",
+     "可能会导致肾结石"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\008-Q35-10.13-英文-惠跃-张哲-（我希望我的患者能早点知道的事）Aveya棉片+OLCG果冻霜-惠跃-",
+    "sha256": "c72ca614ebf645b877ab93b67ef00857121d11191a43f5053be5215930b693ff"
    }
   }
  }
