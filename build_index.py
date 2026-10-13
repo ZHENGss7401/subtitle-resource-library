@@ -625,6 +625,10 @@ def main():
             "copy": copy_of,
         })
 
+    # Registered same-series variants have independent approved PNGs.
+    from registered_variants import collect_registered_variants
+    entries.extend(collect_registered_variants(SEMI, LIB, args.days, read_copy))
+
     if args.backfill:
         n = backfill(entries)
         for e in entries:

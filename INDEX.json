@@ -1,5 +1,5 @@
 {
- "built": "2026-10-13T15:55:55",
+ "built": "2026-10-13T17:00:05",
  "scope": [
   "10.7",
   "10.8",
@@ -1358,6 +1358,156 @@
     "sha256": "63117a94c9d712a7164690d5bbeb2c212fa31c1f17ee5ebbf922a545f0b21e75",
     "download_rel": "文案/Q28-2.docx"
    }
+  },
+  "Q32-1【常规版】": {
+   "code": "Q32-1【常规版】",
+   "series_code": "Q32-1",
+   "variant": "常规版",
+   "pkg_code": "Q32-1",
+   "aliases": [
+    "Q32-1"
+   ],
+   "dates": [
+    "10.13"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-\\字幕夹\\常规版\\Q32-1_常规版_定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q32-1_常规版.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q32-1_常规版.png",
+   "layer_rel": "定版/Q32-1_常规版.png",
+   "preview_rel": "定版/Q32-1_常规版_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q32-1_常规版_预览.png",
+   "preview_kind": "用户定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-\\字幕夹\\常规版\\Q32-1_常规版_定版预览_原图.png",
+   "sha256": "cc655b64a4679dab01c3a82aff664ac87ccd629f44996ba0d3a19c9354bc88a4",
+   "preview_sha256": "84294e4336ab57315116cd2b9ea3f71fb7d6775e73782cc93ba0b7d008ea247b",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "版本记录与用户明确PNG生产定版",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q32-1文案（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片.docx",
+    "lines": [
+     "Secrets even doctors",
+     "won't tell you",
+     "1.Intimacy:",
+     "Every 3 days, stay younger",
+     "2.Quit smoking:",
+     "Use quit aid, quit in 3 days",
+     "3.For Wrinkled face:",
+     "OLCG Jelly cream from AMZ",
+     "(erases fine lines like magic in 7 days)",
+     "4.Small bust:",
+     "Apply onion regularly for fuller shape",
+     "5.  Excess leg hair:",
+     "Salt + lemon juice rub",
+     "hair sheds with consistent use",
+     "6.Brightening",
+     "Aveya Toner Pads on Amazon",
+     "brighten skin tone one shade in one week",
+     "连医生都不会告诉你的秘密",
+     "亲密生活：",
+     "每 3 天一次，让你保持年轻",
+     "戒烟：",
+     "使用戒烟辅助产品，3 天就能戒掉",
+     "脸部皱纹：",
+     "Amazon 上的 OLCG 果冻面霜",
+     "（7 天像魔法一样淡化细纹）",
+     "胸部较小：",
+     "经常涂洋葱，让胸型更丰满",
+     "腿毛过多：",
+     "用盐＋柠檬汁搓揉",
+     "坚持使用，毛发会脱落",
+     "提亮肤色：",
+     "Amazon 上的 Aveya 爽肤棉",
+     "一周让肤色提亮一个色号"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-",
+    "download_rel": "文案/Q32-1文案（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片.docx"
+   },
+   "source_count": 20,
+   "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-\\flow素材\\常规版"
+  },
+  "Q32-1【粉色标题版】": {
+   "code": "Q32-1【粉色标题版】",
+   "series_code": "Q32-1",
+   "variant": "粉色标题版",
+   "pkg_code": "Q32-1",
+   "aliases": [
+    "Q32-1"
+   ],
+   "dates": [
+    "10.13"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-\\字幕夹\\粉色标题版\\Q32-1_粉色标题版_定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q32-1_粉色标题版.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q32-1_粉色标题版.png",
+   "layer_rel": "定版/Q32-1_粉色标题版.png",
+   "preview_rel": "定版/Q32-1_粉色标题版_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q32-1_粉色标题版_预览.png",
+   "preview_kind": "用户定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-\\字幕夹\\粉色标题版\\Q32-1_粉色标题版_定版预览_原图.png",
+   "sha256": "c9556c41ae146873031cc812ab701e367ac04d161d3fcb8a3c2cfefed321d4ea",
+   "preview_sha256": "93bd31fdc05fae8861b6932e41175e228284dedf3391568360ae76dc85ecc7f6",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "版本记录与用户明确PNG生产定版",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q32-1文案（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片.docx",
+    "lines": [
+     "Secrets even doctors",
+     "won't tell you",
+     "1.Intimacy:",
+     "Every 3 days, stay younger",
+     "2.Quit smoking:",
+     "Use quit aid, quit in 3 days",
+     "3.For Wrinkled face:",
+     "OLCG Jelly cream from AMZ",
+     "(erases fine lines like magic in 7 days)",
+     "4.Small bust:",
+     "Apply onion regularly for fuller shape",
+     "5.  Excess leg hair:",
+     "Salt + lemon juice rub",
+     "hair sheds with consistent use",
+     "6.Brightening",
+     "Aveya Toner Pads on Amazon",
+     "brighten skin tone one shade in one week",
+     "连医生都不会告诉你的秘密",
+     "亲密生活：",
+     "每 3 天一次，让你保持年轻",
+     "戒烟：",
+     "使用戒烟辅助产品，3 天就能戒掉",
+     "脸部皱纹：",
+     "Amazon 上的 OLCG 果冻面霜",
+     "（7 天像魔法一样淡化细纹）",
+     "胸部较小：",
+     "经常涂洋葱，让胸型更丰满",
+     "腿毛过多：",
+     "用盐＋柠檬汁搓揉",
+     "坚持使用，毛发会脱落",
+     "提亮肤色：",
+     "Amazon 上的 Aveya 爽肤棉",
+     "一周让肤色提亮一个色号"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-",
+    "download_rel": "文案/Q32-1文案（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片.docx"
+   },
+   "source_count": 19,
+   "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q32-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-\\flow素材\\粉色标题版"
   }
  }
 }
