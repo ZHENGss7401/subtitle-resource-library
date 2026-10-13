@@ -1,11 +1,12 @@
 {
- "built": "2026-10-12T10:27:15",
+ "built": "2026-10-13T14:49:24",
  "scope": [
   "10.7",
   "10.8",
   "9月/国庆五日视频",
   "10.9",
-  "10.12"
+  "10.12",
+  "10.13"
  ],
  "versions": {
   "B14-3": {
@@ -1157,6 +1158,57 @@
     ],
     "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.12\\001-Q34-10.12-字幕定版",
     "sha256": "080059dd4b4b9aa34dbb7ff3e1c1b73f37a94a3e292d87ceefa3efb7904227de"
+   }
+  },
+  "Q33-1": {
+   "code": "Q33-1",
+   "pkg_code": "Q33-1",
+   "aliases": [],
+   "dates": [
+    "10.13"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q33-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q33-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-\\字幕夹\\Q33-1_透明字幕_720x1280.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-1.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-1.png",
+   "layer_rel": "定版/Q33-1.png",
+   "preview_rel": "定版/Q33-1_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-1_预览.png",
+   "preview_kind": "定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q33-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-",
+   "sha256": "c246030ae74b9f47a1d7f57ca323bf08b4749cba13c47aab0c08d24e32f7af24",
+   "size": [
+    720,
+    1280
+   ],
+   "basis": "核对JSON哈希",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q33-1文案（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片.docx",
+    "lines": [
+     "Secrets even doctors won't tell you",
+     "1.Back pain    Vitamin D - Pain gone instantly.",
+     "2.Gout    Vitamin D1 - Cured right away.",
+     "3.Insomnia    Vitamin B2 - Sleepy at once.",
+     "4.Fine lines",
+     "OLCG Collagen Jelly Cream on",
+     "Amazon (erases Fine lines like magic in 7 days)",
+     "5.Grey hair    Vitamin H - Turns black without dye.",
+     "6.Dull Skin Aveya Face Pads From Amazon",
+     "(Hydrates skin like pudding in one week)",
+     "连医生都不会告诉你的秘密",
+     "1. 背痛：维生素 D——疼痛立刻消失。",
+     "2. 痛风：维生素 D1——立即治好。",
+     "3. 失眠：维生素 B2——立刻犯困。",
+     "4. 淡化细纹 | OLCG 胶原蛋白凝胶面霜（在亚马逊热销，7 天内神奇淡化细纹）",
+     "5. 白发：维生素 H——不用染发也能变黑。",
+     "6.皮肤暗沉亚马逊购买 Aveya 面部面膜——一周内为肌肤注入如布丁般丰盈的水润滋养"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\010-Q33-1-10.13-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-惠跃-"
    }
   }
  }
