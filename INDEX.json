@@ -1,12 +1,13 @@
 {
- "built": "2026-10-14T08:52:40",
+ "built": "2026-10-14T16:37:58+08:00",
  "scope": [
   "10.7",
   "10.8",
   "9月/国庆五日视频",
   "10.9",
   "10.12",
-  "10.13"
+  "10.13",
+  "10.14"
  ],
  "versions": {
   "B14-3": {
@@ -1498,6 +1499,75 @@
    "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.13\\006-B14-5-10.13-英文-张哲-惠跃-（连妇科医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-郑惠跃-26\\flow素材-26",
    "finished_count": 26,
    "finished_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\1. 成品入口\\10.13\\006-B14-5-10.13-英文-张哲-惠跃-（连妇科医生都不会告诉你的秘密）-OLCG果冻霜+Aveya棉片-郑惠跃-26"
+  },
+  "Q36": {
+   "code": "Q36",
+   "pkg_code": "Q36",
+   "aliases": [],
+   "dates": [
+    "10.14"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.14\\011-Q36-10.14-英文-（作为妈妈和16年妇科医生坚持的观点）-Aveya棉片+OLCG果冻霜-素材待补齐-0"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.14\\011-Q36-10.14-英文-（作为妈妈和16年妇科医生坚持的观点）-Aveya棉片+OLCG果冻霜-素材待补齐-0\\字幕夹\\Q36_定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q36.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q36.png",
+   "layer_rel": "定版/Q36.png",
+   "preview_rel": "定版/Q36_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q36_预览.png",
+   "preview_kind": "定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.14\\011-Q36-10.14-英文-（作为妈妈和16年妇科医生坚持的观点）-Aveya棉片+OLCG果冻霜-素材待补齐-0\\字幕夹\\Q36_定版预览_原图.png",
+   "sha256": "2b5c82f4570a76d21ed62294733357403fc2d60d360ff509743d46fe1cc2a588",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "核对JSON哈希",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q36文案.docx",
+    "lines": [
+     "Q36文案",
+     "Hills I will die on as a mom",
+     "and gynecologist of 16 years",
+     "If conditions allow, having sex 14 times",
+     "a week can make you feel and look younger.",
+     "No feminine washes or scented soaps",
+     "down there. Water only.",
+     "Aveya Toner Pads on Amazon erases",
+     "fine lines like magic in 7 days",
+     "Wiping front to back is the law for everyone",
+     "in the house.",
+     "Try the viral OLCG Jelly Cream",
+     "on Amazon. Reveal radiant-looking",
+     "skin in 4 days.",
+     "Change pads or tampons every 3-4 hours,",
+     "no matter how light the flow is.",
+     "You can have an STI &amp; still feel fine. 50-70%",
+     "of women with chlamydia or gonorrhoea",
+     "have no symptoms.",
+     "Pure pineapple juice will balance your ph levels",
+     "and make you smell like flowers down there!",
+     "中文对照",
+     "作为一位妈妈，以及有 16 年经验的妇科医生，我坚持的这些观点",
+     "1. 如果条件允许，每周性生活 14 次能让你感觉更年轻，看起来也更年轻。",
+     "2. 私处不用女性清洗液或香皂，只用清水。",
+     "3. Amazon 上的 Aveya 爽肤棉7 天像魔法一样淡化细纹",
+     "4. 从前往后擦拭，是家里每个人都应遵守的规则。",
+     "5.试试这款爆火的OLCG果冻霜在亚马逊平台上。展现出焕亮光彩的4天内改善肌肤状态。",
+     "6. 每 3—4 小时更换卫生巾或卫生棉条，无论经量有多小。",
+     "7. 即使感染性传播疾病（STI），你仍可能感觉一切正常。50%—70% 感染衣原体或淋病的女性没有症状。",
+     "8. 纯菠萝汁能平衡你的 pH 值，让私处闻起来像花一样！"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.14\\011-Q36-10.14-英文-（作为妈妈和16年妇科医生坚持的观点）-Aveya棉片+OLCG果冻霜-素材待补齐-0",
+    "download_rel": "文案/Q36文案.docx"
+   },
+   "source_count": 0,
+   "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.14\\011-Q36-10.14-英文-（作为妈妈和16年妇科医生坚持的观点）-Aveya棉片+OLCG果冻霜-素材待补齐-0\\flow素材-0",
+   "materials_status": "待补齐"
   }
  }
 }
