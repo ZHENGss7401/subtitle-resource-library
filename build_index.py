@@ -44,6 +44,14 @@ VIDEO_EXT = {".mp4", ".mov", ".m4v", ".avi", ".mkv"}
 BACKFILL_NAME = "_字幕定版锁定.json"
 
 
+def retired_codes():
+    path = os.path.join(os.path.dirname(os.path.abspath(__file__)), "retired_versions.json")
+    if not os.path.exists(path):
+        return set()
+    with open(path, encoding="utf-8") as f:
+        return {key.upper() for key in json.load(f)}
+
+
 # ---------- 基础 ----------
 
 def sha256(path):
@@ -557,7 +565,7 @@ def main():
         return 2
 
     print("扫描批次：%s" % "、".join(args.days))
-    versions = collect(args.days)
+    versions = {k: v for k, v in collect(args.days).items() if k.upper() not in retired_codes()}
     if not versions:
         print("STOP 没扫到任何带字幕夹的包", file=sys.stderr)
         return 2
@@ -572,6 +580,8 @@ def main():
             problems.append((pkg_code, basis))
             continue
         code = code_from_file(os.path.basename(c["path"])) or pkg_code
+        if code.upper() in retired_codes():
+            continue
         if code in used:                       # 撞号就退回包名，别让两张字幕同名
             code = pkg_code
         used.add(code)
