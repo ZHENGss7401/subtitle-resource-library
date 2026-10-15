@@ -1,5 +1,5 @@
 {
- "built": "2026-10-15T14:42:58+08:00",
+ "built": "2026-10-15T15:06:00+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -1517,14 +1517,14 @@
    "layer_rel": "定版/Q35-1.png",
    "preview_rel": "定版/Q35-1_预览.png",
    "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q35-1_预览.png",
-   "preview_kind": "定版预览",
-   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.15\\001-Q35-1（优化版）-10.15-英文-惠跃-惠跃-（我希望我的患者能早点知道的事）Aveya棉片+OLCG果冻霜-郑雅斯-25\\字幕夹\\Q35-1_定版预览_原图.png",
-   "sha256": "5489baec7ce01615a053d5ee9feb2cbc8ab724b6f02ec27d8058e106ed7b9003",
+   "preview_kind": "新定版实际成品帧",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\1. 成品入口\\10.15\\001-Q35-1（优化版）-10.15-英文-惠跃-张哲-（我希望我的患者能早点知道的事）Aveya棉片+OLCG果冻霜-郑雅斯-25\\待定\\_实际成品预览.png",
+   "sha256": "3cfac0a7c0ddcf5958f18e53ffa6ef349ec461ebadc5fbf7d7415efa28bf2476",
    "size": [
     941,
     1672
    ],
-   "basis": "用户明确PNG定版及核对JSON哈希",
+   "basis": "2026-10-15用户指定附件新定版，原样保存",
    "confidence": "已证实",
    "contested": false,
    "discarded": [],
