@@ -1,5 +1,5 @@
 {
- "built": "2026-10-16T16:39:59",
+ "built": "2026-10-17T12:12:16+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -9,7 +9,8 @@
   "10.13",
   "10.14",
   "10.15",
-  "10.16"
+  "10.16",
+  "10.17"
  ],
  "versions": {
   "B14-3": {
@@ -1775,6 +1776,62 @@
    "source_count": 0,
    "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.14\\011-Q36-10.14-英文-（作为妈妈和16年妇科医生坚持的观点）-Aveya棉片+OLCG果冻霜-素材待补齐-0\\flow素材-0",
    "materials_status": "待补齐"
+  },
+  "Q13": {
+   "code": "Q13",
+   "pkg_code": "Q13",
+   "aliases": [],
+   "dates": [
+    "10.17"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2\\字幕夹\\Q13_定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q13.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q13.png",
+   "layer_rel": "定版/Q13.png",
+   "preview_rel": "定版/Q13_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q13_预览.png",
+   "preview_kind": "用户定版预览原图",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2\\字幕夹\\Q13_定版预览_原图.png",
+   "sha256": "586bfd0b10ad6f67c78df77a358ae4fd009993dd493543f7619e34450c19cb06",
+   "preview_sha256": "cda5ac0f3cac4faa4f7f0deb9db7344e3e61ca4aaef2a9f6dbfdafeeb5dc0249",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "用户本次明确PNG定版及生产交付记录，原文件哈希锁定",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "approval_record_rel": "定版/Q13_定版记录.json",
+   "copy": {
+    "source": "用户定版预览图可见文案（末句按原图保留）",
+    "lines": [
+     "Ladies, AVOID these things if you want to",
+     "look younger!!(From a Dermatologist)",
+     "1.Foot care:",
+     "If you want soft and pretty feet, sleep",
+     "with baby oil and socks",
+     "2.Body skin resurfacing:",
+     "Add a few drops of glycolic acid to your",
+     "shower gel to soften textured skin, fade",
+     "darkspots, and prevent body acne",
+     "3. Wrinkles:",
+     "Aveya Toner Pads on Amazon",
+     "erases fine lines like magic in 7 days.",
+     "4. For dark spots and dull skin:",
+     "Try OLCG Jelly Cream from Amazon",
+     "(brightens the look of skin for a",
+     "more even complexion in 7 days)",
+     "5. Sensitive skin cleansing:",
+     "Dove micellar is fragrance free.",
+     "It can be paired with any routine",
+     "and can be used on your 😻"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2"
+   }
   }
  }
 }
