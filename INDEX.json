@@ -1,5 +1,5 @@
 {
- "built": "2026-10-17T16:01:37+08:00",
+ "built": "2026-10-17T16:42:56+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -272,6 +272,62 @@
      "• 涂口红前先涂润唇膏,能让唇部保持顺滑。"
     ],
     "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.7\\006-Q01-10.07-英文-张哲-惠跃（每个女孩都应该知道的事）-Aveya 胶原蛋白棉片-惠跃-郑雅斯-20"
+   }
+  },
+  "Q13": {
+   "code": "Q13",
+   "pkg_code": "Q13",
+   "aliases": [],
+   "dates": [
+    "10.17"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2\\字幕夹\\Q13_定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q13.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q13.png",
+   "layer_rel": "定版/Q13.png",
+   "preview_rel": "定版/Q13_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q13_预览.png",
+   "preview_kind": "用户定版预览原图",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2\\字幕夹\\Q13_定版预览_原图.png",
+   "sha256": "586bfd0b10ad6f67c78df77a358ae4fd009993dd493543f7619e34450c19cb06",
+   "preview_sha256": "cda5ac0f3cac4faa4f7f0deb9db7344e3e61ca4aaef2a9f6dbfdafeeb5dc0249",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "用户本次明确PNG定版及生产交付记录，原文件哈希锁定",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "approval_record_rel": "定版/Q13_定版记录.json",
+   "copy": {
+    "source": "用户定版预览图可见文案（末句按原图保留）",
+    "lines": [
+     "Ladies, AVOID these things if you want to",
+     "look younger!!(From a Dermatologist)",
+     "1.Foot care:",
+     "If you want soft and pretty feet, sleep",
+     "with baby oil and socks",
+     "2.Body skin resurfacing:",
+     "Add a few drops of glycolic acid to your",
+     "shower gel to soften textured skin, fade",
+     "darkspots, and prevent body acne",
+     "3. Wrinkles:",
+     "Aveya Toner Pads on Amazon",
+     "erases fine lines like magic in 7 days.",
+     "4. For dark spots and dull skin:",
+     "Try OLCG Jelly Cream from Amazon",
+     "(brightens the look of skin for a",
+     "more even complexion in 7 days)",
+     "5. Sensitive skin cleansing:",
+     "Dove micellar is fragrance free.",
+     "It can be paired with any routine",
+     "and can be used on your 😻"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2"
    }
   },
   "Q25": {
@@ -1777,62 +1833,6 @@
    "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.14\\011-Q36-10.14-英文-（作为妈妈和16年妇科医生坚持的观点）-Aveya棉片+OLCG果冻霜-素材待补齐-0\\flow素材-0",
    "materials_status": "待补齐"
   },
-  "Q13": {
-   "code": "Q13",
-   "pkg_code": "Q13",
-   "aliases": [],
-   "dates": [
-    "10.17"
-   ],
-   "src_packages": [
-    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2"
-   ],
-   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2\\字幕夹\\Q13_定版字幕_原尺寸.png",
-   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q13.png",
-   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q13.png",
-   "layer_rel": "定版/Q13.png",
-   "preview_rel": "定版/Q13_预览.png",
-   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q13_预览.png",
-   "preview_kind": "用户定版预览原图",
-   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2\\字幕夹\\Q13_定版预览_原图.png",
-   "sha256": "586bfd0b10ad6f67c78df77a358ae4fd009993dd493543f7619e34450c19cb06",
-   "preview_sha256": "cda5ac0f3cac4faa4f7f0deb9db7344e3e61ca4aaef2a9f6dbfdafeeb5dc0249",
-   "size": [
-    941,
-    1672
-   ],
-   "basis": "用户本次明确PNG定版及生产交付记录，原文件哈希锁定",
-   "confidence": "已证实",
-   "contested": false,
-   "discarded": [],
-   "approval_record_rel": "定版/Q13_定版记录.json",
-   "copy": {
-    "source": "用户定版预览图可见文案（末句按原图保留）",
-    "lines": [
-     "Ladies, AVOID these things if you want to",
-     "look younger!!(From a Dermatologist)",
-     "1.Foot care:",
-     "If you want soft and pretty feet, sleep",
-     "with baby oil and socks",
-     "2.Body skin resurfacing:",
-     "Add a few drops of glycolic acid to your",
-     "shower gel to soften textured skin, fade",
-     "darkspots, and prevent body acne",
-     "3. Wrinkles:",
-     "Aveya Toner Pads on Amazon",
-     "erases fine lines like magic in 7 days.",
-     "4. For dark spots and dull skin:",
-     "Try OLCG Jelly Cream from Amazon",
-     "(brightens the look of skin for a",
-     "more even complexion in 7 days)",
-     "5. Sensitive skin cleansing:",
-     "Dove micellar is fragrance free.",
-     "It can be paired with any routine",
-     "and can be used on your 😻"
-    ],
-    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\10-17-妮姐q13微调包-2"
-   }
-  },
   "Q37": {
    "code": "Q37",
    "pkg_code": "Q37",
@@ -1908,6 +1908,82 @@
     "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\011-Q37-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）Aveya棉片+OLCG牙膏-30"
    },
    "copy_rel": "文案/Q37文案（作为一名从业16年的妇科医生这些观点我会坚持到底）Aveya棉片+OLCG牙膏.docx"
+  },
+  "Q37-1": {
+   "code": "Q37-1",
+   "pkg_code": "Q37-1",
+   "aliases": [],
+   "dates": [
+    "10.17"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\012-Q37-1-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）OLCG牙膏+Aveya棉片-郑雅斯30"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\012-Q37-1-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）OLCG牙膏+Aveya棉片-郑雅斯30\\字幕夹\\Q37-1_定版字幕.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q37-1.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q37-1.png",
+   "layer_rel": "定版/Q37-1.png",
+   "preview_rel": "定版/Q37-1_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q37-1_预览.png",
+   "preview_kind": "用户定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\012-Q37-1-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）OLCG牙膏+Aveya棉片-郑雅斯30\\字幕夹\\Q37-1_定版预览.png",
+   "sha256": "77f8480965a6d6760f9c97fa77e8422164d935f73115e0e7a53d53f0f97efedc",
+   "preview_sha256": "3ec047b1836912e2fc31f3d58fd394b81fe090e8eee289f20ddb4535ad2c0db5",
+   "size": [
+    941,
+    1671
+   ],
+   "basis": "用户明确确认：定版为q37-1字幕png成功；半成品定版核对与成品30条验收哈希一致",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q37-1文案（作为一名从业16年的妇科医生这些观点我会坚持到底）OLCG牙膏 +Aveya棉片.docx",
+    "lines": [
+     "Hills I will die on as a",
+     "gynecologist of 16 years",
+     "1) Try not to let your partner go in",
+     "from behind, it's bad for your uterus",
+     "2) Always close the lid before flushing,",
+     "and always wipe front to back after",
+     "peeing or pooping",
+     "3) Amazon's OLCG Whitening Toothpaste",
+     "can make teeth pearly white in 7 days",
+     "4) sitting on the toilet for too long can",
+     "lead to colorectal cancer",
+     "5) Many people experience sudden crying",
+     "or nausea when their nipples are touched,",
+     "regardless of gender",
+     "6) Aveya Toner Pads from Amazon",
+     "can activate the skin-brightening switch",
+     "make your skin one shade brighter in",
+     "just one week",
+     "7) Your period makes your poop looser",
+     "or more frequent. Blame prostaglandins",
+     "8) Pineapple making you &quot;taste better&quot;? No",
+     "strong evidence. No harm in trying either.",
+     "作为一名从业 16 年的妇科医生，",
+     "这些观点我会坚持到底：",
+     "尽量别让伴侣从后面进入，",
+     "这对你的子宫不好。",
+     "冲水前一定要盖上马桶盖；",
+     "无论小便还是大便后，都要从前往后擦。",
+     "亚马逊的 OLCG 美白牙膏可在7天内让您的牙齿变得洁白如珍珠。",
+     "在马桶上坐太久",
+     "可能会导致结直肠癌。",
+     "不分性别，很多人在乳头被触碰时",
+     "会突然想哭或感到恶心。",
+     "从亚马逊购买的 Aveya 提亮面膜",
+     "可激活肌肤亮白机制，",
+     "让您在短短一周内肌肤亮度提升一个色阶。",
+     "月经会让你的排便更软、次数更多。",
+     "怪前列腺素就对了。",
+     "菠萝会让你“味道更好”？",
+     "没有强有力的证据；但试试也无妨。"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\012-Q37-1-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）OLCG牙膏+Aveya棉片-郑雅斯30",
+    "download_rel": "文案/Q37-1文案（作为一名从业16年的妇科医生这些观点我会坚持到底）OLCG牙膏 +Aveya棉片.docx"
+   }
   }
  }
 }
