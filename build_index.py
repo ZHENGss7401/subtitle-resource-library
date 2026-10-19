@@ -499,6 +499,12 @@ def find(code, index_path):
         return 1
     for v in hits:
         print("版本  : %s" % v["code"])
+        try:
+            from author_registry import require_author
+            author = require_author(v["code"], v["sha256"], os.path.dirname(index_path))
+            print("作者  : %s（惠跃主人已确认）" % author["author"])
+        except Exception:
+            print("作者  : 待确认；请询问惠跃主人这个新版的作者是谁，并在看板确定后再出包")
         if v.get("aliases"):
             print("别名  : %s（半成品包名里的编号，也认）" % "、".join(v["aliases"]))
         print("定版  : %s" % v["definitive_abs"])

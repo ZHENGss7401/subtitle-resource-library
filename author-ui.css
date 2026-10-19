@@ -1,0 +1,20 @@
+.author-badge{font-size:15px;font-weight:700;line-height:1.5;padding:9px 10px;margin:-9px -11px 10px;overflow-wrap:anywhere;border-bottom:2px solid currentColor}
+.author-badge.confirmed{color:var(--peng);background:color-mix(in srgb,var(--peng) 12%,var(--surface))}
+.author-badge.pending{color:var(--li);background:color-mix(in srgb,var(--li) 10%,var(--surface))}
+.author-guide{padding:12px 16px;margin-bottom:16px;border-left:4px solid var(--peng);background:var(--surface);color:var(--ink2);font-size:14px}
+.author-panel{padding:14px 18px;border-bottom:2px solid var(--peng);background:color-mix(in srgb,var(--peng) 9%,var(--surface));overflow-wrap:anywhere;overflow-y:auto;flex:0 1 auto;min-height:125px}
+.author-panel strong{font-size:21px;color:var(--peng)}
+.author-panel p{font-size:12px;margin:6px 0;color:var(--ink2)}
+.author-panel button{padding:7px 12px;border:1px solid var(--peng);border-radius:4px;background:var(--surface);color:var(--ink);cursor:pointer;font:inherit;font-size:13px;margin:4px 6px 4px 0}
+.author-panel button:disabled{opacity:.5;cursor:wait}
+.author-panel label{display:block;font-size:13px;margin-top:8px}
+.author-panel input{display:block;width:100%;padding:9px;border:1px solid var(--peng);border-radius:4px;background:var(--surface);color:var(--ink);font:inherit}
+.author-panel #author-save{background:var(--peng);color:var(--bg);font-weight:700}
+.author-panel [hidden]{display:none!important}
+@media(max-width:900px){
+  .floatwrap{justify-content:flex-start}
+  .fcard.pic,.fcard.copy{flex:0 0 auto}
+  .fcard.copy{max-height:none}
+  .fcard.copy .txt{flex:0 1 auto;max-height:35vh}
+  .author-panel{flex-shrink:0;overflow:visible}
+}
