@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 10,
+  "revision": 11,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -11,7 +11,26 @@
       "status": "confirmed",
       "confirmed_at": "2026-10-20T01:49:31.120Z",
       "confirmation_source": "当前会话用户明确指定：作者郑惠跃，文案惠跃、美工郑雅斯"
+    },
+    "Q20-2@b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598": {
+      "code": "Q20-2",
+      "sha256": "b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T04:22:27.879Z",
+      "confirmation_source": "当前会话用户明确指定：作者张哲，入资源库，上线看板"
     }
   },
-  "history": []
+  "history": [
+    {
+      "code": "Q20-2",
+      "sha256": "b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T04:22:27.879Z",
+      "confirmation_source": "当前会话用户明确指定：作者张哲，入资源库，上线看板",
+      "action": "confirm",
+      "revision": 11
+    }
+  ]
 }

@@ -1,0 +1,16 @@
+{
+  "status": "PNG字幕已获用户明确生产定版",
+  "approval": "当前会话用户明确确认：定版为q20-2的png字幕成功；作者张哲，入资源库，上线看板。附件PNG按原始字节锁定。",
+  "sha256": "b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598",
+  "preview_sha256": "e9823df72a389fd624ef5e7057b799d00ba1a66097c58dac31841041001de779",
+  "author": {
+    "code": "Q20-2",
+    "sha256": "b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598",
+    "author": "张哲",
+    "status": "confirmed",
+    "confirmed_at": "2026-10-20T04:22:27.879Z",
+    "confirmation_source": "当前会话用户明确指定：作者张哲，入资源库，上线看板"
+  },
+  "source": "C:/Users/111/.codex/generated_images/01a15780-c5f9-7130-8bc0-cc76907e3b7f/exec-b61a484e-3431-4f6a-8451-cf8e34f4518e.png",
+  "confirmed_at": "2026-10-20T04:22:27.879Z"
+}
