@@ -1,5 +1,5 @@
 {
- "built": "2026-10-20T12:32:57",
+ "built": "2026-10-20T12:38:36",
  "scope": [
   "10.7",
   "10.8",
@@ -2297,7 +2297,8 @@
     ],
     "pkg": "C:\\Users\\111\\.codex\\generated_images\\01a15773-9bd2-7ef1-9be7-628eee90e6f7\\A311",
     "download_rel": "文案/A311_文案.txt"
-   }
+   },
+   "author": "郑惠跃"
   }
  }
 }

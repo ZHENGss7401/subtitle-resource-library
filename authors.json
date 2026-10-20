@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 11,
+  "revision": 12,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -19,6 +19,14 @@
       "status": "confirmed",
       "confirmed_at": "2026-10-20T04:22:27.879Z",
       "confirmation_source": "当前会话用户明确指定：作者张哲，入资源库，上线看板"
+    },
+    "A311@5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b": {
+      "code": "A311",
+      "sha256": "5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T04:38:36+00:00",
+      "confirmation_source": "本会话用户明确指定：作者郑惠跃"
     }
   },
   "history": [
@@ -31,6 +39,16 @@
       "confirmation_source": "当前会话用户明确指定：作者张哲，入资源库，上线看板",
       "action": "confirm",
       "revision": 11
+    },
+    {
+      "code": "A311",
+      "sha256": "5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T04:38:36+00:00",
+      "confirmation_source": "本会话用户明确指定：作者郑惠跃",
+      "action": "confirm",
+      "revision": 12
     }
   ]
 }
