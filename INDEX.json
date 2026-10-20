@@ -1,5 +1,5 @@
 {
- "built": "2026-10-20T10:28:02+08:00",
+ "built": "2026-10-20T10:40:25+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -2133,15 +2133,15 @@
    "layer_rel": "定版/Q20-1.png",
    "preview_rel": "定版/Q20-1_预览.png",
    "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q20-1_预览.png",
-   "preview_kind": "用户指定成品首帧定版预览",
+   "preview_kind": "用户指定：最新定版字幕套Flow样片首帧",
    "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\每日爆款成品整理\\10-20-q20-1\\字幕夹\\Q20-1_定版预览.png",
-   "sha256": "7f2e9b0088f9e6fe7ac7e263235a24f3fc8b7a04fa524d6541e0d7efb9912244",
-   "preview_sha256": "194772e5584fab921e19807009fd4eefed2b83a9e831b99f3327c06a0ca1d94c",
+   "sha256": "c2aca48f11192f8b2de814819f46d743a869d2adb1246cf6ce74152013d90358",
+   "preview_sha256": "ebedaafcfa0ac7497d001e70615378ec345a8187de0990761940f5c854cc7a81",
    "size": [
     941,
     1672
    ],
-   "basis": "用户指定20261020-094507.mp4首帧为Q20-1定版预览，并明确要求使用imagegen制作PNG字幕并入库看板；用户本轮明确指定exec-2f238df1-67db-426c-b0d0-44eea22eb6e4.png为Q20-1定版字幕PNG成功，并授权入库上线看板；该指定文件原样保存，不作任何修改。",
+   "basis": "q20-1的png字幕定版换为这个；随便找个flow素材套上，出来的首帧图为最新的定版预览图；指定PNG原样保存，旧版归档；Flow样片全解码通过。",
    "confidence": "已证实",
    "contested": false,
    "discarded": [],
@@ -2172,7 +2172,8 @@
      "sex(easy to be gossiped about)"
     ],
     "package": "10-20-q20-1"
-   }
+   },
+   "preview_flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.20\\001-A308-10.20-西班牙语-郑惠跃-惠跃-（连医生都不会告诉你的秘密）-Aveya爽肤棉片-郑雅斯-27\\flow素材-27\\001.mp4"
   }
  }
 }
