@@ -1,5 +1,5 @@
 {
- "built": "2026-10-20T04:22:27.879Z",
+ "built": "2026-10-20T12:32:57",
  "scope": [
   "10.7",
   "10.8",
@@ -2232,6 +2232,72 @@
     "download_rel": "文案/Q20-2_文案.txt"
    },
    "author": "张哲"
+  },
+  "A311": {
+   "code": "A311",
+   "pkg_code": "A311",
+   "aliases": [],
+   "dates": [
+    "10.20"
+   ],
+   "src_packages": [
+    "C:\\Users\\111\\.codex\\generated_images\\01a15773-9bd2-7ef1-9be7-628eee90e6f7\\A311"
+   ],
+   "src_file": "C:\\Users\\111\\.codex\\generated_images\\01a15773-9bd2-7ef1-9be7-628eee90e6f7\\A311\\A311.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A311.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A311.png",
+   "layer_rel": "定版/A311.png",
+   "preview_rel": "定版/A311_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A311_预览.png",
+   "preview_kind": "用户定版预览",
+   "preview_from": "C:\\Users\\111\\.codex\\generated_images\\01a15773-9bd2-7ef1-9be7-628eee90e6f7\\A311\\agent夹\\A311_用户定版预览.png",
+   "sha256": "5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b",
+   "preview_sha256": "06e818f7d6df13534426b619ae0c45b952a47a6e4b167454475da82d0d163958",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "本会话用户明确确认A311字幕PNG定版并授权入库更新看板",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "A311_文案.txt",
+    "lines": [
+     "THINGS I WISH",
+     "MY PATIENTS KNEW EARLIER",
+     "",
+     "1. $ex between spouses:",
+     "Hard to reach orgasm",
+     "(Maybe you’re not compatible)",
+     "",
+     "2. Small breasts:",
+     "Do not wear bras to bed",
+     "(It can damage breast tissue",
+     "and reduce growth)",
+     "",
+     "3. Wrinkles:",
+     "Aveya Toner Pads on Amazon",
+     "(erases fine lines like magic in 7 days)",
+     "",
+     "4. Snoring:",
+     "Vitamin C",
+     "(Snoring disappears right away)",
+     "",
+     "5. Dull Skin:",
+     "OLCG Collagen Jelly Cream on Amazon",
+     "(Hydrates skin like pudding in just one week)",
+     "",
+     "6. Period Cramps:",
+     "Hot water + one orange is enough.",
+     "Every Advil is pushing you toward ovarian failure.",
+     "",
+     "7. Eating eggs and onions",
+     "(Highly poisonous, dangerous)"
+    ],
+    "pkg": "C:\\Users\\111\\.codex\\generated_images\\01a15773-9bd2-7ef1-9be7-628eee90e6f7\\A311",
+    "download_rel": "文案/A311_文案.txt"
+   }
   }
  }
 }
