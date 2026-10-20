@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 13,
+  "revision": 16,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -37,6 +37,14 @@
       "status": "confirmed",
       "confirmed_at": "2026-10-20T16:43:14.792811+08:00",
       "confirmation_source": "当前会话用户回复“是的”，确认作者张哲／文案惠跃／美工郑雅斯"
+    },
+    "A310@2433eac6cf90eb027529a9dea223442e5536b5181766b7ba7cbfa81ca051e55a": {
+      "code": "A310",
+      "sha256": "2433eac6cf90eb027529a9dea223442e5536b5181766b7ba7cbfa81ca051e55a",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T08:51:56.091Z",
+      "confirmation_source": "本会话用户明确指定：A310定版png字幕成功，入资源库，上线看板，作者郑惠跃"
     }
   },
   "history": [

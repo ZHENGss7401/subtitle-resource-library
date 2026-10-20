@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-20T16:46:29",
+  "built": "2026-10-20T08:52:45.714Z",
   "scope": [
     "10.7",
     "10.8",
@@ -2357,6 +2357,60 @@
       "artist": "郑雅斯",
       "source_count": 24,
       "delivery_count": 24
+    },
+    "A310": {
+      "code": "A310",
+      "pkg_code": "A310",
+      "aliases": [],
+      "dates": [
+        "10.20"
+      ],
+      "src_packages": [
+        "C:/Users/111/.codex/generated_images/01a15875-ba2b-7e53-aa1b-09cb6f1a954c/A310"
+      ],
+      "src_file": "C:/Users/111/.codex/generated_images/01a15875-ba2b-7e53-aa1b-09cb6f1a954c/A310/A310_透明字幕_941x1672_待校对.png",
+      "definitive": "Y:/足贴视频素材/BOREAC淋巴滴剂/0. 字幕资源库/定版/A310.png",
+      "definitive_abs": "Y:/足贴视频素材/BOREAC淋巴滴剂/0. 字幕资源库/定版/A310.png",
+      "layer_rel": "定版/A310.png",
+      "preview_rel": "定版/A310_预览.png",
+      "preview_abs": "Y:/足贴视频素材/BOREAC淋巴滴剂/0. 字幕资源库/定版/A310_预览.png",
+      "preview_kind": "用户定版预览",
+      "preview_from": "C:/Users/111/.codex/generated_images/01a15875-ba2b-7e53-aa1b-09cb6f1a954c/A310/A310_定版预览.png",
+      "sha256": "2433eac6cf90eb027529a9dea223442e5536b5181766b7ba7cbfa81ca051e55a",
+      "preview_sha256": "0462e0366f227e9ddcf46ad473ff6a3a8ed87caf695f4f5b498ec31335fe3a0c",
+      "size": [
+        941,
+        1672
+      ],
+      "basis": "本会话用户明确确认：A310定版png字幕成功，入资源库，上线看板；作者郑惠跃",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "copy": {
+        "source": "A310_文案.txt",
+        "lines": [
+          "I wish more people knew",
+          "",
+          "Teeth should only touch when chewing. Period.",
+          "",
+          "Healthy gums do not bleed. Ever.",
+          "",
+          "Want whiter teeth? OLCG Toothpaste on Amazon",
+          "can brighten your smile in just 7 days.",
+          "",
+          "Don’t brush right after your",
+          "morning oj. Wait 30 minutes then brush.",
+          "",
+          "Daily mouthwash is doing you dirty.",
+          "Switch to a bioavailable calcium one instead.",
+          "",
+          "Your mouth is talking to your heart.",
+          "And brain. Make sure you floss!! It matters."
+        ],
+        "pkg": "C:/Users/111/.codex/generated_images/01a15875-ba2b-7e53-aa1b-09cb6f1a954c/A310",
+        "download_rel": "文案/A310_文案.txt"
+      },
+      "author": "郑惠跃"
     }
   }
 }
