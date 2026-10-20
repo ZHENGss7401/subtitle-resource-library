@@ -1,5 +1,5 @@
 {
- "built": "2026-10-19T15:47:47+08:00",
+ "built": "2026-10-20T10:00:30+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -11,7 +11,8 @@
   "10.15",
   "10.16",
   "10.17",
-  "10.19"
+  "10.19",
+  "10.20"
  ],
  "versions": {
   "B14-3": {
@@ -2043,6 +2044,78 @@
     "download_rel": "文案/A301-1.doc"
    },
    "preview_sha256": "3e2e2de372e4ebe53ca006a4de40176a99f631dc261f30df5c03c0b4a86337e1"
+  },
+  "A308": {
+   "code": "A308",
+   "pkg_code": "A308",
+   "aliases": [],
+   "dates": [
+    "10.20"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.20\\001-A308-惠跃-惠跃-郑雅斯"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.20\\001-A308-惠跃-惠跃-郑雅斯\\字幕夹\\A308_定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A308.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A308.png",
+   "layer_rel": "定版/A308.png",
+   "preview_rel": "定版/A308_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A308_预览.png",
+   "preview_kind": "用户定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.20\\001-A308-惠跃-惠跃-郑雅斯\\字幕夹\\A308_定版预览.png",
+   "sha256": "93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79",
+   "preview_sha256": "8438eed59667d0d32134f9e97e565cab066f9543d80b113bd6b1cf4fda2e2902",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "本会话用户明确确认预览图及指定PNG定版，源文件哈希锁定",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "A308.docx",
+    "lines": [
+     "Secretos que ni los",
+     "médicos te cuentan",
+     "1. Fideos",
+     "Come menos:",
+     "aceleran el",
+     "Envejecimiento",
+     "2. Insomnio:",
+     "Toma vitamina B2",
+     "duerme al instante",
+     "3.Gota",
+     "Toma vitamina B",
+     "cura al instante",
+     "4. Caida del cabello",
+     "La caída del cabello",
+     "uele venir por estrés",
+     "o deficiencias",
+     "alimenticias.",
+     "5. Busto pequeño",
+     "Aplica cebolla",
+     "con frecuencia",
+     "para dar volumen",
+     "6. Wrinkles:",
+     "Aveya Toner",
+     "Pads on Amazon",
+     "(erases fine lines",
+     "like magic in",
+     "7 days)",
+     "1.面条:少吃面条,会加速衰老",
+     "2.失眠:服用维生素B2,能够瞬间入睡",
+     "3.痛风:服用维生素B1,能够立即治愈痛风",
+     "4.脱发:通常由压力或营养缺乏引起",
+     "5.胸部偏小:经常涂抹洋葱,可以让胸部变丰满",
+     "6. 皱纹：Amazon 上的 Aveya 爽肤棉片（7 天内像魔法一样抚平细纹）"
+    ],
+    "download_rel": "文案/A308.docx",
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.20\\001-A308-惠跃-惠跃-郑雅斯"
+   },
+   "author": "惠跃",
+   "copywriter": "惠跃",
+   "designer": "郑雅斯"
   }
  }
 }

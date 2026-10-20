@@ -1,6 +1,17 @@
 {
   "schema": 1,
-  "revision": 0,
-  "records": {},
+  "revision": 10,
+  "records": {
+    "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
+      "code": "A308",
+      "sha256": "93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79",
+      "author": "郑惠跃",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T01:49:31.120Z",
+      "confirmation_source": "当前会话用户明确指定：作者郑惠跃，文案惠跃、美工郑雅斯"
+    }
+  },
   "history": []
 }
