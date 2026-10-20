@@ -1,5 +1,5 @@
 {
- "built": "2026-10-20T10:00:30+08:00",
+ "built": "2026-10-20T10:28:02+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -2116,6 +2116,63 @@
    "author": "惠跃",
    "copywriter": "惠跃",
    "designer": "郑雅斯"
+  },
+  "Q20-1": {
+   "code": "Q20-1",
+   "pkg_code": "Q20-1",
+   "aliases": [],
+   "dates": [
+    "10.20"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\每日爆款成品整理\\10-20-q20-1"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\每日爆款成品整理\\10-20-q20-1\\字幕夹\\Q20-1_定版字幕.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q20-1.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q20-1.png",
+   "layer_rel": "定版/Q20-1.png",
+   "preview_rel": "定版/Q20-1_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q20-1_预览.png",
+   "preview_kind": "用户指定成品首帧定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\每日爆款成品整理\\10-20-q20-1\\字幕夹\\Q20-1_定版预览.png",
+   "sha256": "7f2e9b0088f9e6fe7ac7e263235a24f3fc8b7a04fa524d6541e0d7efb9912244",
+   "preview_sha256": "194772e5584fab921e19807009fd4eefed2b83a9e831b99f3327c06a0ca1d94c",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "用户指定20261020-094507.mp4首帧为Q20-1定版预览，并明确要求使用imagegen制作PNG字幕并入库看板；用户本轮明确指定exec-2f238df1-67db-426c-b0d0-44eea22eb6e4.png为Q20-1定版字幕PNG成功，并授权入库上线看板；该指定文件原样保存，不作任何修改。",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q20-1_文案.txt",
+    "lines": [
+     "Both men and women",
+     "should know！！！",
+     "1.Sex:",
+     "Do it in the bathroom(easy to \"",
+     "finish\")",
+     "2. Sleep:",
+     "Put money under your pillow",
+     "(attracts wealth)",
+     "3.Wrinkled face:",
+     "Aveya Collagen Toner Pads",
+     "from AMZ(erases fine lines",
+     "like magic in 3 days)",
+     "4. Phone:",
+     "Tap 3 times(goes to the next",
+     "video)",
+     "5. dull skin:",
+     "Apply a homemade honey and",
+     "lemon mask twice a week",
+     "(naturally brightens skin).",
+     "6. Business trip:",
+     "Go together with the opposite",
+     "sex(easy to be gossiped about)"
+    ],
+    "package": "10-20-q20-1"
+   }
   }
  }
 }
