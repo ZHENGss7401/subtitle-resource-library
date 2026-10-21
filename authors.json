@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 16,
+  "revision": 17,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -45,6 +45,16 @@
       "status": "confirmed",
       "confirmed_at": "2026-10-20T08:51:56.091Z",
       "confirmation_source": "本会话用户明确指定：A310定版png字幕成功，入资源库，上线看板，作者郑惠跃"
+    },
+    "Q24-1@5dc842752cf09df75903d27a16d0b3a49d14df9d42c1c402a4285eee552c9e9d": {
+      "code": "Q24-1",
+      "sha256": "5dc842752cf09df75903d27a16d0b3a49d14df9d42c1c402a4285eee552c9e9d",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-21T10:06:23.003662+08:00",
+      "confirmation_source": "本会话用户明确回复：作者张哲、文案惠跃、美工郑雅斯；并指定本附件为Q24-1定版PNG"
     }
   },
   "history": [
