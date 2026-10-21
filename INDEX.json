@@ -1,5 +1,5 @@
 {
- "built": "2026-10-21T10:08:58+08:00",
+ "built": "2026-10-21T10:38:23+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -266,6 +266,65 @@
     "download_rel": "文案/A311_文案.txt"
    },
    "author": "郑惠跃"
+  },
+  "A313": {
+   "code": "A313",
+   "pkg_code": "A313",
+   "aliases": [],
+   "dates": [
+    "10.21"
+   ],
+   "src_packages": [
+    "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\21\\01a15c47-aaa5-7542-bb58-eddaf7ec8bd0\\A313"
+   ],
+   "src_file": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\21\\01a15c47-aaa5-7542-bb58-eddaf7ec8bd0\\A313\\A313.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A313.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A313.png",
+   "layer_rel": "定版/A313.png",
+   "preview_rel": "定版/A313_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A313_预览.png",
+   "preview_kind": "用户定版预览",
+   "preview_from": "C:\\Users\\111\\AppData\\Local\\Temp\\codex-clipboard-951fcb08-b239-4cbe-9271-1cb6a4e26778.png",
+   "sha256": "6fa3dcd16b5f665c2d712b2853782df99da3ec7c68af5cc424cc26198e31f232",
+   "preview_sha256": "cbcf3ced1ebb8cfa623378f121202e6914bad352afe9e3115e416800ecb59060",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "用户本轮指定 exec-bddef380 附件为A313字幕PNG，授权入库上线看板；原样保留，不清理不重绘",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "A313文案（作为父亲和从业40余年的牙医坚持的原则）-OLCG牙膏.docx",
+    "lines": [
+     "A313｜标红处为修改内容：仅将 Snidin 替换为 OLCG；其余文案与定版图一致。",
+     "Hills I will die on as a dad",
+     "and dentist of 40+ years",
+     "1. No juice in the house. Juice is for special occasions\nonly and water is the default.",
+     "2. Everyone drinks water and swishes after sweets.",
+     "3. No saltines or cheddar bunnies. Ever.",
+     "4. OLCG toothpaste on Amazon erases stains and\nwhitens teeth in 7 days.",
+     "5. Xylitol gum after meals if you're on-the-go and\ncan't brush.",
+     "6. No snacking all day. We eat, then give our teeth a\nbreak.",
+     "7. Toothbrushes should get replaced every 4-6 weeks\nor after being sick.",
+     "8. Sports = wear your Invisalign or mouth guard for\nprotection. No exceptions.",
+     "9. Nobody goes to bed without clean teeth, even\nafter the longest day.",
+     "中文对应文案",
+     "作为一名父亲，以及一名从业 40 多年的牙医，以下是我坚持到底的原则。",
+     "1. 家里不喝果汁。只有特殊场合才喝果汁，平时默认喝水。",
+     "2. 每个人都喝水，吃完甜食后用水漱口。",
+     "3. 不吃苏打饼干，也不吃切达芝士兔子饼干。绝不。",
+     "4. Amazon 上的 OLCG 牙膏可去除牙渍，并在 7 天内美白牙齿。",
+     "5. 饭后如果人在外面、不方便刷牙，就嚼木糖醇口香糖。",
+     "6. 不要一整天都吃零食。吃完一餐，就让牙齿休息。",
+     "7. 牙刷应每 4–6 周更换一次，生病后也要更换。",
+     "8. 运动时戴上 Invisalign 隐形牙套或运动护齿套来保护牙齿。没有例外。",
+     "9. 每个人睡前都必须把牙齿刷干净，即使那天再累、再漫长也一样。"
+    ],
+    "pkg": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\21\\01a15c47-aaa5-7542-bb58-eddaf7ec8bd0\\A313",
+    "download_rel": "文案/A313文案（作为父亲和从业40余年的牙医坚持的原则）-OLCG牙膏.docx"
+   }
   },
   "B14-3": {
    "code": "B14-3",
