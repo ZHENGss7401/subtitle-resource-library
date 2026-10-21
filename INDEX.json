@@ -1,5 +1,5 @@
 {
- "built": "2026-10-21T10:38:23+08:00",
+ "built": "2026-10-21T16:13:15+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -2538,6 +2538,59 @@
     ],
     "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\012-Q37-1-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）OLCG牙膏+Aveya棉片-郑雅斯30",
     "download_rel": "文案/Q37-1文案（作为一名从业16年的妇科医生这些观点我会坚持到底）OLCG牙膏 +Aveya棉片.docx"
+   }
+  },
+  "Q31-1": {
+   "code": "Q31-1",
+   "pkg_code": "Q31-1",
+   "aliases": [],
+   "dates": [
+    "10.21"
+   ],
+   "src_packages": [],
+   "src_file": "C:\\Users\\111\\AppData\\Local\\Temp\\codex-clipboard-d80121a2-fde3-4fc7-a43b-ce0b90d8fc35.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q31-1.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q31-1.png",
+   "layer_rel": "定版/Q31-1.png",
+   "preview_rel": "定版/Q31-1_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q31-1_预览.png",
+   "preview_kind": "用户定版预览",
+   "preview_from": "C:\\Users\\111\\AppData\\Local\\Temp\\codex-clipboard-7c1a673a-6487-4fe1-bbf6-8dc2136c04f1.png",
+   "sha256": "015826b740137209c0bef42fed0358d5a05190948300f396febfd79bb03dd07d",
+   "preview_sha256": "f3f968a22b0049e22de485e24270d52c92f0aaecfdba0f0048852c1e6f00deee",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "用户本轮确认Q31-1 PNG定版成功，授权入库上线看板；附件原样保留",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q31-1_文案.txt",
+    "lines": [
+     "SMALL HABITS THAT",
+     "SLOW AGING (BIG TIME)",
+     "1. Brush your teeth before coffee.",
+     "2. Stop drinking through straws.",
+     "3. Sleep in a cool room.",
+     "4. Add parsley to your meals.",
+     "5. OLCG Whitening Toothpaste",
+     "from Amazon Whitens teeth",
+     "like pearls in 7 days.",
+     "6. Keep your jaw relaxed.",
+     "7. Wear sunglasses in the sun.",
+     "8. Add pumpkin seeds to breakfast.",
+     "9. Don't rub your eyes.",
+     "10. Breathe through your nose.",
+     "11. Eat an apple after lunch.",
+     "12. Take the stairs more often.",
+     "13. Use a tongue scraper.",
+     "14. Stand up every hour.",
+     "15. Finish dinner a little earlier."
+    ],
+    "pkg": "用户本轮定版图片",
+    "download_rel": "文案/Q31-1_文案.txt"
    }
   }
  }
