@@ -645,6 +645,19 @@ def main():
     from registered_variants import collect_registered_variants
     entries.extend(collect_registered_variants(SEMI, LIB, args.days, read_copy))
 
+    # Explicit canonical version registrations survive future library rebuilds.
+    registered_path = os.path.join(LIB, "registered_versions.json")
+    if os.path.exists(registered_path):
+        with open(registered_path, encoding="utf-8-sig") as registered_file:
+            registered = json.load(registered_file).get("versions", {})
+        for canonical in registered.values():
+            if sha256(os.path.join(LIB, canonical["layer_rel"])) != canonical["sha256"]:
+                raise ValueError("Registered canonical PNG hash mismatch")
+            entries = [entry for entry in entries if entry["code"] != canonical["code"]
+                       and not (entry.get("sha256") == canonical["sha256"]
+                                and entry["code"] in canonical.get("aliases", []))]
+            entries.append(canonical)
+
     if args.backfill:
         n = backfill(entries)
         for e in entries:

@@ -1,5 +1,5 @@
 {
- "built": "2026-10-21T16:16:47",
+ "built": "2026-10-22T17:56:54+08:00",
  "scope": [
   "10.7",
   "10.8",
@@ -13,7 +13,8 @@
   "10.17",
   "10.19",
   "10.20",
-  "10.21"
+  "10.21",
+  "10.22"
  ],
  "versions": {
   "A301-1": {
@@ -2663,6 +2664,81 @@
    },
    "source_count": 24,
    "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.21\\004-Q35-3-10.21-英文-张哲-郑惠跃-（我希望我的患者能早点知道的事）OLCG牙膏-Aveya棉片-郑雅斯-24\\flow"
+  },
+  "A195-2": {
+   "code": "A195-2",
+   "pkg_code": "A195-2",
+   "aliases": [
+    "A195"
+   ],
+   "dates": [
+    "10.21",
+    "10.22"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.21\\003-A195-2-10.21-余晓青-张哲-你需要了解的 10 件事-olcg牙膏-40",
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.22\\001- A195-2"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.21\\003-A195-2-10.21-余晓青-张哲-你需要了解的 10 件事-olcg牙膏-40\\字幕夹\\A195_定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A195-2.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A195-2.png",
+   "layer_rel": "定版/A195-2.png",
+   "preview_rel": "定版/A195-2_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A195-2_预览.png",
+   "preview_kind": "实际成品首帧",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\1. 成品入口\\10.22\\001-A195-2-10.22-英文-余晓青-张哲-（你需要了解的10件事）-OLCG牙膏-郑雅斯-80\\agent夹\\_实际成品预览.png",
+   "sha256": "e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a",
+   "preview_sha256": "75c8a4985609f195a1f7353be26c189c939b97db3b09ee18902fda78e8ee5d87",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "2026-10-22用户明确：半成品包内的A195即为A195-2，入库上线看板；原定版PNG原样保留",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "author": "余晓青",
+   "copywriter": "张哲",
+   "designer": "郑雅斯",
+   "copy": {
+    "source": "文案.doc",
+    "lines": [
+     "改了标黄处",
+     "Here are 10 things",
+     "you need to know:",
+     "1. The tongue has a resting position - and it",
+     "should be on the palate.",
+     "2. Mouth breathing is not normal - at any age.",
+     "3. Crooked teeth are often a space problem,",
+     "Not at ooth problem.",
+     "4. Snoring is a red flag-not \"cute\"or",
+     "\"normal.\"",
+     "5.Olcg toothpaste on Amazon erases",
+     "stains and whitens teeth in 7 days",
+     "6. Tongue-tie is not just about speech - it",
+     "affects breathing and growth.",
+     "7. Grinding teeth is often the body trying to",
+     "open the airway.",
+     "8. Lips should be closed at rest - effortlessly.",
+     "9. Poor sleep can look like ADHD, not tiredness.",
+     "10. Function shapes structure-always.",
+     "你需要了解的 10 件事：",
+     "舌头存在静息位 —— 正确位置是贴在上腭。",
+     "口呼吸绝非正常现象，任何年龄段都一样。",
+     "牙齿不齐大多是牙弓空间不足的问题，并非牙齿本身的问题。",
+     "打鼾是危险信号，一点都不可爱，也不属于正常情况。",
+     "亚马逊上的 Aveya 胶原蛋白棉片，7 天就能神奇淡化皱纹。",
+     "舌系带过短不只是影响说话，还会妨碍呼吸与颌面发育。",
+     "磨牙很多时候是身体为了打开气道做出的代偿反应。",
+     "静息状态下嘴唇应当自然闭合，无需刻意用力。",
+     "睡眠差的表现可能类似多动症，而不只是单纯犯困。",
+     "功能决定形态，这是恒定规律。"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.22\\001- A195-2",
+    "download_rel": "文案/A195-2.docx",
+    "original_download_rel": "文案/A195-2_原文案.doc",
+    "note": "原文案原样保留；中文第5条仍为棉片，与定版PNG的OLCG牙膏不同，未擅自修改。"
+   }
   }
  }
 }

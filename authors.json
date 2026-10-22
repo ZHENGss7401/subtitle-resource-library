@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 19,
+  "revision": 20,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -73,6 +73,20 @@
       "status": "confirmed",
       "confirmed_at": "2026-10-21T15:42:31.175495+08:00",
       "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功"
+    },
+    "A195-2@e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a": {
+      "code": "A195-2",
+      "sha256": "e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a",
+      "author": "余晓青",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-21T11:49:25.406651+08:00",
+      "confirmation_source": "本会话惠跃主人明确指定：作者余晓青-文案张哲-美工郑雅斯；2026-10-22用户明确半成品A195即A195-2，编号统一登记",
+      "aliases": [
+        "A195"
+      ],
+      "renamed_at": "2026-10-22T17:56:54+08:00"
     }
   },
   "history": [
@@ -107,6 +121,15 @@
       "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功",
       "action": "confirm",
       "revision": 19
+    },
+    {
+      "action": "rename_code",
+      "code": "A195-2",
+      "previous_code": "A195",
+      "sha256": "e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a",
+      "author": "余晓青",
+      "at": "2026-10-22T17:56:54+08:00",
+      "basis": "2026-10-22用户明确：半成品包内的A195即为A195-2，入库上线看板；原定版PNG原样保留"
     }
   ]
 }
