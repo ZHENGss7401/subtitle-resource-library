@@ -74,6 +74,86 @@
     "original_download_rel": "文案/A195-2_原文案.doc",
     "note": "原文案原样保留；中文第5条仍为棉片，与定版PNG的OLCG牙膏不同，未擅自修改。"
    }
+  },
+  "Q37": {
+   "code": "Q37",
+   "pkg_code": "Q37",
+   "aliases": [],
+   "dates": [
+    "10.17"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\011-Q37-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）Aveya棉片+OLCG牙膏-30"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\011-Q37-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）Aveya棉片+OLCG牙膏-30\\字幕夹\\Q37_定版字幕_原尺寸.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q37.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q37.png",
+   "layer_rel": "定版/Q37.png",
+   "preview_rel": "定版/Q37_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q37_预览.png",
+   "preview_kind": "用户定版预览",
+   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\011-Q37-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）Aveya棉片+OLCG牙膏-30\\字幕夹\\Q37_定版预览_原图.png",
+   "sha256": "fd73750fcb9a8dc039afc274b99e082107f7be86ce7fd3d7827dd48d33e4aa71",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "2026-10-23用户明确：定版为新Q37字幕PNG成功，以本次上传的新版预览图和字幕PNG替换旧版；附件原样锁定",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "Q37文案（作为一名从业16年的妇科医生这些观点我会坚持到底）Aveya棉片+OLCG牙膏.docx",
+    "lines": [
+     "Hills I will die on as a",
+     "gynecologist of 16 years",
+     "1) Try not to let your partner go in",
+     "from behind, it's bad for your uterus",
+     "2) Always close the lid before flushing,",
+     "and always wipe front to back after",
+     "peeing or pooping",
+     "3) Amazon's Aveya Toner Pads",
+     "can magically fade fine lines in 7 days",
+     "4) sitting on the toilet for too long can",
+     "lead to colorectal cancer",
+     "5) Many people experience sudden crying",
+     "or nausea when their nipples are touched,",
+     "regardless of gender",
+     "6) OLCG Whitening Toothpaste from",
+     "AMZ can activate the teeth brightening",
+     "switch, make your teeth pearl-white in",
+     "just one week",
+     "7) Your period makes your poop looser",
+     "or more frequent. Blame prostaglandins",
+     "8) Pineapple making you &quot;taste better&quot;? No",
+     "strong evidence. No harm in trying either.",
+     "作为一名从业 16 年的妇科医生，",
+     "这些观点我会坚持到底：",
+     "尽量别让伴侣从后面进入，",
+     "这对你的子宫不好。",
+     "冲水前一定要盖上马桶盖；",
+     "无论小便还是大便后，都要从前往后擦。",
+     "Amazon 上的 Aveya 爽肤棉",
+     "7 天就能像魔法一样淡化细纹。",
+     "在马桶上坐太久",
+     "可能会导致结直肠癌。",
+     "不分性别，很多人在乳头被触碰时",
+     "会突然想哭或感到恶心。",
+     "来自亚马逊的OLCG 美白牙膏",
+     "可激活牙齿美白开关，",
+     "让您在一周内即可获得珍珠白牙齿。",
+     "月经会让你的排便更软、次数更多。",
+     "怪前列腺素就对了。",
+     "菠萝会让你“味道更好”？",
+     "没有强有力的证据；但试试也无妨。"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.17\\011-Q37-10.17-英文-惠跃-张哲-（作为一名从业16年的妇科医生这些观点我会坚持到底）Aveya棉片+OLCG牙膏-30"
+   },
+   "copy_rel": "文案/Q37文案（作为一名从业16年的妇科医生这些观点我会坚持到底）Aveya棉片+OLCG牙膏.docx",
+   "preview_sha256": "74c622db356db90fb079d0f11424f094b127884de4a77978c46d8fb76d2bb4e8",
+   "updated_at": "2026-10-23T10:08:40+08:00",
+   "author_status": "pending",
+   "author": ""
   }
  }
 }
