@@ -1,0 +1,21 @@
+{
+  "code": "Q35-3",
+  "sha256": "5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619",
+  "approved_at": "2026-10-23T10:11:28+08:00",
+  "source": "用户本次附件",
+  "retired_sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e",
+  "old_png_deleted": true,
+  "author_credit": {
+    "code": "Q35-3",
+    "sha256": "5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619",
+    "author": "张哲",
+    "copywriter": "郑惠跃",
+    "designer": "郑雅斯",
+    "status": "confirmed",
+    "confirmed_at": "2026-10-21T15:42:31.175495+08:00",
+    "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功；2026-10-23同版本删除Whitening并明确批准新PNG，沿用已确认署名",
+    "updated_at": "2026-10-23T10:11:28+08:00",
+    "supersedes_sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e"
+  },
+  "scope": "仅替换定版字幕与预览；历史已交付视频不在本次重制范围"
+}

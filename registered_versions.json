@@ -154,6 +154,82 @@
    "updated_at": "2026-10-23T10:08:40+08:00",
    "author_status": "pending",
    "author": ""
+  },
+  "Q35-3": {
+   "code": "Q35-3",
+   "pkg_code": "Q35-3",
+   "aliases": [],
+   "dates": [
+    "10.21"
+   ],
+   "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.21\\004-Q35-3-10.21-英文-张哲-郑惠跃-（我希望我的患者能早点知道的事）OLCG牙膏-Aveya棉片-郑雅斯-24"
+   ],
+   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q35-3.png",
+   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q35-3.png",
+   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q35-3.png",
+   "layer_rel": "定版/Q35-3.png",
+   "preview_rel": "定版/Q35-3_预览.png",
+   "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q35-3_预览.png",
+   "preview_kind": "用户确认新版定版原图预览",
+   "preview_from": "C:\\Users\\111\\AppData\\Local\\Temp\\codex-clipboard-71b3041f-9cd3-44f1-a564-f934ad6c9733.png",
+   "sha256": "5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619",
+   "preview_sha256": "5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619",
+   "size": [
+    941,
+    1672
+   ],
+   "basis": "2026-10-23惠跃主人明确确认附件为新的Q35-3定版，替换删除旧版；第3条去掉Whitening",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "copy": {
+    "source": "10.21修改-Q35-3文案（我希望我的患者能早点知道的事）OLCG牙膏+Aveya棉片.docx",
+    "lines": [
+     "THINGS I WISH",
+     "MY PATIENTS KNEW EARLIER",
+     "1: Oral $EX is the #1 cause of",
+     "throat cancer",
+     "2: Sleeping for 9h+ increases",
+     "your risks of dementia",
+     "3: Amazon's OLCG Toothpaste",
+     "can make teeth pearly white in 7 days",
+     "4: Hot showers most likely are",
+     "the reason you have bacne",
+     "5: Mouth breathing is the #1",
+     "cause of cavities",
+     "6: Aveya Toner Pads from Amazon can",
+     "activate the skin-brightening switch",
+     "make your skin one shade brighter in",
+     "just one week",
+     "7: Drinking other drinks instead",
+     "of plain water can cause",
+     "kidney stones",
+     "我希望我的患者能早点知道的事：",
+     "口交是导致咽喉癌的头号原因",
+     "每晚睡眠超过 9 小时",
+     "会增加患痴呆症的风险",
+     "亚马逊的 OLCG 美白牙膏可在",
+     "7天内让您的牙齿变得洁白如珍珠。",
+     "热水澡很可能就是",
+     "你背部长痘的原因",
+     "用嘴呼吸是蛀牙的头号原因",
+     "亚马逊在售 Aveya棉片",
+     "一键开启焕亮美白开关，",
+     "短短一周，肤色提亮一个色号",
+     "用其他饮料代替白水",
+     "可能会导致肾结石"
+    ],
+    "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.21\\004-Q35-3-10.21-英文-张哲-郑惠跃-（我希望我的患者能早点知道的事）OLCG牙膏-Aveya棉片-郑雅斯-24",
+    "download_rel": "文案/10.21修改-Q35-3文案（我希望我的患者能早点知道的事）OLCG牙膏+Aveya棉片.docx"
+   },
+   "source_count": 24,
+   "flow_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.21\\004-Q35-3-10.21-英文-张哲-郑惠跃-（我希望我的患者能早点知道的事）OLCG牙膏-Aveya棉片-郑雅斯-24\\flow",
+   "supersedes_sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e",
+   "locked_at": "2026-10-23T10:11:28+08:00",
+   "author": "张哲",
+   "copywriter": "郑惠跃",
+   "designer": "郑雅斯"
   }
  }
 }
