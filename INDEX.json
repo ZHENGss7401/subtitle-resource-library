@@ -2775,8 +2775,8 @@
       "confidence": "已证实",
       "contested": false,
       "discarded": [],
-      "author": "",
-      "author_status": "pending",
+      "author": "郑惠跃",
+      "author_status": "confirmed",
       "copy": {
         "source": "A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂.docx",
         "lines": [
@@ -2826,7 +2826,8 @@
         "download_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂.docx",
         "note": "英文逐字依据用户PNG；中文为对应译文。"
       },
-      "copy_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂.docx"
+      "copy_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂.docx",
+      "author_confirmed_at": "2026-10-26T09:44:28+08:00"
     }
   }
 }

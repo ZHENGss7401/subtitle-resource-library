@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 21,
+  "revision": 22,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -99,6 +99,14 @@
       "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功；2026-10-23同版本删除Whitening并明确批准新PNG，沿用已确认署名",
       "updated_at": "2026-10-23T10:11:28+08:00",
       "supersedes_sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e"
+    },
+    "A326@af400343c21da38053b25251991b4668e041cce64466744283b035fa231747e1": {
+      "code": "A326",
+      "sha256": "af400343c21da38053b25251991b4668e041cce64466744283b035fa231747e1",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-26T09:44:28+08:00",
+      "confirmation_source": "本会话惠跃主人明确确认：作者郑惠跃；绑定A326当前720×1280定版PNG"
     }
   },
   "history": [
