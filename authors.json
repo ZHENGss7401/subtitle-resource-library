@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 23,
+  "revision": 24,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -115,6 +115,15 @@
       "status": "confirmed",
       "confirmed_at": "2026-10-26T09:45:56+08:00",
       "confirmation_source": "本会话惠跃主人明确指定：A318入资源库上线看板，作者余晓青"
+    },
+    "A326@beb57f66c4bc9a04051feaa3562571c083f30a08c0ba9e89299500cd871470c1": {
+      "code": "A326",
+      "sha256": "beb57f66c4bc9a04051feaa3562571c083f30a08c0ba9e89299500cd871470c1",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-26T08:32:43.862Z",
+      "confirmation_source": "2026-10-26惠跃明确上传优化后的A326定版PNG，要求套原A326的35条素材并替换资源库与看板；同一A326沿用已确认作者郑惠跃",
+      "supersedes_sha256": "af400343c21da38053b25251991b4668e041cce64466744283b035fa231747e1"
     }
   },
   "history": [

@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-26T09:45:56+08:00",
+  "built": "2026-10-26T08:34:59.443Z",
   "scope": [
     "10.7",
     "10.8",
@@ -2758,28 +2758,28 @@
         "10.26"
       ],
       "src_packages": [],
-      "src_file": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\17\\01a14916-265b-73b0-b17c-02806e8c8266\\Edit_image_text_and_background_20261026085340_720p.png",
+      "src_file": "C:/Users/111/.codex/visualizations/2026/10/17/01a14916-265b-73b0-b17c-02806e8c8266/second_720p.png",
       "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326.png",
       "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326.png",
       "layer_rel": "定版/A326.png",
       "preview_rel": "定版/A326_预览.png",
       "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326_预览.png",
-      "preview_kind": "用户提供定版预览原图",
-      "preview_from": "C:\\Users\\111\\Downloads\\1021 (1)(1).png",
-      "sha256": "af400343c21da38053b25251991b4668e041cce64466744283b035fa231747e1",
-      "preview_sha256": "5a3b218abd6a8c0db685f377fc78cd90b4db0ef724996a1bcaa8a46241c3e91c",
+      "preview_kind": "实际更新成品首帧",
+      "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/1. 成品入口/10.26/001-A326-10.26-英文-郑惠跃-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂-郑雅斯-35/已经过更新/001.mp4",
+      "sha256": "beb57f66c4bc9a04051feaa3562571c083f30a08c0ba9e89299500cd871470c1",
+      "preview_sha256": "23b707ed3314e8b4a01c262f785049f0c69181414dd0077b9c2067517677c5ea",
       "size": [
         720,
         1280
       ],
-      "basis": "2026-10-26惠跃主人明确指定720p附件替换A326透明字幕PNG并清理旧版；原样保留新附件，预览及文案沿用已上线版本",
+      "basis": "2026-10-26用户上传second_720p.png优化A326并明确要求更新原素材成品及资源库看板；第5条为OLCG果冻霜",
       "confidence": "已证实",
       "contested": false,
       "discarded": [],
       "author": "郑惠跃",
       "author_status": "confirmed",
       "copy": {
-        "source": "A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂.docx",
+        "source": "A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜.docx",
         "lines": [
           "Secrets Even Doctors",
           "Won't Tell You",
@@ -2796,10 +2796,10 @@
           "Women should eat more meat (Veggie",
           "diets hinder conception and painless",
           "periods mean you're extra fertile)",
-          "5. Bloating",
-          "DCXC Lymphatic Drops from AMZ (reduce",
-          "bloating & inflammation, and flush out",
-          "accumulated body waste in just 7 days)",
+          "5. brightening",
+          "OLCG Jelly Cream from Amazon (can activate",
+          "the skin-brightening switch make your skin",
+          "one shade brighter in just one week)",
           "6. Odor down there",
           "Pure pineapple juice (can balance your",
           "pH and make you smell like flowers",
@@ -2817,18 +2817,19 @@
           "4. 牛肉",
           "女性应该多吃肉（素食会妨碍受孕，",
           "而经期不痛意味着你的生育能力格外强）",
-          "5. 腹胀",
-          "亚马逊的 DCXC 淋巴滴剂（减少腹胀和炎症，",
-          "并在短短7天内排出体内积累的废物）",
+          "5. 提亮肤色",
+          "亚马逊的 OLCG 果冻霜（可开启肌肤焕亮开关，",
+          "仅需一周，让你的肤色提亮一个色号）",
           "6. 私处异味",
           "纯菠萝汁（能够平衡你的 pH 值，",
           "让你的私处闻起来像花香）"
         ],
-        "download_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂.docx",
-        "note": "英文逐字依据用户PNG；中文为对应译文。"
+        "download_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜.docx",
+        "note": "逐字依据本次用户定版；中文第5条同步果冻霜"
       },
-      "copy_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂.docx",
-      "author_confirmed_at": "2026-10-26T09:44:28+08:00"
+      "copy_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜.docx",
+      "author_confirmed_at": "2026-10-26T09:44:28+08:00",
+      "supersedes_sha256": "af400343c21da38053b25251991b4668e041cce64466744283b035fa231747e1"
     },
     "A318": {
       "code": "A318",
