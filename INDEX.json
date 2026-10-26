@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-26T09:42:28+08:00",
+  "built": "2026-10-26T09:45:56+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -14,7 +14,8 @@
     "10.19",
     "10.20",
     "10.21",
-    "10.22"
+    "10.22",
+    "10.26"
   ],
   "versions": {
     "A301-1": {
@@ -2828,6 +2829,37 @@
       },
       "copy_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂.docx",
       "author_confirmed_at": "2026-10-26T09:44:28+08:00"
+    },
+    "A318": {
+      "code": "A318",
+      "pkg_code": "A318",
+      "aliases": [],
+      "dates": [
+        "10.26"
+      ],
+      "src_packages": [],
+      "src_file": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\17\\01a14916-265b-73b0-b17c-02806e8c8266\\transparent_720p.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A318.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A318.png",
+      "layer_rel": "定版/A318.png",
+      "preview_rel": "定版/A318_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A318_预览.png",
+      "preview_kind": "用户提供定版预览原图",
+      "preview_from": "C:\\Users\\111\\Downloads\\1021 (1)(3).png",
+      "sha256": "8e59b7f19aa079f38d5c8696178c17e4c17c4772f06d96018e09918a877677ae",
+      "preview_sha256": "04c8027af40129e56ed69cd0453e124d869c437bd07a21050ffc5c7f63f2e381",
+      "size": [
+        720,
+        1280
+      ],
+      "basis": "2026-10-26惠跃主人明确：A318字幕透明图PNG和预览已准备好，入资源库上线看板；作者余晓青。两张附件原样保留。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "余晓青",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-10-26T09:45:56+08:00",
+      "copy": null
     }
   }
 }
