@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-26T09:04:10+08:00",
+  "built": "2026-10-26T09:42:28+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -2757,7 +2757,7 @@
         "10.26"
       ],
       "src_packages": [],
-      "src_file": "C:\\Users\\111\\Downloads\\Edit_image_text_and_background_20261026085340.png",
+      "src_file": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\17\\01a14916-265b-73b0-b17c-02806e8c8266\\Edit_image_text_and_background_20261026085340_720p.png",
       "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326.png",
       "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326.png",
       "layer_rel": "定版/A326.png",
@@ -2765,13 +2765,13 @@
       "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326_预览.png",
       "preview_kind": "用户提供定版预览原图",
       "preview_from": "C:\\Users\\111\\Downloads\\1021 (1)(1).png",
-      "sha256": "5b1824c39c11960d5d990d819be338656960e5388854c27f93b593dc318a44a4",
+      "sha256": "af400343c21da38053b25251991b4668e041cce64466744283b035fa231747e1",
       "preview_sha256": "5a3b218abd6a8c0db685f377fc78cd90b4db0ef724996a1bcaa8a46241c3e91c",
       "size": [
-        768,
-        1376
+        720,
+        1280
       ],
-      "basis": "2026-10-26惠跃主人明确：A326字幕透明PNG和预览已准备好，入资源库上线看板；补充参考Q25设计排版和高亮制作文案文档",
+      "basis": "2026-10-26惠跃主人明确指定720p附件替换A326透明字幕PNG并清理旧版；原样保留新附件，预览及文案沿用已上线版本",
       "confidence": "已证实",
       "contested": false,
       "discarded": [],

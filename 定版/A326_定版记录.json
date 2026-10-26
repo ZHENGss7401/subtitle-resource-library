@@ -1,13 +1,13 @@
 {
   "code": "A326",
-  "approval": "2026-10-26惠跃主人明确：A326字幕透明PNG和预览已准备好，入资源库上线看板；补充参考Q25设计排版和高亮制作文案文档",
-  "sha256": "5b1824c39c11960d5d990d819be338656960e5388854c27f93b593dc318a44a4",
+  "approval": "2026-10-26用户明确：A326字幕透明PNG替换为此720p附件，旧版清理掉",
+  "sha256": "af400343c21da38053b25251991b4668e041cce64466744283b035fa231747e1",
   "preview_sha256": "5a3b218abd6a8c0db685f377fc78cd90b4db0ef724996a1bcaa8a46241c3e91c",
   "size": [
-    768,
-    1376
+    720,
+    1280
   ],
-  "source": "C:\\Users\\111\\Downloads\\Edit_image_text_and_background_20261026085340.png",
+  "source": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\17\\01a14916-265b-73b0-b17c-02806e8c8266\\Edit_image_text_and_background_20261026085340_720p.png",
   "preview_source": "C:\\Users\\111\\Downloads\\1021 (1)(1).png",
   "approved_date": "2026-10-26",
   "author_status": "作者待确认",
