@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-26T08:34:59.443Z",
+  "built": "2026-10-26T16:56:21+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -2861,6 +2861,83 @@
       "author_status": "confirmed",
       "author_confirmed_at": "2026-10-26T09:45:56+08:00",
       "copy": null
+    },
+    "A255-1": {
+      "code": "A255-1",
+      "pkg_code": "A255-1",
+      "aliases": [],
+      "dates": [
+        "10.24"
+      ],
+      "src_packages": [
+        "V:\\视频半成品\\2组\\A255-1-10.24-余晓青-康慧敏-❌女生注意…… 这些东西千万别在沃尔玛买-aveya棉片+olcg牙膏-郑焕鹏-二组50"
+      ],
+      "src_file": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\17\\01a14916-265b-73b0-b17c-02806e8c8266\\third_720p.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A255-1.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A255-1.png",
+      "layer_rel": "定版/A255-1.png",
+      "preview_rel": "定版/A255-1_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A255-1_预览.png",
+      "preview_kind": "用户提供定版首帧原图",
+      "preview_from": "C:\\Users\\111\\Downloads\\-1 _14__mp4-frame-0.0s.png",
+      "sha256": "538fee2042b433727110c0d6eca1b214ebada7ada170cfed65e16acc6076f7a4",
+      "preview_sha256": "4574d30e6d44cf32bbbb908f9e5ea32bc25cbf0d24c12cab7c1e04805c7bdd7b",
+      "size": [
+        720,
+        1280
+      ],
+      "basis": "2026-10-26惠跃主人提供字幕PNG、首帧预览及255-1文案.doc，明确老规矩入库上线看板；原文件逐字节保留",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "",
+      "author_status": "pending",
+      "copy": {
+        "source": "255-1文案.doc",
+        "lines": [
+          "❌ Girls... things you should NEVER buy at Walmart ‼",
+          "I wish someone had told me before...",
+          "1.Magnesium Glycinate:",
+          "Knocks me out better than my ex ever",
+          "could. Now I sleep WAY too good 💤",
+          "2.Zinc:",
+          "Take zinc to start shooting massive loads ⚡",
+          "3.OLCG Toothpaste:",
+          "my new holy grail — in less than a week,",
+          "it whitens teeth and lifts stains like a magic eraser.",
+          "now Amazon has discounted prices ❤️",
+          "4.Vitamin D3:",
+          "Totally fixed my digestion.",
+          "My poops are so long now 💩",
+          "5.Aveya Toner Pads:",
+          "Erases wrinkles fast like magic in 7 days",
+          "now available on Amazon 🌹🧘",
+          "6.Vitamin B1:",
+          "Gets rid of foot odor better",
+          "than anything I've tried.",
+          "Now my feet stay fresh all day 🦶✨",
+          "❌ 女生们……你们绝对不该在沃尔玛买的东西‼",
+          "我真希望有人能早点告诉我……",
+          "1.甘氨酸镁：",
+          "它让我入睡的效果比我前任能做到的还要好。现在我睡得太香了💤",
+          "2.锌：",
+          "服用锌能让你开始射出大量的精液⚡",
+          "3.OLCG牙膏：",
+          "我的新神级单品——不到一周，它就能像魔术橡皮擦一样美白牙齿并去除污渍。现在亚马逊上有折扣价❤️",
+          "4.维生素D3：",
+          "完全改善了我的消化。",
+          "现在我的便便变得好长💩",
+          "5.Aveya爽肤水棉片：",
+          "7天内像魔法一样快速消除皱纹，现在亚马逊上有售🌹🧘",
+          "6.维生素B1：",
+          "去除脚臭的效果比我尝试过的任何东西都好。",
+          "现在我的双脚整天都保持清新🦶✨"
+        ],
+        "pkg": "V:\\视频半成品\\2组\\A255-1-10.24-余晓青-康慧敏-❌女生注意…… 这些东西千万别在沃尔玛买-aveya棉片+olcg牙膏-郑焕鹏-二组50",
+        "download_rel": "文案/A255-1_原文案.doc",
+        "note": "原始DOC原样保留；文档开头的制作备注不作为本次操作指令。"
+      },
+      "copy_rel": "文案/A255-1_原文案.doc"
     }
   }
 }
