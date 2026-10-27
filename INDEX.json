@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-27T10:00:10+08:00",
+  "built": "2026-10-27T10:03:12+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -2764,10 +2764,10 @@
       "layer_rel": "定版/A326.png",
       "preview_rel": "定版/A326_预览.png",
       "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326_预览.png",
-      "preview_kind": "历史预览，第5条与10月27日新版PNG不同",
-      "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/1. 成品入口/10.26/001-A326-10.26-英文-郑惠跃-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂-郑雅斯-35/已经过更新/001.mp4",
+      "preview_kind": "用户指定定版首帧预览",
+      "preview_from": "C:\\Users\\111\\Downloads\\1 _57_-frame-0.0s (1).png",
       "sha256": "5eb4770b2a549008216b58bfe538711e5bec87f93ae2b6365340c8c84b2b76da",
-      "preview_sha256": "23b707ed3314e8b4a01c262f785049f0c69181414dd0077b9c2067517677c5ea",
+      "preview_sha256": "523a22f07c2d91d1721df180345f17aab65f7c962fe7b90b1e042e6a5fecc75b",
       "size": [
         720,
         1280
@@ -2831,9 +2831,13 @@
       "author_confirmed_at": "2026-10-26T09:44:28+08:00",
       "locked_at": "2026-10-27T10:00:10+08:00",
       "updated_at": "2026-10-27T10:00:10+08:00",
-      "preview_note": "历史预览为提亮版；当前定版PNG第5条为Fine lines / Olcg Jelly Cream on Amazon (erases fine lines like magic in 7 days)",
       "copy_status": "第5条待同步",
-      "copy_note": "当前文案第5条为旧提亮版，与本次指定PNG淡细纹版不同。"
+      "copy_note": "当前文案第5条为旧提亮版，与本次指定PNG淡细纹版不同。",
+      "preview_size": [
+        720,
+        1280
+      ],
+      "preview_updated_date": "2026-10-27"
     },
     "A318": {
       "code": "A318",

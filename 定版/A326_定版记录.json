@@ -10,6 +10,12 @@
   "author_status": "confirmed",
   "approved_date": "2026-10-27",
   "approval": "2026-10-27惠跃主人明确指定02_1_720p.png替换A326透明字幕PNG并清理旧版；新PNG原样保留",
-  "preview_note": "历史预览为提亮版；当前定版PNG第5条为Fine lines / Olcg Jelly Cream on Amazon (erases fine lines like magic in 7 days)",
-  "copy_note": "当前文案第5条为旧提亮版，与本次指定PNG淡细纹版不同。"
+  "copy_note": "当前文案第5条为旧提亮版，与本次指定PNG淡细纹版不同。",
+  "preview_source": "C:\\Users\\111\\Downloads\\1 _57_-frame-0.0s (1).png",
+  "preview_sha256": "523a22f07c2d91d1721df180345f17aab65f7c962fe7b90b1e042e6a5fecc75b",
+  "preview_size": [
+    720,
+    1280
+  ],
+  "preview_approval": "2026-10-27惠跃主人明确指定：预览图换为这张"
 }
