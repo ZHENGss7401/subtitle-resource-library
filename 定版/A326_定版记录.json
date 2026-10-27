@@ -1,12 +1,15 @@
 {
   "code": "A326",
-  "source": "C:/Users/111/.codex/visualizations/2026/10/17/01a14916-265b-73b0-b17c-02806e8c8266/second_720p.png",
-  "sha256": "beb57f66c4bc9a04051feaa3562571c083f30a08c0ba9e89299500cd871470c1",
+  "source": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\17\\01a14916-265b-73b0-b17c-02806e8c8266\\02_1_720p.png",
+  "sha256": "5eb4770b2a549008216b58bfe538711e5bec87f93ae2b6365340c8c84b2b76da",
   "size": [
     720,
     1280
   ],
   "author": "郑惠跃",
-  "approval": "2026-10-26用户上传second_720p.png优化A326并明确要求更新原素材成品及资源库看板；第5条为OLCG果冻霜",
-  "supersedes_sha256": "af400343c21da38053b25251991b4668e041cce64466744283b035fa231747e1"
+  "author_status": "confirmed",
+  "approved_date": "2026-10-27",
+  "approval": "2026-10-27惠跃主人明确指定02_1_720p.png替换A326透明字幕PNG并清理旧版；新PNG原样保留",
+  "preview_note": "历史预览为提亮版；当前定版PNG第5条为Fine lines / Olcg Jelly Cream on Amazon (erases fine lines like magic in 7 days)",
+  "copy_note": "当前文案第5条为旧提亮版，与本次指定PNG淡细纹版不同。"
 }

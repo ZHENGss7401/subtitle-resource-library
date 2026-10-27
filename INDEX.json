@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-26T16:56:21+08:00",
+  "built": "2026-10-27T10:00:10+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -2755,24 +2755,24 @@
       "pkg_code": "A326",
       "aliases": [],
       "dates": [
-        "10.26"
+        "10.27"
       ],
       "src_packages": [],
-      "src_file": "C:/Users/111/.codex/visualizations/2026/10/17/01a14916-265b-73b0-b17c-02806e8c8266/second_720p.png",
+      "src_file": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\17\\01a14916-265b-73b0-b17c-02806e8c8266\\02_1_720p.png",
       "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326.png",
       "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326.png",
       "layer_rel": "定版/A326.png",
       "preview_rel": "定版/A326_预览.png",
       "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326_预览.png",
-      "preview_kind": "实际更新成品首帧",
+      "preview_kind": "历史预览，第5条与10月27日新版PNG不同",
       "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/1. 成品入口/10.26/001-A326-10.26-英文-郑惠跃-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+DCXC淋巴滴剂-郑雅斯-35/已经过更新/001.mp4",
-      "sha256": "beb57f66c4bc9a04051feaa3562571c083f30a08c0ba9e89299500cd871470c1",
+      "sha256": "5eb4770b2a549008216b58bfe538711e5bec87f93ae2b6365340c8c84b2b76da",
       "preview_sha256": "23b707ed3314e8b4a01c262f785049f0c69181414dd0077b9c2067517677c5ea",
       "size": [
         720,
         1280
       ],
-      "basis": "2026-10-26用户上传second_720p.png优化A326并明确要求更新原素材成品及资源库看板；第5条为OLCG果冻霜",
+      "basis": "2026-10-27惠跃主人明确指定02_1_720p.png替换A326透明字幕PNG并清理旧版；新PNG原样保留",
       "confidence": "已证实",
       "contested": false,
       "discarded": [],
@@ -2825,11 +2825,15 @@
           "让你的私处闻起来像花香）"
         ],
         "download_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜.docx",
-        "note": "逐字依据本次用户定版；中文第5条同步果冻霜"
+        "note": "历史文案；第5条为提亮版，与2026-10-27当前PNG淡细纹版不同。本次仅替换透明PNG，文案内容未改写。"
       },
       "copy_rel": "文案/A326文案（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜.docx",
       "author_confirmed_at": "2026-10-26T09:44:28+08:00",
-      "supersedes_sha256": "af400343c21da38053b25251991b4668e041cce64466744283b035fa231747e1"
+      "locked_at": "2026-10-27T10:00:10+08:00",
+      "updated_at": "2026-10-27T10:00:10+08:00",
+      "preview_note": "历史预览为提亮版；当前定版PNG第5条为Fine lines / Olcg Jelly Cream on Amazon (erases fine lines like magic in 7 days)",
+      "copy_status": "第5条待同步",
+      "copy_note": "当前文案第5条为旧提亮版，与本次指定PNG淡细纹版不同。"
     },
     "A318": {
       "code": "A318",
