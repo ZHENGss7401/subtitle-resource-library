@@ -427,6 +427,37 @@
         "note": "原始DOC原样保留；文档开头的制作备注不作为本次操作指令。"
       },
       "copy_rel": "文案/A255-1_原文案.doc"
+    },
+    "A326-1": {
+      "code": "A326-1",
+      "pkg_code": "A326-1",
+      "aliases": [],
+      "dates": [
+        "10.27"
+      ],
+      "src_packages": [],
+      "src_file": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\17\\01a14916-265b-73b0-b17c-02806e8c8266\\06_1_720p.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326-1.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326-1.png",
+      "layer_rel": "定版/A326-1.png",
+      "preview_rel": "定版/A326-1_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A326-1_预览.png",
+      "preview_kind": "用户提供首帧预览原图",
+      "preview_from": "C:\\Users\\111\\Downloads\\1 _18_-frame-0.0s.png",
+      "sha256": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
+      "preview_sha256": "5e7fe4ea5885f83f784329ff0702aadc0423bfdb14b61edfe4237644fcb0e193",
+      "size": [
+        720,
+        1280
+      ],
+      "basis": "2026-10-27惠跃主人明确：A326-1入库资源库和上线看板，作者郑惠跃。字幕PNG及首帧附件原样保留，作为独立版本入库。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "郑惠跃",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-10-27T14:05:23+08:00",
+      "copy": null
     }
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 25,
+  "revision": 26,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -116,6 +116,14 @@
       "confirmed_at": "2026-10-26T09:44:28+08:00",
       "updated_at": "2026-10-27T10:00:10+08:00",
       "confirmation_source": "本会话惠跃主人已明确作者郑惠跃；2026-10-27同编号A326附件替换，沿用该署名"
+    },
+    "A326-1@c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424": {
+      "code": "A326-1",
+      "sha256": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-27T14:05:23+08:00",
+      "confirmation_source": "2026-10-27惠跃主人明确：A326-1入库资源库和上线看板，作者郑惠跃。字幕PNG及首帧附件原样保留，作为独立版本入库。"
     }
   },
   "history": [
