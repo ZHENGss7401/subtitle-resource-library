@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-27T14:05:23+08:00",
+  "built": "2026-10-27T15:32:06+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -2869,7 +2869,43 @@
       "author": "余晓青",
       "author_status": "confirmed",
       "author_confirmed_at": "2026-10-26T09:45:56+08:00",
-      "copy": null
+      "copy": {
+        "source": "文案.doc",
+        "lines": [
+          "Secrets Even Doctors",
+          "Won't Tell You：",
+          "1.Don't smoke",
+          "2.Eat a 90% whole food diet",
+          "3.OLCG Jelly Cream on Amazon",
+          "Fade fine lines like magic in 7 days",
+          "4.Vitamin C(200mg+ per day)",
+          "5.Avoid cooking with seed oils.Cook with",
+          "EVoo, butter, or tallow",
+          "6.OLCG Toothpaste from Amazon",
+          "erases stains and whitens teeth",
+          "in 7 days.",
+          "7.Swim in a lake, ocean, or salt water",
+          "8.Lift weights 3-5x/week and sprint",
+          "9.Hit core 3x/week for a flat stomach",
+          "10.Walk 10K+ steps per day with incline",
+          "就连医生都不会告诉你的秘密：",
+          "别吸烟",
+          "日常饮食中 90% 为天然完整食物",
+          "亚马逊有售 OLCG 果冻面霜 7 天神奇淡化细纹",
+          "每日补充维生素 C（200 毫克及以上）",
+          "烹饪避免使用种子油，选用特级初榨橄榄油、黄油或动物脂油",
+          "亚马逊有售 Aveya 胶原蛋白贴片 提拉紧致肌肤，一周内肉眼改善颈部 20 年老化痕迹",
+          "在湖泊、海洋或咸水中游泳",
+          "每周 3–5 次力量训练 + 冲刺跑",
+          "每周 3 次核心训练，打造平坦小腹",
+          "每日爬坡行走，步数 1 万步以上"
+        ],
+        "pkg": "V:\\视频半成品\\2组\\A318-1-10.26加做-余晓青-余晓青-就连医生都不会告诉你的秘密-olcg果冻霜+olcg牙膏-郑焕鹏-二组60",
+        "download_rel": "文案/A318_原文案.doc",
+        "sha256": "1f615c96cb93aa41687dd6939d671d9a6d4ca70dc18635b65a8d948133dfbead",
+        "note": "原DOC原样保留。制作备注“更改棉片植入牙膏”未列入正文。原文英文第6条为OLCG牙膏，中文对应句仍为Aveya棉片；按源文件收录，未擅自改写。"
+      },
+      "copy_rel": "文案/A318_原文案.doc"
     },
     "A255-1": {
       "code": "A255-1",
@@ -2977,7 +3013,44 @@
       "author": "郑惠跃",
       "author_status": "confirmed",
       "author_confirmed_at": "2026-10-27T14:05:23+08:00",
-      "copy": null
+      "copy": {
+        "source": "文案.doc",
+        "lines": [
+          "Secrets Even Doctors",
+          "Won't Tell You",
+          "1. Have sex",
+          "Elevate your legs right after",
+          "It's easier to get pregnant",
+          "2. Jeans",
+          "Men wear less",
+          "Harms fertility",
+          "3. Yellow teeth",
+          "Amazon's Olcg toothpaste",
+          "(can magically whitens teeth in 7 days)",
+          "4. Beef",
+          "Women should eat more meat (Veggie",
+          "diets hinder conception and painless",
+          "periods mean you're extra fertile)",
+          "5. Wrinkles",
+          "Olcg Jelly Cream on Amazon",
+          "(erases fine lines like magic in 7 days)",
+          "6. Odor down there",
+          "Pure pineapple juice (can balance your",
+          "pH and make you smell like flowers",
+          "down there)",
+          "连医生都不会告诉你的秘密：",
+          "同房后立刻抬高双腿，更容易怀上宝宝",
+          "男性少穿牛仔裤，牛仔裤会损害生育能力",
+          "牙齿发黄：亚马逊上的 OLCG 牙膏（7 天就能神奇美白牙齿）",
+          "牛肉：女性要多吃肉（素食不利于受孕，经期不痛代表生育能力很强）",
+          "细纹：亚马逊 OLCG 果冻面霜，7 天神奇淡化细纹",
+          "私处异味：喝纯菠萝汁（可以平衡私处酸碱度，让私处散发花香）"
+        ],
+        "pkg": "V:\\视频半成品\\2组\\A326-1-10.27-郑惠跃-余晓青-连医生都不会告诉你的秘密-olcg牙膏+olcg果冻霜-郭佳臻-60",
+        "download_rel": "文案/A326-1_原文案.doc",
+        "sha256": "83e588d2f8717e230ea201dbb862b0d755f918bf2f22616ef672ad6a1ca1e8b7"
+      },
+      "copy_rel": "文案/A326-1_原文案.doc"
     }
   }
 }
