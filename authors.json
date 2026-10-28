@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 26,
+  "revision": 32,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -124,6 +124,52 @@
       "status": "confirmed",
       "confirmed_at": "2026-10-27T14:05:23+08:00",
       "confirmation_source": "2026-10-27惠跃主人明确：A326-1入库资源库和上线看板，作者郑惠跃。字幕PNG及首帧附件原样保留，作为独立版本入库。"
+    },
+    "Q37-2@27ef5d1c969ddc0c48a43d7d0e255b8f0015c12d172bfb9601575eb34dba3971": {
+      "code": "Q37-2",
+      "sha256": "27ef5d1c969ddc0c48a43d7d0e255b8f0015c12d172bfb9601575eb34dba3971",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-28T16:56:34.404692+08:00",
+      "confirmation_source": "2026-10-28 本会话用户指定两版包内PNG并明确作者郑惠跃；仅更新此精确图的作者确认",
+      "canonicalized_at": "2026-10-28T17:38:55+08:00",
+      "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
+    },
+    "Q33-4@2727f6974c0fcd11636c6c26626c02d88dc0a2f7786c017065e0c5ed049672a4": {
+      "code": "Q33-4",
+      "sha256": "2727f6974c0fcd11636c6c26626c02d88dc0a2f7786c017065e0c5ed049672a4",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-28T06:32:18.380Z",
+      "confirmation_source": "2026-10-28本会话惠跃主人明确确认Q33两版作者均为张哲；明确使用各素材夹分配的透明PNG，不使用资源库字幕。",
+      "canonicalized_at": "2026-10-28T17:38:55+08:00",
+      "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
+    },
+    "Q33-5@1cb9c9b7e94456b3ede14993bd437af71fc9e38c7d17962bd8cd7656c8ce5ce1": {
+      "code": "Q33-5",
+      "sha256": "1cb9c9b7e94456b3ede14993bd437af71fc9e38c7d17962bd8cd7656c8ce5ce1",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-28T06:32:18.381Z",
+      "confirmation_source": "2026-10-28本会话惠跃主人明确确认Q33两版作者均为张哲；明确使用各素材夹分配的透明PNG，不使用资源库字幕。",
+      "canonicalized_at": "2026-10-28T17:38:55+08:00",
+      "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
+    },
+    "A325@52a36ea058fc71707be6978081d89f573da76172778417356d13d5f3c816c89b": {
+      "code": "A325",
+      "sha256": "52a36ea058fc71707be6978081d89f573da76172778417356d13d5f3c816c89b",
+      "author": "郑惠跃",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-24T08:23:14.836Z",
+      "confirmation_source": "2026-10-24用户指定附件为A325新版定版并要求先套出成品；作者明确确认：作者郑惠跃",
+      "canonicalized_at": "2026-10-28T17:38:55+08:00",
+      "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
     }
   },
   "history": [

@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-27T15:32:06+08:00",
+  "built": "2026-10-28T17:38:55+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -16,7 +16,8 @@
     "10.21",
     "10.22",
     "10.26",
-    "10.27"
+    "10.27",
+    "10.28"
   ],
   "versions": {
     "A301-1": {
@@ -3051,6 +3052,258 @@
         "sha256": "83e588d2f8717e230ea201dbb862b0d755f918bf2f22616ef672ad6a1ca1e8b7"
       },
       "copy_rel": "文案/A326-1_原文案.doc"
+    },
+    "Q37-2": {
+      "code": "Q37-2",
+      "pkg_code": "Q37",
+      "aliases": [],
+      "dates": [
+        "10.28"
+      ],
+      "title": "作为一名从业16年的妇科医生这些观点我会坚持到底",
+      "products": "OLCG果冻霜+OLCG牙膏",
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\001-Q37-10.28-英文-郑惠跃-惠跃-（作为一名从业16年的妇科医生这些观点我会坚持到底）-双产品组合-郑雅斯-50\\Q37-10.28-英文-郑惠跃-惠跃-（作为一名从业16年的妇科医生这些观点我会坚持到底）-OLCG果冻霜+OLCG牙膏-郑雅斯-20"
+      ],
+      "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\001-Q37-10.28-英文-郑惠跃-惠跃-（作为一名从业16年的妇科医生这些观点我会坚持到底）-双产品组合-郑雅斯-50\\Q37-10.28-英文-郑惠跃-惠跃-（作为一名从业16年的妇科医生这些观点我会坚持到底）-OLCG果冻霜+OLCG牙膏-郑雅斯-20\\字幕夹\\q37果冻霜+牙膏.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q37-2.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q37-2.png",
+      "layer_rel": "定版/Q37-2.png",
+      "preview_rel": "定版/Q37-2_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q37-2_预览.png",
+      "preview_kind": "实际成品预览",
+      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\001-Q37-10.28-英文-郑惠跃-惠跃-（作为一名从业16年的妇科医生这些观点我会坚持到底）-双产品组合-郑雅斯-50\\Q37-10.28-英文-郑惠跃-惠跃-（作为一名从业16年的妇科医生这些观点我会坚持到底）-OLCG果冻霜+OLCG牙膏-郑雅斯-20\\agent夹\\_实际成品预览.png",
+      "sha256": "27ef5d1c969ddc0c48a43d7d0e255b8f0015c12d172bfb9601575eb34dba3971",
+      "preview_sha256": "4717a29a821a29c97dbabb6e25fcf32043de1d96ca6c9addf3c60e8b05458298",
+      "size": [
+        720,
+        1280
+      ],
+      "basis": "2026-10-28用户要求将核对缺失的四版完善补充入库并上线看板；指定原PNG逐字节保留，英文按图记录，中英文对照补齐",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "郑惠跃",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-10-28T16:56:34.404692+08:00",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "Q37-2_中英文文案.docx",
+        "lines": [
+          "Hills I will die on as a gynecologist of 16 years",
+          "1) Try not to let your partner go in from behind, it's bad for your uterus",
+          "2) Always close the lid before flushing, and always wipe front to back after peeing or pooping",
+          "3) Amazon’s OLCG Jelly Cream can magically fade fine lines in 7 days",
+          "4) sitting on the toilet for too long can lead to colorectal cancer",
+          "5) Many people experience sudden crying or nausea when their nipples are touched, regardless of gender",
+          "6) OLCG Toothpaste from AMZ can activate the teeth brightening switch, make your teeth pearl-white in just one week",
+          "7) Your period makes your poop looser or more frequent. Blame prostaglandins",
+          "8) Pineapple making you \"taste better\"? No strong evidence. No harm in trying either.",
+          "作为一名从业16年的妇科医生，这些观点我会坚持到底",
+          "1）尽量不要让伴侣从后面进入，这对你的子宫不好。",
+          "2）冲水前始终盖上马桶盖，大小便后始终从前向后擦拭。",
+          "3）亚马逊上的OLCG果冻霜能在7天内神奇淡化细纹。",
+          "4）坐在马桶上太久可能导致结直肠癌。",
+          "5）很多人在乳头被触碰时会突然哭泣或感到恶心，不分性别。",
+          "6）来自AMZ的OLCG牙膏能激活牙齿亮白开关，只需一周就能让牙齿像珍珠般洁白。",
+          "7）经期会让大便更稀或次数更多，这是前列腺素的作用。",
+          "8）菠萝会让你“味道更好”？没有有力证据，不过试试也无妨。"
+        ],
+        "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\001-Q37-10.28-英文-郑惠跃-惠跃-（作为一名从业16年的妇科医生这些观点我会坚持到底）-双产品组合-郑雅斯-50\\Q37-10.28-英文-郑惠跃-惠跃-（作为一名从业16年的妇科医生这些观点我会坚持到底）-OLCG果冻霜+OLCG牙膏-郑雅斯-20",
+        "download_rel": "文案/Q37-2_中英文文案.docx",
+        "sha256": "efa1d467f45bda358ad21742a3894445d32456e3a618df87d522ad1d54c16a0a",
+        "note": "英文按指定PNG原文记录，保留原拼写和产品植入；中文为逐项对照。"
+      },
+      "copy_rel": "文案/Q37-2_中英文文案.docx"
+    },
+    "Q33-4": {
+      "code": "Q33-4",
+      "pkg_code": "Q33",
+      "aliases": [],
+      "dates": [
+        "10.28"
+      ],
+      "title": "连医生都不会告诉你的秘密",
+      "products": "Aveya棉片+OLCG牙膏",
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG牙膏-郑雅斯-40"
+      ],
+      "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG牙膏-郑雅斯-40\\字幕夹\\q33-字幕透明图-棉片+牙膏.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-4.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-4.png",
+      "layer_rel": "定版/Q33-4.png",
+      "preview_rel": "定版/Q33-4_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-4_预览.png",
+      "preview_kind": "实际成品预览",
+      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG牙膏-郑雅斯-40\\agent夹\\_实际成品预览.png",
+      "sha256": "2727f6974c0fcd11636c6c26626c02d88dc0a2f7786c017065e0c5ed049672a4",
+      "preview_sha256": "959e7003d87fe679d299c2a8e5078af858ef4c3928bca77d3e5dd0a67dc2c042",
+      "size": [
+        720,
+        1280
+      ],
+      "basis": "2026-10-28用户要求将核对缺失的四版完善补充入库并上线看板；指定原PNG逐字节保留，英文按图记录，中英文对照补齐",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-10-28T06:32:18.380Z",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "Q33-4_中英文文案.docx",
+        "lines": [
+          "Secrets even doctors won't tell you",
+          "1.Back pain     Vitamin D - Pain gone instantly.",
+          "2.Gout     Vitamin D1 - Cured right away.",
+          "3.Insomnia     Vitamin B2 - Sleepy at once.",
+          "4.Wrinkles     Aveya Toner Pads on Amazon (erases fine lines like magic in 7 days)",
+          "5.Grey hair     Vitamin H - Turns black without dye.",
+          "6.Yellow teeth     OLCG Toothpaste from Amazon (Whitens teeth like pearls in one week)",
+          "连医生都不会告诉你的秘密",
+          "1.背痛：维生素D——疼痛瞬间消失。",
+          "2.痛风：维生素D1——马上治好。",
+          "3.失眠：维生素B2——立刻犯困。",
+          "4.皱纹：亚马逊上的Aveya爽肤棉片，7天像魔法一样淡化细纹。",
+          "5.白发：维生素H——不用染发就变黑。",
+          "6.黄牙：来自亚马逊的OLCG牙膏，一周让牙齿像珍珠般洁白。"
+        ],
+        "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG牙膏-郑雅斯-40",
+        "download_rel": "文案/Q33-4_中英文文案.docx",
+        "sha256": "a93ce574980ee09a32bb16cd3829e0cf69d0eed27444d25989a5a93dd1d31269",
+        "note": "英文按指定PNG原文记录，保留原拼写和产品植入；中文为逐项对照。"
+      },
+      "copy_rel": "文案/Q33-4_中英文文案.docx"
+    },
+    "Q33-5": {
+      "code": "Q33-5",
+      "pkg_code": "Q33",
+      "aliases": [],
+      "dates": [
+        "10.28"
+      ],
+      "title": "连医生都不会告诉你的秘密",
+      "products": "OLCG牙膏+OLCG果冻霜",
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜-郑雅斯-40"
+      ],
+      "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜-郑雅斯-40\\字幕夹\\q33-字幕透明图-牙膏+果冻霜.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-5.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-5.png",
+      "layer_rel": "定版/Q33-5.png",
+      "preview_rel": "定版/Q33-5_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-5_预览.png",
+      "preview_kind": "实际成品预览",
+      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜-郑雅斯-40\\agent夹\\_实际成品预览.png",
+      "sha256": "1cb9c9b7e94456b3ede14993bd437af71fc9e38c7d17962bd8cd7656c8ce5ce1",
+      "preview_sha256": "5f0ed51ff0cc648018b083b3dd6f1054331b976d2578ece65b211970d94c5423",
+      "size": [
+        720,
+        1280
+      ],
+      "basis": "2026-10-28用户要求将核对缺失的四版完善补充入库并上线看板；指定原PNG逐字节保留，英文按图记录，中英文对照补齐",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-10-28T06:32:18.381Z",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "Q33-5_中英文文案.docx",
+        "lines": [
+          "Secrets even doctors won't tell you",
+          "1.Back pain     Vitamin D - Pain gone instantly.",
+          "2.Gout     Vitamin D1 - Cured right away.",
+          "3.Insomnia     Vitamin B2 - Sleepy at once.",
+          "4.Yellow teeth     OLCG Toothpaste from Amazon (Whitens teeth like pearls in 7days)",
+          "5.Grey hair     Vitamin H - Turns black without dye.",
+          "6.Wrinkles     OLCG Jelly cream on Amazon (erases fine lines like magic in one week)",
+          "连医生都不会告诉你的秘密",
+          "1.背痛：维生素D——疼痛瞬间消失。",
+          "2.痛风：维生素D1——马上治好。",
+          "3.失眠：维生素B2——立刻犯困。",
+          "4.黄牙：来自亚马逊的OLCG牙膏，7天让牙齿像珍珠般洁白。",
+          "5.白发：维生素H——不用染发就变黑。",
+          "6.皱纹：亚马逊上的OLCG果冻霜，一周像魔法一样淡化细纹。"
+        ],
+        "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜-郑雅斯-40",
+        "download_rel": "文案/Q33-5_中英文文案.docx",
+        "sha256": "b39ced2417ad8e25fe2663d33dd4917b70ae8f22451b400bfde5e89e728d35c4",
+        "note": "英文按指定PNG原文记录，保留原拼写和产品植入；中文为逐项对照。"
+      },
+      "copy_rel": "文案/Q33-5_中英文文案.docx"
+    },
+    "A325": {
+      "code": "A325",
+      "pkg_code": "A325",
+      "aliases": [],
+      "dates": [
+        "10.28"
+      ],
+      "title": "如果你的牙医从没告诉过你这些",
+      "products": "OLCG牙膏",
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\010-雨桐定制\\A325-10.28-英文-郑惠跃-惠跃-（如果你的牙医从没告诉过你这些）-OLCG牙膏-郑雅斯-2"
+      ],
+      "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\010-雨桐定制\\A325-10.28-英文-郑惠跃-惠跃-（如果你的牙医从没告诉过你这些）-OLCG牙膏-郑雅斯-2\\字幕夹\\A325.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A325.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A325.png",
+      "layer_rel": "定版/A325.png",
+      "preview_rel": "定版/A325_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A325_预览.png",
+      "preview_kind": "实际成品预览",
+      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\010-雨桐定制\\A325-10.28-英文-郑惠跃-惠跃-（如果你的牙医从没告诉过你这些）-OLCG牙膏-郑雅斯-2\\agent夹\\_实际成品预览.png",
+      "sha256": "52a36ea058fc71707be6978081d89f573da76172778417356d13d5f3c816c89b",
+      "preview_sha256": "005c6b2f493504c2e30761391f3d068baad27b0dade2ccd6bf623cbec1dd0655",
+      "size": [
+        768,
+        1376
+      ],
+      "basis": "2026-10-28用户要求将核对缺失的四版完善补充入库并上线看板；指定原PNG逐字节保留，英文按图记录，中英文对照补齐",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "郑惠跃",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-10-24T08:23:14.836Z",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "A325_中英文文案.docx",
+        "lines": [
+          "In case your dentistnever told you this...",
+          "1. Avoid brushing right after vomiting",
+          "2. Steer clear of trampolines (especially without netting)",
+          "3. Skip jumping in bounce houses with older kids",
+          "4. Try OLCG toothpaste on Amazon to whiten your teeth in 7 days",
+          "5. Refrain from chewing ice or pens",
+          "6. Don’t go without a mouthguard for sports",
+          "7. Limit soda, Gatorade and juice",
+          "8. Never use teeth as scissors (no ripping open packages!)",
+          "9. Skip drinking from a sippy cup",
+          "10. Pass on Goldfish or Annie's bunny crackers, and stay away from gummy vitamins.",
+          "如果你的牙医从没告诉过你这些……",
+          "1.呕吐后不要立即刷牙。",
+          "2.远离蹦床，尤其是没有防护网的蹦床。",
+          "3.不要和年龄更大的孩子一起在充气城堡里蹦跳。",
+          "4.试试亚马逊上的OLCG牙膏，7天美白牙齿。",
+          "5.不要咬冰块或笔。",
+          "6.运动时别忘了佩戴护齿套。",
+          "7.少喝汽水、佳得乐和果汁。",
+          "8.不要把牙齿当剪刀使用，不要用牙齿撕开包装。",
+          "9.不要用鸭嘴杯喝水。",
+          "10.不要吃Goldfish或Annie’s兔子饼干，也要远离软糖维生素。"
+        ],
+        "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\010-雨桐定制\\A325-10.28-英文-郑惠跃-惠跃-（如果你的牙医从没告诉过你这些）-OLCG牙膏-郑雅斯-2",
+        "download_rel": "文案/A325_中英文文案.docx",
+        "sha256": "7ce3ccc615cffa90a2d136593f379d0c9f14700794965ee4ddac23e164f987d7",
+        "note": "英文按指定PNG原文记录，保留原拼写和产品植入；中文为逐项对照。"
+      },
+      "copy_rel": "文案/A325_中英文文案.docx"
     }
   }
 }
