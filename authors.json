@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 32,
+  "revision": 34,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -170,6 +170,15 @@
       "confirmation_source": "2026-10-24用户指定附件为A325新版定版并要求先套出成品；作者明确确认：作者郑惠跃",
       "canonicalized_at": "2026-10-28T17:38:55+08:00",
       "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
+    },
+    "A333-3@ad99986190650842010321cfde62a29520f69b9004177b0f6aa6daf7255344ad": {
+      "code": "A333-3",
+      "sha256": "ad99986190650842010321cfde62a29520f69b9004177b0f6aa6daf7255344ad",
+      "author": "余晓青",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-30T14:01:16+08:00",
+      "asset_type": "dynamic_video",
+      "confirmation_source": "本会话用户明确回复A333-3作者署名：余晓青；确认绑定已认可MOV原文件SHA256。"
     }
   },
   "history": [

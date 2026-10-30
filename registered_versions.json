@@ -783,6 +783,74 @@
         "note": "英文按指定PNG原文记录，保留原拼写和产品植入；中文为逐项对照。"
       },
       "copy_rel": "文案/A325_中英文文案.docx"
+    },
+    "A333-3": {
+      "code": "A333-3",
+      "pkg_code": "A333-3",
+      "aliases": [],
+      "dates": [
+        "10.30"
+      ],
+      "title": "医生不会告诉你，但我要跟你说的事",
+      "products": "OLCG果冻霜＋OLCG牙膏",
+      "src_packages": [
+        "D:\\Users\\Public\\Claude产出素材库\\A333-动态字幕与样品成品-1030\\对标节奏V3"
+      ],
+      "src_file": "D:\\Users\\Public\\Claude产出素材库\\A333-动态字幕与样品成品-1030\\对标节奏V3\\A333_V3_透明动态字幕.mov",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-3.mov",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-3.mov",
+      "layer_rel": "定版/A333-3.mov",
+      "asset_type": "dynamic_video",
+      "media_type": "video/quicktime",
+      "codec": "qtrle",
+      "has_alpha": true,
+      "fps": 60,
+      "duration": 6.05,
+      "animation_complete_seconds": 3.458333333333333,
+      "layer_preview_rel": "定版/A333-3_动态预览.png",
+      "layer_still_rel": "定版/A333-3_静态参考.png",
+      "layer_still_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-3_静态参考.png",
+      "preview_rel": "定版/A333-3_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-3_预览.png",
+      "preview_video_rel": "定版/A333-3_成品预览.mp4",
+      "preview_video_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-3_成品预览.mp4",
+      "preview_media_type": "video/mp4",
+      "preview_kind": "用户指定样品成品视频",
+      "preview_from": "D:\\Users\\Public\\Claude产出素材库\\A333-动态字幕与样品成品-1030\\对标节奏V3\\A333_V3_样品成品.mp4",
+      "sha256": "ad99986190650842010321cfde62a29520f69b9004177b0f6aa6daf7255344ad",
+      "preview_sha256": "7b5fa93bfa84e2daea22b5a9955ac76c50133df8b4044c0680a8bcaf3366180c",
+      "preview_video_sha256": "d4cd5f3e3c317bdaef4b169c4ced535d83ee3ec98289475b9cfeef595c1dfe11",
+      "layer_preview_sha256": "b90d0a351d361183e293e07244ea566b5892b4959799c9ff2e2dca9616b48e37",
+      "size": [
+        720,
+        1280
+      ],
+      "basis": "2026-10-30用户明确认可V3的MOV与样品成品，定为A333-3，要求入资源库并上线看板；样品作为成品预览；作者明确回复余晓青。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "余晓青",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-10-30T14:01:16+08:00",
+      "copy": {
+        "source": "A333-3_字幕原文.txt",
+        "lines": [
+          "Things Your Doctor Won't Tell You, But I Will",
+          "Your anxiety is very likely caused by a long-term lack of sex.",
+          "Taking a shower at night often can lead to stroke and rheumatism.",
+          "Olcg Collagen Jelly Cream on Amazon erases wrinkles fast like magic in 7 days",
+          "Don't wear tight underwear and yoga pants, they cause infections in women and ruin male fertility-your balls are being suffocated!",
+          "Sleeping with the fan on causes wet lungs and makes you sick easily.",
+          "Olcg Toothpaste on Amazon erases stains and whitens teeth in 7 days.now available on Amazon.",
+          "Women should eat more meat, veggie diets hinder conception and painless periods mean you're extrafertile.",
+          "Pure cranberry juice will balance your pH levels and make you taste like candy down there."
+        ],
+        "pkg": "D:\\Users\\Public\\Claude产出素材库\\A333-动态字幕与样品成品-1030\\对标节奏V3",
+        "download_rel": "文案/A333-3_字幕原文.txt",
+        "sha256": "650dc3d63965f4fc423c174055ae5e98f92e5c1b4ccd2523b91934d7fa258e14",
+        "note": "按已确认字幕原文记录，保留原拼写与产品植入，不代表对健康或产品效果说法的事实核验。"
+      },
+      "copy_rel": "文案/A333-3_字幕原文.txt"
     }
   }
 }

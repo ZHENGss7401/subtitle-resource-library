@@ -116,6 +116,10 @@ h2{font-family:var(--serif);font-size:22px;font-weight:600;letter-spacing:-.005e
 .imgbox{flex:1;min-height:0;display:flex;align-items:center;justify-content:center;padding:12px;
   background:var(--rule-soft)}
 .imgbox img{display:block;border-radius:var(--r);cursor:zoom-in}
+.imgbox video{display:block;max-width:100%;max-height:100%;object-fit:contain;border-radius:var(--r)}
+.imgbox [hidden]{display:none!important}
+.asset-download{font-size:12px;color:var(--xu);padding:4px 10px;border:1px solid var(--rule);border-radius:100px;text-decoration:none}
+.asset-download[hidden]{display:none}
 .imgbox.checker{background-color:var(--rule-soft);
   background-image:linear-gradient(45deg,var(--rule) 25%,transparent 25%,transparent 75%,var(--rule) 75%),
                    linear-gradient(45deg,var(--rule) 25%,transparent 25%,transparent 75%,var(--rule) 75%);
@@ -178,7 +182,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   <div>
     <div class="eyebrow" id="eyebrow">定版字幕资源库</div>
     <h1>定版字幕 <em>资源库</em></h1>
-    <p class="sub" id="sub">从半成品包里裁定出来的定版字幕层，一张一张收在这里，配套对照文案与定版预览图。</p>
+    <p class="sub" id="sub">收录已确认的静态 PNG 与动态 MOV，配套对照文案、定版预览与真实成品视频。</p>
   </div>
   <div class="meta">
     库 <b>0. 字幕资源库\定版\</b><br>
@@ -200,8 +204,8 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 </section>
 
 <footer>
-  <p><b>透明层</b> 是喂给套字幕脚本的那张 —— <code>0. 字幕资源库\定版\&lt;编号&gt;.png</code>；
-     <b>预览图</b> 同名加 <code>_预览</code>。</p>
+  <p><b>透明层</b> 包含静态 PNG 与动态 MOV；动态版点开可播放成品预览，并下载透明 MOV 复用。
+     <b>成品预览</b> 使用该版本实际样品，卡片封面取自样品首帧。</p>
   <p>命令行取一份定版：<code>python build_index.py --find "Q30-1"</code>　·
      库里每张都锁了 SHA256，与来源包逐条回验。</p>
   <p>本页每 15 秒自动拉一次 <code>data.js</code>——库里加了新版本，页面会自己更新，不用手动刷新。</p>
@@ -217,8 +221,9 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
         <button class="tab on" id="t-prev" type="button">定版预览</button>
         <button class="tab" id="t-layer" type="button">透明层</button>
       </div>
+      <a class="asset-download" id="m-download" hidden download>下载透明 MOV</a>
     </header>
-    <div class="imgbox" id="m-box"><img id="m-img" alt=""></div>
+    <div class="imgbox" id="m-box"><img id="m-img" alt=""><video id="m-video" hidden controls loop muted playsinline preload="metadata"></video></div>
   </section>
   <section class="fcard copy">
     <header>
@@ -242,6 +247,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   var root=document.documentElement;
   root.classList.add('js');
   var data={versions:{}}, list=[], cur=null, opened=false, lbIdx=0;
+  document.getElementById('q').value=new URLSearchParams(location.search).get('q')||'';
 
   /* 主题：跟随系统，可手动切换（与汇报页同一套约定） */
   var t=document.getElementById('tog');
@@ -279,15 +285,16 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       var shot=el('div','shot');
       var img=el('img','pv'); img.src=v.preview_rel; img.loading='lazy'; img.alt=v.code;
       shot.appendChild(img);
-      var lay=el('div','layer'); var li=el('img'); li.src=v.layer_rel; li.loading='lazy'; li.alt='';
+      var lay=el('div','layer'); var li=el('img'); li.src=v.layer_still_rel||v.layer_rel; li.loading='lazy'; li.alt='';
       lay.appendChild(li); shot.appendChild(lay);
-      shot.appendChild(el('span','lens','点开看文案'));
+      shot.appendChild(el('span','lens',v.asset_type==='dynamic_video'?'▶ 成品预览':'点开看文案'));
       card.appendChild(shot);
 
       var cp=el('div','cp');
       var r1=el('div','r1',v.code);
       r1.appendChild(el('span','st '+conf(v.confidence), v.confidence));
       cp.appendChild(r1);
+      if(v.asset_type==='dynamic_video') cp.appendChild(el('div','r3','动态透明字幕 · MOV · '+v.fps+'fps'));
       var r2=el('div','r2');
       r2.appendChild(el('span',null,(v.dates||[]).join(' / ')));
       if(v.aliases && v.aliases.length) r2.appendChild(el('span','al','包 '+v.aliases.join('/')));
@@ -315,23 +322,40 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   /* ---------- 尺寸：按图片真实比例给预览卡定宽 ---------- */
   var tries=0;
   function fitPic(){
-    var img=document.getElementById('m-img'), card=document.querySelector('.fcard.pic');
+    var video=document.getElementById('m-video');
+    var img=video.hidden?document.getElementById('m-img'):video, card=document.querySelector('.fcard.pic');
     if(!img||!card) return;
     if(window.innerWidth<=900||!opened){ img.style.height=''; card.style.width=''; tries=0; return; }
-    if(!img.complete||!img.naturalWidth){ if(tries++<25) setTimeout(fitPic,80); return; }
+    var width=img.videoWidth||img.naturalWidth, height=img.videoHeight||img.naturalHeight;
+    if(!width){ if(tries++<25) setTimeout(fitPic,80); return; }
     tries=0;
     var cardH=parseFloat(getComputedStyle(card).height);   /* 卡片自己定的 86vh，别拿外层的 */
     if(!cardH) return;
     var avail=cardH-card.querySelector('header').offsetHeight-24;
     if(avail<60) return;
     img.style.height=avail+'px';
-    card.style.width=Math.round(avail*img.naturalWidth/img.naturalHeight)+24+'px';
+    card.style.width=Math.round(avail*width/height)+24+'px';
   }
   function setImg(which){
     if(!cur) return;
     var img=document.getElementById('m-img'), box=document.getElementById('m-box');
-    if(which==='layer'){ img.src=cur.layer_rel; box.classList.add('checker'); }
-    else { img.src=cur.preview_rel; box.classList.remove('checker'); }
+    var video=document.getElementById('m-video'), dynamic=cur.asset_type==='dynamic_video';
+    video.pause();
+    var useVideo=dynamic&&which!=='layer'&&!!cur.preview_video_rel;
+    img.hidden=useVideo; video.hidden=!useVideo;
+    if(useVideo){
+      img.removeAttribute('src'); video.poster=cur.preview_rel;
+      video.src=cur.preview_video_rel; video.muted=true;
+      video.play().catch(function(){});
+    }else{
+      video.removeAttribute('src'); video.load();
+      img.src=which==='layer'?(cur.layer_preview_rel||cur.layer_rel):cur.preview_rel;
+    }
+    box.classList.toggle('checker',which==='layer');
+    document.getElementById('t-prev').textContent=dynamic?'成品预览':'定版预览';
+    document.getElementById('t-layer').textContent=dynamic?'透明动画':'透明层';
+    var download=document.getElementById('m-download'); download.hidden=!dynamic;
+    if(dynamic){ download.href=cur.layer_rel; download.download=cur.code+'.mov'; }
     document.getElementById('t-prev').classList.toggle('on',which!=='layer');
     document.getElementById('t-layer').classList.toggle('on',which==='layer');
     fitPic();
@@ -356,6 +380,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   }
   function closeModal(){
     opened=false;
+    var video=document.getElementById('m-video'); video.pause(); video.removeAttribute('src'); video.load();
     document.getElementById('modal').classList.add('hidden');
     if(!document.getElementById('lb').classList.contains('on')) document.body.style.overflow='';
   }
@@ -368,7 +393,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     lbIdx=(i+list.length)%list.length;
     var v=list[lbIdx];
     lbimg.src=(cur&&cur.code===v.code&&document.getElementById('m-box').classList.contains('checker'))
-      ? v.layer_rel : v.preview_rel;
+      ? (v.layer_still_rel||v.layer_rel) : v.preview_rel;
     lbcap.innerHTML='<b>'+v.code+'</b>　'+(v.dates||[]).join(' / ')+'　'+v.size[0]+'×'+v.size[1]+
       '　'+v.confidence+'　<span style="opacity:.65">'+v.sha256.slice(0,16)+'</span>';
     lb.classList.add('on'); document.body.style.overflow='hidden';
@@ -404,6 +429,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     }
   });
   document.getElementById('m-img').addEventListener('load',fitPic);
+  document.getElementById('m-video').addEventListener('loadedmetadata',fitPic);
   window.addEventListener('resize',fitPic);
   document.getElementById('q').addEventListener('input',render);
   document.getElementById('reload').addEventListener('click',function(){ location.reload(); });

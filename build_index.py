@@ -446,7 +446,7 @@ def make_sheet(entries, dst):
         x = pad + c * (cw + pad)
         y = pad + r * (ch + lab + pad)
         dr.rectangle([x, y, x + cw, y + ch], fill=BACKDROP)
-        layer = Image.open(e["definitive"]).convert("RGBA")
+        layer = Image.open(e.get("layer_still_abs") or e["definitive"]).convert("RGBA")
         bbox = layer.split()[3].getbbox()
         if bbox:
             layer = layer.crop(bbox)
@@ -508,6 +508,9 @@ def find(code, index_path):
         if v.get("aliases"):
             print("别名  : %s（半成品包名里的编号，也认）" % "、".join(v["aliases"]))
         print("定版  : %s" % v["definitive_abs"])
+        if v.get("asset_type") == "dynamic_video":
+            print("类型  : 动态透明字幕 MOV · %sfps · %ss" % (v.get("fps"), v.get("duration")))
+            print("成品预览: %s" % v.get("preview_video_abs", ""))
         print("哈希  : %s" % v["sha256"])
         print("尺寸  : %dx%d" % (v["size"][0], v["size"][1]))
         print("凭据  : %s（%s）" % (v["confidence"], v["basis"]))
@@ -652,7 +655,7 @@ def main():
             registered = json.load(registered_file).get("versions", {})
         for canonical in registered.values():
             if sha256(os.path.join(LIB, canonical["layer_rel"])) != canonical["sha256"]:
-                raise ValueError("Registered canonical PNG hash mismatch")
+                raise ValueError("Registered canonical subtitle hash mismatch")
             entries = [entry for entry in entries if entry["code"] != canonical["code"]
                        and not (entry.get("sha256") == canonical["sha256"]
                                 and entry["code"] in canonical.get("aliases", []))]
