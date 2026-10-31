@@ -29,7 +29,6 @@ body{background:var(--bg);color:var(--ink);font-family:var(--sans);font-size:15p
 .wrap{max-width:1180px;margin:0 auto}
 .masthead{display:flex;justify-content:space-between;align-items:flex-end;gap:var(--s5);
   padding-bottom:var(--s5);border-bottom:1px solid var(--rule);margin-bottom:var(--s6)}
-.eyebrow{font-family:var(--mono);font-size:11.5px;letter-spacing:.14em;color:var(--ink3);margin-bottom:var(--s3)}
 h1{font-family:var(--serif);font-size:clamp(30px,4vw,46px);font-weight:600;letter-spacing:-.01em;line-height:1.12}
 h1 em{font-style:normal;color:var(--li)}
 .sub{color:var(--ink2);margin-top:var(--s3);font-size:14px;max-width:48ch}
@@ -180,13 +179,11 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
 <header class="masthead">
   <div>
-    <div class="eyebrow" id="eyebrow">定版字幕资源库</div>
     <h1>定版字幕 <em>资源库</em></h1>
     <p class="sub" id="sub">收录已确认的静态 PNG 与动态 MOV，配套对照文案、定版预览与真实成品视频。</p>
   </div>
   <div class="meta">
     库 <b>0. 字幕资源库\定版\</b><br>
-    批次 <b id="m-scope">—</b><br>
     生成 <b id="m-built">—</b>
     <br><button class="tog" id="tog" type="button">Dark</button>
   </div>
@@ -274,10 +271,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       if(v.confidence==='已证实')nOk++; else if(v.confidence==='已回填')nBf++; else nUn++;
     });
 
-    document.getElementById('m-scope').textContent = (data.scope||[]).join(' · ') || '—';
     document.getElementById('m-built').textContent = (data.built||'—').replace('T',' ');
-    document.getElementById('eyebrow').textContent =
-      (data.scope||[]).join(' + ') + ' · 定版字幕资源库';
 
     var g=document.getElementById('grid'); g.innerHTML='';
     list.forEach(function(v){
