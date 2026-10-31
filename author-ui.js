@@ -17,7 +17,7 @@
   const edit = panel.querySelector('#author-edit'), form = panel.querySelector('form');
   const input = panel.querySelector('input'), save = panel.querySelector('#author-save');
   const message = panel.querySelector('#author-message');
-  const current = () => (window.SUBLIB?.versions || {})[document.getElementById('m-title').textContent];
+  const current = () => (window.SUBLIB?.versions || {})[document.getElementById('m-title').dataset.code || document.getElementById('m-title').textContent];
   const credit = v => registry.records[v.code + '@' + v.sha256];
   const confirmed = v => credit(v)?.status === 'confirmed' && !!credit(v)?.author;
   function paint() {

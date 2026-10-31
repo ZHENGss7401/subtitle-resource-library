@@ -266,7 +266,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     data = window.SUBLIB || {versions:{}};
     var all = Object.keys(data.versions).map(function(k){return data.versions[k];});
     var q = document.getElementById('q').value.trim().toUpperCase();
-    list = all.filter(function(v){return !q || v.code.toUpperCase().indexOf(q)>=0;})
+    list = all.filter(function(v){return !q || [v.code,v.display_name||''].concat(v.aliases||[]).join(' ').toUpperCase().indexOf(q)>=0;})
               .sort(function(a,b){return a.code.localeCompare(b.code);});
 
     var nOk=0,nBf=0,nUn=0;
@@ -291,7 +291,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       card.appendChild(shot);
 
       var cp=el('div','cp');
-      var r1=el('div','r1',v.code);
+      var r1=el('div','r1',v.display_name||v.code);
       r1.appendChild(el('span','st '+conf(v.confidence), v.confidence));
       cp.appendChild(r1);
       if(v.asset_type==='dynamic_video') cp.appendChild(el('div','r3','动态透明字幕 · MOV · '+v.fps+'fps'));
@@ -363,7 +363,8 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
   function openModal(v){
     opened=true; cur=v;
-    document.getElementById('m-title').textContent=v.code;
+    document.getElementById('m-title').dataset.code=v.code;
+    document.getElementById('m-title').textContent=v.display_name||v.code;
     document.getElementById('m-src').textContent =
       v.size[0]+'×'+v.size[1]+'　'+v.sha256.slice(0,16)+'　'+v.confidence+
       (v.aliases&&v.aliases.length?'　包名 '+v.aliases.join('/'):'')+

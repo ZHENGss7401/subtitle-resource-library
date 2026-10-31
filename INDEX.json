@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-30T14:01:16+08:00",
+  "built": "2026-10-31T10:32:44+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -18,7 +18,8 @@
     "10.26",
     "10.27",
     "10.28",
-    "10.30"
+    "10.30",
+    "10.31"
   ],
   "versions": {
     "A301-1": {
@@ -3373,6 +3374,90 @@
         "note": "按已确认字幕原文记录，保留原拼写与产品植入，不代表对健康或产品效果说法的事实核验。"
       },
       "copy_rel": "文案/A333-3_字幕原文.txt"
+    },
+    "A333-牙膏+果冻霜": {
+      "code": "A333-牙膏+果冻霜",
+      "pkg_code": "A333-牙膏+果冻霜",
+      "aliases": [
+        "A333·牙膏+果冻",
+        "A333-牙膏-果冻霜版"
+      ],
+      "dates": [
+        "10.31"
+      ],
+      "title": "医生不会告诉你，但我要跟你说的事",
+      "products": "OLCG牙膏＋OLCG果冻霜",
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.31\\001-A333-牙膏+果冻霜-10.31-余晓青-郑惠跃-（医生不会告诉你，但我要跟你说的事）-OLCG牙膏+OLCG果冻霜-郑雅斯-100"
+      ],
+      "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.31\\001-A333-牙膏+果冻霜-10.31-余晓青-郑惠跃-（医生不会告诉你，但我要跟你说的事）-OLCG牙膏+OLCG果冻霜-郑雅斯-100\\字幕夹\\A333-牙膏+果冻霜_动态透明字幕.mov",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+果冻霜.mov",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+果冻霜.mov",
+      "layer_rel": "定版/A333-牙膏+果冻霜.mov",
+      "asset_type": "dynamic_video",
+      "media_type": "video/quicktime",
+      "codec": "qtrle",
+      "has_alpha": true,
+      "fps": 60,
+      "duration": 6.05,
+      "animation_complete_seconds": 3.458333333333333,
+      "layer_preview_rel": "定版/A333-牙膏+果冻霜_动态预览.png",
+      "layer_still_rel": "定版/A333-牙膏+果冻霜_静态参考.png",
+      "layer_still_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+果冻霜_静态参考.png",
+      "preview_rel": "定版/A333-牙膏+果冻霜_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+果冻霜_预览.png",
+      "preview_video_rel": "定版/A333-牙膏+果冻霜_成品预览.mp4",
+      "preview_video_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+果冻霜_成品预览.mp4",
+      "preview_media_type": "video/mp4",
+      "preview_kind": "本批+8dB最终成品视频",
+      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.31\\001-A333-牙膏+果冻霜-10.31-余晓青-郑惠跃-（医生不会告诉你，但我要跟你说的事）-OLCG牙膏+OLCG果冻霜-郑雅斯-100\\定版样片.mp4",
+      "sha256": "4ea6a3c8be87a386fa8058c454db50aa3d68236080024e0bcbe3eb65570bd911",
+      "preview_sha256": "a553bc469aa3bcf99dcac07057b332bddb8529b913b63181626a76c86e59824e",
+      "preview_video_sha256": "a396666574254303e83da9baaa36d1922ec964bfe529b8f6750e069d3a094061",
+      "layer_preview_sha256": "05388e23f79decccaa63092018ddfa3a79087b5991e493ecd9b0e225234438f8",
+      "size": [
+        720,
+        1280
+      ],
+      "basis": "2026-10-31用户指定新PNG沿用A333-3打勾效果；明确本版署名并生产100条成品；最终成品音频统一+8dB；用户要求以A333·牙膏+果冻入库、沿用预览成品与MOV并上线看板。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "余晓青",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-10-31T02:16:37.244Z",
+      "copy": {
+        "source": "A333-牙膏+果冻霜_中英文文案.docx",
+        "lines": [
+          "Things Your Doctor Won't Tell You, But I Will",
+          "医生不会告诉你，但我要跟你说的事",
+          "Your anxiety is very likely caused by a long-term lack of sex.",
+          "你的焦虑很可能是长期缺乏性生活造成的。",
+          "Taking a shower at night often can lead to stroke and rheumatism.",
+          "经常在晚上洗澡可能导致中风和风湿。",
+          "Olcg Toothpaste on Amazon erases stains and whitens teeth in 7 days.",
+          "亚马逊上的OLCG牙膏能去除牙渍，并在7天内美白牙齿。",
+          "Don't wear tight underwear and yoga pants, they cause infections in women and ruin male fertility-your balls are being suffocated!",
+          "不要穿紧身内裤和瑜伽裤，它们会导致女性感染并损害男性生育能力——你的睾丸正在被勒得透不过气！",
+          "Sleeping with the fan on causes wet lungs and makes you sick easily.",
+          "开着风扇睡觉会导致“湿肺”，让你容易生病。",
+          "Olcg Collagen Jelly Cream erases wrinkles fast like magic in 7 days now available on Amazon.",
+          "OLCG胶原蛋白果冻霜能在7天内像魔法一样快速消除皱纹，现在已在亚马逊上架。",
+          "Women should eat more meat, veggie diets hinder conception and painless periods mean you're extrafertile.",
+          "女性应该多吃肉，素食会妨碍受孕；经期不痛意味着你的生育能力格外强。",
+          "Pure cranberry juice will balance your pH levels and make you taste like candy down there.",
+          "纯蔓越莓汁会平衡你的pH值，并让你的私密处尝起来像糖果。"
+        ],
+        "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.31\\001-A333-牙膏+果冻霜-10.31-余晓青-郑惠跃-（医生不会告诉你，但我要跟你说的事）-OLCG牙膏+OLCG果冻霜-郑雅斯-100",
+        "download_rel": "文案/A333-牙膏+果冻霜_中英文文案.docx",
+        "sha256": "225e788ab83b02e4eadb03d9676dc38e0aa0e725640448bbb2b5c0823e419b5f",
+        "note": "已通过DOCX结构验证；英文按本次确认PNG原文，中文与本次产品顺序对应。"
+      },
+      "copy_rel": "文案/A333-牙膏+果冻霜_中英文文案.docx",
+      "display_name": "A333·牙膏+果冻",
+      "copywriter": "郑惠跃",
+      "designer": "郑雅斯",
+      "preview_audio_gain_db": 8
     }
   }
 }
