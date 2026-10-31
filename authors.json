@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 35,
+  "revision": 36,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -188,6 +188,13 @@
       "confirmed_at": "2026-10-31T02:16:37.244Z",
       "asset_type": "dynamic_video",
       "confirmation_source": "本会话用户明确回复：作者余晓青、文案郑惠跃、美工郑雅斯；指定刚做好的牙膏+果冻霜动态字幕用于10.31这批生产。"
+    },
+    "A297-棉片+去污牙膏版@357fe042dd0070e882872d7d25e49b1bef9582867c9059f38cada32d4f8fa41b": {
+      "code": "A297-棉片+去污牙膏版",
+      "sha256": "357fe042dd0070e882872d7d25e49b1bef9582867c9059f38cada32d4f8fa41b",
+      "author": "",
+      "status": "pending",
+      "confirmation_source": "用户明确作者待定，后续确认"
     }
   },
   "history": [

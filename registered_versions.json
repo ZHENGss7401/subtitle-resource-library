@@ -935,6 +935,59 @@
       "copywriter": "郑惠跃",
       "designer": "郑雅斯",
       "preview_audio_gain_db": 8
+    },
+    "A297-棉片+去污牙膏版": {
+      "code": "A297-棉片+去污牙膏版",
+      "pkg_code": "A297",
+      "series_code": "A297",
+      "variant": "棉片+去污牙膏版",
+      "display_name": "A297-棉片+去污牙膏版",
+      "aliases": [
+        "A297-01",
+        "A297"
+      ],
+      "dates": [
+        "10.31"
+      ],
+      "title": "作为一名前医生，这是我坚持的立场",
+      "products": "Aveya棉片＋OLCG去污牙膏",
+      "src_packages": [],
+      "src_file": "C:\\Users\\111\\.codex\\visualizations\\2026\\10\\17\\01a14916-265b-73b0-b17c-02806e8c8266\\A297-01_720p.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A297-棉片+去污牙膏版.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A297-棉片+去污牙膏版.png",
+      "layer_rel": "定版/A297-棉片+去污牙膏版.png",
+      "preview_rel": "定版/A297-棉片+去污牙膏版_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A297-棉片+去污牙膏版_预览.png",
+      "preview_kind": "用户提供首帧预览原图",
+      "preview_from": "C:\\Users\\111\\AppData\\Local\\AhYue\\MediaFetch-1.9\\下载结果\\10.31-fb-发布北京时间2026.10.30_15时34分+播放6.06w+点赞148\\1433397725608835_首帧.png",
+      "sha256": "357fe042dd0070e882872d7d25e49b1bef9582867c9059f38cada32d4f8fa41b",
+      "preview_sha256": "1ae74a7527fa54ff82805a75aceee145ad7929e41b4418b733d315dbdf6ef986",
+      "size": [
+        720,
+        1280
+      ],
+      "basis": "2026-10-31惠跃主人明确：定版为A297-棉片+去污牙膏版，将资源入库、上线看板；作者待定等后面确认。附件PNG与首帧逐字节保留。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "待确认",
+      "author_status": "pending",
+      "copy": {
+        "source": "A297-棉片+去污牙膏版_字幕原文.txt",
+        "lines": [
+          "As a former doctor this is the stance I stand by",
+          "1.Drinking water You pee right away (it meansyou're young)",
+          "2.Fine lines Aveya Toner Pads on Amazon erases Fine lines like magic in 7 days",
+          "3.Sleep Don't sleep on your stomach, back, or side",
+          "4. Hair loss honey + coconut oil helped my hair grow faster",
+          "5.Insomnia Onion slice beside bed to quiet racing thoughts",
+          "6.Yellow teeth OLCG Stain-removal Toothpaste from Amazon whitens teeth like Pearls in one week"
+        ],
+        "download_rel": "文案/A297-棉片+去污牙膏版_字幕原文.txt",
+        "note": "英文按定版图片记录，保留原拼写与产品植入；非另行提供的原始文案文档。",
+        "sha256": "ec2c90074d7838b3f91c28d7e5bf61713faffbfa6e728d59e9a14bfc705ea344"
+      },
+      "copy_rel": "文案/A297-棉片+去污牙膏版_字幕原文.txt"
     }
   }
 }
