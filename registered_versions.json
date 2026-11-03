@@ -1001,31 +1001,30 @@
       "src_packages": [
         "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18"
       ],
-      "src_file": "C:\\Users\\111\\Downloads\\A1\\720p\\A314-2-字幕透明图.png",
+      "src_file": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A314-2-高清候选.png",
       "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2.png",
       "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2.png",
       "layer_rel": "定版/A314-2.png",
-      "preview_rel": "定版/A314-2_预览.png",
-      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2_预览.png",
-      "preview_kind": "用户提供预览原图（第3、5条与透明图不同）",
-      "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A314-2-预览图.png",
-      "sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
-      "preview_sha256": "9b87879b58474f293e91756c8a962a76817b7ade15bffb034ce73b04307eb951",
+      "preview_rel": "定版/A314-2_高清预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2_高清预览.png",
+      "preview_kind": "用户审阅通过高清字幕预览（透明PNG）",
+      "preview_from": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A314-2-高清候选.png",
+      "sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
+      "preview_sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
       "size": [
-        720,
-        1290
+        937,
+        1679
       ],
       "preview_size": [
-        720,
-        1290
+        937,
+        1679
       ],
-      "basis": "2026-11-03惠跃主人明确指定这两张附件为A314-2字幕资源，要求入库上线看板；透明图与预览图逐字节保留。",
+      "basis": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
       "confidence": "已证实",
       "contested": false,
       "discarded": [],
       "author": "李婷婷",
       "author_status": "confirmed",
-      "preview_note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
       "copy_note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
       "copy": {
         "source": "A314-2_字幕原文与中文对照.txt",
@@ -1054,7 +1053,26 @@
       "copy_rel": "文案/A314-2_字幕原文与中文对照.txt",
       "author_confirmed_at": "2026-11-03T13:18:02+08:00",
       "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18",
-      "copywriter": "张哲"
+      "copywriter": "张哲",
+      "previous_sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
+      "previous_src_file": "C:\\Users\\111\\Downloads\\A1\\720p\\A314-2-字幕透明图.png",
+      "original_preview": {
+        "preview_rel": "定版/A314-2_预览.png",
+        "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2_预览.png",
+        "preview_kind": "用户提供预览原图（第3、5条与透明图不同）",
+        "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A314-2-预览图.png",
+        "preview_sha256": "9b87879b58474f293e91756c8a962a76817b7ade15bffb034ce73b04307eb951",
+        "preview_size": [
+          720,
+          1290
+        ]
+      },
+      "layer_preview_rel": "定版/A314-2_高清预览.png",
+      "layer_preview_sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
+      "updated_at": "2026-11-03T13:59:25+08:00",
+      "enhancement": "AI高清渲染；审阅候选文件逐字节入库",
+      "approval_note": "用户确认满意并授权替换；以实际成片效果验收杂点。",
+      "original_preview_note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。"
     },
     "A346-1": {
       "code": "A346-1",
@@ -1068,25 +1086,25 @@
       "src_packages": [
         "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18"
       ],
-      "src_file": "C:\\Users\\111\\Downloads\\A346-1.png",
+      "src_file": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A346-1-高清候选.png",
       "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1.png",
       "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1.png",
       "layer_rel": "定版/A346-1.png",
-      "preview_rel": "定版/A346-1_预览.jpg",
-      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1_预览.jpg",
-      "preview_kind": "用户提供预览原图",
-      "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A346-1预览图.jpg",
-      "sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
-      "preview_sha256": "ffec0a49af8a39b8870e4315647eefa009d42ff3e6da9593670c221d91233660",
+      "preview_rel": "定版/A346-1_高清预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1_高清预览.png",
+      "preview_kind": "用户审阅通过高清字幕预览（透明PNG）",
+      "preview_from": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A346-1-高清候选.png",
+      "sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
+      "preview_sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
       "size": [
-        720,
-        1290
+        937,
+        1678
       ],
       "preview_size": [
-        720,
-        1290
+        937,
+        1678
       ],
-      "basis": "2026-11-03惠跃主人指定A346-1附件入库上线；按用户指定今日半成品包获取作者信息，原图逐字节保留。",
+      "basis": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
       "confidence": "已证实",
       "contested": false,
       "discarded": [],
@@ -1122,7 +1140,25 @@
       "copy_rel": "文案/A346-1_字幕原文与中文对照.txt",
       "author_confirmed_at": "2026-11-03T13:18:02+08:00",
       "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18",
-      "copywriter": "张哲"
+      "copywriter": "张哲",
+      "previous_sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
+      "previous_src_file": "C:\\Users\\111\\Downloads\\A346-1.png",
+      "original_preview": {
+        "preview_rel": "定版/A346-1_预览.jpg",
+        "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1_预览.jpg",
+        "preview_kind": "用户提供预览原图",
+        "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A346-1预览图.jpg",
+        "preview_sha256": "ffec0a49af8a39b8870e4315647eefa009d42ff3e6da9593670c221d91233660",
+        "preview_size": [
+          720,
+          1290
+        ]
+      },
+      "layer_preview_rel": "定版/A346-1_高清预览.png",
+      "layer_preview_sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
+      "updated_at": "2026-11-03T13:59:25+08:00",
+      "enhancement": "AI高清渲染；审阅候选文件逐字节入库",
+      "approval_note": "用户确认满意并授权替换；以实际成片效果验收杂点。"
     },
     "A357": {
       "code": "A357",
@@ -1136,25 +1172,25 @@
       "src_packages": [
         "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18"
       ],
-      "src_file": "C:\\Users\\111\\Downloads\\1021 (1)(8) (1).png",
+      "src_file": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A357-高清候选.png",
       "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357.png",
       "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357.png",
       "layer_rel": "定版/A357.png",
-      "preview_rel": "定版/A357_预览.jpg",
-      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357_预览.jpg",
-      "preview_kind": "用户提供预览原图",
-      "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A357-预览图.jpg",
-      "sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
-      "preview_sha256": "fc9091189e5c315ff747ac76114cf023c746f7a98c41517322b22afcc75d3b7d",
+      "preview_rel": "定版/A357_高清预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357_高清预览.png",
+      "preview_kind": "用户审阅通过高清字幕预览（透明PNG）",
+      "preview_from": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A357-高清候选.png",
+      "sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
+      "preview_sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
       "size": [
-        720,
-        1290
+        937,
+        1679
       ],
       "preview_size": [
-        720,
-        1290
+        937,
+        1679
       ],
-      "basis": "2026-11-03惠跃主人指定A357附件入库上线看板，沿用从今日半成品包获取对应作者信息的要求；原图逐字节保留。",
+      "basis": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
       "confidence": "已证实",
       "contested": false,
       "discarded": [],
@@ -1195,7 +1231,25 @@
         "sha256": "1243b78ed9a2d1b3580a4a755ba37673ec11e56c79b7beab6afd8b08ed7efbc2",
         "note": "按今日半成品包新版文案逐段提取，原DOCX原样保留，保留源文档拼写与空格。"
       },
-      "copy_rel": "文案/A357_原文案.docx"
+      "copy_rel": "文案/A357_原文案.docx",
+      "previous_sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
+      "previous_src_file": "C:\\Users\\111\\Downloads\\1021 (1)(8) (1).png",
+      "original_preview": {
+        "preview_rel": "定版/A357_预览.jpg",
+        "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357_预览.jpg",
+        "preview_kind": "用户提供预览原图",
+        "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A357-预览图.jpg",
+        "preview_sha256": "fc9091189e5c315ff747ac76114cf023c746f7a98c41517322b22afcc75d3b7d",
+        "preview_size": [
+          720,
+          1290
+        ]
+      },
+      "layer_preview_rel": "定版/A357_高清预览.png",
+      "layer_preview_sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
+      "updated_at": "2026-11-03T13:59:25+08:00",
+      "enhancement": "AI高清渲染；审阅候选文件逐字节入库",
+      "approval_note": "用户确认满意并授权替换；以实际成片效果验收杂点。"
     }
   }
 }

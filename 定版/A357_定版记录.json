@@ -10,25 +10,25 @@
   "src_packages": [
     "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18"
   ],
-  "src_file": "C:\\Users\\111\\Downloads\\1021 (1)(8) (1).png",
+  "src_file": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A357-高清候选.png",
   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357.png",
   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357.png",
   "layer_rel": "定版/A357.png",
-  "preview_rel": "定版/A357_预览.jpg",
-  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357_预览.jpg",
-  "preview_kind": "用户提供预览原图",
-  "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A357-预览图.jpg",
-  "sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
-  "preview_sha256": "fc9091189e5c315ff747ac76114cf023c746f7a98c41517322b22afcc75d3b7d",
+  "preview_rel": "定版/A357_高清预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357_高清预览.png",
+  "preview_kind": "用户审阅通过高清字幕预览（透明PNG）",
+  "preview_from": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A357-高清候选.png",
+  "sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
+  "preview_sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
   "size": [
-    720,
-    1290
+    937,
+    1679
   ],
   "preview_size": [
-    720,
-    1290
+    937,
+    1679
   ],
-  "basis": "2026-11-03惠跃主人指定A357附件入库上线看板，沿用从今日半成品包获取对应作者信息的要求；原图逐字节保留。",
+  "basis": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
   "confidence": "已证实",
   "contested": false,
   "discarded": [],
@@ -69,5 +69,23 @@
     "sha256": "1243b78ed9a2d1b3580a4a755ba37673ec11e56c79b7beab6afd8b08ed7efbc2",
     "note": "按今日半成品包新版文案逐段提取，原DOCX原样保留，保留源文档拼写与空格。"
   },
-  "copy_rel": "文案/A357_原文案.docx"
+  "copy_rel": "文案/A357_原文案.docx",
+  "previous_sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
+  "previous_src_file": "C:\\Users\\111\\Downloads\\1021 (1)(8) (1).png",
+  "original_preview": {
+    "preview_rel": "定版/A357_预览.jpg",
+    "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357_预览.jpg",
+    "preview_kind": "用户提供预览原图",
+    "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A357-预览图.jpg",
+    "preview_sha256": "fc9091189e5c315ff747ac76114cf023c746f7a98c41517322b22afcc75d3b7d",
+    "preview_size": [
+      720,
+      1290
+    ]
+  },
+  "layer_preview_rel": "定版/A357_高清预览.png",
+  "layer_preview_sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
+  "updated_at": "2026-11-03T13:59:25+08:00",
+  "enhancement": "AI高清渲染；审阅候选文件逐字节入库",
+  "approval_note": "用户确认满意并授权替换；以实际成片效果验收杂点。"
 }

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 38,
+  "revision": 39,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -225,6 +225,48 @@
       "confirmed_at": "2026-11-03T13:23:03+08:00",
       "confirmation_source": "按用户老规矩要求，从今日11.03半成品包获取对应作者信息",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18"
+    },
+    "A314-2@1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3": {
+      "code": "A314-2",
+      "sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
+      "author": "李婷婷",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:18:02+08:00",
+      "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18",
+      "derived_from_sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
+      "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
+      "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
+      "attribution_note": "同版高清增强，沿用原已确认作者署名。"
+    },
+    "A346-1@24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c": {
+      "code": "A346-1",
+      "sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
+      "author": "康慧敏",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:18:02+08:00",
+      "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18",
+      "derived_from_sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
+      "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
+      "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
+      "attribution_note": "同版高清增强，沿用原已确认作者署名。"
+    },
+    "A357@487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53": {
+      "code": "A357",
+      "sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
+      "author": "郑惠跃",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:23:03+08:00",
+      "confirmation_source": "按用户老规矩要求，从今日11.03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18",
+      "derived_from_sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
+      "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
+      "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
+      "attribution_note": "同版高清增强，沿用原已确认作者署名。"
     }
   },
   "history": [
