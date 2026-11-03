@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 36,
+  "revision": 37,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -195,6 +195,26 @@
       "author": "",
       "status": "pending",
       "confirmation_source": "用户明确作者待定，后续确认"
+    },
+    "A314-2@8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14": {
+      "code": "A314-2",
+      "sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
+      "author": "李婷婷",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:18:02+08:00",
+      "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18"
+    },
+    "A346-1@b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae": {
+      "code": "A346-1",
+      "sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
+      "author": "康慧敏",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:18:02+08:00",
+      "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18"
     }
   },
   "history": [

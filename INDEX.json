@@ -1,5 +1,5 @@
 {
-  "built": "2026-10-31T12:11:15+08:00",
+  "built": "2026-11-03T13:18:02+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -3511,6 +3511,141 @@
         "sha256": "ec2c90074d7838b3f91c28d7e5bf61713faffbfa6e728d59e9a14bfc705ea344"
       },
       "copy_rel": "文案/A297-棉片+去污牙膏版_字幕原文.txt"
+    },
+    "A314-2": {
+      "code": "A314-2",
+      "pkg_code": "A314-2",
+      "aliases": [],
+      "dates": [
+        "11.3"
+      ],
+      "title": "连医生都不会告诉你的秘密",
+      "products": "OLCG去污牙膏＋Aveya棉片",
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18"
+      ],
+      "src_file": "C:\\Users\\111\\Downloads\\A1\\720p\\A314-2-字幕透明图.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2.png",
+      "layer_rel": "定版/A314-2.png",
+      "preview_rel": "定版/A314-2_预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2_预览.png",
+      "preview_kind": "用户提供预览原图（第3、5条与透明图不同）",
+      "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A314-2-预览图.png",
+      "sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
+      "preview_sha256": "9b87879b58474f293e91756c8a962a76817b7ade15bffb034ce73b04307eb951",
+      "size": [
+        720,
+        1290
+      ],
+      "preview_size": [
+        720,
+        1290
+      ],
+      "basis": "2026-11-03惠跃主人明确指定这两张附件为A314-2字幕资源，要求入库上线看板；透明图与预览图逐字节保留。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "李婷婷",
+      "author_status": "confirmed",
+      "preview_note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
+      "copy_note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
+      "copy": {
+        "source": "A314-2_字幕原文与中文对照.txt",
+        "lines": [
+          "【资源差异说明】预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
+          "Secrets Even Doctors Won't Tell You",
+          "连医生都不会告诉你的秘密",
+          "1: Sex\nThree times a day\nMen focus better, women look younger",
+          "1：性生活\n一天三次\n男性注意力更集中，女性看起来更年轻",
+          "2: Gray hair\nVitamin H\nTurns black without needing hair dye",
+          "2：白发\n维生素 H\n无需染发即可变黑",
+          "3: Yellow teeth\nAmzon’s OLCG Stain-removal Toothpaste\n(Whitens teeth like pearls in one week)",
+          "3：黄牙\n亚马逊的 OLCG 去污牙膏\n（一周内让牙齿像珍珠一样洁白）",
+          "4: HPV vaccine\nVaccinate early\nA rare vaccine that prevents cancer",
+          "4：HPV 疫苗\n尽早接种\n一种少见的可预防癌症的疫苗",
+          "5: Aging skin:\nAveya Collagen toner pads from Amazon\n(can Fade fine lines on your face within 7 days,\nmaking you 10 years younger)",
+          "5：皮肤老化\n亚马逊的 Aveya 胶原蛋白爽肤棉片\n（可在 7 天内淡化面部细纹，\n让你年轻 10 岁）",
+          "6: Insomnia\nSleep head-to-toe\nFall asleep instantly",
+          "6：失眠\n头脚相对睡觉\n立即入睡"
+        ],
+        "download_rel": "文案/A314-2_字幕原文与中文对照.txt",
+        "note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
+        "sha256": "dc3a47e0b9e016943413483324445aedfa6b7872c138fc8e38ac7fb169fd636a",
+        "original_download_rel": "文案/A314-2_原文案.doc"
+      },
+      "copy_rel": "文案/A314-2_字幕原文与中文对照.txt",
+      "author_confirmed_at": "2026-11-03T13:18:02+08:00",
+      "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18",
+      "copywriter": "张哲"
+    },
+    "A346-1": {
+      "code": "A346-1",
+      "pkg_code": "A346-1",
+      "aliases": [],
+      "dates": [
+        "11.3"
+      ],
+      "title": "医生不会告诉你的事情，但我会告诉你",
+      "products": "Aveya棉片＋OLCG去污牙膏",
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18"
+      ],
+      "src_file": "C:\\Users\\111\\Downloads\\A346-1.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1.png",
+      "layer_rel": "定版/A346-1.png",
+      "preview_rel": "定版/A346-1_预览.jpg",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1_预览.jpg",
+      "preview_kind": "用户提供预览原图",
+      "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A346-1预览图.jpg",
+      "sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
+      "preview_sha256": "ffec0a49af8a39b8870e4315647eefa009d42ff3e6da9593670c221d91233660",
+      "size": [
+        720,
+        1290
+      ],
+      "preview_size": [
+        720,
+        1290
+      ],
+      "basis": "2026-11-03惠跃主人指定A346-1附件入库上线；按用户指定今日半成品包获取作者信息，原图逐字节保留。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "康慧敏",
+      "author_status": "confirmed",
+      "copy": {
+        "source": "A346-1_字幕原文与中文对照.txt",
+        "lines": [
+          "Things Your Doctor Won't Tell You, But I Will",
+          "医生不会告诉你的事情，但我会告诉你",
+          "Ejaculating before sex clears out old sperm, making pregnancy easier and improving embryo quality.",
+          "性生活前射精可以清除旧精子，让怀孕更容易并改善胚胎质量。",
+          "Washing internal areas (douching) after sex increases infection risk rather than preventing it.",
+          "性生活后冲洗内部私密部位会增加感染风险，而非预防感染。",
+          "Aveya Toner Pads on Amazon erase fine lines like magic in 7 days.",
+          "亚马逊上的 Aveya 爽肤棉片，7 天就能像魔法一样淡化细纹。",
+          "Taking a shower at night often can lead to stroke and rheumatism.",
+          "经常在晚上洗澡可能导致中风和风湿病。",
+          "Hugging and kissing your partner for 20 minutes a day lowers cortisol and helps you fall asleep faster.",
+          "每天拥抱和亲吻伴侣 20 分钟，可以降低皮质醇并帮助你更快入睡。",
+          "OLCG Stain-removal Toothpaste from Amazon Whitens teeth like pearls in one week",
+          "亚马逊的 OLCG 去污牙膏，一周内让牙齿像珍珠一样洁白。",
+          "Sleeping without underwear at night helps your intimate area breathe and prevents infections.",
+          "晚上不穿内裤睡觉，有助于私密部位透气并预防感染。",
+          "Pure pineapple juice will balance your ph levels and make you smell like flowers down there!",
+          "纯菠萝汁能平衡你的 pH 值，让私密部位闻起来像花一样香！"
+        ],
+        "download_rel": "文案/A346-1_字幕原文与中文对照.txt",
+        "sha256": "1f0cc10c142e1550f3afd045c32a6bf2e1cd0d08740d47515f869de88e7a1567",
+        "original_download_rel": "文案/A346-1_原文案.doc",
+        "note": "英文按用户透明字幕图记录；中文为对照翻译，原始DOC另存保留。"
+      },
+      "copy_rel": "文案/A346-1_字幕原文与中文对照.txt",
+      "author_confirmed_at": "2026-11-03T13:18:02+08:00",
+      "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18",
+      "copywriter": "张哲"
     }
   }
 }
