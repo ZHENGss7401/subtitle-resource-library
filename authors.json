@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 37,
+  "revision": 38,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -215,6 +215,16 @@
       "confirmed_at": "2026-11-03T13:18:02+08:00",
       "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18"
+    },
+    "A357@d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c": {
+      "code": "A357",
+      "sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
+      "author": "郑惠跃",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:23:03+08:00",
+      "confirmation_source": "按用户老规矩要求，从今日11.03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18"
     }
   },
   "history": [

@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-03T13:18:02+08:00",
+  "built": "2026-11-03T13:23:03+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -3646,6 +3646,79 @@
       "author_confirmed_at": "2026-11-03T13:18:02+08:00",
       "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18",
       "copywriter": "张哲"
+    },
+    "A357": {
+      "code": "A357",
+      "pkg_code": "A357",
+      "aliases": [],
+      "dates": [
+        "11.3"
+      ],
+      "title": "作为一名妇科医生我死也要死守的原则",
+      "products": "OLCG牙膏",
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18"
+      ],
+      "src_file": "C:\\Users\\111\\Downloads\\1021 (1)(8) (1).png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357.png",
+      "layer_rel": "定版/A357.png",
+      "preview_rel": "定版/A357_预览.jpg",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A357_预览.jpg",
+      "preview_kind": "用户提供预览原图",
+      "preview_from": "C:\\Users\\111\\Downloads\\A1\\720p\\A357-预览图.jpg",
+      "sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
+      "preview_sha256": "fc9091189e5c315ff747ac76114cf023c746f7a98c41517322b22afcc75d3b7d",
+      "size": [
+        720,
+        1290
+      ],
+      "preview_size": [
+        720,
+        1290
+      ],
+      "basis": "2026-11-03惠跃主人指定A357附件入库上线看板，沿用从今日半成品包获取对应作者信息的要求；原图逐字节保留。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "郑惠跃",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-11-03T13:23:03+08:00",
+      "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18",
+      "copywriter": "张哲",
+      "copy": {
+        "source": "357文案（新版）.docx",
+        "lines": [
+          "Hills I'll Die on",
+          "as a gynecologist",
+          "1. Avoid letting your partner enter from",
+          "behind-it'sbadforyouruterus.",
+          "2.Do not wear bras to bed - it can damage",
+          "breast tissue and reduce growth.",
+          "3. Treating acne scars is hard and $$$.",
+          "Taking Accutane to clear acne is easier.",
+          "4. Use OLCG Toothpaste on Amazon for",
+          "7 days straight and your teeth will look as",
+          "white as pearls.",
+          "5.Your breasts can temporarily get",
+          "fullerbefore your period.",
+          "6.Pumpkin seeds provide zinc, which",
+          "helpskeep skin smooth.",
+          "作为一名妇科医生，我坚持的观点：",
+          "避免让伴侣从后面进入——这对你的子宫不好。 ",
+          "不要戴着胸罩睡觉——可能损伤乳房组织，还会影响发育。 ",
+          "治疗痘印很难，而且很贵。比起后续修复，服用 Accutane 清除痘痘更容易。 ",
+          "连续 7 天使用亚马逊上的 olcg Toothpaste，你的牙齿会白得像珍珠一样。 ",
+          "月经来之前，胸部可能会暂时变得更丰满。 ",
+          "南瓜籽含有锌，有助于保持皮肤光滑。"
+        ],
+        "pkg": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18",
+        "download_rel": "文案/A357_原文案.docx",
+        "original_download_rel": "文案/A357_原文案.docx",
+        "sha256": "1243b78ed9a2d1b3580a4a755ba37673ec11e56c79b7beab6afd8b08ed7efbc2",
+        "note": "按今日半成品包新版文案逐段提取，原DOCX原样保留，保留源文档拼写与空格。"
+      },
+      "copy_rel": "文案/A357_原文案.docx"
     }
   }
 }
