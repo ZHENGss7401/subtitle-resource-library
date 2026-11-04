@@ -8,25 +8,25 @@
   "title": "医生不会告诉你的事情，但我会告诉你",
   "products": "Aveya棉片＋OLCG去污牙膏",
   "src_packages": [
-    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18"
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.03-英文-康慧敏-张哲-（医生不会告诉你的事情，但我会告诉你）-Aveya棉片+OLCG去污牙膏-郑雅斯-18"
   ],
   "src_file": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A346-1-高清候选.png",
   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1.png",
   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1.png",
   "layer_rel": "定版/A346-1.png",
-  "preview_rel": "定版/A346-1_高清预览.png",
-  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1_高清预览.png",
-  "preview_kind": "用户审阅通过高清字幕预览（透明PNG）",
-  "preview_from": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A346-1-高清候选.png",
+  "preview_rel": "定版/A346-1_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1_成品预览.png",
+  "preview_kind": "实际成品首帧（11.03对应版本）",
+  "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\1. 成品入口\\11.03\\003-A346-1-11.03-英文-康慧敏-张哲-（医生不会告诉你的事情，但我会告诉你）-Aveya棉片+OLCG去污牙膏-郑雅斯-18\\1163  11.3 fb.mp4",
   "sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
-  "preview_sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
+  "preview_sha256": "d9d29d41c3fb4b45c2335908d99b0e0512f0d173d2a378dfd9f446cd2eb18f33",
   "size": [
     937,
     1678
   ],
   "preview_size": [
-    937,
-    1678
+    720,
+    1280
   ],
   "basis": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
   "confidence": "已证实",
@@ -63,7 +63,7 @@
   },
   "copy_rel": "文案/A346-1_字幕原文与中文对照.txt",
   "author_confirmed_at": "2026-11-03T13:18:02+08:00",
-  "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18",
+  "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.03-英文-康慧敏-张哲-（医生不会告诉你的事情，但我会告诉你）-Aveya棉片+OLCG去污牙膏-郑雅斯-18",
   "copywriter": "张哲",
   "previous_sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
   "previous_src_file": "C:\\Users\\111\\Downloads\\A346-1.png",
@@ -80,7 +80,21 @@
   },
   "layer_preview_rel": "定版/A346-1_高清预览.png",
   "layer_preview_sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
-  "updated_at": "2026-11-03T13:59:25+08:00",
+  "updated_at": "2026-11-04T10:14:27+08:00",
   "enhancement": "AI高清渲染；审阅候选文件逐字节入库",
-  "approval_note": "用户确认满意并授权替换；以实际成片效果验收杂点。"
+  "approval_note": "用户确认满意并授权替换；以实际成片效果验收杂点。",
+  "previous_main_preview": {
+    "preview_rel": "定版/A346-1_高清预览.png",
+    "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A346-1_高清预览.png",
+    "preview_kind": "用户审阅通过高清字幕预览（透明PNG）",
+    "preview_from": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A346-1-高清候选.png",
+    "preview_sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
+    "preview_size": [
+      937,
+      1678
+    ]
+  },
+  "preview_frame_seconds": 0,
+  "preview_updated_date": "2026-11-04",
+  "preview_source_video_sha256": "45877883f1e43b495193a9b5e91a83f439bb31625db887fd0ae15e1ea0a295ca"
 }

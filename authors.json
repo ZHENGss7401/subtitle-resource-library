@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 39,
+  "revision": 40,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -267,6 +267,17 @@
       "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
       "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
       "attribution_note": "同版高清增强，沿用原已确认作者署名。"
+    },
+    "A348-1@c7090c21564d4e348f662f78cfbd780d4267013eb67bd60091e1161f78ad2ac5": {
+      "code": "A348-1",
+      "sha256": "c7090c21564d4e348f662f78cfbd780d4267013eb67bd60091e1161f78ad2ac5",
+      "author": "余晓青",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-04T10:14:27+08:00",
+      "confirmation_source": "沿用用户指定从11.03对应半成品包获取作者信息的规则",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\001-A348-1-11.3-余晓青-张哲-身体在向你发出这些信号-Aveya棉片+OLCG牙膏-18"
     }
   },
   "history": [

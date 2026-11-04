@@ -8,25 +8,25 @@
   "title": "连医生都不会告诉你的秘密",
   "products": "OLCG去污牙膏＋Aveya棉片",
   "src_packages": [
-    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18"
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.03-英文-李婷婷-张哲-（就连医生都不会告诉你的秘密）-OLCG去污牙膏+Aveya棉片-郑雅斯-18"
   ],
   "src_file": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A314-2-高清候选.png",
   "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2.png",
   "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2.png",
   "layer_rel": "定版/A314-2.png",
-  "preview_rel": "定版/A314-2_高清预览.png",
-  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2_高清预览.png",
-  "preview_kind": "用户审阅通过高清字幕预览（透明PNG）",
-  "preview_from": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A314-2-高清候选.png",
+  "preview_rel": "定版/A314-2_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2_成品预览.png",
+  "preview_kind": "实际成品首帧（11.03对应版本）",
+  "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\1. 成品入口\\11.03\\002-A314-2-11.03-英文-李婷婷-张哲-（就连医生都不会告诉你的秘密）-OLCG去污牙膏+Aveya棉片-郑雅斯-18\\047  11.3 fb.mp4",
   "sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
-  "preview_sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
+  "preview_sha256": "d882029b1ebd847903f1015971a6fc78805a1acebf70ced25b05fec23bb96c9b",
   "size": [
     937,
     1679
   ],
   "preview_size": [
-    937,
-    1679
+    720,
+    1280
   ],
   "basis": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
   "confidence": "已证实",
@@ -34,11 +34,10 @@
   "discarded": [],
   "author": "李婷婷",
   "author_status": "confirmed",
-  "copy_note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
+  "copy_note": "历史用户预览第3、5条与透明字幕不同；主预览现已替换为11.03实际成品首帧，历史原图保留。",
   "copy": {
     "source": "A314-2_字幕原文与中文对照.txt",
     "lines": [
-      "【资源差异说明】预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
       "Secrets Even Doctors Won't Tell You",
       "连医生都不会告诉你的秘密",
       "1: Sex\nThree times a day\nMen focus better, women look younger",
@@ -55,13 +54,13 @@
       "6：失眠\n头脚相对睡觉\n立即入睡"
     ],
     "download_rel": "文案/A314-2_字幕原文与中文对照.txt",
-    "note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
-    "sha256": "dc3a47e0b9e016943413483324445aedfa6b7872c138fc8e38ac7fb169fd636a",
+    "note": "历史用户预览第3、5条与透明字幕不同；主预览现已替换为11.03实际成品首帧，历史原图保留。 文案按透明图记录，中文为对照翻译。",
+    "sha256": "47c31661bb3519ee20c7a5dceea41d73cb1d395f547d92ca8118051155e12d3a",
     "original_download_rel": "文案/A314-2_原文案.doc"
   },
   "copy_rel": "文案/A314-2_字幕原文与中文对照.txt",
   "author_confirmed_at": "2026-11-03T13:18:02+08:00",
-  "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18",
+  "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.03-英文-李婷婷-张哲-（就连医生都不会告诉你的秘密）-OLCG去污牙膏+Aveya棉片-郑雅斯-18",
   "copywriter": "张哲",
   "previous_sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
   "previous_src_file": "C:\\Users\\111\\Downloads\\A1\\720p\\A314-2-字幕透明图.png",
@@ -78,8 +77,22 @@
   },
   "layer_preview_rel": "定版/A314-2_高清预览.png",
   "layer_preview_sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
-  "updated_at": "2026-11-03T13:59:25+08:00",
+  "updated_at": "2026-11-04T10:14:27+08:00",
   "enhancement": "AI高清渲染；审阅候选文件逐字节入库",
   "approval_note": "用户确认满意并授权替换；以实际成片效果验收杂点。",
-  "original_preview_note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。"
+  "original_preview_note": "预览图与透明字幕图内容不同：第3条预览为 OLCG Toothpaste / 7 days，透明图为 OLCG Stain-removal Toothpaste / one week（原图拼写 Amzon’s）；第5条预览为 OLCG Jelly Cream，透明图为 Aveya Collagen toner pads。两张用户原图原样保留，字幕文案按透明图记录；中文为对照翻译。",
+  "previous_main_preview": {
+    "preview_rel": "定版/A314-2_高清预览.png",
+    "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A314-2_高清预览.png",
+    "preview_kind": "用户审阅通过高清字幕预览（透明PNG）",
+    "preview_from": "C:\\Users\\111\\.codex\\generated_images\\01a19ff0-b853-79d1-baa7-4031d048c4ee\\字幕高清候选审阅-20261103\\A314-2-高清候选.png",
+    "preview_sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
+    "preview_size": [
+      937,
+      1679
+    ]
+  },
+  "preview_frame_seconds": 0,
+  "preview_updated_date": "2026-11-04",
+  "preview_source_video_sha256": "5c78f4dfa1131aa137dc700fd74afcfc04078381d87941d672f55cf4d4130d6d"
 }
