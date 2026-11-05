@@ -9823,6 +9823,144 @@
       "zhDisplay": "6. 黄牙：Amazon上的OLCG去污牙膏，一周内让牙齿如珍珠般洁白。",
       "zhOrigin": "新增中文译文",
       "addedAt": "2026-11-05"
+    },
+    {
+      "id": "Q33-7·01",
+      "code": "Q33-7",
+      "topic": "亲密关系与高潮",
+      "groupId": "T17",
+      "kind": "生活小tips",
+      "text": "1.Oral sex　Don't rush,women can reachorgasm.",
+      "zh": "",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "定版PNG原文",
+      "source": "Q33-7.png（定版PNG）；Q33-7定版文案.docx",
+      "line": "图片第1条",
+      "zhLine": "译文第1条",
+      "note": "英文及断行按定版PNG保留；中文为阅读译文。",
+      "preview": "定版/Q33-7_成品预览.png",
+      "layer": "定版/Q33-7.png",
+      "sha": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "textHash": "df217c13977f624b184cc526aa498ce715f13ef5fa98cf94245f8f7ec522492e",
+      "zhDisplay": "1. 口交：别着急，女性也能达到高潮。",
+      "zhOrigin": "新增中文译文",
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "Q33-7·02",
+      "code": "Q33-7",
+      "topic": "接吻与吸烟",
+      "groupId": "T138",
+      "kind": "生活小tips",
+      "text": "2.Kissing　Don't smoke girls will be picky",
+      "zh": "",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "定版PNG原文",
+      "source": "Q33-7.png（定版PNG）；Q33-7定版文案.docx",
+      "line": "图片第2条",
+      "zhLine": "译文第2条",
+      "note": "英文及断行按定版PNG保留；中文为阅读译文。",
+      "preview": "定版/Q33-7_成品预览.png",
+      "layer": "定版/Q33-7.png",
+      "sha": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "textHash": "652e1edd400f09337b56df16e1225d896208dfbbc8ba658dc7db00234ec02dfc",
+      "zhDisplay": "2. 接吻：别抽烟，女生会很挑剔。",
+      "zhOrigin": "新增中文译文",
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "Q33-7·03",
+      "code": "Q33-7",
+      "topic": "胸部下垂",
+      "groupId": "T139",
+      "kind": "生活小tips",
+      "text": "3.Big bust　Don't wear a camisole,prone to sagging",
+      "zh": "",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "定版PNG原文",
+      "source": "Q33-7.png（定版PNG）；Q33-7定版文案.docx",
+      "line": "图片第3条",
+      "zhLine": "译文第3条",
+      "note": "英文及断行按定版PNG保留；中文为阅读译文。",
+      "preview": "定版/Q33-7_成品预览.png",
+      "layer": "定版/Q33-7.png",
+      "sha": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "textHash": "516317fe882239d74ff50049078f4aae72f30c515775820ea5e1b02da76501ca",
+      "zhDisplay": "3. 大胸：不要穿吊带衫，容易下垂。",
+      "zhOrigin": "新增中文译文",
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "Q33-7·04",
+      "code": "Q33-7",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "4.Yellow teeth　OLCG Toothpaste on Amazon\n(Whitens teeth like pearls in 7 days)",
+      "zh": "",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "定版PNG原文",
+      "source": "Q33-7.png（定版PNG）；Q33-7定版文案.docx",
+      "line": "图片第4条",
+      "zhLine": "译文第4条",
+      "note": "英文及断行按定版PNG保留；中文为阅读译文。",
+      "preview": "定版/Q33-7_成品预览.png",
+      "layer": "定版/Q33-7.png",
+      "sha": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "textHash": "571ee01b8fe5fd38058f0510ea46b278fce542ad04f4f8db7a8eaf9bd23d397d",
+      "zhDisplay": "4. 黄牙：Amazon上的OLCG牙膏（7天让牙齿白得像珍珠）。",
+      "zhOrigin": "新增中文译文",
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "Q33-7·05",
+      "code": "Q33-7",
+      "topic": "腿毛护理",
+      "groupId": "T83",
+      "kind": "生活小tips",
+      "text": "5.Leg hair　Salt + lemon juice rub hair sheds",
+      "zh": "",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "定版PNG原文",
+      "source": "Q33-7.png（定版PNG）；Q33-7定版文案.docx",
+      "line": "图片第5条",
+      "zhLine": "译文第5条",
+      "note": "英文及断行按定版PNG保留；中文为阅读译文。",
+      "preview": "定版/Q33-7_成品预览.png",
+      "layer": "定版/Q33-7.png",
+      "sha": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "textHash": "3bafea2ced1b409a4917316a85c87ba5b3ea899e137463094dc7b6b233a33ccd",
+      "zhDisplay": "5. 腿毛：盐＋柠檬汁搓一搓，毛就会脱落。",
+      "zhOrigin": "新增中文译文",
+      "addedAt": "2026-11-05"
+    },
+    {
+      "id": "Q33-7·06",
+      "code": "Q33-7",
+      "topic": "淡化细纹",
+      "groupId": "T03",
+      "kind": "产品植入",
+      "text": "6. wrinkles　Aveya toner pads from Amazon\nLike an eraser wiping away lines&erase 3 of your\nfine lines in just 7 days.",
+      "zh": "",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "定版PNG原文",
+      "source": "Q33-7.png（定版PNG）；Q33-7定版文案.docx",
+      "line": "图片第6条",
+      "zhLine": "译文第6条",
+      "note": "英文及断行按定版PNG保留；中文为阅读译文。",
+      "preview": "定版/Q33-7_成品预览.png",
+      "layer": "定版/Q33-7.png",
+      "sha": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "textHash": "1a621a0e91d0d2c4ad3be59fb6a581e438847fac9e7c73b532dc0d03618fe68a",
+      "zhDisplay": "6. 皱纹：Amazon上的Aveya爽肤棉片，像橡皮擦擦掉线条一样，只需7天，擦掉你3条细纹。",
+      "zhOrigin": "新增中文译文",
+      "addedAt": "2026-11-05"
     }
   ],
   "groups": [
@@ -9848,8 +9986,8 @@
     {
       "id": "T03",
       "name": "淡化细纹",
-      "count": 52,
-      "forms": 45,
+      "count": 53,
+      "forms": 46,
       "versions": [
         "A301-1",
         "A308",
@@ -9897,7 +10035,8 @@
         "A314-2",
         "A346-1",
         "A348-1",
-        "Q33-6"
+        "Q33-6",
+        "Q33-7"
       ]
     },
     {
@@ -9913,8 +10052,8 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 29,
-      "forms": 28,
+      "count": 30,
+      "forms": 29,
       "versions": [
         "A301-1",
         "A310",
@@ -9940,7 +10079,8 @@
         "A346-1",
         "A357",
         "A348-1",
-        "Q33-6"
+        "Q33-6",
+        "Q33-7"
       ]
     },
     {
@@ -10073,10 +10213,11 @@
     {
       "id": "T17",
       "name": "亲密关系与高潮",
-      "count": 1,
-      "forms": 1,
+      "count": 2,
+      "forms": 2,
       "versions": [
-        "A311"
+        "A311",
+        "Q33-7"
       ]
     },
     {
@@ -10803,12 +10944,13 @@
     {
       "id": "T83",
       "name": "腿毛护理",
-      "count": 3,
-      "forms": 2,
+      "count": 4,
+      "forms": 3,
       "versions": [
         "Q32",
         "Q32-1【常规版】",
-        "Q32-1【粉色标题版】"
+        "Q32-1【粉色标题版】",
+        "Q33-7"
       ]
     },
     {
@@ -11333,6 +11475,24 @@
       "forms": 1,
       "versions": [
         "A348-1"
+      ]
+    },
+    {
+      "id": "T138",
+      "name": "接吻与吸烟",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-7"
+      ]
+    },
+    {
+      "id": "T139",
+      "name": "胸部下垂",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-7"
       ]
     }
   ],
@@ -13937,6 +14097,40 @@
       "sourceBuilt": "2026-11-05T05:44:49.762Z",
       "assetType": "image",
       "previewSha": "52f93ddf5037d92131d1528e01aa701d647a0e905e85f0428baf762adeeb7a30"
+    },
+    {
+      "code": "Q33-7",
+      "count": 6,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "Q33-7定版文案.docx（另存定版）",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Oral sex　Don't rush,women can reachorgasm.",
+        "2.Kissing　Don't smoke girls will be picky",
+        "3.Big bust　Don't wear a camisole,prone to sagging",
+        "4.Yellow teeth　OLCG Toothpaste on Amazon",
+        "(Whitens teeth like pearls in 7 days)",
+        "5.Leg hair　Salt + lemon juice rub hair sheds",
+        "6. wrinkles　Aveya toner pads from Amazon",
+        "Like an eraser wiping away lines&erase 3 of your",
+        "fine lines in just 7 days.",
+        "中文译文（阅读用；以定版英文原文为准）",
+        "连医生都不会告诉你的秘密",
+        "1. 口交：别着急，女性也能达到高潮。",
+        "2. 接吻：别抽烟，女生会很挑剔。",
+        "3. 大胸：不要穿吊带衫，容易下垂。",
+        "4. 黄牙：Amazon上的OLCG牙膏（7天让牙齿白得像珍珠）。",
+        "5. 腿毛：盐＋柠檬汁搓一搓，毛就会脱落。",
+        "6. 皱纹：Amazon上的Aveya爽肤棉片，像橡皮擦擦掉线条一样，只需7天，擦掉你3条细纹。"
+      ],
+      "layer": "定版/Q33-7.png",
+      "preview": "定版/Q33-7_成品预览.png",
+      "sha": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "aliases": [],
+      "sourceBuilt": "2026-11-05T05:56:16.782Z",
+      "assetType": "image",
+      "previewSha": "af9f9dcbc1f8bc0ba98dbe721593c5dfae353d7160cbc7cb7bf9c5722628624a"
     }
   ],
   "coverage": [
@@ -23305,6 +23499,120 @@
       15,
       "中文译文（阅读用）",
       "6. 黄牙：Amazon上的OLCG去污牙膏，一周内让牙齿如珍珠般洁白。"
+    ],
+    [
+      "Q33-7",
+      1,
+      "定版PNG英文原文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-7",
+      2,
+      "定版PNG英文原文",
+      "won't tell you"
+    ],
+    [
+      "Q33-7",
+      3,
+      "定版PNG英文原文",
+      "1.Oral sex　Don't rush,women can reachorgasm."
+    ],
+    [
+      "Q33-7",
+      4,
+      "定版PNG英文原文",
+      "2.Kissing　Don't smoke girls will be picky"
+    ],
+    [
+      "Q33-7",
+      5,
+      "定版PNG英文原文",
+      "3.Big bust　Don't wear a camisole,prone to sagging"
+    ],
+    [
+      "Q33-7",
+      6,
+      "定版PNG英文原文",
+      "4.Yellow teeth　OLCG Toothpaste on Amazon"
+    ],
+    [
+      "Q33-7",
+      7,
+      "定版PNG英文原文",
+      "(Whitens teeth like pearls in 7 days)"
+    ],
+    [
+      "Q33-7",
+      8,
+      "定版PNG英文原文",
+      "5.Leg hair　Salt + lemon juice rub hair sheds"
+    ],
+    [
+      "Q33-7",
+      9,
+      "定版PNG英文原文",
+      "6. wrinkles　Aveya toner pads from Amazon"
+    ],
+    [
+      "Q33-7",
+      10,
+      "定版PNG英文原文",
+      "Like an eraser wiping away lines&erase 3 of your"
+    ],
+    [
+      "Q33-7",
+      11,
+      "定版PNG英文原文",
+      "fine lines in just 7 days."
+    ],
+    [
+      "Q33-7",
+      12,
+      "中文译文（阅读用）",
+      "中文译文（阅读用；以定版英文原文为准）"
+    ],
+    [
+      "Q33-7",
+      13,
+      "中文译文（阅读用）",
+      "连医生都不会告诉你的秘密"
+    ],
+    [
+      "Q33-7",
+      14,
+      "中文译文（阅读用）",
+      "1. 口交：别着急，女性也能达到高潮。"
+    ],
+    [
+      "Q33-7",
+      15,
+      "中文译文（阅读用）",
+      "2. 接吻：别抽烟，女生会很挑剔。"
+    ],
+    [
+      "Q33-7",
+      16,
+      "中文译文（阅读用）",
+      "3. 大胸：不要穿吊带衫，容易下垂。"
+    ],
+    [
+      "Q33-7",
+      17,
+      "中文译文（阅读用）",
+      "4. 黄牙：Amazon上的OLCG牙膏（7天让牙齿白得像珍珠）。"
+    ],
+    [
+      "Q33-7",
+      18,
+      "中文译文（阅读用）",
+      "5. 腿毛：盐＋柠檬汁搓一搓，毛就会脱落。"
+    ],
+    [
+      "Q33-7",
+      19,
+      "中文译文（阅读用）",
+      "6. 皱纹：Amazon上的Aveya爽肤棉片，像橡皮擦擦掉线条一样，只需7天，擦掉你3条细纹。"
     ]
   ],
   "retired": {
@@ -23313,31 +23621,31 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "e08bec0237a7458d9517e8b2c14e353b7e33692431c3476c3e88d27666238bc0",
+  "indexSha": "23467cf51e6326f1a74f66e00ca976025cdd1e42680c52dff336c3451e25fa45",
   "latestBatch": {
     "date": "2026-11-05",
     "versions": [
-      "Q33-6"
+      "Q33-7"
     ],
     "newVersions": [
-      "Q33-6"
+      "Q33-7"
     ],
     "records": 6,
     "recordIds": [
-      "Q33-6·01",
-      "Q33-6·02",
-      "Q33-6·03",
-      "Q33-6·04",
-      "Q33-6·05",
-      "Q33-6·06"
+      "Q33-7·01",
+      "Q33-7·02",
+      "Q33-7·03",
+      "Q33-7·04",
+      "Q33-7·05",
+      "Q33-7·06"
     ]
   },
   "alignment": {
-    "subtitleVersions": 57,
-    "coveredVersions": 57,
+    "subtitleVersions": 58,
+    "coveredVersions": 58,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "e08bec0237a7458d9517e8b2c14e353b7e33692431c3476c3e88d27666238bc0",
+    "sourceIndexSha256": "23467cf51e6326f1a74f66e00ca976025cdd1e42680c52dff336c3451e25fa45",
     "checkedAt": "2026-11-05"
   }
 }

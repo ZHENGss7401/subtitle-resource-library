@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-05T05:44:49.762Z",
+  "built": "2026-11-05T05:56:16.782Z",
   "scope": [
     "10.7",
     "10.8",
@@ -3951,6 +3951,59 @@
       },
       "copy_rel": "文案/Q33-6.docx",
       "updated_at": "2026-11-05T05:44:49.762Z"
+    },
+    "Q33-7": {
+      "code": "Q33-7",
+      "pkg_code": "Q33-7",
+      "aliases": [],
+      "dates": [
+        "11.05"
+      ],
+      "layer_rel": "定版/Q33-7.png",
+      "preview_rel": "定版/Q33-7_成品预览.png",
+      "preview_kind": "实际成品首帧",
+      "preview_sha256": "af9f9dcbc1f8bc0ba98dbe721593c5dfae353d7160cbc7cb7bf9c5722628624a",
+      "sha256": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "size": [
+        720,
+        1290
+      ],
+      "basis": "2026-11-05 惠跃主人明确授权Q33-7入库上线；定版PNG原样保留，预览为实际成品002.mp4第0帧",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "author_status": "confirmed",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "Q33-7定版文案.docx",
+        "lines": [
+          "Secrets even doctors",
+          "won't tell you",
+          "1.Oral sex　Don't rush,women can reachorgasm.",
+          "2.Kissing　Don't smoke girls will be picky",
+          "3.Big bust　Don't wear a camisole,prone to sagging",
+          "4.Yellow teeth　OLCG Toothpaste on Amazon",
+          "(Whitens teeth like pearls in 7 days)",
+          "5.Leg hair　Salt + lemon juice rub hair sheds",
+          "6. wrinkles　Aveya toner pads from Amazon",
+          "Like an eraser wiping away lines&erase 3 of your",
+          "fine lines in just 7 days.",
+          "中文译文（阅读用；以定版英文原文为准）",
+          "连医生都不会告诉你的秘密",
+          "1. 口交：别着急，女性也能达到高潮。",
+          "2. 接吻：别抽烟，女生会很挑剔。",
+          "3. 大胸：不要穿吊带衫，容易下垂。",
+          "4. 黄牙：Amazon上的OLCG牙膏（7天让牙齿白得像珍珠）。",
+          "5. 腿毛：盐＋柠檬汁搓一搓，毛就会脱落。",
+          "6. 皱纹：Amazon上的Aveya爽肤棉片，像橡皮擦擦掉线条一样，只需7天，擦掉你3条细纹。"
+        ],
+        "download_rel": "文案/Q33-7.docx",
+        "note": "英文及断行按定版PNG保留，原拼写与标点未润色；中文为阅读译文。仅使用另存的定版文案，不读取或修改被占用旧稿。"
+      },
+      "copy_rel": "文案/Q33-7.docx",
+      "updated_at": "2026-11-05T05:56:16.782Z"
     }
   }
 }
