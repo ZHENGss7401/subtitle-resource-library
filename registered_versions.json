@@ -612,12 +612,12 @@
       "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-4.png",
       "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-4.png",
       "layer_rel": "定版/Q33-4.png",
-      "preview_rel": "定版/Q33-4_预览.png",
-      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-4_预览.png",
-      "preview_kind": "实际成品预览",
-      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG牙膏-郑雅斯-40\\agent夹\\_实际成品预览.png",
+      "preview_rel": "定版/Q33-4_成品首帧-20261105.png",
+      "preview_abs": "Y:/足贴视频素材/BOREAC淋巴滴剂/0. 字幕资源库/定版/Q33-4_成品首帧-20261105.png",
+      "preview_kind": "用户指定成品视频首帧",
+      "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/1. 成品入口/11.04/013-Q33-4-11.04-自选素材-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG牙膏-郑雅斯-25/韩妮/708 11.4 fb.mp4",
       "sha256": "2727f6974c0fcd11636c6c26626c02d88dc0a2f7786c017065e0c5ed049672a4",
-      "preview_sha256": "959e7003d87fe679d299c2a8e5078af858ef4c3928bca77d3e5dd0a67dc2c042",
+      "preview_sha256": "bda6adefe571644d6add023f2e1dda642a9a04ceb3a1673cac12520f1c80a1df",
       "size": [
         720,
         1280
@@ -654,7 +654,21 @@
         "sha256": "a93ce574980ee09a32bb16cd3829e0cf69d0eed27444d25989a5a93dd1d31269",
         "note": "英文按指定PNG原文记录，保留原拼写和产品植入；中文为逐项对照。"
       },
-      "copy_rel": "文案/Q33-4_中英文文案.docx"
+      "copy_rel": "文案/Q33-4_中英文文案.docx",
+      "previous_main_preview": {
+        "preview_rel": "定版/Q33-4_预览.png",
+        "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-4_预览.png",
+        "preview_kind": "实际成品预览",
+        "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG牙膏-郑雅斯-40\\agent夹\\_实际成品预览.png",
+        "preview_sha256": "959e7003d87fe679d299c2a8e5078af858ef4c3928bca77d3e5dd0a67dc2c042"
+      },
+      "preview_size": [
+        720,
+        1280
+      ],
+      "preview_frame_seconds": 0,
+      "preview_updated_date": "2026-11-05",
+      "preview_source_video_sha256": "3b98b9b1f05be557f6d8fcd4b1fd75b1824efd1bd1b08cea8d73219280dd04d6"
     },
     "Q33-5": {
       "code": "Q33-5",
@@ -672,12 +686,12 @@
       "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-5.png",
       "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-5.png",
       "layer_rel": "定版/Q33-5.png",
-      "preview_rel": "定版/Q33-5_预览.png",
-      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-5_预览.png",
-      "preview_kind": "实际成品预览",
-      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜-郑雅斯-40\\agent夹\\_实际成品预览.png",
+      "preview_rel": "定版/Q33-5_成品首帧-20261105.png",
+      "preview_abs": "Y:/足贴视频素材/BOREAC淋巴滴剂/0. 字幕资源库/定版/Q33-5_成品首帧-20261105.png",
+      "preview_kind": "用户指定成品视频首帧",
+      "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/1. 成品入口/10.31/002-Q33-10.31-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-100/Q33-5-10.31-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜-郑雅斯-60/029.mp4",
       "sha256": "1cb9c9b7e94456b3ede14993bd437af71fc9e38c7d17962bd8cd7656c8ce5ce1",
-      "preview_sha256": "5f0ed51ff0cc648018b083b3dd6f1054331b976d2578ece65b211970d94c5423",
+      "preview_sha256": "904bc3ce181e29228c1ba0d49d8e1f2093dd10522701fb09d76a8b3d27bbb1b9",
       "size": [
         720,
         1280
@@ -714,7 +728,21 @@
         "sha256": "b39ced2417ad8e25fe2663d33dd4917b70ae8f22451b400bfde5e89e728d35c4",
         "note": "英文按指定PNG原文记录，保留原拼写和产品植入；中文为逐项对照。"
       },
-      "copy_rel": "文案/Q33-5_中英文文案.docx"
+      "copy_rel": "文案/Q33-5_中英文文案.docx",
+      "previous_main_preview": {
+        "preview_rel": "定版/Q33-5_预览.png",
+        "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-5_预览.png",
+        "preview_kind": "实际成品预览",
+        "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.28\\006-Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-双产品组合-郑雅斯-80\\Q33-10.28-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG牙膏+OLCG果冻霜-郑雅斯-40\\agent夹\\_实际成品预览.png",
+        "preview_sha256": "5f0ed51ff0cc648018b083b3dd6f1054331b976d2578ece65b211970d94c5423"
+      },
+      "preview_size": [
+        720,
+        1280
+      ],
+      "preview_frame_seconds": 0,
+      "preview_updated_date": "2026-11-05",
+      "preview_source_video_sha256": "834b2e650987e017af2d1f6910b54294e2103652dc183b11c4de6755efdfea55"
     },
     "A325": {
       "code": "A325",
