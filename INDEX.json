@@ -1,5 +1,5 @@
 {
- "built": "2026-11-05T06:10:56.422Z",
+ "built": "2026-11-05T09:46:41.212Z",
  "scope": [
   "10.7",
   "10.8",
@@ -4085,6 +4085,69 @@
    },
    "copy_rel": "文案/Q33-8.docx",
    "updated_at": "2026-11-05T06:10:56.422Z"
+  },
+  "Q33-9": {
+   "code": "Q33-9",
+   "pkg_code": "Q33-9",
+   "aliases": [],
+   "dates": [
+    "11.05"
+   ],
+   "title": "连医生都不会告诉你的秘密",
+   "products": "OLCG牙膏+Aveya棉片",
+   "src_packages": [],
+   "src_file": "C:/Users/111/Downloads/Q33-9-跃.png",
+   "definitive": "Y:/足贴视频素材/BOREAC淋巴滴剂/0. 字幕资源库/定版/Q33-9.png",
+   "definitive_abs": "Y:/足贴视频素材/BOREAC淋巴滴剂/0. 字幕资源库/定版/Q33-9.png",
+   "layer_rel": "定版/Q33-9.png",
+   "preview_rel": "定版/Q33-9_预览.jpg",
+   "preview_abs": "Y:/足贴视频素材/BOREAC淋巴滴剂/0. 字幕资源库/定版/Q33-9_预览.jpg",
+   "preview_kind": "用户提供预览原图",
+   "preview_from": "C:/Users/111/Downloads/Q33-8对标.jpg_2dcfad64_(1).jpg_4a2c3ecb_2K.jpg",
+   "preview_sha256": "d9362dd6ecb11a28f35c4d676cfe958c8edd4a406b4239af6f5747ab4f8759cc",
+   "preview_size": [
+    1536,
+    2752
+   ],
+   "sha256": "2ce4147bcc09ad2425f6466db53bf6858df4efe256c53b4e66b3c08daf7f6000",
+   "size": [
+    1080,
+    1934
+   ],
+   "basis": "2026-11-05 惠跃主人提供两张附件并明确要求入库上线看板；第一张以Q33-9独立登记为定版透明字幕PNG，第二张作为配套预览，附件逐字节保留。作者由用户明确确认为郑惠跃。",
+   "confidence": "已证实",
+   "contested": false,
+   "discarded": [],
+   "author": "郑惠跃",
+   "author_status": "confirmed",
+   "copy": {
+    "source": "Q33-9-跃.png（逐字转录）",
+    "lines": [
+     "Secrets even doctors",
+     "won't tell you",
+     "1.Make love　Do more - less fine lines",
+     "2.Droopy chest　Vitamin E - No more sag",
+     "3.Snoring　Vitamin C - Quiet all night long",
+     "4.Yellow teeth　OLCG Toothpaste on Amazon",
+     "(Whitens teeth like pearls in 7 days)",
+     "5.Grey hair　Vitamin H - Turns black without dye.",
+     "6. Wrinkles　Aveya toner pads from Amazon",
+     "Like an eraser wiping away lines&erase 3 of",
+     "your fine lines in just 7 days.",
+     "中文译文（阅读用；以定版英文原文为准）",
+     "连医生都不会告诉你的秘密",
+     "1. 做爱：多做——细纹更少。",
+     "2. 胸部下垂：维生素E——不再下垂。",
+     "3. 打鼾：维生素C——整夜安静。",
+     "4. 黄牙：Amazon上的OLCG牙膏（7天让牙齿白得像珍珠）。",
+     "5. 白发：维生素H——不用染发就变黑。",
+     "6. 皱纹：Amazon上的Aveya爽肤棉片，像橡皮擦擦掉线条一样，只需7天，擦掉你3条细纹。"
+    ],
+    "download_rel": "文案/Q33-9_中英文对照.txt",
+    "note": "英文及断行按定版PNG记录，保留原拼写标点；中文为啊跃阅读译文。第二张预览原文件名含Q33-8，按本次随Q33-9配对附件登记，不作为Q33-8版本别名。"
+   },
+   "copy_rel": "文案/Q33-9_中英文对照.txt",
+   "updated_at": "2026-11-05T09:46:41.029Z"
   }
  }
 }
