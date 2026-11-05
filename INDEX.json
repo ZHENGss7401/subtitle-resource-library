@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-04T10:14:27+08:00",
+  "built": "2026-11-05T05:44:49.762Z",
   "scope": [
     "10.7",
     "10.8",
@@ -3902,6 +3902,55 @@
       "preview_frame_seconds": 0,
       "preview_updated_date": "2026-11-04",
       "preview_source_video_sha256": "262d78dcbca0cc760ece9a08b136ac46afcd7cf2280b0e12b0d4e128ecdf744d"
+    },
+    "Q33-6": {
+      "code": "Q33-6",
+      "pkg_code": "Q33-6",
+      "aliases": [],
+      "dates": [
+        "11.05"
+      ],
+      "layer_rel": "定版/Q33-6.png",
+      "preview_rel": "定版/Q33-6_成品预览.png",
+      "preview_kind": "实际成品首帧",
+      "preview_sha256": "52f93ddf5037d92131d1528e01aa701d647a0e905e85f0428baf762adeeb7a30",
+      "sha256": "41a87dcdf7f28f707b2e8b8761f9ee8ae09823fa3417c42b8a639568cd6c977c",
+      "size": [
+        720,
+        1290
+      ],
+      "basis": "2026-11-05 惠跃主人明确授权Q33-6入库上线；定版PNG原样保留，预览为实际成品001.mp4第0帧",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "author_status": "confirmed",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "Q33-6文案.docx",
+        "lines": [
+          "Secrets even doctors\nwon’t tell you",
+          "1.Oral sex　Do less - throat cancer",
+          "2.Foot odor　Vitamin B1 - The odor is gone",
+          "3.Snoring　Vitamin C - Quiet all night long",
+          "4.Wrinkled face　Aveya Toner Pads from Amazon\n(erases fine lines like magic in 3 days)",
+          "5.Grey hair　Vitamin H - Turns black without dye.",
+          "6. Yellow teeth　OLCG Stain-removal Toothpaste\nfrom Amazon Whitens teeth like pearls in one week",
+          "中文译文（阅读用；以定版英文原文为准）",
+          "连医生都不会告诉你的秘密",
+          "1. 口交：少做——咽喉癌。",
+          "2. 脚臭：维生素B1——异味消失。",
+          "3. 打鼾：维生素C——整夜安静。",
+          "4. 有皱纹的脸：Amazon上的Aveya棉片（3天内像魔法一样淡化细纹）。",
+          "5. 白发：维生素H——不用染发就变黑。",
+          "6. 黄牙：Amazon上的OLCG去污牙膏，一周内让牙齿如珍珠般洁白。"
+        ],
+        "download_rel": "文案/Q33-6.docx",
+        "note": "依据定版PNG同步第4和第6条；中文为译文。"
+      },
+      "copy_rel": "文案/Q33-6.docx",
+      "updated_at": "2026-11-05T05:44:49.762Z"
     }
   }
 }

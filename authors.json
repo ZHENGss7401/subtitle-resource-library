@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 40,
+  "revision": 41,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -278,6 +278,14 @@
       "confirmed_at": "2026-11-04T10:14:27+08:00",
       "confirmation_source": "沿用用户指定从11.03对应半成品包获取作者信息的规则",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\001-A348-1-11.3-余晓青-张哲-身体在向你发出这些信号-Aveya棉片+OLCG牙膏-18"
+    },
+    "Q33-6@41a87dcdf7f28f707b2e8b8761f9ee8ae09823fa3417c42b8a639568cd6c977c": {
+      "code": "Q33-6",
+      "sha256": "41a87dcdf7f28f707b2e8b8761f9ee8ae09823fa3417c42b8a639568cd6c977c",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-05T13:42:13.725764+08:00",
+      "confirmation_source": "2026-11-05 惠跃主人提供Q33-6-11.05-新版-英文-张哲-张哲包路径并要求完成该包；顺序为作者张哲、文案张哲。"
     }
   },
   "history": [
