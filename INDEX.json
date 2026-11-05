@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-05T05:56:16.782Z",
+  "built": "2026-11-05T06:10:56.422Z",
   "scope": [
     "10.7",
     "10.8",
@@ -4004,6 +4004,59 @@
       },
       "copy_rel": "文案/Q33-7.docx",
       "updated_at": "2026-11-05T05:56:16.782Z"
+    },
+    "Q33-8": {
+      "code": "Q33-8",
+      "pkg_code": "Q33-8",
+      "aliases": [],
+      "dates": [
+        "11.05"
+      ],
+      "layer_rel": "定版/Q33-8.png",
+      "preview_rel": "定版/Q33-8_成品预览.png",
+      "preview_kind": "实际成品首帧",
+      "preview_sha256": "8fa4434693d2134b199c1f16189847d5b5568391262e4c513dca216940121411",
+      "sha256": "a8b4a4bfce1bc4c1909204b5acbd2fa55e8ff2a4701eca9974181b2cb4f834ed",
+      "size": [
+        720,
+        1290
+      ],
+      "basis": "2026-11-05 惠跃主人明确授权Q33-8入库上线；定版PNG原样保留，预览为实际成品003.mp4第0帧",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "author_status": "confirmed",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "Q33-8定版文案.docx",
+        "lines": [
+          "Secrets even doctors",
+          "won't tell you",
+          "1.Oral sex　Do less - throat cancer",
+          "2.Bad breath　Vitamin B1 - Gone for good",
+          "3.Snoring　Vitamin C - Quiet all night long",
+          "4.Yellow teeth　OLCG Toothpaste on Amazon",
+          "(Whitens teeth like pearls in 7 days)",
+          "5.Grey hair　Vitamin H - Turns black without dye.",
+          "6. Wrinkles　Aveya toner pads from Amazon",
+          "Like an eraser wiping away lines&erase 3 of",
+          "your fine lines in just 7 days.",
+          "中文译文（阅读用；以定版英文原文为准）",
+          "连医生都不会告诉你的秘密",
+          "1. 口交：少做——咽喉癌。",
+          "2. 口臭：维生素B1——彻底消失。",
+          "3. 打鼾：维生素C——整夜安静。",
+          "4. 黄牙：Amazon上的OLCG牙膏（7天让牙齿白得像珍珠）。",
+          "5. 白发：维生素H——不用染发就变黑。",
+          "6. 皱纹：Amazon上的Aveya爽肤棉片，像橡皮擦擦掉线条一样，只需7天，擦掉你3条细纹。"
+        ],
+        "download_rel": "文案/Q33-8.docx",
+        "note": "英文及断行按定版PNG保留，原拼写与标点未润色；中文为阅读译文。仅使用另存的定版文案，不读取或修改被占用旧稿。"
+      },
+      "copy_rel": "文案/Q33-8.docx",
+      "updated_at": "2026-11-05T06:10:56.422Z"
     }
   }
 }
