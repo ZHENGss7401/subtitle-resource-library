@@ -1806,6 +1806,69 @@
       },
       "copy_rel": "文案/Q33-8-1.docx",
       "updated_at": "2026-11-06T10:45:17.520379+08:00"
+    },
+    "Q33-10": {
+      "code": "Q33-10",
+      "pkg_code": "Q33-10",
+      "aliases": [],
+      "dates": [
+        "11.06"
+      ],
+      "title": "连医生都不会告诉你的秘密",
+      "products": "OLCG去污牙膏+OLCG果冻霜",
+      "layer_rel": "定版/Q33-10.png",
+      "preview_rel": "定版/Q33-10_成品预览.png",
+      "preview_kind": "实际成品首帧",
+      "preview_sha256": "7ac8405309ee4fc3a0c516208be728c13af57dacbbe32c51c37075b4f188a73c",
+      "sha256": "81f04fd81aedbd4fb925b6fc95e86ddf72f570b55b9822b85defb5d9e397f438",
+      "size": [
+        1536,
+        2752
+      ],
+      "basis": "2026-11-06 惠跃主人明确授权Q33-10成品及资源入库上线看板；用户PNG逐字节保留，首帧为本批实际成品第0帧。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "author_status": "confirmed",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "Q33-10定版文案.docx",
+        "lines": [
+          "Secrets even doctors",
+          "won't tell you",
+          "1.Oral sex　Don't rush,women can reachorgasm.",
+          "2.Sleep　Don't wear bra,remember",
+          "3.Big bust　Don't wear a camisole,prone to sagging",
+          "4.Yellow teeth　OLCG Toothpaste on Amazon",
+          "(Whitens teeth like pearls in 7 days)",
+          "5.Grey hair　Vitamin H,turns black without dye.",
+          "6. Wrinkles　OLCG Jelly Cream on Amazon,",
+          "use nightly.erases wrinkles & brings back your",
+          "youthful, smooth skin in 7 days!",
+          "中文译文（阅读用；以定版英文原文为准）",
+          "连医生都不会告诉你的秘密",
+          "口交",
+          "别着急，女性也能达到高潮。 ",
+          "睡觉",
+          "记住：不要戴着胸罩睡。 ",
+          "大胸",
+          "不要穿吊带衫，容易下垂。 ",
+          "黄牙",
+          "亚马逊上的 OLCG 牙膏",
+          "（7 天让牙齿白得像珍珠）。 ",
+          "白发",
+          "维生素 H——不用染发也能变黑。 ",
+          "皱纹",
+          "亚马逊上的 OLCG 果冻面霜，",
+          "每晚使用，7 天抚平皱纹，重现年轻光滑的肌肤！"
+        ],
+        "download_rel": "文案/Q33-10.docx",
+        "note": "英文按PNG逐字核对，中文沿用原文案；下载DOCX逐字节保留，源稿大小写和空格差异已记录，PNG为定版真源。"
+      },
+      "copy_rel": "文案/Q33-10.docx",
+      "updated_at": "2026-11-06T11:00:36.048846+08:00"
     }
   }
 }
