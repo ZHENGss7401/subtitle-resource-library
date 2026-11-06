@@ -1634,6 +1634,63 @@
         ],
         "replaced_at": "2026-11-05T09:58:21.733Z"
       }
+    },
+    "Q33-6-1": {
+      "code": "Q33-6-1",
+      "pkg_code": "Q33-6-1",
+      "aliases": [],
+      "dates": [
+        "11.06"
+      ],
+      "title": "连医生都不会告诉你的秘密",
+      "products": "OLCG去污牙膏+OLCG果冻霜",
+      "layer_rel": "定版/Q33-6-1.png",
+      "preview_rel": "定版/Q33-6-1_成品预览.png",
+      "preview_kind": "实际成品首帧",
+      "preview_sha256": "c50cab71416e994b7ef61a9e76393ae6fcfc29aa6319cf8c479a697a54aa4df3",
+      "sha256": "606bbb9c5d4bb78083381350e56b060628db790b9d84124cced096562122df76",
+      "size": [
+        1536,
+        2752
+      ],
+      "basis": "2026-11-06 惠跃主人明确授权Q33-6-1成品及资源入库上线看板；用户PNG逐字节保留，首帧为本批实际成品(1).mp4第0帧。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "author_status": "confirmed",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "Q33-6-1定版文案.docx",
+        "lines": [
+          "Q33-6-1 · 11.06 · 定版文案",
+          "作者：张哲　文案：张哲　美工：郑雅斯",
+          "产品：OLCG去污牙膏＋OLCG果冻霜",
+          "Secrets even doctors",
+          "won’t tell you",
+          "1.Oral sex　Do less - throat cancer",
+          "2.Foot odor　Vitamin B1 - The odor is gone",
+          "3.Snoring　Vitamin C - Quiet all night long",
+          "4.Yellow teeth  OLCG Toothpaste on Amazon",
+          "(Whitens teeth like pearls in 7 days)",
+          "5.Grey hair　Vitamin H - Turns black without dye.",
+          "6. wrinkles face  OLCG Jelly Cream from Amazon",
+          "Like an eraser wiping away lines&erase ",
+          "3 of your fine lines in just 7 days.",
+          "连医生都不会告诉你的秘密",
+          "1. 口交：少做——咽喉癌。",
+          "2. 脚臭：维生素B1——异味消失。",
+          "3. 打鼾：维生素C——整夜安静。",
+          "4. 黄牙 OLCG 亚马逊上的牙膏（7天内让牙齿如珍珠般洁白）",
+          "5. 白发：维生素H——不用染发就变黑。",
+          "6. 面部皱纹 OLCG 亚马逊上的果冻霜，像橡皮擦一样抹去皱纹，只需7天即可消除3条细纹。"
+        ],
+        "download_rel": "文案/Q33-6-1.docx",
+        "note": "原定版文案逐字保留，中文为阅读对照，PNG为定版真源。"
+      },
+      "copy_rel": "文案/Q33-6-1.docx",
+      "updated_at": "2026-11-06T10:18:31.496016+08:00"
     }
   }
 }
