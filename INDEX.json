@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-06T10:18:31.496016+08:00",
+  "built": "2026-11-06T10:32:14.913660+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -4215,6 +4215,63 @@
       },
       "copy_rel": "文案/Q33-6-1.docx",
       "updated_at": "2026-11-06T10:18:31.496016+08:00"
+    },
+    "Q33-7-1": {
+      "code": "Q33-7-1",
+      "pkg_code": "Q33-7-1",
+      "aliases": [],
+      "dates": [
+        "11.06"
+      ],
+      "title": "连医生都不会告诉你的秘密",
+      "products": "OLCG去污牙膏+OLCG果冻霜",
+      "layer_rel": "定版/Q33-7-1.png",
+      "preview_rel": "定版/Q33-7-1_成品预览.png",
+      "preview_kind": "实际成品首帧",
+      "preview_sha256": "b54b52bf94de5f98bec4ee6ba56f28fabfd25e28299ec351f64cc86f4871b5ec",
+      "sha256": "93f2bd75c6bcfac22871d66c708ddbaff111d4770400797249f98708d524adc3",
+      "size": [
+        1536,
+        2752
+      ],
+      "basis": "2026-11-06 惠跃主人明确授权Q33-7-1成品及资源入库上线看板；用户PNG逐字节保留，首帧为本批实际成品第0帧。",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "author_status": "confirmed",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "copy": {
+        "source": "Q33-7-1定版文案.docx",
+        "lines": [
+          "Secrets even doctors",
+          "won't tell you",
+          "1.Oral sex　Don't rush,women can reachorgasm.",
+          "2.Kissing　Don't smoke girls will be picky",
+          "3.Big bust　Don't wear a camisole,prone to sagging",
+          "4.Yellow teeth　OLCG Toothpaste on Amazon",
+          "(Whitens teeth like pearls in 7 days)",
+          "5.Leg hair　Salt + lemon juice rub hair sheds",
+          "6.Wrinkles　OLCG Jelly Cream on Amazon,",
+          "use nightly.erases wrinkles & brings back your",
+          "youthful, smooth skin in 7 days!",
+          "中文译文（阅读用；以定版英文原文为准）",
+          "连医生都不会告诉你的秘密",
+          "口交：别着急，女性也能达到高潮。 ",
+          "接吻：别抽烟，女生会很挑剔。 ",
+          "大胸：不要穿吊带衫，容易下垂。 ",
+          "黄牙：亚马逊上的 OLCG 牙膏",
+          "（7 天让牙齿白得像珍珠）。 ",
+          "腿毛：盐＋柠檬汁搓一搓，毛就会脱落。 ",
+          "皱纹：",
+          "OLCG 亚马逊上的果冻霜，每晚使用。7天内消除皱纹，恢复肌肤的年轻光滑状态。"
+        ],
+        "download_rel": "文案/Q33-7-1.docx",
+        "note": "英文按PNG逐字核对，中文沿用原文案；下载DOCX逐字节保留，源稿标题多出的前导1和大小写差异已记录，PNG为定版真源。"
+      },
+      "copy_rel": "文案/Q33-7-1.docx",
+      "updated_at": "2026-11-06T10:32:14.913660+08:00"
     }
   }
 }
