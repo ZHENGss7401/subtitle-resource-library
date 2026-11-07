@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 49,
+  "revision": 50,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -352,6 +352,16 @@
       "status": "confirmed",
       "confirmed_at": "2026-11-06T02:58:07.223Z",
       "confirmation_source": "2026-11-06 惠跃主人指定Q33-10包名张哲-张哲并要求同上包完成，作者张哲、文案张哲。"
+    },
+    "Q33-11@6d23a81c56b5494635a047887649d3cfc2a504ee119d4f70ce01762880b1eaeb": {
+      "code": "Q33-11",
+      "sha256": "6d23a81c56b5494635a047887649d3cfc2a504ee119d4f70ce01762880b1eaeb",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-07T09:09:47+08:00",
+      "confirmation_source": "按用户要求从对应半成品包获取作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.07\\Q033-11-11.07-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG去污牙膏+OLCG果冻霜"
     }
   },
   "history": [
