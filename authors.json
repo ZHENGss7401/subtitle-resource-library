@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 50,
+  "revision": 51,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -362,6 +362,16 @@
       "confirmed_at": "2026-11-07T09:09:47+08:00",
       "confirmation_source": "按用户要求从对应半成品包获取作者信息",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.07\\Q033-11-11.07-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG去污牙膏+OLCG果冻霜"
+    },
+    "A362-2@eff4ccaa8a37bf86832a49e621dee1dab8c9c42c3afc2aa114278a563ff87754": {
+      "code": "A362-2",
+      "sha256": "eff4ccaa8a37bf86832a49e621dee1dab8c9c42c3afc2aa114278a563ff87754",
+      "author": "康慧敏",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-07T10:13:31+08:00",
+      "confirmation_source": "用户授权从对应包获取作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.07\\A362-2-11.7-康慧敏-郑惠跃-连医生都不会告诉你的秘密（olcg牙膏+olcg果冻霜）"
     }
   },
   "history": [
