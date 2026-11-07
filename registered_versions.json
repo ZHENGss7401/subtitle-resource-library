@@ -2050,6 +2050,79 @@
       "updated_at": "2026-11-07T10:13:31+08:00",
       "title": "连医生都不会告诉你的秘密",
       "products": "OLCG牙膏＋OLCG果冻霜"
+    },
+    "Q31-2": {
+      "code": "Q31-2",
+      "pkg_code": "Q31-2",
+      "aliases": [],
+      "dates": [
+        "11.07"
+      ],
+      "src_packages": [
+        "D:/Users/Public/Claude产出素材库/Q31-2入库上线-20261107"
+      ],
+      "src_file": "C:\\Users\\111\\Downloads\\q31-2.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q31-2.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q31-2.png",
+      "layer_rel": "定版/Q31-2.png",
+      "preview_rel": "定版/Q31-2_成品预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q31-2_成品预览.png",
+      "preview_kind": "无字素材＋定版字幕合成预览",
+      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.06\\005-Q31-11.06-英文-张哲-惠跃-（能大幅延缓衰老的小习惯）-Aveya棉片-郑雅斯-23\\flow素材-23\\柳欣\\Q31-柳欣 (1).mp4",
+      "preview_frame_seconds": 1,
+      "preview_source_note": "使用11.06的Q31同系列无字素材叠本次Q31-2原PNG，非Q31-2实际成品首帧。",
+      "sha256": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "preview_sha256": "3dc548bd364b8f25d09b0589d9f378b02b8317898d722bdccd57456f9627e6d5",
+      "size": [
+        1536,
+        2752
+      ],
+      "preview_size": [
+        720,
+        1280
+      ],
+      "basis": "用户授权本次入库上线；原始文件逐字节保留",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "copywriter": "",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-11-07T14:31:05+08:00",
+      "author_source": "用户2026-11-07本次确认“作者张哲”，绑定Q31-2原PNG 58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "copy": {
+        "source": "Q31-2_图片原文转录.txt",
+        "lines": [
+          "SMALL HABITS THAT",
+          "SLOW AGING (BIG TIME)",
+          "1. Brush your teeth before coffee.",
+          "2. Stop drinking through straws.",
+          "3. Sleep in a cool room.",
+          "4. Add parsley to your meals.",
+          "5. OLCG Collagen Jelly Cream on",
+          "Amazon erases fine lines like",
+          "magic in 7 days.",
+          "6. Keep your jaw relaxed.",
+          "7. Wear sunglasses in the sun.",
+          "8. Add pumpkin seeds to breakfast.",
+          "9. Don't rub your eyes.",
+          "10. Breathe through your nose.",
+          "11. Eat an apple after lunch.",
+          "12. Take the stairs more often.",
+          "13. Use a tongue scraper.",
+          "14. Give it a try. Olcg Toothpaste",
+          "whitens teeth in just 7",
+          "days,available on Amazon.",
+          "15.Finish dinner a little earlier."
+        ],
+        "download_rel": "文案/Q31-2_原文案.txt",
+        "original_download_rel": "文案/Q31-2_原文案.txt",
+        "sha256": "631f390f409715c2855d134697b0224ffce70a6514c8c34c12ff2b781e76368b"
+      },
+      "copy_rel": "文案/Q31-2_原文案.txt",
+      "updated_at": "2026-11-07T14:31:05+08:00",
+      "title": "能大幅延缓衰老的小习惯",
+      "products": "OLCG胶原果冻霜＋OLCG牙膏"
     }
   }
 }

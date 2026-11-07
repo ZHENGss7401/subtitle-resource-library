@@ -11134,6 +11134,351 @@
       "sha": "eff4ccaa8a37bf86832a49e621dee1dab8c9c42c3afc2aa114278a563ff87754",
       "textHash": "42bd975d7c6c6a714480c2633edb1ec3536a66d0fc875064f343eb1cf136ae53",
       "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·01",
+      "code": "Q31-2",
+      "topic": "刷牙时机",
+      "groupId": "T14",
+      "kind": "生活小tips",
+      "text": "1. Brush your teeth before coffee.",
+      "zh": "",
+      "zhDisplay": "喝咖啡前先刷牙。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "3–3",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "232620b68c9698acb25eb3a39b87136cae8cd0458dad898826afb0c2e7dc594f",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·02",
+      "code": "Q31-2",
+      "topic": "吸管",
+      "groupId": "T48",
+      "kind": "生活小tips",
+      "text": "2. Stop drinking through straws.",
+      "zh": "",
+      "zhDisplay": "别再用吸管喝东西。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "4–4",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "6bcf8f0a80780f825ade4599aed10b9f8a237b86bd204e4385dc2887aff47c05",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·03",
+      "code": "Q31-2",
+      "topic": "睡眠环境",
+      "groupId": "T49",
+      "kind": "生活小tips",
+      "text": "3. Sleep in a cool room.",
+      "zh": "",
+      "zhDisplay": "在凉爽的房间里睡觉。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "5–5",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "0f51bd503f1344746bdf0091044c6b948eef986cc160526f3f80a1195594a546",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·04",
+      "code": "Q31-2",
+      "topic": "欧芹",
+      "groupId": "T50",
+      "kind": "生活小tips",
+      "text": "4. Add parsley to your meals.",
+      "zh": "",
+      "zhDisplay": "饭菜里加点欧芹。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "6–6",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "cef8f118fb7f3955dd14c18b3591566002f0455b91c2960f837734e1bf308f5f",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·05",
+      "code": "Q31-2",
+      "topic": "淡化细纹",
+      "groupId": "T03",
+      "kind": "产品植入",
+      "text": "5. OLCG Collagen Jelly Cream on\nAmazon erases fine lines like\nmagic in 7 days.",
+      "zh": "",
+      "zhDisplay": "亚马逊上的 OLCG 胶原果冻霜，7天就能像魔法一样抚平细纹。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "7–9",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "37bf90235e8d384adee707d8e4a1631f670f511d616840a80a6221cbc0d37ac2",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·06",
+      "code": "Q31-2",
+      "topic": "下颌放松",
+      "groupId": "T51",
+      "kind": "生活小tips",
+      "text": "6. Keep your jaw relaxed.",
+      "zh": "",
+      "zhDisplay": "保持下颌放松。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "10–10",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "961fbbd67a0356205f681175bf136ce2940d6c298521fe7234267ed4938057be",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·07",
+      "code": "Q31-2",
+      "topic": "太阳镜",
+      "groupId": "T52",
+      "kind": "生活小tips",
+      "text": "7. Wear sunglasses in the sun.",
+      "zh": "",
+      "zhDisplay": "在阳光下戴太阳镜。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "11–11",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "eb4b62f71fe0f44a1923b6305a95759cbac5331bb8656730f43620e12d71550e",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·08",
+      "code": "Q31-2",
+      "topic": "南瓜籽",
+      "groupId": "T53",
+      "kind": "生活小tips",
+      "text": "8. Add pumpkin seeds to breakfast.",
+      "zh": "",
+      "zhDisplay": "早餐加点南瓜籽。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "12–12",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "68c67d12b5bd6dd6aa7fd9cc6ae45fa6c2793126bc2499b3b9c3483f295c3bff",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·09",
+      "code": "Q31-2",
+      "topic": "揉眼睛",
+      "groupId": "T54",
+      "kind": "生活小tips",
+      "text": "9. Don't rub your eyes.",
+      "zh": "",
+      "zhDisplay": "不要揉眼睛。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "13–13",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "b8f5dd1abaf98f292802c6036f5fd668ad411e3b1cf8efe3a518428062ca31d8",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·10",
+      "code": "Q31-2",
+      "topic": "呼吸方式",
+      "groupId": "T55",
+      "kind": "生活小tips",
+      "text": "10. Breathe through your nose.",
+      "zh": "",
+      "zhDisplay": "用鼻子呼吸。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "14–14",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "09d79a9b1030a02b72cebf6d918e8561f9effeee84a6089c015634ab294b278c",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·11",
+      "code": "Q31-2",
+      "topic": "苹果",
+      "groupId": "T56",
+      "kind": "生活小tips",
+      "text": "11. Eat an apple after lunch.",
+      "zh": "",
+      "zhDisplay": "午饭后吃一个苹果。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "15–15",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "8b8c7165e4a2920ed6e5abb03f37f7e0412b7bc5e31dc2fcca39e8625c2ee17e",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·12",
+      "code": "Q31-2",
+      "topic": "走楼梯",
+      "groupId": "T57",
+      "kind": "生活小tips",
+      "text": "12. Take the stairs more often.",
+      "zh": "",
+      "zhDisplay": "多走楼梯。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "16–16",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "fc62cb2fa4272e9513ce4985823274d9a68441b7112764d733d8c29d60cdb658",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·13",
+      "code": "Q31-2",
+      "topic": "刮舌器",
+      "groupId": "T58",
+      "kind": "生活小tips",
+      "text": "13. Use a tongue scraper.",
+      "zh": "",
+      "zhDisplay": "使用刮舌器。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "17–17",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "15c1fb1544f8e54322f271e93998306c59b6f71efed31f0fd53aecaa3f018e17",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·14",
+      "code": "Q31-2",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "14. Give it a try. Olcg Toothpaste\nwhitens teeth in just 7\ndays,available on Amazon.",
+      "zh": "",
+      "zhDisplay": "试试看。OLCG牙膏只需7天即可美白牙齿，亚马逊有售。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "18–20",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "2604e7afc7ef47af9ae214567ec8f3e61d7c451b9bfcccac51ae35ad1720e628",
+      "addedAt": "2026-11-07"
+    },
+    {
+      "id": "Q31-2·15",
+      "code": "Q31-2",
+      "topic": "晚餐时间",
+      "groupId": "T60",
+      "kind": "生活小tips",
+      "text": "15.Finish dinner a little earlier.",
+      "zh": "",
+      "zhDisplay": "晚饭稍微早点吃完。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "zhTitle": "能大幅延缓衰老的小习惯",
+      "sourceType": "图片可见原文",
+      "source": "Q31-2_图片原文转录.txt",
+      "line": "21–21",
+      "zhLine": "",
+      "note": "按用户本次Q31-2图片逐字转录。",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "textHash": "9209422bf7fab72dda9b17f602283da8bd007e32ce3cb7416cefd933e0d68f32",
+      "addedAt": "2026-11-07"
     }
   ],
   "groups": [
@@ -11159,8 +11504,8 @@
     {
       "id": "T03",
       "name": "淡化细纹",
-      "count": 62,
-      "forms": 54,
+      "count": 63,
+      "forms": 55,
       "versions": [
         "A301-1",
         "A308",
@@ -11217,7 +11562,8 @@
         "Q33-8-1",
         "Q33-10",
         "Q33-11",
-        "A362-2"
+        "A362-2",
+        "Q31-2"
       ]
     },
     {
@@ -11233,8 +11579,8 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 38,
-      "forms": 32,
+      "count": 39,
+      "forms": 33,
       "versions": [
         "A301-1",
         "A310",
@@ -11269,7 +11615,8 @@
         "Q33-8-1",
         "Q33-10",
         "Q33-11",
-        "A362-2"
+        "A362-2",
+        "Q31-2"
       ]
     },
     {
@@ -11371,14 +11718,15 @@
     {
       "id": "T14",
       "name": "刷牙时机",
-      "count": 5,
+      "count": 6,
       "forms": 3,
       "versions": [
         "A310",
         "Q26",
         "Q31",
         "Q31-1",
-        "A325"
+        "A325",
+        "Q31-2"
       ]
     },
     {
@@ -11761,88 +12109,95 @@
     {
       "id": "T48",
       "name": "吸管",
-      "count": 3,
+      "count": 4,
       "forms": 1,
       "versions": [
         "Q26",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
       "id": "T49",
       "name": "睡眠环境",
-      "count": 3,
+      "count": 4,
       "forms": 1,
       "versions": [
         "Q26",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
       "id": "T50",
       "name": "欧芹",
-      "count": 3,
+      "count": 4,
       "forms": 1,
       "versions": [
         "Q26",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
       "id": "T51",
       "name": "下颌放松",
-      "count": 3,
+      "count": 4,
       "forms": 1,
       "versions": [
         "Q26",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
       "id": "T52",
       "name": "太阳镜",
-      "count": 5,
+      "count": 6,
       "forms": 3,
       "versions": [
         "Q26",
         "Q27",
         "Q27-1",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
       "id": "T53",
       "name": "南瓜籽",
-      "count": 5,
+      "count": 6,
       "forms": 3,
       "versions": [
         "Q26",
         "Q31",
         "Q31-1",
-        "A357"
+        "A357",
+        "Q31-2"
       ]
     },
     {
       "id": "T54",
       "name": "揉眼睛",
-      "count": 4,
+      "count": 5,
       "forms": 2,
       "versions": [
         "Q26",
         "Q27",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
       "id": "T55",
       "name": "呼吸方式",
-      "count": 8,
+      "count": 9,
       "forms": 3,
       "versions": [
         "Q26",
@@ -11852,40 +12207,44 @@
         "Q35-2",
         "Q31-1",
         "Q35-3",
-        "A195-2"
+        "A195-2",
+        "Q31-2"
       ]
     },
     {
       "id": "T56",
       "name": "苹果",
-      "count": 3,
+      "count": 4,
       "forms": 1,
       "versions": [
         "Q26",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
       "id": "T57",
       "name": "走楼梯",
-      "count": 3,
+      "count": 4,
       "forms": 1,
       "versions": [
         "Q26",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
       "id": "T58",
       "name": "刮舌器",
-      "count": 3,
+      "count": 4,
       "forms": 1,
       "versions": [
         "Q26",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
@@ -11902,12 +12261,13 @@
     {
       "id": "T60",
       "name": "晚餐时间",
-      "count": 3,
-      "forms": 1,
+      "count": 4,
+      "forms": 2,
       "versions": [
         "Q26",
         "Q31",
-        "Q31-1"
+        "Q31-1",
+        "Q31-2"
       ]
     },
     {
@@ -15732,6 +16092,42 @@
       "preview": "定版/版本/A362-2/预览-b27343012461.png",
       "sha": "eff4ccaa8a37bf86832a49e621dee1dab8c9c42c3afc2aa114278a563ff87754",
       "previewSha": "b2734301246125e625f52101d31e988d7d8aadd44310f2f380cb4669cae3a9d0",
+      "aliases": [],
+      "sourceBuilt": "2026-11-07",
+      "contextLineNumbers": []
+    },
+    {
+      "code": "Q31-2",
+      "count": 15,
+      "title": "SMALL HABITS THAT\nSLOW AGING (BIG TIME)",
+      "copySource": "Q31-2_图片原文转录.txt",
+      "lines": [
+        "SMALL HABITS THAT",
+        "SLOW AGING (BIG TIME)",
+        "1. Brush your teeth before coffee.",
+        "2. Stop drinking through straws.",
+        "3. Sleep in a cool room.",
+        "4. Add parsley to your meals.",
+        "5. OLCG Collagen Jelly Cream on",
+        "Amazon erases fine lines like",
+        "magic in 7 days.",
+        "6. Keep your jaw relaxed.",
+        "7. Wear sunglasses in the sun.",
+        "8. Add pumpkin seeds to breakfast.",
+        "9. Don't rub your eyes.",
+        "10. Breathe through your nose.",
+        "11. Eat an apple after lunch.",
+        "12. Take the stairs more often.",
+        "13. Use a tongue scraper.",
+        "14. Give it a try. Olcg Toothpaste",
+        "whitens teeth in just 7",
+        "days,available on Amazon.",
+        "15.Finish dinner a little earlier."
+      ],
+      "layer": "定版/版本/Q31-2/58fa0e1b8ac9.png",
+      "preview": "定版/版本/Q31-2/预览-3dc548bd364b.png",
+      "sha": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "previewSha": "3dc548bd364b8f25d09b0589d9f378b02b8317898d722bdccd57456f9627e6d5",
       "aliases": [],
       "sourceBuilt": "2026-11-07",
       "contextLineNumbers": []
@@ -26429,6 +26825,132 @@
       48,
       "标题/说明/来源中文",
       "一周像变魔法一样抚平细纹。"
+    ],
+    [
+      "Q31-2",
+      1,
+      "标题/说明/来源中文",
+      "SMALL HABITS THAT"
+    ],
+    [
+      "Q31-2",
+      2,
+      "标题/说明/来源中文",
+      "SLOW AGING (BIG TIME)"
+    ],
+    [
+      "Q31-2",
+      3,
+      "小tips原文",
+      "1. Brush your teeth before coffee."
+    ],
+    [
+      "Q31-2",
+      4,
+      "小tips原文",
+      "2. Stop drinking through straws."
+    ],
+    [
+      "Q31-2",
+      5,
+      "小tips原文",
+      "3. Sleep in a cool room."
+    ],
+    [
+      "Q31-2",
+      6,
+      "小tips原文",
+      "4. Add parsley to your meals."
+    ],
+    [
+      "Q31-2",
+      7,
+      "小tips原文",
+      "5. OLCG Collagen Jelly Cream on"
+    ],
+    [
+      "Q31-2",
+      8,
+      "小tips原文",
+      "Amazon erases fine lines like"
+    ],
+    [
+      "Q31-2",
+      9,
+      "小tips原文",
+      "magic in 7 days."
+    ],
+    [
+      "Q31-2",
+      10,
+      "小tips原文",
+      "6. Keep your jaw relaxed."
+    ],
+    [
+      "Q31-2",
+      11,
+      "小tips原文",
+      "7. Wear sunglasses in the sun."
+    ],
+    [
+      "Q31-2",
+      12,
+      "小tips原文",
+      "8. Add pumpkin seeds to breakfast."
+    ],
+    [
+      "Q31-2",
+      13,
+      "小tips原文",
+      "9. Don't rub your eyes."
+    ],
+    [
+      "Q31-2",
+      14,
+      "小tips原文",
+      "10. Breathe through your nose."
+    ],
+    [
+      "Q31-2",
+      15,
+      "小tips原文",
+      "11. Eat an apple after lunch."
+    ],
+    [
+      "Q31-2",
+      16,
+      "小tips原文",
+      "12. Take the stairs more often."
+    ],
+    [
+      "Q31-2",
+      17,
+      "小tips原文",
+      "13. Use a tongue scraper."
+    ],
+    [
+      "Q31-2",
+      18,
+      "小tips原文",
+      "14. Give it a try. Olcg Toothpaste"
+    ],
+    [
+      "Q31-2",
+      19,
+      "小tips原文",
+      "whitens teeth in just 7"
+    ],
+    [
+      "Q31-2",
+      20,
+      "小tips原文",
+      "days,available on Amazon."
+    ],
+    [
+      "Q31-2",
+      21,
+      "小tips原文",
+      "15.Finish dinner a little earlier."
     ]
   ],
   "retired": {
@@ -26437,30 +26959,37 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "d1fef072f774dcfe1004509c86f5c4a5ed32307fd7b408784032103e6e69d1a4",
+  "indexSha": "510a890e5c7d55a56bb23f6773ad246a6affb142e5d6a64b6574947a4d23a67e",
   "latestBatch": {
     "date": "2026-11-07",
     "versions": [
-      "A362-2"
+      "Q31-2"
     ],
-    "records": 8,
+    "records": 15,
     "recordIds": [
-      "A362-2·01",
-      "A362-2·02",
-      "A362-2·03",
-      "A362-2·04",
-      "A362-2·05",
-      "A362-2·06",
-      "A362-2·图·eff4ccaa8a37·1",
-      "A362-2·图·eff4ccaa8a37·2"
+      "Q31-2·01",
+      "Q31-2·02",
+      "Q31-2·03",
+      "Q31-2·04",
+      "Q31-2·05",
+      "Q31-2·06",
+      "Q31-2·07",
+      "Q31-2·08",
+      "Q31-2·09",
+      "Q31-2·10",
+      "Q31-2·11",
+      "Q31-2·12",
+      "Q31-2·13",
+      "Q31-2·14",
+      "Q31-2·15"
     ]
   },
   "alignment": {
-    "subtitleVersions": 66,
-    "coveredVersions": 66,
+    "subtitleVersions": 67,
+    "coveredVersions": 67,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "d1fef072f774dcfe1004509c86f5c4a5ed32307fd7b408784032103e6e69d1a4",
+    "sourceIndexSha256": "510a890e5c7d55a56bb23f6773ad246a6affb142e5d6a64b6574947a4d23a67e",
     "checkedAt": "2026-11-07"
   }
 }

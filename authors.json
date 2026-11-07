@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 51,
+  "revision": 52,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -372,6 +372,16 @@
       "confirmed_at": "2026-11-07T10:13:31+08:00",
       "confirmation_source": "用户授权从对应包获取作者信息",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.07\\A362-2-11.7-康慧敏-郑惠跃-连医生都不会告诉你的秘密（olcg牙膏+olcg果冻霜）"
+    },
+    "Q31-2@58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2": {
+      "code": "Q31-2",
+      "sha256": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "author": "张哲",
+      "copywriter": "",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-07T14:31:05+08:00",
+      "confirmation_source": "用户2026-11-07本次确认“作者张哲”，绑定Q31-2原PNG 58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "source_package": "D:/Users/Public/Claude产出素材库/Q31-2入库上线-20261107"
     }
   },
   "history": [
