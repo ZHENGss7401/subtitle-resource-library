@@ -146,7 +146,7 @@ class Handler(BaseHTTPRequestHandler):
             return
         try:
             size = int(self.headers.get('Content-Length', '0'))
-            if not 0 < size <= 4096:
+            if not 0 < size <= (65536 if self.path == '/groups' else 4096):
                 raise ValueError('请求长度不正确')
             payload = json.loads(self.rfile.read(size))
             with LOCK:
