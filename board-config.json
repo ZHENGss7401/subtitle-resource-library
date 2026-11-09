@@ -1,5 +1,5 @@
 {
-  "revision": 2,
+  "revision": 3,
   "groups": {
     "basic": {
       "name": "基本盘组",
@@ -93,6 +93,27 @@
       "text": "相对旧版，第 3 条去掉了“Whitening”。",
       "source": "INDEX.json：用户明确确认新定版时记录",
       "sha256": "5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619"
+    },
+    "Q33-6-1": {
+      "text": "对照 Q33-6 的文案：第 4 条由 Aveya 棉片改为 OLCG 牙膏；第 6 条由 OLCG 牙膏改为 OLCG 果冻霜。",
+      "source": "两版已入库文案的第 4、6 条对照",
+      "sha256": "606bbb9c5d4bb78083381350e56b060628db790b9d84124cced096562122df76",
+      "baseline": "Q33-6",
+      "baseline_sha256": "41a87dcdf7f28f707b2e8b8761f9ee8ae09823fa3417c42b8a639568cd6c977c"
+    },
+    "Q33-7-1": {
+      "text": "对照 Q33-7 的文案：第 6 条产品由 Aveya 棉片改为 OLCG 果冻霜。",
+      "source": "两版已入库文案的第 4、6 条对照",
+      "sha256": "93f2bd75c6bcfac22871d66c708ddbaff111d4770400797249f98708d524adc3",
+      "baseline": "Q33-7",
+      "baseline_sha256": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17"
+    },
+    "Q33-8-1": {
+      "text": "对照 Q33-8 的文案：第 6 条产品由 Aveya 棉片改为 OLCG 果冻霜。",
+      "source": "两版已入库文案的第 4、6 条对照",
+      "sha256": "5a29303f5ceaf75ca43d24ee8198ae59f89926d9361a4e45f1db1f01e547a563",
+      "baseline": "Q33-8",
+      "baseline_sha256": "a8b4a4bfce1bc4c1909204b5acbd2fa55e8ff2a4701eca9974181b2cb4f834ed"
     }
   }
 }

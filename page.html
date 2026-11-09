@@ -369,7 +369,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
   function openModal(v){
     opened=true; cur=v;
-    var change=document.getElementById('change-note'); change.textContent=''; var label=el('strong',null,'优化说明  ');change.appendChild(label);var note=cfg.notes[v.code]; change.appendChild(document.createTextNode(note && note.sha256===v.sha256 && note.text ? note.text : '暂无已确认的优化说明'));
+    var change=document.getElementById('change-note'); change.textContent=''; var label=el('strong',null,'优化说明  ');change.appendChild(label);var note=cfg.notes[v.code]; change.appendChild(document.createTextNode(note && note.sha256===v.sha256 && (!note.baseline || (data.versions[note.baseline] && data.versions[note.baseline].sha256===note.baseline_sha256)) && note.text ? note.text : '暂无已确认的优化说明'));
     document.getElementById('m-title').dataset.code=v.code;
     document.getElementById('m-title').textContent=v.display_name||v.code;
     document.getElementById('m-src').textContent =
