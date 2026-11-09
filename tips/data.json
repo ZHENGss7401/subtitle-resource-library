@@ -13705,7 +13705,8 @@
       ],
       "sourceBuilt": "2026-11-04T10:14:27+08:00",
       "assetType": "image",
-      "previewSha": "7483e21424302a56f99970c889f8c0ee184e096de35cc0b1fa4100b4c2a6211b"
+      "previewSha": "8f8eca7e8a4c30707611ec6bf7603d7d8ae0b568ea308b62c341c36a5211e574",
+      "previewSyncedAt": "2026-11-09"
     },
     {
       "code": "Q25-4",
@@ -13948,7 +13949,8 @@
       "aliases": [],
       "sourceBuilt": "2026-11-04T10:14:27+08:00",
       "assetType": "image",
-      "previewSha": "405ad883c74a4ad47074a8fff0bcbd51bce2dcddd3ef601b9b4955d08f5231e3"
+      "previewSha": "e11374599942179429f723a59e8a258f51e3932789174acd6973b87956960546",
+      "previewSyncedAt": "2026-11-09"
     },
     {
       "code": "Q28-1",
@@ -26959,7 +26961,7 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "510a890e5c7d55a56bb23f6773ad246a6affb142e5d6a64b6574947a4d23a67e",
+  "indexSha": "836df51ef4df940be2ddce88a52a825592daeb0d780382e34c25fee96a1c75c4",
   "latestBatch": {
     "date": "2026-11-07",
     "versions": [
@@ -26989,7 +26991,7 @@
     "coveredVersions": 67,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "510a890e5c7d55a56bb23f6773ad246a6affb142e5d6a64b6574947a4d23a67e",
-    "checkedAt": "2026-11-07"
+    "sourceIndexSha256": "836df51ef4df940be2ddce88a52a825592daeb0d780382e34c25fee96a1c75c4",
+    "checkedAt": "2026-11-09"
   }
 }
