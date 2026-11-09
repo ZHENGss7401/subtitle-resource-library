@@ -9,7 +9,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 REPO = Path(__file__).resolve().parent
 LIB = Path(r'Y:\足贴视频素材\BOREAC淋巴滴剂\0. 字幕资源库')
-ORIGINS = {'https://zhengss7401.github.io', 'http://127.0.0.1:17843'}
+ORIGINS = {'https://zhengss7401.github.io', 'http://127.0.0.1:17843', 'http://10.66.180.18:18765', 'http://127.0.0.1:18766'}
 LOCK = threading.Lock()
 
 def read(path):
@@ -71,6 +71,38 @@ def confirm(payload):
         return {'ok': True, 'published': False, 'registry': data,
                 'message': '作者已确定并保存到本机资源库，线上同步失败。请点击“确定并同步”重试。'}
 
+
+def save_groups(payload):
+    config_path = REPO / 'board-config.json'
+    current = read(config_path)
+    if payload.get('revision') != current.get('revision'):
+        raise ValueError('分组已更新，请刷新后重新操作。')
+    version_codes = set(read(REPO / 'INDEX.json').get('versions', {}))
+    groups = payload.get('groups')
+    if not isinstance(groups, dict) or set(groups) != {'basic', 'extra'}:
+        raise ValueError('分组格式不正确。')
+    for key in ('basic', 'extra'):
+        values = groups[key]
+        if not isinstance(values, list) or len(values) != len(set(values)) or any(not isinstance(x, str) or x not in version_codes for x in values):
+            raise ValueError('版号无效或重复，请刷新后重试。')
+    if git('status', '--porcelain', '--untracked-files=no'):
+        raise ValueError('资源库正在维护中，请稍后重试。')
+    git('fetch', 'origin', 'main')
+    if git('rev-parse', 'HEAD') != git('rev-parse', 'FETCH_HEAD'):
+        raise ValueError('线上资源库已更新，请先同步维护副本。')
+    for key in ('basic', 'extra'):
+        current['groups'][key]['codes'] = sorted(groups[key])
+    current['revision'] += 1
+    atomic(config_path, current)
+    try:
+        git('add', '--', 'board-config.json')
+        git('commit', '--only', '-m', 'Update subtitle board groups', '--', 'board-config.json')
+        git('push', 'origin', 'main')
+        atomic(LIB / 'board-config.json', current)
+    except Exception:
+        raise RuntimeError('分组改动已保存在维护副本，但线上同步未完成；请联系啊跃处理。')
+    return {'ok': True, 'config': current, 'message': '分组已保存并推送，网站部署后生效。'}
+
 class Handler(BaseHTTPRequestHandler):
     def log_message(self, *args):
         pass
@@ -99,17 +131,17 @@ class Handler(BaseHTTPRequestHandler):
         self.reply(200 if self.allowed() else 403, {})
 
     def do_GET(self):
-        if not self.allowed() or self.path != '/authors':
+        if not self.allowed() or self.path not in ('/authors', '/groups'):
             self.reply(403, {'error': '不允许的请求'})
             return
         try:
             with LOCK:
-                self.reply(200, read(LIB / 'authors.json'))
+                self.reply(200, read(REPO / 'board-config.json' if self.path == '/groups' else LIB / 'authors.json'))
         except Exception:
             self.reply(503, {'error': '本机资源库暂时不可用'})
 
     def do_POST(self):
-        if not self.allowed() or self.path != '/confirm' or self.headers.get('X-Author-Confirm') != '1':
+        if not self.allowed() or self.path not in ('/confirm', '/groups') or self.headers.get('X-Author-Confirm') != '1':
             self.reply(403, {'error': '不允许的请求'})
             return
         try:
@@ -118,12 +150,12 @@ class Handler(BaseHTTPRequestHandler):
                 raise ValueError('请求长度不正确')
             payload = json.loads(self.rfile.read(size))
             with LOCK:
-                result = confirm(payload)
+                result = save_groups(payload) if self.path == '/groups' else confirm(payload)
             self.reply(200, result)
         except ValueError as e:
             self.reply(409, {'error': str(e)})
         except Exception:
-            self.reply(503, {'error': '保存服务暂时不可用，请重试；不要关闭尚未保存的署名。'})
+            self.reply(503, {'error': '保存或线上同步失败；请联系啊跃检查维护副本。'})
 
 if __name__ == '__main__':
     ThreadingHTTPServer(('127.0.0.1', 17843), Handler).serve_forever()

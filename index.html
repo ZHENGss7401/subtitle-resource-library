@@ -171,6 +171,11 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 @media (prefers-reduced-motion:reduce){*{transition:none!important;animation:none!important}
   html.js .reveal:not(.in){opacity:1;transform:none}}
 @media print{body{background:#fff;padding:0}.tog,.lb,.floatwrap{display:none!important}}
+
+/* 筛选与日期 */
+.wrap{max-width:1440px}.masthead{align-items:flex-start}.tools{gap:10px;align-items:center}.tools input{width:min(300px,100%);height:44px;border-radius:8px;font-family:var(--sans);font-size:14px}.filter-btn,.more-filter{height:44px;border-radius:8px;border:1px solid var(--rule);background:var(--surface);color:var(--ink);padding:0 15px;cursor:pointer;font:inherit;font-size:13px}.filter-btn:hover,.more-filter:hover{border-color:var(--ink3)}.filter-btn[aria-pressed="true"]{background:var(--li);border-color:var(--li);color:#fff}.filter-btn:focus-visible,.more-filter:focus-visible{outline:2px solid var(--peng);outline-offset:2px}.tools .stat{font-size:12px}.sort-note{font-size:12px;color:var(--ink2);padding-left:4px}.gal{gap:16px}.card2{border-radius:8px}.card2 .cp{padding:12px;border-left:3px solid var(--peng)}.date-line{font-family:var(--mono);font-size:12px;color:var(--ink2);margin-top:4px}.empty-result{grid-column:1/-1;padding:40px 0;color:var(--ink3)}.change-note{padding:12px 15px;border-bottom:1px solid var(--rule);font-size:13px;color:var(--ink2)}.change-note strong{color:var(--ink)}
+@media(max-width:680px){.tools input{width:100%}.tools .stat{margin-left:0}.filter-btn,.more-filter{height:40px;padding:0 11px}.sort-note{width:100%}}
+#group-manager{width:min(760px,94vw);max-height:85vh;background:var(--surface);color:var(--ink);border:1px solid var(--rule);border-radius:10px;margin:auto;padding:20px;box-shadow:var(--shadow)}#group-manager::backdrop{background:rgba(0,0,0,.7)}#group-manager p{color:var(--ink2);font-size:13px;margin:8px 0 14px}.manager-head,.manager-row,.manager-actions{display:flex;align-items:center;gap:12px}.manager-head strong{font-size:19px;flex:1}.manager-head button{border:0;background:none;color:var(--ink);font-size:26px;cursor:pointer}#manage-search{padding:8px;border:1px solid var(--rule);background:var(--bg);color:var(--ink);border-radius:6px}.manager-list{max-height:48vh;overflow:auto;margin:12px 0;border-block:1px solid var(--rule)}.manager-row{padding:8px 0;border-bottom:1px solid var(--rule-soft)}.manager-row span{flex:1}.manager-row label{font-size:12px;color:var(--ink2);white-space:nowrap}.manager-actions button{border:0;border-radius:7px;background:var(--li);color:white;padding:10px 16px;cursor:pointer}.manager-actions span{font-size:12px;color:var(--ink2)}
 </style>
 <link rel="stylesheet" href="author-ui.css">
 </head>
@@ -193,11 +198,11 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   <h2>定版总览</h2>
   <p class="h2sub" id="h2sub">点任意一张打开对照——左边是定版预览图，右边是这个版本的中英文文案。</p>
   <div class="tools">
-    <input id="q" type="search" placeholder="筛选编号，如 Q30-1" autocomplete="off">
+    <input id="q" type="search" placeholder="搜索版本，如 Q33-8" aria-label="搜索版本" autocomplete="off">
     <button class="tog" id="reload" type="button" style="margin-top:0">刷新</button>
-    <span class="stat" id="stat"></span>
+    <button class="filter-btn" data-group="all" aria-pressed="true">全部</button><button class="filter-btn" data-group="q33" aria-pressed="false">Q33俱乐部</button><button class="filter-btn" data-group="basic" aria-pressed="false">基本盘组</button><button class="filter-btn" data-group="extra" aria-pressed="false">另外加做组</button><select class="more-filter" id="more-filter" aria-label="更多筛选"><option value="">更多筛选</option><option value="ungrouped">未分组</option></select><button class="filter-btn" id="manage-open" type="button">管理分组</button><span class="sort-note">已确认日期：最新优先</span><span class="stat" id="stat"></span>
   </div>
-  <div class="gal" id="grid"></div>
+  <p id="config-status" role="status"></p><div class="gal" id="grid"></div>
 </section>
 
 <footer>
@@ -210,7 +215,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
 </div>
 
-<div class="floatwrap hidden" id="modal">
+<dialog id="group-manager"><form method="dialog" class="manager-head"><strong>管理常用分组</strong><button aria-label="关闭">×</button></form><p>在惠跃主人的电脑上勾选版本，保存后同步到看板。</p><label>搜索 <input id="manage-search" type="search" placeholder="搜索版本"></label><div class="manager-list" id="manage-list"></div><div class="manager-actions"><button type="button" id="manage-save">保存并同步</button><span id="manage-status" role="status"></span></div></dialog><div class="floatwrap hidden" id="modal">
   <section class="fcard pic">
     <header>
       <div class="t" id="m-title"></div>
@@ -227,7 +232,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       <div class="t">对照文案</div>
       <button class="x" id="m-close" type="button">&times;</button>
     </header>
-    <div class="src" id="m-src"></div>
+    <div class="src" id="m-src"></div><div class="change-note" id="change-note"></div>
     <div class="txt" id="m-text"></div>
   </section>
 </div>
@@ -243,12 +248,17 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 <script>(function(){
   var root=document.documentElement;
   root.classList.add('js');
-  var data={versions:{}}, list=[], cur=null, opened=false, lbIdx=0;
+  var data={versions:{}}, list=[], cur=null, opened=false, lbIdx=0, group='all';
+  var cfg={groups:{basic:{codes:[]},extra:{codes:[]}},dates:{},notes:{}};
+  function meta(v){var m=(v.production_date && v.production_date.date ? v.production_date : null) || cfg.dates[v.code]; return m && m.sha256 && m.sha256!==v.sha256 ? null : m;}
+  function belongs(v,g){if(g==='all')return true; if(g==='q33')return /^Q33(?:$|-[0-9]+(?:-[0-9]+)*)$/i.test(v.code); if(g==='ungrouped')return !belongs(v,'q33')&&!belongs(v,'basic')&&!belongs(v,'extra'); return !!(cfg.groups[g] && cfg.groups[g].codes.indexOf(v.code)>=0);}
+  function loadConfig(){fetch('board-config.json?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(x){cfg=x;render();}).catch(function(){document.getElementById('config-status').textContent='分组数据暂时无法读取，请刷新重试';});}
+
   document.getElementById('q').value=new URLSearchParams(location.search).get('q')||'';
 
   /* 主题：跟随系统，可手动切换（与汇报页同一套约定） */
   var t=document.getElementById('tog');
-  var pref=window.matchMedia('(prefers-color-scheme: dark)').matches?'dark':'light';
+  var pref='dark';
   root.setAttribute('data-theme',pref); t.textContent = pref==='dark'?'Light':'Dark';
   t.addEventListener('click',function(){
     var n=root.getAttribute('data-theme')==='dark'?'light':'dark';
@@ -263,8 +273,8 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     data = window.SUBLIB || {versions:{}};
     var all = Object.keys(data.versions).map(function(k){return data.versions[k];});
     var q = document.getElementById('q').value.trim().toUpperCase();
-    list = all.filter(function(v){return !q || [v.code,v.display_name||''].concat(v.aliases||[]).join(' ').toUpperCase().indexOf(q)>=0;})
-              .sort(function(a,b){return a.code.localeCompare(b.code);});
+    list = all.filter(function(v){return belongs(v,group) && (!q || [v.code,v.display_name||''].concat(v.aliases||[]).join(' ').toUpperCase().indexOf(q)>=0);})
+              .sort(function(a,b){var ad=meta(a),bd=meta(b),av=(ad&&ad.date)||'',bv=(bd&&bd.date)||'';return bv.localeCompare(av)||a.code.localeCompare(b.code,undefined,{numeric:true});});
 
     var nOk=0,nBf=0,nUn=0;
     all.forEach(function(v){
@@ -288,6 +298,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       var r1=el('div','r1',v.display_name||v.code);
       r1.appendChild(el('span','st '+conf(v.confidence), v.confidence));
       cp.appendChild(r1);
+      cp.appendChild(el('div','date-line',meta(v)?'定版日期 '+meta(v).date:'定版日期待确认'));
       if(v.asset_type==='dynamic_video') cp.appendChild(el('div','r3','动态透明字幕 · MOV · '+v.fps+'fps'));
       var r2=el('div','r2');
       r2.appendChild(el('span',null,(v.dates||[]).join(' / ')));
@@ -305,12 +316,13 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       g.appendChild(card);
     });
 
+    if(!list.length) g.appendChild(el('div','empty-result','没有找到符合条件的版本，请调整搜索或筛选。'));
     document.getElementById('stat').textContent =
       list.length+' / '+all.length+' 个版本';
     document.getElementById('h2sub').innerHTML =
       '点任意一张打开对照——左边是定版预览图，右边是这个版本的中英文文案。共 <b>'+all.length+
       '</b> 个版本，其中已证实 <b>'+nOk+'</b>、已回填 <b>'+nBf+'</b>'+
-      (nUn?'、推断待补 <b>'+nUn+'</b>':'')+(q?'；当前筛出 <b>'+list.length+'</b> 个':'')+'。';
+      (nUn?'、推断待补 <b>'+nUn+'</b>':'')+(q||group!=='all'?'；当前筛出 <b>'+list.length+'</b> 个':'')+'。';
   }
 
   /* ---------- 尺寸：按图片真实比例给预览卡定宽 ---------- */
@@ -357,6 +369,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
   function openModal(v){
     opened=true; cur=v;
+    var change=document.getElementById('change-note'); change.textContent=''; var label=el('strong',null,'优化说明  ');change.appendChild(label);change.appendChild(document.createTextNode(cfg.notes[v.code]||'暂无已确认的优化说明'));
     document.getElementById('m-title').dataset.code=v.code;
     document.getElementById('m-title').textContent=v.display_name||v.code;
     document.getElementById('m-src').textContent =
@@ -426,6 +439,16 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   document.getElementById('m-img').addEventListener('load',fitPic);
   document.getElementById('m-video').addEventListener('loadedmetadata',fitPic);
   window.addEventListener('resize',fitPic);
+  document.querySelectorAll('.filter-btn[data-group]').forEach(function(btn){btn.addEventListener('click',function(){group=btn.dataset.group;document.getElementById('more-filter').value='';document.querySelectorAll('.filter-btn[data-group]').forEach(function(b){b.setAttribute('aria-pressed',String(b===btn));});render();});});
+  document.getElementById('more-filter').addEventListener('change',function(){group=this.value||'all';document.querySelectorAll('.filter-btn').forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.group===group));});render();});
+
+  var dlg=document.getElementById('group-manager'), manageState=null;
+  function managerRender(){var term=document.getElementById('manage-search').value.toUpperCase(), target=document.getElementById('manage-list');target.innerHTML='';Object.keys(data.versions).sort(function(a,b){return a.localeCompare(b,undefined,{numeric:true});}).filter(function(c){return c.toUpperCase().indexOf(term)>=0;}).forEach(function(code){var row=el('div','manager-row');row.appendChild(el('span',null,code));['basic','extra'].forEach(function(key){var label=el('label'),box=el('input');box.type='checkbox';box.checked=manageState.groups[key].codes.indexOf(code)>=0;box.addEventListener('change',function(){var a=manageState.groups[key].codes,i=a.indexOf(code);if(box.checked&&i<0)a.push(code);if(!box.checked&&i>=0)a.splice(i,1);});label.appendChild(box);label.appendChild(document.createTextNode(' '+manageState.groups[key].name));row.appendChild(label);});target.appendChild(row);});}
+  async function managerCall(method,body){var r=await fetch('http://127.0.0.1:17843/groups',{method:method,headers:body?{'Content-Type':'application/json','X-Author-Confirm':'1'}:{},body:body?JSON.stringify(body):undefined,signal:AbortSignal.timeout(90000)});var x=await r.json();if(!r.ok)throw Error(x.error||'保存失败');return x;}
+  document.getElementById('manage-open').addEventListener('click',async function(){dlg.showModal();var status=document.getElementById('manage-status');status.textContent='正在连接本机管理服务…';document.getElementById('manage-list').textContent='';document.getElementById('manage-save').disabled=true;try{manageState=await managerCall('GET');managerRender();status.textContent='';document.getElementById('manage-save').disabled=false;}catch(e){status.textContent='请在惠跃主人的电脑上操作，并确认本机管理服务已启动。';}});
+  document.getElementById('manage-search').addEventListener('input',function(){if(manageState)managerRender();});
+  document.getElementById('manage-save').addEventListener('click',async function(){var b=this,status=document.getElementById('manage-status');b.disabled=true;status.textContent='正在保存并同步…';try{var result=await managerCall('POST',{revision:manageState.revision,groups:{basic:manageState.groups.basic.codes,extra:manageState.groups.extra.codes}});manageState=result.config;cfg=result.config;render();status.textContent=result.message;}catch(e){status.textContent=e.message;}finally{b.disabled=false;}});
+
   document.getElementById('q').addEventListener('input',render);
   document.getElementById('reload').addEventListener('click',function(){ location.reload(); });
 
@@ -453,7 +476,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     });
   },1400);
 
-  render();
+  render(); loadConfig(); setInterval(loadConfig,60000);
   setInterval(function(){ if(!opened && !lb.classList.contains('on')) pull(render); },15000);
 })();</script>
 <script src="author-ui.js"></script>
