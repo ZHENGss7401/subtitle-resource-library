@@ -2348,6 +2348,90 @@
         "source": "字幕上传提交日期",
         "sha256": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057"
       }
+    },
+    "A349-1": {
+      "code": "A349-1",
+      "pkg_code": "A349-1",
+      "aliases": [],
+      "dates": [
+        "11.10"
+      ],
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\A349-1-11.10-余晓青-惠跃-从事妇科医生 16 年，这些事我希望更多人知道-olcg果冻霜+olcg牙膏-"
+      ],
+      "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\A349-1-11.10-余晓青-惠跃-从事妇科医生 16 年，这些事我希望更多人知道-olcg果冻霜+olcg牙膏-\\字幕夹\\A349-1.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A349-1.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A349-1.png",
+      "layer_rel": "定版/A349-1.png",
+      "preview_rel": "定版/A349-1_成品预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A349-1_成品预览.png",
+      "preview_kind": "实际成品首帧",
+      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\1. 成品入口\\11.10\\A349-1-11.10-英文-余晓青-惠跃-（从事妇科医生16年这些事我希望更多人知道）-OLCG果冻霜+OLCG牙膏-郑雅斯-15/A349-1 (1).mp4",
+      "preview_frame_seconds": 0,
+      "preview_source_note": "",
+      "sha256": "4fe86860f33bb053dc8cb07c8dedd04d2fadf675a44795206a38cbf05a473d36",
+      "preview_sha256": "8f2f235688f1a630971b07c19626d40d6f485fc5c14acae13b80abd056c753e5",
+      "size": [
+        1536,
+        2752
+      ],
+      "preview_size": [
+        720,
+        1280
+      ],
+      "basis": "用户授权本次入库上线；原始文件逐字节保留",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "余晓青",
+      "copywriter": "惠跃",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-11-10T14:46:48+08:00",
+      "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\A349-1-11.10-余晓青-惠跃-从事妇科医生 16 年，这些事我希望更多人知道-olcg果冻霜+olcg牙膏-",
+      "copy": {
+        "source": "文案.doc",
+        "lines": [
+          "Things I wish more people knew",
+          "(as a gynecologist for 16 years)",
+          "1.Your pubic hair can turn grey years",
+          "before the hair on your head. It's rarely",
+          "a health concern.",
+          "2. Nipple discharge only when",
+          "squeezed is usually benign. Discharge",
+          "on its own needs medical review.",
+          "3.Aged a decade overnight postpartum? ",
+          "OLCG Jelly Cream from Amazon",
+          "erases fine lines like magic in 7 days！",
+          "4.Embarrassed by yellow teeth?",
+          "OLCG toothpaste whitens teeth",
+          "in 2 weeks.",
+          "5.New ongoing tiredness and low",
+          "mood without reason? Thyroid",
+          "function is worth checking.",
+          "6.Ovulation strip positives mean",
+          "hormone is rising. They don't confirm",
+          "successful egg release.",
+          "从事妇科医生 16 年，这些事我希望更多人知道：",
+          "阴毛可能比头发早好几年变白，这一般不属于健康问题。",
+          "只有挤压时才出现的乳头溢液大多是良性；自行流出的溢液则需要就医检查。",
+          "产后一夜老十岁？亚马逊的 olcg果冻霜，7 天神奇淡化细纹！",
+          "黄牙让你很尴尬？OLCG 牙膏两周就能美白牙齿。",
+          "莫名持续疲惫、情绪低落？建议查一下甲状腺功能。",
+          "排卵试纸阳性只代表激素在升高，不能确认已经成功排卵。"
+        ],
+        "download_rel": "文案/A349-1_原文案.doc",
+        "original_download_rel": "文案/A349-1_原文案.doc",
+        "sha256": "839c5114cc50888fd2130a42009693e5d497e2c0160c44646bf01b142450aba1"
+      },
+      "copy_rel": "文案/A349-1_原文案.doc",
+      "updated_at": "2026-11-10T14:46:48+08:00",
+      "title": "从事妇科医生16年，这些事我希望更多人知道",
+      "products": "OLCG果冻霜+OLCG牙膏",
+      "upload_date": {
+        "date": "2026-11-10",
+        "source": "字幕上传提交日期",
+        "sha256": "4fe86860f33bb053dc8cb07c8dedd04d2fadf675a44795206a38cbf05a473d36"
+      }
     }
   }
 }
