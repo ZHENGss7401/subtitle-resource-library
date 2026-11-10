@@ -200,7 +200,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   <div class="tools">
     <input id="q" type="search" placeholder="搜索版本，如 Q33-8" aria-label="搜索版本" autocomplete="off">
     <button class="tog" id="reload" type="button" style="margin-top:0">刷新</button>
-    <button class="filter-btn" data-group="all" aria-pressed="true">全部</button><button class="filter-btn" data-group="q33" aria-pressed="false">Q33俱乐部</button><button class="filter-btn" data-group="basic" aria-pressed="false">基本盘组</button><button class="filter-btn" data-group="extra" aria-pressed="false">另外加做组</button><select class="more-filter" id="more-filter" aria-label="更多筛选"><option value="">更多筛选</option><option value="ungrouped">未分组</option></select><button class="filter-btn" id="manage-open" type="button">管理分组</button><span class="sort-note">已确认日期：最新优先</span><span class="stat" id="stat"></span>
+    <button class="filter-btn" data-group="all" aria-pressed="true">全部</button><button class="filter-btn" data-group="q33" aria-pressed="false">Q33俱乐部</button><button class="filter-btn" data-group="basic" aria-pressed="false">基本盘组</button><button class="filter-btn" data-group="extra" aria-pressed="false">另外加做组</button><select class="more-filter" id="more-filter" aria-label="更多筛选"><option value="">更多筛选</option><option value="ungrouped">未分组</option></select><button class="filter-btn" id="manage-open" type="button">管理分组</button><span class="sort-note">定版日期：最新优先</span><span class="stat" id="stat"></span>
   </div>
   <p id="config-status" role="status"></p><div class="gal" id="grid"></div>
 </section>
@@ -250,7 +250,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   root.classList.add('js');
   var data={versions:{}}, list=[], cur=null, opened=false, lbIdx=0, group='all';
   var cfg={groups:{basic:{codes:[]},extra:{codes:[]}},dates:{},notes:{}};
-  function meta(v){var m=(v.production_date && v.production_date.date ? v.production_date : null) || cfg.dates[v.code]; return m && m.sha256 && m.sha256!==v.sha256 ? null : m;}
+  function meta(v){var m=cfg.dates[v.code]; if(m && m.sha256 && m.sha256!==v.sha256)m=null; if(!m)m=v.upload_date; return m && m.sha256 && m.sha256!==v.sha256 ? null : m;}
   function belongs(v,g){if(g==='all')return true; if(g==='q33')return /^Q33(?:$|-[0-9]+(?:-[0-9]+)*)$/i.test(v.code); if(g==='ungrouped')return !belongs(v,'q33')&&!belongs(v,'basic')&&!belongs(v,'extra'); return !!(cfg.groups[g] && cfg.groups[g].codes.indexOf(v.code)>=0);}
   function loadConfig(){fetch('board-config.json?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(x){cfg=x;render();}).catch(function(){document.getElementById('config-status').textContent='分组数据暂时无法读取，请刷新重试';});}
 
@@ -274,7 +274,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     var all = Object.keys(data.versions).map(function(k){return data.versions[k];});
     var q = document.getElementById('q').value.trim().toUpperCase();
     list = all.filter(function(v){return belongs(v,group) && (!q || [v.code,v.display_name||''].concat(v.aliases||[]).join(' ').toUpperCase().indexOf(q)>=0);})
-              .sort(function(a,b){var ad=meta(a),bd=meta(b),av=(ad&&ad.date)||'',bv=(bd&&bd.date)||'';return bv.localeCompare(av)||a.code.localeCompare(b.code,undefined,{numeric:true});});
+              .sort(function(a,b){var ad=meta(a),bd=meta(b),av=(ad&&(ad.uploaded_at||ad.date))||'',bv=(bd&&(bd.uploaded_at||bd.date))||'';return bv.localeCompare(av)||a.code.localeCompare(b.code,undefined,{numeric:true});});
 
     var nOk=0,nBf=0,nUn=0;
     all.forEach(function(v){
@@ -301,7 +301,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       cp.appendChild(el('div','date-line',meta(v)?'定版日期 '+meta(v).date:'定版日期待确认'));
       if(v.asset_type==='dynamic_video') cp.appendChild(el('div','r3','动态透明字幕 · MOV · '+v.fps+'fps'));
       var r2=el('div','r2');
-      r2.appendChild(el('span',null,(v.dates||[]).join(' / ')));
+      r2.appendChild(el('span',null,(v.dates||[]).length?'来源批次 '+(v.dates||[]).join(' / '):''));
       if(v.aliases && v.aliases.length) r2.appendChild(el('span','al','包 '+v.aliases.join('/')));
       r2.appendChild(el('span','pd',v.size[0]+'×'+v.size[1]));
       cp.appendChild(r2);

@@ -1,5 +1,5 @@
 {
-  "revision": 4,
+  "revision": 5,
   "groups": {
     "basic": {
       "name": "基本盘组",
@@ -24,68 +24,472 @@
   "dates": {
     "A333-3": {
       "date": "2026-10-30",
-      "source": "2026-10-30 用户认可并定为 A333-3",
-      "sha256": "ad99986190650842010321cfde62a29520f69b9004177b0f6aa6daf7255344ad"
+      "uploaded_at": "2026-10-30T14:03:40+08:00",
+      "sha256": "ad99986190650842010321cfde62a29520f69b9004177b0f6aa6daf7255344ad",
+      "source": "字幕文件发布提交",
+      "commit": "1a6cb4f21abff38cfb84c0bd564662207b5d606f"
     },
     "A333-牙膏+果冻霜": {
       "date": "2026-10-31",
-      "source": "2026-10-31 定版记录",
-      "sha256": "4ea6a3c8be87a386fa8058c454db50aa3d68236080024e0bcbe3eb65570bd911"
+      "uploaded_at": "2026-10-31T10:34:12+08:00",
+      "sha256": "4ea6a3c8be87a386fa8058c454db50aa3d68236080024e0bcbe3eb65570bd911",
+      "source": "字幕文件发布提交",
+      "commit": "2826b88431e865879673e452e3f60fa44e46316d"
     },
     "A297-棉片+去污牙膏版": {
       "date": "2026-10-31",
-      "source": "2026-10-31 用户明确该版定版",
-      "sha256": "357fe042dd0070e882872d7d25e49b1bef9582867c9059f38cada32d4f8fa41b"
+      "uploaded_at": "2026-10-31T12:11:26+08:00",
+      "sha256": "357fe042dd0070e882872d7d25e49b1bef9582867c9059f38cada32d4f8fa41b",
+      "source": "字幕文件发布提交",
+      "commit": "3a424f41f4015577e0eebf7b2f3862ee3cba9a3f"
     },
     "Q37": {
       "date": "2026-10-23",
-      "source": "2026-10-23 用户明确替换新版定版",
-      "sha256": "fd73750fcb9a8dc039afc274b99e082107f7be86ce7fd3d7827dd48d33e4aa71"
+      "uploaded_at": "2026-10-23T10:09:15+08:00",
+      "sha256": "fd73750fcb9a8dc039afc274b99e082107f7be86ce7fd3d7827dd48d33e4aa71",
+      "source": "字幕文件发布提交",
+      "commit": "ce327c6315ab9f037690b4ab4b1819f25204310e"
     },
     "Q33-9": {
       "date": "2026-11-05",
-      "source": "2026-11-05 用户明确替换新版定版",
-      "sha256": "7a2b3b3b25025321283f1bd77eb1d5fe076d1a6407d74a3c98c9851304de5289"
+      "uploaded_at": "2026-11-05T17:58:38+08:00",
+      "sha256": "7a2b3b3b25025321283f1bd77eb1d5fe076d1a6407d74a3c98c9851304de5289",
+      "source": "字幕文件发布提交",
+      "commit": "b9e768e23d9f3a790cde4dc998df2faf035ee611"
     },
     "Q35-1": {
       "date": "2026-10-15",
-      "source": "2026-10-15 用户指定附件新定版",
-      "sha256": "3cfac0a7c0ddcf5958f18e53ffa6ef349ec461ebadc5fbf7d7415efa28bf2476"
+      "uploaded_at": "2026-10-15T15:05:47+08:00",
+      "sha256": "3cfac0a7c0ddcf5958f18e53ffa6ef349ec461ebadc5fbf7d7415efa28bf2476",
+      "source": "字幕文件发布提交",
+      "commit": "364b8dcbf685111ae63ef0e4c2a4781babaf7b30"
     },
     "Q35-2": {
-      "date": "2026-10-15",
-      "source": "2026-10-15 用户指定 PNG 和预览定版",
-      "sha256": "5a06e0500ab9e7c633e64e6857f00a1f46c761ad50ecd66cd9cc9d0134bfd64f"
+      "date": "2026-10-16",
+      "uploaded_at": "2026-10-16T16:40:10+08:00",
+      "sha256": "5a06e0500ab9e7c633e64e6857f00a1f46c761ad50ecd66cd9cc9d0134bfd64f",
+      "source": "字幕文件发布提交",
+      "commit": "3083f3de3c84b53647fbbc532e998c890c16eff8"
     },
     "Q35-3": {
       "date": "2026-10-23",
-      "source": "2026-10-23 用户明确新定版替换旧版",
-      "sha256": "5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619"
+      "uploaded_at": "2026-10-23T10:12:24+08:00",
+      "sha256": "5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619",
+      "source": "字幕文件发布提交",
+      "commit": "e0925f003ec66fcb6c05bf79c878284d93a60141"
     },
     "A326": {
       "date": "2026-10-27",
-      "source": "资源库定版记录：用户指定新 PNG 替换旧版",
-      "sha256": "5eb4770b2a549008216b58bfe538711e5bec87f93ae2b6365340c8c84b2b76da"
+      "uploaded_at": "2026-10-27T10:00:14+08:00",
+      "sha256": "5eb4770b2a549008216b58bfe538711e5bec87f93ae2b6365340c8c84b2b76da",
+      "source": "字幕文件发布提交",
+      "commit": "d513227c5f056a374816d3b79f0ae7be466fef04"
     },
     "A314-2": {
       "date": "2026-11-03",
-      "source": "资源库定版记录：用户审阅通过高清候选并替代原资源",
-      "sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3"
+      "uploaded_at": "2026-11-03T14:00:42+08:00",
+      "sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
+      "source": "字幕文件发布提交",
+      "commit": "de5614981829e56ef96cd08005bd65efc05845f2"
     },
     "A346-1": {
       "date": "2026-11-03",
-      "source": "资源库定版记录：用户审阅通过高清候选并替代原资源",
-      "sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c"
+      "uploaded_at": "2026-11-03T14:00:42+08:00",
+      "sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
+      "source": "字幕文件发布提交",
+      "commit": "de5614981829e56ef96cd08005bd65efc05845f2"
     },
     "A357": {
       "date": "2026-11-03",
-      "source": "资源库定版记录：用户审阅通过高清候选并替代原资源",
-      "sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53"
+      "uploaded_at": "2026-11-03T14:00:42+08:00",
+      "sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
+      "source": "字幕文件发布提交",
+      "commit": "de5614981829e56ef96cd08005bd65efc05845f2"
     },
     "Q31-1": {
       "date": "2026-10-21",
-      "source": "资源库定版记录：定版成功，批准日期 2026-10-21",
-      "sha256": "015826b740137209c0bef42fed0358d5a05190948300f396febfd79bb03dd07d"
+      "uploaded_at": "2026-10-21T16:13:28+08:00",
+      "sha256": "015826b740137209c0bef42fed0358d5a05190948300f396febfd79bb03dd07d",
+      "source": "字幕文件发布提交",
+      "commit": "3412319bc4e00b7ec2b9ded40dded4fab29ce543"
+    },
+    "A301-1": {
+      "date": "2026-10-19",
+      "uploaded_at": "2026-10-19T15:48:34+08:00",
+      "sha256": "a0e401c2e0f3e8388694ab2a1ca830f8bb15d2c60f151c9c21c0b7b6746f927b",
+      "source": "字幕文件发布提交",
+      "commit": "db550d6e8d618d89c90e18f9db3fdc8bb780adf1"
+    },
+    "A308": {
+      "date": "2026-10-20",
+      "uploaded_at": "2026-10-20T10:00:38+08:00",
+      "sha256": "93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79",
+      "source": "字幕文件发布提交",
+      "commit": "8a3416072a1fc87ce32278054a240125554a1c70"
+    },
+    "A310": {
+      "date": "2026-10-20",
+      "uploaded_at": "2026-10-20T16:52:56+08:00",
+      "sha256": "2433eac6cf90eb027529a9dea223442e5536b5181766b7ba7cbfa81ca051e55a",
+      "source": "字幕文件发布提交",
+      "commit": "6e5faab418e21fa01e98ddd63f733f681ed3b80b"
+    },
+    "A311": {
+      "date": "2026-10-20",
+      "uploaded_at": "2026-10-20T12:33:06+08:00",
+      "sha256": "5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b",
+      "source": "字幕文件发布提交",
+      "commit": "907c3c5bd508d40dad0c7d238d41abb679b8b7c4"
+    },
+    "A313": {
+      "date": "2026-10-21",
+      "uploaded_at": "2026-10-21T10:39:00+08:00",
+      "sha256": "6fa3dcd16b5f665c2d712b2853782df99da3ec7c68af5cc424cc26198e31f232",
+      "source": "字幕文件发布提交",
+      "commit": "d5a8e4810481d5b55aa59b26e7f7d1a715108df3"
+    },
+    "B14-3": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "9c9adb6331a8370bde64dfd9f0aea4c08bf23d1666893b797fdfaa85ae5dfd4e",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "B14-4": {
+      "date": "2026-10-09",
+      "uploaded_at": "2026-10-09T14:35:15+08:00",
+      "sha256": "e4e5742c6a8ce7480a9cd9f8344161b54ae912b1f6e2d6c59730b0bdcb2e51b4",
+      "source": "字幕文件发布提交",
+      "commit": "6ba5f851d672be118398146620a5e1812fc5f3b4"
+    },
+    "B14-5": {
+      "date": "2026-10-13",
+      "uploaded_at": "2026-10-13T17:32:13+08:00",
+      "sha256": "19d07b66d9cf10457f6689deffc996626946c50d887ee628e8ebde27ea1ffe4f",
+      "source": "字幕文件发布提交",
+      "commit": "8b0326fc35a48bceeadc2bb2008329086ca7483e"
+    },
+    "Q01": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "1ad30d961fca7a578a8614d68d32ccaabf01b568a6adaf96fe79bdeff1ed6a93",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q13": {
+      "date": "2026-10-17",
+      "uploaded_at": "2026-10-17T12:12:25+08:00",
+      "sha256": "586bfd0b10ad6f67c78df77a358ae4fd009993dd493543f7619e34450c19cb06",
+      "source": "字幕文件发布提交",
+      "commit": "dd6b121803cc49455fe626fc58ebea3f69198c58"
+    },
+    "Q20-1": {
+      "date": "2026-10-20",
+      "uploaded_at": "2026-10-20T10:40:39+08:00",
+      "sha256": "c2aca48f11192f8b2de814819f46d743a869d2adb1246cf6ce74152013d90358",
+      "source": "字幕文件发布提交",
+      "commit": "67585c779d68f3825d44c6f9bcede560dd0f09f8"
+    },
+    "Q20-2": {
+      "date": "2026-10-20",
+      "uploaded_at": "2026-10-20T12:22:42+08:00",
+      "sha256": "b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598",
+      "source": "字幕文件发布提交",
+      "commit": "91c92c374536a3f265cc145908c6cb7cee5b4182"
+    },
+    "Q24-1": {
+      "date": "2026-10-21",
+      "uploaded_at": "2026-10-21T10:09:10+08:00",
+      "sha256": "5dc842752cf09df75903d27a16d0b3a49d14df9d42c1c402a4285eee552c9e9d",
+      "source": "字幕文件发布提交",
+      "commit": "4afaf4b22e9076ba598a93426bc686acb33606ef"
+    },
+    "Q25": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "d8f3462fa59f9c8aa169cdaed73fa40d0a905d9492f14859a2116bf6ade6ce20",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q25-4": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T17:55:35+08:00",
+      "sha256": "ae723a5d886287cf90c94b81a29cba2f9d40445088d3a89441e8e57db7da4813",
+      "source": "字幕文件发布提交",
+      "commit": "f95048587ac17be949d191f5cbb7a322b9f6804a"
+    },
+    "Q26": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "6dd5c6b5726871e0d4e3e7c00739413e44e3ff9c0b356e8ddc10ace65249e024",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q27": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "a4f5cab17c231544679169d55d04bf3fecfb3574384b3bc922c2201f3f1b220e",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q27-1": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "e78b5effd0010bad213924950a39beb70de379ef581559ac6d2b971fe62ff135",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q28": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "0d35f30398b53ec8e3638f977f59ae25d96fb3e369b4a49dbb8d450fe672eba2",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q28-1": {
+      "date": "2026-10-09",
+      "uploaded_at": "2026-10-09T10:52:22+08:00",
+      "sha256": "7793e39856cdf18f555095c34a57bb65b41873b27d366c5216a24138436d0602",
+      "source": "字幕文件发布提交",
+      "commit": "ca788708df507a8f95cb7a75617b159bdbe68aa7"
+    },
+    "Q28-2": {
+      "date": "2026-10-13",
+      "uploaded_at": "2026-10-13T15:55:57+08:00",
+      "sha256": "6c6155a9a6b4e715cf863c8e2a2f1b53b038faf89cbf7e470c0b86a1ecbf83cb",
+      "source": "字幕文件发布提交",
+      "commit": "c1c894487c8e71f073ddad8f37ac2a6aaea2310f"
+    },
+    "Q29": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "ee3feb03f9d10058ec3797ae2bcafba8770673f0fa835e2b4603a970115455d3",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q30": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "61030c7182559f7df9d340a5cf0578d1c2c5f8692c63ef3a59b5506639c0f547",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q30-1": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "721bfab6767c5386c6a1f1c502ab8d467831774459283a8680e2680ba0ac7023",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q31": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "b2579931d8cbcf27a6f1100a12f5f5cde7c7760c7ee2c2a922cbca638d385e8a",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q32": {
+      "date": "2026-10-08",
+      "uploaded_at": "2026-10-08T16:41:56+08:00",
+      "sha256": "37e848cea84529a5e7f3cee36fd01723c5773c53ac115b20d3bcf91ceb77f3ef",
+      "source": "字幕文件发布提交",
+      "commit": "ae0cf7f5a61388321580a5068bebc48abd5a4a96"
+    },
+    "Q32-1【常规版】": {
+      "date": "2026-10-13",
+      "uploaded_at": "2026-10-13T17:00:25+08:00",
+      "sha256": "cc655b64a4679dab01c3a82aff664ac87ccd629f44996ba0d3a19c9354bc88a4",
+      "source": "字幕文件发布提交",
+      "commit": "661230043b385578102695f5911bc950d41cd37d"
+    },
+    "Q32-1【粉色标题版】": {
+      "date": "2026-10-13",
+      "uploaded_at": "2026-10-13T17:00:25+08:00",
+      "sha256": "c9556c41ae146873031cc812ab701e367ac04d161d3fcb8a3c2cfefed321d4ea",
+      "source": "字幕文件发布提交",
+      "commit": "661230043b385578102695f5911bc950d41cd37d"
+    },
+    "Q33": {
+      "date": "2026-10-09",
+      "uploaded_at": "2026-10-09T10:55:58+08:00",
+      "sha256": "0564814f8ecf80c605d98b41e222c2dcb36d8f093bff18f1ed8ba0d261ef2a74",
+      "source": "字幕文件发布提交",
+      "commit": "1b904fc4bd602c57ccb8458399d57e5351a59d67"
+    },
+    "Q33-1": {
+      "date": "2026-10-13",
+      "uploaded_at": "2026-10-13T14:49:34+08:00",
+      "sha256": "c246030ae74b9f47a1d7f57ca323bf08b4749cba13c47aab0c08d24e32f7af24",
+      "source": "字幕文件发布提交",
+      "commit": "d6825d088698369ff78cd934fa0bc4db0b07c71b"
+    },
+    "Q33-2": {
+      "date": "2026-10-16",
+      "uploaded_at": "2026-10-16T12:15:05+08:00",
+      "sha256": "38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385",
+      "source": "字幕文件发布提交",
+      "commit": "d352cce2b6943f9c139f10088d6616fde183140a"
+    },
+    "Q33-3": {
+      "date": "2026-10-20",
+      "uploaded_at": "2026-10-20T16:46:43+08:00",
+      "sha256": "9e4ae287f202b5b899907edaef88134fac8a3c889ef171e094d8b09e488e77bf",
+      "source": "字幕文件发布提交",
+      "commit": "756fa19b893ade45556da619c2eec0bb6c833ffc"
+    },
+    "Q35": {
+      "date": "2026-10-13",
+      "uploaded_at": "2026-10-13T15:00:53+08:00",
+      "sha256": "7725e7505a254289b2b1b6acb90baaf81357e69713a8019ebbe6a7957c7cc061",
+      "source": "字幕文件发布提交",
+      "commit": "d2268b95e8395552cd673af3c72c0e160efe55a0"
+    },
+    "Q36": {
+      "date": "2026-10-14",
+      "uploaded_at": "2026-10-14T16:37:59+08:00",
+      "sha256": "2b5c82f4570a76d21ed62294733357403fc2d60d360ff509743d46fe1cc2a588",
+      "source": "字幕文件发布提交",
+      "commit": "edce7233ff9f5e952da1bbc1701cde473c8fbd76"
+    },
+    "Q37-1": {
+      "date": "2026-10-17",
+      "uploaded_at": "2026-10-17T16:43:05+08:00",
+      "sha256": "77f8480965a6d6760f9c97fa77e8422164d935f73115e0e7a53d53f0f97efedc",
+      "source": "字幕文件发布提交",
+      "commit": "fed3c5d3d475c959acc65a2836ed7e913c228be0"
+    },
+    "A195-2": {
+      "date": "2026-10-22",
+      "uploaded_at": "2026-10-22T17:58:42+08:00",
+      "sha256": "e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a",
+      "source": "字幕文件发布提交",
+      "commit": "7d5a42e3ff4147189e6f02032d18f8b8dea74be5"
+    },
+    "A318": {
+      "date": "2026-10-26",
+      "uploaded_at": "2026-10-26T09:46:08+08:00",
+      "sha256": "8e59b7f19aa079f38d5c8696178c17e4c17c4772f06d96018e09918a877677ae",
+      "source": "字幕文件发布提交",
+      "commit": "f263c3d6beec05bbffea7bcf5a698fd20e731a0b"
+    },
+    "A255-1": {
+      "date": "2026-10-26",
+      "uploaded_at": "2026-10-26T16:56:40+08:00",
+      "sha256": "538fee2042b433727110c0d6eca1b214ebada7ada170cfed65e16acc6076f7a4",
+      "source": "字幕文件发布提交",
+      "commit": "06f19b8ad5eaef52ba2eb39668261231d809284c"
+    },
+    "A326-1": {
+      "date": "2026-10-27",
+      "uploaded_at": "2026-10-27T14:05:35+08:00",
+      "sha256": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
+      "source": "字幕文件发布提交",
+      "commit": "e866ebb762c1257d2fb1d6373cb86e725c508b9c"
+    },
+    "Q37-2": {
+      "date": "2026-10-28",
+      "uploaded_at": "2026-10-28T17:39:35+08:00",
+      "sha256": "27ef5d1c969ddc0c48a43d7d0e255b8f0015c12d172bfb9601575eb34dba3971",
+      "source": "字幕文件发布提交",
+      "commit": "418c049667ebea656cb345c9d87fd710b13d3670"
+    },
+    "Q33-4": {
+      "date": "2026-10-28",
+      "uploaded_at": "2026-10-28T17:39:35+08:00",
+      "sha256": "2727f6974c0fcd11636c6c26626c02d88dc0a2f7786c017065e0c5ed049672a4",
+      "source": "字幕文件发布提交",
+      "commit": "418c049667ebea656cb345c9d87fd710b13d3670"
+    },
+    "Q33-5": {
+      "date": "2026-10-28",
+      "uploaded_at": "2026-10-28T17:39:35+08:00",
+      "sha256": "1cb9c9b7e94456b3ede14993bd437af71fc9e38c7d17962bd8cd7656c8ce5ce1",
+      "source": "字幕文件发布提交",
+      "commit": "418c049667ebea656cb345c9d87fd710b13d3670"
+    },
+    "A325": {
+      "date": "2026-10-28",
+      "uploaded_at": "2026-10-28T17:39:35+08:00",
+      "sha256": "52a36ea058fc71707be6978081d89f573da76172778417356d13d5f3c816c89b",
+      "source": "字幕文件发布提交",
+      "commit": "418c049667ebea656cb345c9d87fd710b13d3670"
+    },
+    "A348-1": {
+      "date": "2026-11-04",
+      "uploaded_at": "2026-11-04T10:15:05+08:00",
+      "sha256": "c7090c21564d4e348f662f78cfbd780d4267013eb67bd60091e1161f78ad2ac5",
+      "source": "字幕文件发布提交",
+      "commit": "ba54e4cd4fa07b67ba9d54672ea029eca861dbe3"
+    },
+    "Q33-6": {
+      "date": "2026-11-05",
+      "uploaded_at": "2026-11-05T13:47:25+08:00",
+      "sha256": "41a87dcdf7f28f707b2e8b8761f9ee8ae09823fa3417c42b8a639568cd6c977c",
+      "source": "字幕文件发布提交",
+      "commit": "0bd2a213f7157e8b1a828d41b280d5d64e274c2c"
+    },
+    "Q33-7": {
+      "date": "2026-11-05",
+      "uploaded_at": "2026-11-05T13:57:33+08:00",
+      "sha256": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "source": "字幕文件发布提交",
+      "commit": "d9f3e54943f4ae882e69ab08ad1cd2bd96ec5d2b"
+    },
+    "Q33-8": {
+      "date": "2026-11-05",
+      "uploaded_at": "2026-11-05T14:12:16+08:00",
+      "sha256": "a8b4a4bfce1bc4c1909204b5acbd2fa55e8ff2a4701eca9974181b2cb4f834ed",
+      "source": "字幕文件发布提交",
+      "commit": "dfea9bd0b404e496013df90a7d01e546a4ceed0a"
+    },
+    "Q33-6-1": {
+      "date": "2026-11-06",
+      "uploaded_at": "2026-11-06T10:18:48+08:00",
+      "sha256": "606bbb9c5d4bb78083381350e56b060628db790b9d84124cced096562122df76",
+      "source": "字幕文件发布提交",
+      "commit": "fb61d0d26a64b7f5ac0c25fb9e8c0bc7b9c1ed2c"
+    },
+    "Q33-7-1": {
+      "date": "2026-11-06",
+      "uploaded_at": "2026-11-06T10:32:34+08:00",
+      "sha256": "93f2bd75c6bcfac22871d66c708ddbaff111d4770400797249f98708d524adc3",
+      "source": "字幕文件发布提交",
+      "commit": "85e5060095e9c210ef2d8974ef8fb48e9aaa5f33"
+    },
+    "Q33-8-1": {
+      "date": "2026-11-06",
+      "uploaded_at": "2026-11-06T10:45:21+08:00",
+      "sha256": "5a29303f5ceaf75ca43d24ee8198ae59f89926d9361a4e45f1db1f01e547a563",
+      "source": "字幕文件发布提交",
+      "commit": "dc2f326708404e704dd25145e7b2b4984732e45f"
+    },
+    "Q33-10": {
+      "date": "2026-11-06",
+      "uploaded_at": "2026-11-06T11:01:04+08:00",
+      "sha256": "81f04fd81aedbd4fb925b6fc95e86ddf72f570b55b9822b85defb5d9e397f438",
+      "source": "字幕文件发布提交",
+      "commit": "d1e4f53f87ed78d6d8eb9a7b0e9da4919de8a0b4"
+    },
+    "Q33-11": {
+      "date": "2026-11-07",
+      "uploaded_at": "2026-11-07T09:12:52+08:00",
+      "sha256": "6d23a81c56b5494635a047887649d3cfc2a504ee119d4f70ce01762880b1eaeb",
+      "source": "字幕文件发布提交",
+      "commit": "9bd4e5c974f280a1127a7e19e9597c2970bf62ac"
+    },
+    "A362-2": {
+      "date": "2026-11-07",
+      "uploaded_at": "2026-11-07T10:14:20+08:00",
+      "sha256": "eff4ccaa8a37bf86832a49e621dee1dab8c9c42c3afc2aa114278a563ff87754",
+      "source": "字幕文件发布提交",
+      "commit": "7025c59e923c10bfb2fe3fb302e1e5d8779419d8"
+    },
+    "Q31-2": {
+      "date": "2026-11-07",
+      "uploaded_at": "2026-11-07T14:31:19+08:00",
+      "sha256": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "source": "字幕文件发布提交",
+      "commit": "898d848e799161167d1d832e5122cd2bbe932764"
     }
   },
   "notes": {
