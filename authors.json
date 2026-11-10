@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 52,
+  "revision": 53,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -382,6 +382,26 @@
       "confirmed_at": "2026-11-07T14:31:05+08:00",
       "confirmation_source": "用户2026-11-07本次确认“作者张哲”，绑定Q31-2原PNG 58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
       "source_package": "D:/Users/Public/Claude产出素材库/Q31-2入库上线-20261107"
+    },
+    "Q33-12@e44d55e1bab34153581bc3605f782adb394167bc7449652fa8eb2f7dccb8f32a": {
+      "code": "Q33-12",
+      "sha256": "e44d55e1bab34153581bc3605f782adb394167bc7449652fa8eb2f7dccb8f32a",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-10T14:13:09+08:00",
+      "confirmation_source": "用户指定对应半成品包，包名明确署作者张哲",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\04-q33俱乐部\\Q33-12-11.10-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-OLCG去污牙膏+OLCG果冻霜"
+    },
+    "Q33-2-1@9c0285c67929e68db081ce0bdd547597d85ced9353289107ad5c49fbb7af5467": {
+      "code": "Q33-2-1",
+      "sha256": "9c0285c67929e68db081ce0bdd547597d85ced9353289107ad5c49fbb7af5467",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-10T14:13:09+08:00",
+      "confirmation_source": "用户指定对应半成品包，包名明确署作者张哲",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\04-q33俱乐部\\Q33-2-1-11.10-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG去污牙膏-郑雅斯-15"
     }
   },
   "history": [
