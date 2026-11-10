@@ -11755,6 +11755,144 @@
       "sha": "9c0285c67929e68db081ce0bdd547597d85ced9353289107ad5c49fbb7af5467",
       "textHash": "85310e7319794e004de05a2b44f71f2fbd4cd8bee55a6287db6c298ad34ec404",
       "addedAt": "2026-11-10"
+    },
+    {
+      "id": "Q33-13·01",
+      "code": "Q33-13",
+      "topic": "口交与咽喉癌",
+      "groupId": "T86",
+      "kind": "生活小tips",
+      "text": "1.Oral sex  Do less - throat cancer",
+      "zh": "口交少做——会导致喉癌。 ",
+      "zhDisplay": "口交少做——会导致喉癌。 ",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13文案.docx",
+      "line": "3–3",
+      "zhLine": "12–12",
+      "note": "",
+      "preview": "定版/版本/Q33-13/预览-e64454b51e1a.png",
+      "layer": "定版/版本/Q33-13/df13f8d5aabd.png",
+      "sha": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057",
+      "textHash": "d88dac1d3edb017a5d525257ad69bb3e2b8b7972f625e76eb764e7e461ab9054",
+      "addedAt": "2026-11-10"
+    },
+    {
+      "id": "Q33-13·02",
+      "code": "Q33-13",
+      "topic": "维生素B1与脚臭",
+      "groupId": "T106",
+      "kind": "生活小tips",
+      "text": "2.Foot odor  Vitamin B1 - The odor is gone",
+      "zh": "脚臭　维生素 B1——异味消失。",
+      "zhDisplay": "脚臭　维生素 B1——异味消失。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13文案.docx",
+      "line": "4–4",
+      "zhLine": "13–13",
+      "note": "",
+      "preview": "定版/版本/Q33-13/预览-e64454b51e1a.png",
+      "layer": "定版/版本/Q33-13/df13f8d5aabd.png",
+      "sha": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057",
+      "textHash": "7ca1aa1eba66be3fe3cc0912509a13b3772f2d6f2d5910e41ce07142ccd1f12b",
+      "addedAt": "2026-11-10"
+    },
+    {
+      "id": "Q33-13·03",
+      "code": "Q33-13",
+      "topic": "失眠与维生素B2",
+      "groupId": "T152",
+      "kind": "生活小tips",
+      "text": "3.Insomnia  Vitamin B2 - Sleepy at once.",
+      "zh": "失眠　维生素 B2——立刻犯困",
+      "zhDisplay": "失眠　维生素 B2——立刻犯困",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13文案.docx",
+      "line": "5–5",
+      "zhLine": "14–14",
+      "note": "",
+      "preview": "定版/版本/Q33-13/预览-e64454b51e1a.png",
+      "layer": "定版/版本/Q33-13/df13f8d5aabd.png",
+      "sha": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057",
+      "textHash": "854bede713f22bb6bb73405f6a52d5652bd13a970a0361e6755d1d40ab94bb87",
+      "addedAt": "2026-11-10"
+    },
+    {
+      "id": "Q33-13·04",
+      "code": "Q33-13",
+      "topic": "淡化细纹",
+      "groupId": "T03",
+      "kind": "产品植入",
+      "text": "4.Wrinkles  OLCG Jelly Cream from Amazon(erases fine lines like magic in 7 days)",
+      "zh": "",
+      "zhDisplay": "皱纹：亚马逊上的 OLCG 果冻霜，7 天内如魔法般消除细纹。",
+      "zhOrigin": "新增翻译（按外文）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13文案.docx",
+      "line": "6–6",
+      "zhLine": "",
+      "note": "原文案对应位置中文误写为黄牙，保留原文，按英文补译。",
+      "preview": "定版/版本/Q33-13/预览-e64454b51e1a.png",
+      "layer": "定版/版本/Q33-13/df13f8d5aabd.png",
+      "sha": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057",
+      "textHash": "14390f9c86038f0c400344c4eb93086c597872f7e1f27bcf4d3c4faccf3273af",
+      "addedAt": "2026-11-10"
+    },
+    {
+      "id": "Q33-13·05",
+      "code": "Q33-13",
+      "topic": "黑眼圈与维生素K",
+      "groupId": "T153",
+      "kind": "生活小tips",
+      "text": "5. Dark circles  Vitamin K -Lightening pigment",
+      "zh": "黑眼圈\n维生素 K——淡化色素",
+      "zhDisplay": "黑眼圈\n维生素 K——淡化色素",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13文案.docx",
+      "line": "7–7",
+      "zhLine": "16–17",
+      "note": "",
+      "preview": "定版/版本/Q33-13/预览-e64454b51e1a.png",
+      "layer": "定版/版本/Q33-13/df13f8d5aabd.png",
+      "sha": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057",
+      "textHash": "fbc24b840440bfc4299ca9beb1ca4df25b2d8a5e8f2c4604fe146b3c0cf603d9",
+      "addedAt": "2026-11-10"
+    },
+    {
+      "id": "Q33-13·06",
+      "code": "Q33-13",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth  OLCG Stain-removal Toothpaste\nFrom Amazon (Whitens teeth like pearls \nin one week)",
+      "zh": "黄牙\n来自 Amazon 的OLCG 去渍牙膏（一周内让牙齿如珍珠般洁白）",
+      "zhDisplay": "黄牙来自 Amazon 的OLCG 去渍牙膏（一周内让牙齿如珍珠般洁白）（原文案另列重复译文：黄牙亚马逊上的 OLCG 去渍牙膏（7 天让牙齿白得像珍珠）。 ）",
+      "zhOrigin": "来源中文原文，含文案重复译文说明",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13文案.docx",
+      "line": "8–10",
+      "zhLine": "18–19",
+      "note": "保留原文案中误置于第4条的黄牙译文，未更改原文档。",
+      "preview": "定版/版本/Q33-13/预览-e64454b51e1a.png",
+      "layer": "定版/版本/Q33-13/df13f8d5aabd.png",
+      "sha": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057",
+      "textHash": "be021380870d09aecd80844653cdfd11a9216ac96737162ac998f1dea9464dbb",
+      "addedAt": "2026-11-10"
     }
   ],
   "groups": [
@@ -11780,8 +11918,8 @@
     {
       "id": "T03",
       "name": "淡化细纹",
-      "count": 65,
-      "forms": 57,
+      "count": 66,
+      "forms": 58,
       "versions": [
         "A301-1",
         "A308",
@@ -11841,7 +11979,8 @@
         "A362-2",
         "Q31-2",
         "Q33-12",
-        "Q33-2-1"
+        "Q33-2-1",
+        "Q33-13"
       ]
     },
     {
@@ -11857,8 +11996,8 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 41,
-      "forms": 35,
+      "count": 42,
+      "forms": 36,
       "versions": [
         "A301-1",
         "A310",
@@ -11896,7 +12035,8 @@
         "A362-2",
         "Q31-2",
         "Q33-12",
-        "Q33-2-1"
+        "Q33-2-1",
+        "Q33-13"
       ]
     },
     {
@@ -12834,7 +12974,7 @@
     {
       "id": "T86",
       "name": "口交与咽喉癌",
-      "count": 10,
+      "count": 11,
       "forms": 4,
       "versions": [
         "Q35",
@@ -12846,7 +12986,8 @@
         "Q33-6-1",
         "Q33-8-1",
         "Q33-11",
-        "Q33-12"
+        "Q33-12",
+        "Q33-13"
       ]
     },
     {
@@ -13037,12 +13178,13 @@
     {
       "id": "T106",
       "name": "维生素B1与脚臭",
-      "count": 3,
-      "forms": 2,
+      "count": 4,
+      "forms": 3,
       "versions": [
         "A255-1",
         "Q33-6",
-        "Q33-6-1"
+        "Q33-6-1",
+        "Q33-13"
       ]
     },
     {
@@ -13461,10 +13603,20 @@
     {
       "id": "T152",
       "name": "失眠与维生素B2",
+      "count": 2,
+      "forms": 2,
+      "versions": [
+        "Q33-2-1",
+        "Q33-13"
+      ]
+    },
+    {
+      "id": "T153",
+      "name": "黑眼圈与维生素K",
       "count": 1,
       "forms": 1,
       "versions": [
-        "Q33-2-1"
+        "Q33-13"
       ]
     }
   ],
@@ -16531,6 +16683,40 @@
       "preview": "定版/版本/Q33-2-1/预览-c15c64e26bbd.png",
       "sha": "9c0285c67929e68db081ce0bdd547597d85ced9353289107ad5c49fbb7af5467",
       "previewSha": "c15c64e26bbddabb184a2c9289f99c286cbf62136187fad7da51177e8ef6d5f2",
+      "aliases": [],
+      "sourceBuilt": "2026-11-10",
+      "contextLineNumbers": []
+    },
+    {
+      "code": "Q33-13",
+      "count": 6,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "Q33-13文案.docx",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Oral sex  Do less - throat cancer",
+        "2.Foot odor  Vitamin B1 - The odor is gone",
+        "3.Insomnia  Vitamin B2 - Sleepy at once.",
+        "4.Wrinkles  OLCG Jelly Cream from Amazon(erases fine lines like magic in 7 days)",
+        "5. Dark circles  Vitamin K -Lightening pigment",
+        "6.Yellow teeth  OLCG Stain-removal Toothpaste",
+        "From Amazon (Whitens teeth like pearls ",
+        "in one week)",
+        "连医生都不会告诉你的秘密",
+        "口交少做——会导致喉癌。 ",
+        "脚臭　维生素 B1——异味消失。",
+        "失眠　维生素 B2——立刻犯困",
+        "黄牙亚马逊上的 OLCG 去渍牙膏（7 天让牙齿白得像珍珠）。 ",
+        "黑眼圈",
+        "维生素 K——淡化色素",
+        "黄牙",
+        "来自 Amazon 的OLCG 去渍牙膏（一周内让牙齿如珍珠般洁白）"
+      ],
+      "layer": "定版/版本/Q33-13/df13f8d5aabd.png",
+      "preview": "定版/版本/Q33-13/预览-e64454b51e1a.png",
+      "sha": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057",
+      "previewSha": "e64454b51e1a70f66983a91573db4dd772fc5bc0c97eebc826231fa5a18b3cda",
       "aliases": [],
       "sourceBuilt": "2026-11-10",
       "contextLineNumbers": []
@@ -27564,6 +27750,120 @@
       17,
       "标题/说明/来源中文",
       "黄牙　亚马逊上的 OLCG 去渍牙膏（1 周让牙齿白得像珍珠）。"
+    ],
+    [
+      "Q33-13",
+      1,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-13",
+      2,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-13",
+      3,
+      "小tips原文",
+      "1.Oral sex  Do less - throat cancer"
+    ],
+    [
+      "Q33-13",
+      4,
+      "小tips原文",
+      "2.Foot odor  Vitamin B1 - The odor is gone"
+    ],
+    [
+      "Q33-13",
+      5,
+      "小tips原文",
+      "3.Insomnia  Vitamin B2 - Sleepy at once."
+    ],
+    [
+      "Q33-13",
+      6,
+      "小tips原文",
+      "4.Wrinkles  OLCG Jelly Cream from Amazon(erases fine lines like magic in 7 days)"
+    ],
+    [
+      "Q33-13",
+      7,
+      "小tips原文",
+      "5. Dark circles  Vitamin K -Lightening pigment"
+    ],
+    [
+      "Q33-13",
+      8,
+      "小tips原文",
+      "6.Yellow teeth  OLCG Stain-removal Toothpaste"
+    ],
+    [
+      "Q33-13",
+      9,
+      "小tips原文",
+      "From Amazon (Whitens teeth like pearls "
+    ],
+    [
+      "Q33-13",
+      10,
+      "小tips原文",
+      "in one week)"
+    ],
+    [
+      "Q33-13",
+      11,
+      "标题/说明/来源中文",
+      "连医生都不会告诉你的秘密"
+    ],
+    [
+      "Q33-13",
+      12,
+      "标题/说明/来源中文",
+      "口交少做——会导致喉癌。 "
+    ],
+    [
+      "Q33-13",
+      13,
+      "标题/说明/来源中文",
+      "脚臭　维生素 B1——异味消失。"
+    ],
+    [
+      "Q33-13",
+      14,
+      "标题/说明/来源中文",
+      "失眠　维生素 B2——立刻犯困"
+    ],
+    [
+      "Q33-13",
+      15,
+      "标题/说明/来源中文",
+      "黄牙亚马逊上的 OLCG 去渍牙膏（7 天让牙齿白得像珍珠）。 "
+    ],
+    [
+      "Q33-13",
+      16,
+      "标题/说明/来源中文",
+      "黑眼圈"
+    ],
+    [
+      "Q33-13",
+      17,
+      "标题/说明/来源中文",
+      "维生素 K——淡化色素"
+    ],
+    [
+      "Q33-13",
+      18,
+      "标题/说明/来源中文",
+      "黄牙"
+    ],
+    [
+      "Q33-13",
+      19,
+      "标题/说明/来源中文",
+      "来自 Amazon 的OLCG 去渍牙膏（一周内让牙齿如珍珠般洁白）"
     ]
   ],
   "retired": {
@@ -27572,35 +27872,28 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "7f306e60404edc14da4fc4a97bab510d66bf9b0f68e454f0add25fb679c1d166",
+  "indexSha": "1e81c45b9bee2445c2a7d164bac46dd6ae9831dacb7ad5fda6c0c1ce51383115",
   "latestBatch": {
     "date": "2026-11-10",
     "versions": [
-      "Q33-12",
-      "Q33-2-1"
+      "Q33-13"
     ],
-    "records": 12,
+    "records": 6,
     "recordIds": [
-      "Q33-12·01",
-      "Q33-12·02",
-      "Q33-12·03",
-      "Q33-12·04",
-      "Q33-12·05",
-      "Q33-12·06",
-      "Q33-2-1·01",
-      "Q33-2-1·02",
-      "Q33-2-1·03",
-      "Q33-2-1·04",
-      "Q33-2-1·05",
-      "Q33-2-1·06"
+      "Q33-13·01",
+      "Q33-13·02",
+      "Q33-13·03",
+      "Q33-13·04",
+      "Q33-13·05",
+      "Q33-13·06"
     ]
   },
   "alignment": {
-    "subtitleVersions": 69,
-    "coveredVersions": 69,
+    "subtitleVersions": 70,
+    "coveredVersions": 70,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "7f306e60404edc14da4fc4a97bab510d66bf9b0f68e454f0add25fb679c1d166",
+    "sourceIndexSha256": "1e81c45b9bee2445c2a7d164bac46dd6ae9831dacb7ad5fda6c0c1ce51383115",
     "checkedAt": "2026-11-10"
   }
 }
