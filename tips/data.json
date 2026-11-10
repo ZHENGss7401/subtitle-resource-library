@@ -7354,9 +7354,9 @@
       "line": "3–5",
       "zhLine": "24–24",
       "note": "",
-      "preview": "定版/A326-1_预览.png",
-      "layer": "定版/A326-1.png",
-      "sha": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
+      "preview": "定版/版本/A326-1/预览-73b45fff6428.png",
+      "layer": "定版/版本/A326-1/da3f118f239a.png",
+      "sha": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
       "textHash": "89831bdba639fe02ea44c059be9669dad919a443cafc42e083d8e3fc84b7d3ca",
       "groupId": "T114",
       "zhDisplay": "同房后立刻抬高双腿，更容易怀上宝宝",
@@ -7377,9 +7377,9 @@
       "line": "6–8",
       "zhLine": "25–25",
       "note": "",
-      "preview": "定版/A326-1_预览.png",
-      "layer": "定版/A326-1.png",
-      "sha": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
+      "preview": "定版/版本/A326-1/预览-73b45fff6428.png",
+      "layer": "定版/版本/A326-1/da3f118f239a.png",
+      "sha": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
       "textHash": "472cbf06508634ec089b8865966a5cd0770488d396c512941992ec2741ce10b8",
       "groupId": "T102",
       "zhDisplay": "男性少穿牛仔裤，牛仔裤会损害生育能力",
@@ -7400,9 +7400,9 @@
       "line": "9–11",
       "zhLine": "26–26",
       "note": "",
-      "preview": "定版/A326-1_预览.png",
-      "layer": "定版/A326-1.png",
-      "sha": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
+      "preview": "定版/版本/A326-1/预览-73b45fff6428.png",
+      "layer": "定版/版本/A326-1/da3f118f239a.png",
+      "sha": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
       "textHash": "65489b641c4496525c702382ae62ef3ec46ed667482fa9e8457986e099f3bc66",
       "groupId": "T05",
       "zhDisplay": "牙齿发黄：亚马逊上的 OLCG 牙膏（7 天就能神奇美白牙齿）",
@@ -7423,9 +7423,9 @@
       "line": "12–15",
       "zhLine": "27–27",
       "note": "",
-      "preview": "定版/A326-1_预览.png",
-      "layer": "定版/A326-1.png",
-      "sha": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
+      "preview": "定版/版本/A326-1/预览-73b45fff6428.png",
+      "layer": "定版/版本/A326-1/da3f118f239a.png",
+      "sha": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
       "textHash": "9bee44d8ae9546c604c6923b9dec14fcb04bfcdb10ddc13f26d67f803eae8599",
       "groupId": "T115",
       "zhDisplay": "牛肉：女性要多吃肉（素食不利于受孕，经期不痛代表生育能力很强）",
@@ -7446,9 +7446,9 @@
       "line": "16–18",
       "zhLine": "28–28",
       "note": "",
-      "preview": "定版/A326-1_预览.png",
-      "layer": "定版/A326-1.png",
-      "sha": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
+      "preview": "定版/版本/A326-1/预览-73b45fff6428.png",
+      "layer": "定版/版本/A326-1/da3f118f239a.png",
+      "sha": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
       "textHash": "1dce82378280e1448baa8b122c2d3ba788e355fef1a18c9791bf47e40ecbd962",
       "groupId": "T03",
       "zhDisplay": "细纹：亚马逊 OLCG 果冻面霜，7 天神奇淡化细纹",
@@ -7469,9 +7469,9 @@
       "line": "19–22",
       "zhLine": "29–29",
       "note": "",
-      "preview": "定版/A326-1_预览.png",
-      "layer": "定版/A326-1.png",
-      "sha": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
+      "preview": "定版/版本/A326-1/预览-73b45fff6428.png",
+      "layer": "定版/版本/A326-1/da3f118f239a.png",
+      "sha": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
       "textHash": "c48e1c6610c29b09568fdc90b7efe432dddfa67227360020cf05c4fc348980e8",
       "groupId": "T31",
       "zhDisplay": "私处异味：喝纯菠萝汁（可以平衡私处酸碱度，让私处散发花香）",
@@ -13794,6 +13794,34 @@
       "versions": [
         "A349-1"
       ]
+    },
+    {
+      "id": "T158",
+      "name": "同房后姿势与受孕",
+      "count": 0,
+      "forms": 0,
+      "versions": []
+    },
+    {
+      "id": "T159",
+      "name": "牛仔裤与生育能力",
+      "count": 0,
+      "forms": 0,
+      "versions": []
+    },
+    {
+      "id": "T160",
+      "name": "饮食与生育",
+      "count": 0,
+      "forms": 0,
+      "versions": []
+    },
+    {
+      "id": "T161",
+      "name": "菠萝汁与私处气味",
+      "count": 0,
+      "forms": 0,
+      "versions": []
     }
   ],
   "sources": [
@@ -15968,50 +15996,6 @@
       "previewSha": "4574d30e6d44cf32bbbb908f9e5ea32bc25cbf0d24c12cab7c1e04805c7bdd7b"
     },
     {
-      "code": "A326-1",
-      "count": 6,
-      "title": "Secrets Even Doctors\nWon't Tell You",
-      "copySource": "文案.doc",
-      "lines": [
-        "Secrets Even Doctors",
-        "Won't Tell You",
-        "1. Have sex",
-        "Elevate your legs right after",
-        "It's easier to get pregnant",
-        "2. Jeans",
-        "Men wear less",
-        "Harms fertility",
-        "3. Yellow teeth",
-        "Amazon's Olcg toothpaste",
-        "(can magically whitens teeth in 7 days)",
-        "4. Beef",
-        "Women should eat more meat (Veggie",
-        "diets hinder conception and painless",
-        "periods mean you're extra fertile)",
-        "5. Wrinkles",
-        "Olcg Jelly Cream on Amazon",
-        "(erases fine lines like magic in 7 days)",
-        "6. Odor down there",
-        "Pure pineapple juice (can balance your",
-        "pH and make you smell like flowers",
-        "down there)",
-        "连医生都不会告诉你的秘密：",
-        "同房后立刻抬高双腿，更容易怀上宝宝",
-        "男性少穿牛仔裤，牛仔裤会损害生育能力",
-        "牙齿发黄：亚马逊上的 OLCG 牙膏（7 天就能神奇美白牙齿）",
-        "牛肉：女性要多吃肉（素食不利于受孕，经期不痛代表生育能力很强）",
-        "细纹：亚马逊 OLCG 果冻面霜，7 天神奇淡化细纹",
-        "私处异味：喝纯菠萝汁（可以平衡私处酸碱度，让私处散发花香）"
-      ],
-      "layer": "定版/A326-1.png",
-      "preview": "定版/A326-1_预览.png",
-      "sha": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
-      "aliases": [],
-      "sourceBuilt": "2026-11-04T10:14:27+08:00",
-      "assetType": "image",
-      "previewSha": "5e7fe4ea5885f83f784329ff0702aadc0423bfdb14b61edfe4237644fcb0e193"
-    },
-    {
       "code": "Q37-2",
       "count": 8,
       "title": "Hills I will die on as a gynecologist of 16 years",
@@ -16938,6 +16922,51 @@
       "aliases": [],
       "sourceBuilt": "2026-11-10",
       "contextLineNumbers": []
+    },
+    {
+      "code": "A326-1",
+      "count": 6,
+      "title": "Secrets Even Doctors\nWon't Tell You",
+      "copySource": "A326-1_原文案.doc",
+      "lines": [
+        "Secrets Even Doctors",
+        "Won't Tell You",
+        "1. Have sex",
+        "Elevate your legs right after",
+        "It's easier to get pregnant",
+        "2. Jeans",
+        "Men wear less",
+        "Harms fertility",
+        "3. Yellow teeth",
+        "Amazon's Olcg toothpaste",
+        "(can magically whitens teeth in 7 days)",
+        "4. Beef",
+        "Women should eat more meat (Veggie",
+        "diets hinder conception and painless",
+        "periods mean you're extra fertile)",
+        "5. Wrinkles",
+        "Olcg Jelly Cream on Amazon",
+        "(erases fine lines like magic in 7 days)",
+        "6. Odor down there",
+        "Pure pineapple juice (can balance your",
+        "pH and make you smell like flowers",
+        "down there)",
+        "连医生都不会告诉你的秘密：",
+        "同房后立刻抬高双腿，更容易怀上宝宝",
+        "男性少穿牛仔裤，牛仔裤会损害生育能力",
+        "牙齿发黄：亚马逊上的 OLCG 牙膏（7 天就能神奇美白牙齿）",
+        "牛肉：女性要多吃肉（素食不利于受孕，经期不痛代表生育能力很强）",
+        "细纹：亚马逊 OLCG 果冻面霜，7 天神奇淡化细纹",
+        "私处异味：喝纯菠萝汁（可以平衡私处酸碱度，让私处散发花香）"
+      ],
+      "layer": "定版/版本/A326-1/da3f118f239a.png",
+      "preview": "定版/版本/A326-1/预览-73b45fff6428.png",
+      "sha": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
+      "previewSha": "73b45fff6428088daf3a67a4fa826c2d681d5e70cfe5653cf5d75c3abb1fea3a",
+      "aliases": [],
+      "sourceBuilt": "2026-11-10",
+      "contextLineNumbers": [],
+      "history": []
     }
   ],
   "coverage": [
@@ -28244,6 +28273,180 @@
       27,
       "标题/说明/来源中文",
       "排卵试纸阳性只代表激素在升高，不能确认已经成功排卵。"
+    ],
+    [
+      "A326-1",
+      1,
+      "标题/说明/来源中文",
+      "Secrets Even Doctors"
+    ],
+    [
+      "A326-1",
+      2,
+      "标题/说明/来源中文",
+      "Won't Tell You"
+    ],
+    [
+      "A326-1",
+      3,
+      "小tips原文",
+      "1. Have sex"
+    ],
+    [
+      "A326-1",
+      4,
+      "小tips原文",
+      "Elevate your legs right after"
+    ],
+    [
+      "A326-1",
+      5,
+      "小tips原文",
+      "It's easier to get pregnant"
+    ],
+    [
+      "A326-1",
+      6,
+      "小tips原文",
+      "2. Jeans"
+    ],
+    [
+      "A326-1",
+      7,
+      "小tips原文",
+      "Men wear less"
+    ],
+    [
+      "A326-1",
+      8,
+      "小tips原文",
+      "Harms fertility"
+    ],
+    [
+      "A326-1",
+      9,
+      "小tips原文",
+      "3. Yellow teeth"
+    ],
+    [
+      "A326-1",
+      10,
+      "小tips原文",
+      "Amazon's Olcg toothpaste"
+    ],
+    [
+      "A326-1",
+      11,
+      "小tips原文",
+      "(can magically whitens teeth in 7 days)"
+    ],
+    [
+      "A326-1",
+      12,
+      "小tips原文",
+      "4. Beef"
+    ],
+    [
+      "A326-1",
+      13,
+      "小tips原文",
+      "Women should eat more meat (Veggie"
+    ],
+    [
+      "A326-1",
+      14,
+      "小tips原文",
+      "diets hinder conception and painless"
+    ],
+    [
+      "A326-1",
+      15,
+      "小tips原文",
+      "periods mean you're extra fertile)"
+    ],
+    [
+      "A326-1",
+      16,
+      "小tips原文",
+      "5. Wrinkles"
+    ],
+    [
+      "A326-1",
+      17,
+      "小tips原文",
+      "Olcg Jelly Cream on Amazon"
+    ],
+    [
+      "A326-1",
+      18,
+      "小tips原文",
+      "(erases fine lines like magic in 7 days)"
+    ],
+    [
+      "A326-1",
+      19,
+      "小tips原文",
+      "6. Odor down there"
+    ],
+    [
+      "A326-1",
+      20,
+      "小tips原文",
+      "Pure pineapple juice (can balance your"
+    ],
+    [
+      "A326-1",
+      21,
+      "小tips原文",
+      "pH and make you smell like flowers"
+    ],
+    [
+      "A326-1",
+      22,
+      "小tips原文",
+      "down there)"
+    ],
+    [
+      "A326-1",
+      23,
+      "标题/说明/来源中文",
+      "连医生都不会告诉你的秘密："
+    ],
+    [
+      "A326-1",
+      24,
+      "标题/说明/来源中文",
+      "同房后立刻抬高双腿，更容易怀上宝宝"
+    ],
+    [
+      "A326-1",
+      25,
+      "标题/说明/来源中文",
+      "男性少穿牛仔裤，牛仔裤会损害生育能力"
+    ],
+    [
+      "A326-1",
+      26,
+      "标题/说明/来源中文",
+      "牙齿发黄：亚马逊上的 OLCG 牙膏（7 天就能神奇美白牙齿）"
+    ],
+    [
+      "A326-1",
+      27,
+      "标题/说明/来源中文",
+      "牛肉：女性要多吃肉（素食不利于受孕，经期不痛代表生育能力很强）"
+    ],
+    [
+      "A326-1",
+      28,
+      "标题/说明/来源中文",
+      "细纹：亚马逊 OLCG 果冻面霜，7 天神奇淡化细纹"
+    ],
+    [
+      "A326-1",
+      29,
+      "标题/说明/来源中文",
+      "私处异味：喝纯菠萝汁（可以平衡私处酸碱度，让私处散发花香）"
     ]
   ],
   "retired": {
@@ -28252,28 +28455,19 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "504b7a880d83fe4495296421beb79f43381e103497faf83a7081e6c3a75bd3ab",
+  "indexSha": "0a6c4fdc0321090b2344b4e135320892cc3b78f437d7aa777b4207f20feb141e",
   "latestBatch": {
     "date": "2026-11-10",
-    "versions": [
-      "A349-1"
-    ],
-    "records": 6,
-    "recordIds": [
-      "A349-1·01",
-      "A349-1·02",
-      "A349-1·03",
-      "A349-1·04",
-      "A349-1·05",
-      "A349-1·06"
-    ]
+    "versions": [],
+    "records": 0,
+    "recordIds": []
   },
   "alignment": {
     "subtitleVersions": 71,
     "coveredVersions": 71,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "504b7a880d83fe4495296421beb79f43381e103497faf83a7081e6c3a75bd3ab",
+    "sourceIndexSha256": "0a6c4fdc0321090b2344b4e135320892cc3b78f437d7aa777b4207f20feb141e",
     "checkedAt": "2026-11-10"
   }
 }

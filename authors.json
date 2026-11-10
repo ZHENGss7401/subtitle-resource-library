@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 55,
+  "revision": 56,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -116,14 +116,6 @@
       "confirmed_at": "2026-10-26T09:44:28+08:00",
       "updated_at": "2026-10-27T10:00:10+08:00",
       "confirmation_source": "本会话惠跃主人已明确作者郑惠跃；2026-10-27同编号A326附件替换，沿用该署名"
-    },
-    "A326-1@c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424": {
-      "code": "A326-1",
-      "sha256": "c0e5270c52e322efa2d36fe6bb71aacbf9dff40597fc80ac3aa86d1f6df05424",
-      "author": "郑惠跃",
-      "status": "confirmed",
-      "confirmed_at": "2026-10-27T14:05:23+08:00",
-      "confirmation_source": "2026-10-27惠跃主人明确：A326-1入库资源库和上线看板，作者郑惠跃。字幕PNG及首帧附件原样保留，作为独立版本入库。"
     },
     "Q37-2@27ef5d1c969ddc0c48a43d7d0e255b8f0015c12d172bfb9601575eb34dba3971": {
       "code": "Q37-2",
@@ -422,6 +414,16 @@
       "confirmed_at": "2026-11-10T14:46:48+08:00",
       "confirmation_source": "用户指定半成品包名明确署作者余晓青",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\A349-1-11.10-余晓青-惠跃-从事妇科医生 16 年，这些事我希望更多人知道-olcg果冻霜+olcg牙膏-"
+    },
+    "A326-1@da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3": {
+      "code": "A326-1",
+      "sha256": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-10T15:36:22+08:00",
+      "confirmation_source": "沿用原A326-1确认作者，用户明确指定同版高清替换",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\02-另外加做组\\A326-1-10"
     }
   },
   "history": [
