@@ -1,0 +1,72 @@
+{
+  "code": "A195-3",
+  "pkg_code": "A195-3",
+  "aliases": [],
+  "dates": [
+    "11.11"
+  ],
+  "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\01-基本盘组\\A195-3-11.11-英文-余晓青-郑惠跃-（你需要了解的10件事）-OLCG去污牙膏-郑雅斯-30"
+  ],
+  "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\01-基本盘组\\A195-3-11.11-英文-余晓青-郑惠跃-（你需要了解的10件事）-OLCG去污牙膏-郑雅斯-30\\字幕夹（待agent入库）\\A195-3.png",
+  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A195-3.png",
+  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A195-3.png",
+  "layer_rel": "定版/A195-3.png",
+  "preview_rel": "定版/A195-3_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A195-3_成品预览.png",
+  "preview_kind": "无字素材＋定版字幕合成预览",
+  "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\01-基本盘组\\A195-3-11.11-英文-余晓青-郑惠跃-（你需要了解的10件事）-OLCG去污牙膏-郑雅斯-30\\flow素材-30\\A195-2 (002).mp4",
+  "preview_frame_seconds": 1,
+  "preview_source_note": "",
+  "sha256": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+  "preview_sha256": "d806bb4dc2cb604aeab12006a01a96fe4f825f4582ce6bcde8f84d8a091c6cc9",
+  "size": [
+    1536,
+    2752
+  ],
+  "preview_size": [
+    720,
+    1280
+  ],
+  "basis": "用户授权本次入库上线；原始文件逐字节保留",
+  "confidence": "已证实",
+  "contested": false,
+  "discarded": [],
+  "author": "余晓青",
+  "copywriter": "郑惠跃",
+  "author_status": "confirmed",
+  "author_confirmed_at": "2026-11-11T15:10:18+08:00",
+  "author_source": "用户明确确认作者余晓青",
+  "copy": {
+    "source": "A195-3图片可见英文原文.txt",
+    "lines": [
+      "Here are 10 things you need to know:",
+      "(Dentist Edition)",
+      "1. The tongue has a resting position - and it should be on the palate.",
+      "2. Mouth breathing is not normal - at any age.",
+      "3. Crooked teeth are often a space problem, not a tooth problem.",
+      "4. Snoring is a red flag — not \"cute\" or \"normal.\"",
+      "5. OLCG Stain-removal Toothpaste from Amazon",
+      "Whitens teeth like pearls in 7 days",
+      "6. Tongue-tie is not just about speech - it affects breathing and growth.",
+      "7. Grinding teeth is often the body trying to open the airway.",
+      "8. Lips should be closed at rest - effortlessly.",
+      "9. Poor sleep can look like ADHD, not tiredness.",
+      "10. Function shapes structure — always."
+    ],
+    "download_rel": "文案/A195-3_原文案.txt",
+    "original_download_rel": "文案/A195-3_原文案.txt",
+    "sha256": "d2d0ffd2ea2b4af96fbc218271624aa375ec0be37af3bbc3af278732ebf49514"
+  },
+  "copy_rel": "文案/A195-3_原文案.txt",
+  "updated_at": "2026-11-11T15:10:18+08:00",
+  "title": "你需要了解的10件事（牙医版）",
+  "products": [
+    "OLCG去污牙膏"
+  ],
+  "upload_date": {
+    "date": "2026-11-11",
+    "source": "字幕上传提交日期",
+    "sha256": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7"
+  }
+}

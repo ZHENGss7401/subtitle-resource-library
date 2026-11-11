@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-10",
+  "built": "2026-11-11",
   "root": "字幕资源库 / INDEX.json",
   "rows": [
     {
@@ -12031,6 +12031,236 @@
       "sha": "4fe86860f33bb053dc8cb07c8dedd04d2fadf675a44795206a38cbf05a473d36",
       "textHash": "5327eb1037dc4f90f0141b6ddbf56e1ad0d7f9d8596e4196872f37e93ad21c3b",
       "addedAt": "2026-11-10"
+    },
+    {
+      "id": "A195-3·01",
+      "code": "A195-3",
+      "topic": "舌头的静息位置",
+      "groupId": "T162",
+      "kind": "生活小tips",
+      "text": "1. The tongue has a resting position - and it should be on the palate.",
+      "zh": "",
+      "zhDisplay": "舌头有静息位置，应贴在上颚。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "3–3",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "ae76a22e65c0530ef84ff921d65d3861615b2c26231b9d6226eabc59f8c32303",
+      "addedAt": "2026-11-11"
+    },
+    {
+      "id": "A195-3·02",
+      "code": "A195-3",
+      "topic": "口呼吸",
+      "groupId": "T163",
+      "kind": "生活小tips",
+      "text": "2. Mouth breathing is not normal - at any age.",
+      "zh": "",
+      "zhDisplay": "口呼吸在任何年龄都不正常。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "4–4",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "b95d1ed672bf326eb463a46c9bbd5e89d80be932e14ef703c05a4b6e02adcbaf",
+      "addedAt": "2026-11-11"
+    },
+    {
+      "id": "A195-3·03",
+      "code": "A195-3",
+      "topic": "牙列不齐与空间",
+      "groupId": "T164",
+      "kind": "生活小tips",
+      "text": "3. Crooked teeth are often a space problem, not a tooth problem.",
+      "zh": "",
+      "zhDisplay": "牙齿不齐通常是空间问题，而非牙齿本身的问题。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "5–5",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "4e3d4964643817742d1367bc196e9fe46247704496c0747d337133baa0d5ec39",
+      "addedAt": "2026-11-11"
+    },
+    {
+      "id": "A195-3·04",
+      "code": "A195-3",
+      "topic": "打鼾的警示",
+      "groupId": "T165",
+      "kind": "生活小tips",
+      "text": "4. Snoring is a red flag — not \"cute\" or \"normal.\"",
+      "zh": "",
+      "zhDisplay": "打鼾是警示信号，并非可爱或正常。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "6–6",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "63db8ee5beb09f634effa3966c631b4a6cfedeb37c375253bb0ac888f9b4967d",
+      "addedAt": "2026-11-11"
+    },
+    {
+      "id": "A195-3·05",
+      "code": "A195-3",
+      "topic": "OLCG去污牙膏",
+      "groupId": "T166",
+      "kind": "产品植入",
+      "text": "5. OLCG Stain-removal Toothpaste from Amazon\nWhitens teeth like pearls in 7 days",
+      "zh": "",
+      "zhDisplay": "亚马逊上的 OLCG 去污牙膏，7天内让牙齿白如珍珠。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "7–8",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "6d3e90bb9815d9c3b467f14d4b16225415751b22b52a2c644978d12921632033",
+      "addedAt": "2026-11-11"
+    },
+    {
+      "id": "A195-3·06",
+      "code": "A195-3",
+      "topic": "舌系带与呼吸",
+      "groupId": "T167",
+      "kind": "生活小tips",
+      "text": "6. Tongue-tie is not just about speech - it affects breathing and growth.",
+      "zh": "",
+      "zhDisplay": "舌系带问题不仅影响语言，也会影响呼吸和发育。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "9–9",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "d7f341419717c52951a2c93ea776422dd6f4c72e11e9c1edb8ffb0c92a2f9f1e",
+      "addedAt": "2026-11-11"
+    },
+    {
+      "id": "A195-3·07",
+      "code": "A195-3",
+      "topic": "磨牙与气道",
+      "groupId": "T98",
+      "kind": "生活小tips",
+      "text": "7. Grinding teeth is often the body trying to open the airway.",
+      "zh": "",
+      "zhDisplay": "磨牙常常是身体试图打开气道的表现。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "10–10",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "d4c5d0fb93a88d6df3d4a9c4ff145e7863fed2d5efc6a63b884511a4512fe981",
+      "addedAt": "2026-11-11"
+    },
+    {
+      "id": "A195-3·08",
+      "code": "A195-3",
+      "topic": "嘴唇的静息状态",
+      "groupId": "T168",
+      "kind": "生活小tips",
+      "text": "8. Lips should be closed at rest - effortlessly.",
+      "zh": "",
+      "zhDisplay": "休息时嘴唇应自然闭合。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "11–11",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "f4ec3fd5d6914c18b2c05edea69b97e65ce11397bcb5b0aca13f49c34067c0ec",
+      "addedAt": "2026-11-11"
+    },
+    {
+      "id": "A195-3·09",
+      "code": "A195-3",
+      "topic": "睡眠与注意力",
+      "groupId": "T169",
+      "kind": "生活小tips",
+      "text": "9. Poor sleep can look like ADHD, not tiredness.",
+      "zh": "",
+      "zhDisplay": "睡眠不佳可能看起来像注意缺陷多动障碍，而非疲劳。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "12–12",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "b615ace7f436cf467d5a71278f7dedf55afce18a7059b440773e7431acd7a470",
+      "addedAt": "2026-11-11"
+    },
+    {
+      "id": "A195-3·10",
+      "code": "A195-3",
+      "topic": "功能与结构",
+      "groupId": "T101",
+      "kind": "生活小tips",
+      "text": "10. Function shapes structure — always.",
+      "zh": "",
+      "zhDisplay": "功能塑造结构，始终如此。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "",
+      "sourceType": "图片可见原文",
+      "source": "A195-3图片可见英文原文.txt",
+      "line": "13–13",
+      "zhLine": "",
+      "note": "",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "textHash": "0009bf51174fc8bddbbd03880da6106e836e1a33bf6e3fc9500ef75b97057e46",
+      "addedAt": "2026-11-11"
     }
   ],
   "groups": [
@@ -13245,10 +13475,11 @@
     {
       "id": "T98",
       "name": "磨牙与气道",
-      "count": 1,
-      "forms": 1,
+      "count": 2,
+      "forms": 2,
       "versions": [
-        "A195-2"
+        "A195-2",
+        "A195-3"
       ]
     },
     {
@@ -13272,10 +13503,11 @@
     {
       "id": "T101",
       "name": "功能与结构",
-      "count": 1,
-      "forms": 1,
+      "count": 2,
+      "forms": 2,
       "versions": [
-        "A195-2"
+        "A195-2",
+        "A195-3"
       ]
     },
     {
@@ -13822,6 +14054,78 @@
       "count": 0,
       "forms": 0,
       "versions": []
+    },
+    {
+      "id": "T162",
+      "name": "舌头的静息位置",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "A195-3"
+      ]
+    },
+    {
+      "id": "T163",
+      "name": "口呼吸",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "A195-3"
+      ]
+    },
+    {
+      "id": "T164",
+      "name": "牙列不齐与空间",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "A195-3"
+      ]
+    },
+    {
+      "id": "T165",
+      "name": "打鼾的警示",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "A195-3"
+      ]
+    },
+    {
+      "id": "T166",
+      "name": "OLCG去污牙膏",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "A195-3"
+      ]
+    },
+    {
+      "id": "T167",
+      "name": "舌系带与呼吸",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "A195-3"
+      ]
+    },
+    {
+      "id": "T168",
+      "name": "嘴唇的静息状态",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "A195-3"
+      ]
+    },
+    {
+      "id": "T169",
+      "name": "睡眠与注意力",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "A195-3"
+      ]
     }
   ],
   "sources": [
@@ -16967,6 +17271,34 @@
       "sourceBuilt": "2026-11-10",
       "contextLineNumbers": [],
       "history": []
+    },
+    {
+      "code": "A195-3",
+      "count": 10,
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "copySource": "A195-3图片可见英文原文.txt",
+      "lines": [
+        "Here are 10 things you need to know:",
+        "(Dentist Edition)",
+        "1. The tongue has a resting position - and it should be on the palate.",
+        "2. Mouth breathing is not normal - at any age.",
+        "3. Crooked teeth are often a space problem, not a tooth problem.",
+        "4. Snoring is a red flag — not \"cute\" or \"normal.\"",
+        "5. OLCG Stain-removal Toothpaste from Amazon",
+        "Whitens teeth like pearls in 7 days",
+        "6. Tongue-tie is not just about speech - it affects breathing and growth.",
+        "7. Grinding teeth is often the body trying to open the airway.",
+        "8. Lips should be closed at rest - effortlessly.",
+        "9. Poor sleep can look like ADHD, not tiredness.",
+        "10. Function shapes structure — always."
+      ],
+      "layer": "定版/版本/A195-3/e315a708ba3f.png",
+      "preview": "定版/版本/A195-3/预览-d806bb4dc2cb.png",
+      "sha": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "previewSha": "d806bb4dc2cb604aeab12006a01a96fe4f825f4582ce6bcde8f84d8a091c6cc9",
+      "aliases": [],
+      "sourceBuilt": "2026-11-11",
+      "contextLineNumbers": []
     }
   ],
   "coverage": [
@@ -28447,6 +28779,84 @@
       29,
       "标题/说明/来源中文",
       "私处异味：喝纯菠萝汁（可以平衡私处酸碱度，让私处散发花香）"
+    ],
+    [
+      "A195-3",
+      1,
+      "标题/说明/来源中文",
+      "Here are 10 things you need to know:"
+    ],
+    [
+      "A195-3",
+      2,
+      "标题/说明/来源中文",
+      "(Dentist Edition)"
+    ],
+    [
+      "A195-3",
+      3,
+      "小tips原文",
+      "1. The tongue has a resting position - and it should be on the palate."
+    ],
+    [
+      "A195-3",
+      4,
+      "小tips原文",
+      "2. Mouth breathing is not normal - at any age."
+    ],
+    [
+      "A195-3",
+      5,
+      "小tips原文",
+      "3. Crooked teeth are often a space problem, not a tooth problem."
+    ],
+    [
+      "A195-3",
+      6,
+      "小tips原文",
+      "4. Snoring is a red flag — not \"cute\" or \"normal.\""
+    ],
+    [
+      "A195-3",
+      7,
+      "小tips原文",
+      "5. OLCG Stain-removal Toothpaste from Amazon"
+    ],
+    [
+      "A195-3",
+      8,
+      "小tips原文",
+      "Whitens teeth like pearls in 7 days"
+    ],
+    [
+      "A195-3",
+      9,
+      "小tips原文",
+      "6. Tongue-tie is not just about speech - it affects breathing and growth."
+    ],
+    [
+      "A195-3",
+      10,
+      "小tips原文",
+      "7. Grinding teeth is often the body trying to open the airway."
+    ],
+    [
+      "A195-3",
+      11,
+      "小tips原文",
+      "8. Lips should be closed at rest - effortlessly."
+    ],
+    [
+      "A195-3",
+      12,
+      "小tips原文",
+      "9. Poor sleep can look like ADHD, not tiredness."
+    ],
+    [
+      "A195-3",
+      13,
+      "小tips原文",
+      "10. Function shapes structure — always."
     ]
   ],
   "retired": {
@@ -28455,19 +28865,32 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "0a6c4fdc0321090b2344b4e135320892cc3b78f437d7aa777b4207f20feb141e",
+  "indexSha": "c25f17cef970e366f43696240aa29739ed7a78e29a4dcba8cf88c0f0e5a5cf61",
   "latestBatch": {
-    "date": "2026-11-10",
-    "versions": [],
-    "records": 0,
-    "recordIds": []
+    "date": "2026-11-11",
+    "versions": [
+      "A195-3"
+    ],
+    "records": 10,
+    "recordIds": [
+      "A195-3·01",
+      "A195-3·02",
+      "A195-3·03",
+      "A195-3·04",
+      "A195-3·05",
+      "A195-3·06",
+      "A195-3·07",
+      "A195-3·08",
+      "A195-3·09",
+      "A195-3·10"
+    ]
   },
   "alignment": {
-    "subtitleVersions": 71,
-    "coveredVersions": 71,
+    "subtitleVersions": 72,
+    "coveredVersions": 72,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "0a6c4fdc0321090b2344b4e135320892cc3b78f437d7aa777b4207f20feb141e",
-    "checkedAt": "2026-11-10"
+    "sourceIndexSha256": "c25f17cef970e366f43696240aa29739ed7a78e29a4dcba8cf88c0f0e5a5cf61",
+    "checkedAt": "2026-11-11"
   }
 }

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 56,
+  "revision": 57,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -424,6 +424,16 @@
       "confirmed_at": "2026-11-10T15:36:22+08:00",
       "confirmation_source": "沿用原A326-1确认作者，用户明确指定同版高清替换",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\02-另外加做组\\A326-1-10"
+    },
+    "A195-3@e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7": {
+      "code": "A195-3",
+      "sha256": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "author": "余晓青",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-11T15:10:18+08:00",
+      "confirmation_source": "2026-11-11 用户明确回复：出成品再入库，作者依旧余晓青",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\01-基本盘组\\A195-3-11.11-英文-余晓青-郑惠跃-（你需要了解的10件事）-OLCG去污牙膏-郑雅斯-30"
     }
   },
   "history": [
