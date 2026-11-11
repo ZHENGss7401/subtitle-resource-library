@@ -2522,6 +2522,85 @@
         "source": "字幕上传提交日期",
         "sha256": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7"
       }
+    },
+    "Q33-14": {
+      "code": "Q33-14",
+      "pkg_code": "Q33-14",
+      "aliases": [],
+      "dates": [
+        "11.11"
+      ],
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\03-q33俱乐部\\Q33-14-11.11-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+OLCG去污牙膏-郑雅斯-20"
+      ],
+      "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\03-q33俱乐部\\Q33-14-11.11-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+OLCG去污牙膏-郑雅斯-20\\字幕夹\\Q33-14.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-14.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-14.png",
+      "layer_rel": "定版/Q33-14.png",
+      "preview_rel": "定版/Q33-14_成品预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-14_成品预览.png",
+      "preview_kind": "无字素材＋定版字幕合成预览",
+      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\03-q33俱乐部\\Q33-14-11.11-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+OLCG去污牙膏-郑雅斯-20\\flow素材-20\\1 (1).mp4",
+      "preview_frame_seconds": 1,
+      "preview_source_note": "",
+      "sha256": "f343c72590e585bdbf11f3e31eb162447681f222fbd2294c1016d032a9855031",
+      "preview_sha256": "91afd0ba1b23f7e2023705f9e801cf2e58dbcca5048ceb06682f772751f41f15",
+      "size": [
+        1536,
+        2752
+      ],
+      "preview_size": [
+        720,
+        1280
+      ],
+      "basis": "用户授权本次入库上线；原始文件逐字节保留",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-11-11T15:46:28+08:00",
+      "author_source": "用户指定的半成品包名署作者郑惠跃",
+      "copy": {
+        "source": "Q33-14文案.docx",
+        "lines": [
+          "Secrets even doctors",
+          "won't tell you",
+          "1.Oral sex  Do less - throat cancer",
+          "2.Foot odor  Vitamin B1 - The odor is gone",
+          "3.Snoring  Vitamin C - Quiet all night long",
+          "4.Yellow teeth  OLCG Stain-removal Toothpaste",
+          "on AMZ(Whitens teeth like pearls in 7 days)",
+          "5.Sore Gums  VitaminC - Reduce swelling instantly",
+          "6.Wrinkles  OLCG Jelly Cream from Amazon",
+          "Like an eraser wiping away lines & erase",
+          "3 of your fine lines in just 7 days.",
+          "连医生都不会告诉你的秘密",
+          "口交少做——会导致喉癌。 ",
+          "脚臭维生素 B1——异味消失。 ",
+          "打鼾维生素 C——整晚安静不打鼾。 ",
+          "黄牙亚马逊上的 OLCG 去渍牙膏（7 天让牙齿白得像珍珠）。 ",
+          "牙龈肿痛",
+          "维生素C——即时缓解肿胀",
+          "皱纹亚马逊上的 OLCG 果冻面霜像橡皮擦擦掉线条一样，仅需 7 天，擦掉你 3 条细纹。"
+        ],
+        "download_rel": "文案/Q33-14_原文案.docx",
+        "original_download_rel": "文案/Q33-14_原文案.docx",
+        "sha256": "18b361573057bada25698df5627e294e83dacb3243308a395324dddc977b9663"
+      },
+      "copy_rel": "文案/Q33-14_原文案.docx",
+      "updated_at": "2026-11-11T15:46:28+08:00",
+      "title": "连医生都不会告诉你的秘密",
+      "products": [
+        "OLCG去污牙膏",
+        "OLCG果冻霜"
+      ],
+      "upload_date": {
+        "date": "2026-11-11",
+        "source": "字幕上传提交日期",
+        "sha256": "f343c72590e585bdbf11f3e31eb162447681f222fbd2294c1016d032a9855031"
+      }
     }
   }
 }
