@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-11",
+  "built": "2026-11-12",
   "root": "字幕资源库 / INDEX.json",
   "rows": [
     {
@@ -12399,6 +12399,144 @@
       "sha": "f343c72590e585bdbf11f3e31eb162447681f222fbd2294c1016d032a9855031",
       "textHash": "40b1df009b572ab3af24324293638b1aa72c5e9d88ed527679f73a4271be2ec7",
       "addedAt": "2026-11-11"
+    },
+    {
+      "id": "Q33-客厅养鱼·01",
+      "code": "Q33-客厅养鱼",
+      "topic": "避孕套与精子",
+      "groupId": "T171",
+      "kind": "生活小tips",
+      "text": "1.Condom\nUse less - kills sperm",
+      "zh": "1. 避孕套少用——杀死精子",
+      "zhDisplay": "1. 避孕套少用——杀死精子",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案-客厅养鱼、睡觉不穿袜子.docx",
+      "line": "3–4",
+      "zhLine": "17–17",
+      "note": "",
+      "preview": "定版/版本/Q33-客厅养鱼/预览-e429ed5e2339.png",
+      "layer": "定版/版本/Q33-客厅养鱼/831f003d66c1.png",
+      "sha": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "textHash": "5c9fff174769ddcd6ff76185c1ef2321ecdfcac18cec2a4d893d1c48e3ddf9ff",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "Q33-客厅养鱼·02",
+      "code": "Q33-客厅养鱼",
+      "topic": "客厅养鱼",
+      "groupId": "T172",
+      "kind": "生活小tips",
+      "text": "2.Living room Don't keep fish - Take advice",
+      "zh": "2. 客厅不要养鱼——听从建议",
+      "zhDisplay": "2. 客厅不要养鱼——听从建议",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案-客厅养鱼、睡觉不穿袜子.docx",
+      "line": "5–5",
+      "zhLine": "18–18",
+      "note": "",
+      "preview": "定版/版本/Q33-客厅养鱼/预览-e429ed5e2339.png",
+      "layer": "定版/版本/Q33-客厅养鱼/831f003d66c1.png",
+      "sha": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "textHash": "d9f0ec201383d25181dba0730a8eb2fa52b5dc89abdd099bf5f987999b983800",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "Q33-客厅养鱼·03",
+      "code": "Q33-客厅养鱼",
+      "topic": "睡眠穿袜子",
+      "groupId": "T173",
+      "kind": "生活小tips",
+      "text": "3.Sleep\nDon't wear socks - Remember",
+      "zh": "3. 睡眠不要穿袜子——记住这一点",
+      "zhDisplay": "3. 睡眠不要穿袜子——记住这一点",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案-客厅养鱼、睡觉不穿袜子.docx",
+      "line": "6–7",
+      "zhLine": "19–19",
+      "note": "",
+      "preview": "定版/版本/Q33-客厅养鱼/预览-e429ed5e2339.png",
+      "layer": "定版/版本/Q33-客厅养鱼/831f003d66c1.png",
+      "sha": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "textHash": "6931d7d9158eb46b300731d5e57d405be001956445ad82bf0c32f1b7f3c6c753",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "Q33-客厅养鱼·04",
+      "code": "Q33-客厅养鱼",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "4. Hair loss\nAveya Hair Growth shampoo on \nAmazon(Grows hair like grass in 7 days)",
+      "zh": "4. 脱发亚马逊上的Aveya生发洗发水（7天内头发如草般生长）",
+      "zhDisplay": "4. 脱发亚马逊上的Aveya生发洗发水（7天内头发如草般生长）",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案-客厅养鱼、睡觉不穿袜子.docx",
+      "line": "8–10",
+      "zhLine": "20–20",
+      "note": "",
+      "preview": "定版/版本/Q33-客厅养鱼/预览-e429ed5e2339.png",
+      "layer": "定版/版本/Q33-客厅养鱼/831f003d66c1.png",
+      "sha": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "textHash": "885adb158b3ad7c1a09eb38323270405647c9074a4adf82f07134a2e49089ae2",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "Q33-客厅养鱼·05",
+      "code": "Q33-客厅养鱼",
+      "topic": "白发与维生素",
+      "groupId": "T85",
+      "kind": "生活小tips",
+      "text": "5.Grey hair\nVitamin H - Turns black without dye.",
+      "zh": "5. 白发维生素H——无需染色即可变黑。",
+      "zhDisplay": "5. 白发维生素H——无需染色即可变黑。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案-客厅养鱼、睡觉不穿袜子.docx",
+      "line": "11–12",
+      "zhLine": "21–21",
+      "note": "",
+      "preview": "定版/版本/Q33-客厅养鱼/预览-e429ed5e2339.png",
+      "layer": "定版/版本/Q33-客厅养鱼/831f003d66c1.png",
+      "sha": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "textHash": "1163289416f2e97a95ed3d711021f91ab1b7c91d81edcf3e1f8c8756c3149e07",
+      "addedAt": "2026-11-12"
+    },
+    {
+      "id": "Q33-客厅养鱼·06",
+      "code": "Q33-客厅养鱼",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6. Yellow teeth \nOLCG Stain-removal Toothpaste on\nAmazon (Whitens teeth like pearls in one week)",
+      "zh": "6. 黄牙 OLCG 亚马逊上的去渍牙膏（一周内牙齿如珍珠般洁白）",
+      "zhDisplay": "6. 黄牙 OLCG 亚马逊上的去渍牙膏（一周内牙齿如珍珠般洁白）",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案-客厅养鱼、睡觉不穿袜子.docx",
+      "line": "13–15",
+      "zhLine": "22–22",
+      "note": "",
+      "preview": "定版/版本/Q33-客厅养鱼/预览-e429ed5e2339.png",
+      "layer": "定版/版本/Q33-客厅养鱼/831f003d66c1.png",
+      "sha": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "textHash": "6800c7245f89c527a585f934f20aea267b99c44f07d5f89c72085d0dea09b828",
+      "addedAt": "2026-11-12"
     }
   ],
   "groups": [
@@ -12504,8 +12642,8 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 44,
-      "forms": 37,
+      "count": 45,
+      "forms": 38,
       "versions": [
         "A301-1",
         "A310",
@@ -12546,7 +12684,8 @@
         "Q33-2-1",
         "Q33-13",
         "A349-1",
-        "Q33-14"
+        "Q33-14",
+        "Q33-客厅养鱼"
       ]
     },
     {
@@ -13461,7 +13600,7 @@
     {
       "id": "T85",
       "name": "白发与维生素",
-      "count": 16,
+      "count": 17,
       "forms": 8,
       "versions": [
         "Q33",
@@ -13479,7 +13618,8 @@
         "Q33-10",
         "Q33-11",
         "A362-2",
-        "Q33-2-1"
+        "Q33-2-1",
+        "Q33-客厅养鱼"
       ]
     },
     {
@@ -14277,6 +14417,42 @@
       "forms": 1,
       "versions": [
         "Q33-14"
+      ]
+    },
+    {
+      "id": "T171",
+      "name": "避孕套与精子",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-客厅养鱼"
+      ]
+    },
+    {
+      "id": "T172",
+      "name": "客厅养鱼",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-客厅养鱼"
+      ]
+    },
+    {
+      "id": "T173",
+      "name": "睡眠穿袜子",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-客厅养鱼"
+      ]
+    },
+    {
+      "id": "T174",
+      "name": "脱发与生发洗发水",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-客厅养鱼"
       ]
     }
   ],
@@ -17484,6 +17660,45 @@
       "previewSha": "91afd0ba1b23f7e2023705f9e801cf2e58dbcca5048ceb06682f772751f41f15",
       "aliases": [],
       "sourceBuilt": "2026-11-11",
+      "contextLineNumbers": []
+    },
+    {
+      "code": "Q33-客厅养鱼",
+      "count": 6,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "Q33文案-客厅养鱼、睡觉不穿袜子.docx",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Condom",
+        "Use less - kills sperm",
+        "2.Living room Don't keep fish - Take advice",
+        "3.Sleep",
+        "Don't wear socks - Remember",
+        "4. Hair loss",
+        "Aveya Hair Growth shampoo on ",
+        "Amazon(Grows hair like grass in 7 days)",
+        "5.Grey hair",
+        "Vitamin H - Turns black without dye.",
+        "6. Yellow teeth ",
+        "OLCG Stain-removal Toothpaste on",
+        "Amazon (Whitens teeth like pearls in one week)",
+        "连医生都不会告诉你的秘密",
+        "1. 避孕套少用——杀死精子",
+        "2. 客厅不要养鱼——听从建议",
+        "3. 睡眠不要穿袜子——记住这一点",
+        "4. 脱发亚马逊上的Aveya生发洗发水（7天内头发如草般生长）",
+        "5. 白发维生素H——无需染色即可变黑。",
+        "6. 黄牙 OLCG 亚马逊上的去渍牙膏（一周内牙齿如珍珠般洁白）"
+      ],
+      "layer": "定版/版本/Q33-客厅养鱼/831f003d66c1.png",
+      "preview": "定版/版本/Q33-客厅养鱼/预览-e429ed5e2339.png",
+      "sha": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "previewSha": "e429ed5e233995a80d93f423ceace16ee4fe15287e0510e63ab81b2c682d4c9f",
+      "aliases": [
+        "Q33-（客厅养鱼、睡觉不穿袜子）"
+      ],
+      "sourceBuilt": "2026-11-12",
       "contextLineNumbers": []
     }
   ],
@@ -29157,6 +29372,138 @@
       19,
       "标题/说明/来源中文",
       "皱纹亚马逊上的 OLCG 果冻面霜像橡皮擦擦掉线条一样，仅需 7 天，擦掉你 3 条细纹。"
+    ],
+    [
+      "Q33-客厅养鱼",
+      1,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-客厅养鱼",
+      2,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-客厅养鱼",
+      3,
+      "小tips原文",
+      "1.Condom"
+    ],
+    [
+      "Q33-客厅养鱼",
+      4,
+      "小tips原文",
+      "Use less - kills sperm"
+    ],
+    [
+      "Q33-客厅养鱼",
+      5,
+      "小tips原文",
+      "2.Living room Don't keep fish - Take advice"
+    ],
+    [
+      "Q33-客厅养鱼",
+      6,
+      "小tips原文",
+      "3.Sleep"
+    ],
+    [
+      "Q33-客厅养鱼",
+      7,
+      "小tips原文",
+      "Don't wear socks - Remember"
+    ],
+    [
+      "Q33-客厅养鱼",
+      8,
+      "小tips原文",
+      "4. Hair loss"
+    ],
+    [
+      "Q33-客厅养鱼",
+      9,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on "
+    ],
+    [
+      "Q33-客厅养鱼",
+      10,
+      "小tips原文",
+      "Amazon(Grows hair like grass in 7 days)"
+    ],
+    [
+      "Q33-客厅养鱼",
+      11,
+      "小tips原文",
+      "5.Grey hair"
+    ],
+    [
+      "Q33-客厅养鱼",
+      12,
+      "小tips原文",
+      "Vitamin H - Turns black without dye."
+    ],
+    [
+      "Q33-客厅养鱼",
+      13,
+      "小tips原文",
+      "6. Yellow teeth "
+    ],
+    [
+      "Q33-客厅养鱼",
+      14,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste on"
+    ],
+    [
+      "Q33-客厅养鱼",
+      15,
+      "小tips原文",
+      "Amazon (Whitens teeth like pearls in one week)"
+    ],
+    [
+      "Q33-客厅养鱼",
+      16,
+      "标题/说明/来源中文",
+      "连医生都不会告诉你的秘密"
+    ],
+    [
+      "Q33-客厅养鱼",
+      17,
+      "标题/说明/来源中文",
+      "1. 避孕套少用——杀死精子"
+    ],
+    [
+      "Q33-客厅养鱼",
+      18,
+      "标题/说明/来源中文",
+      "2. 客厅不要养鱼——听从建议"
+    ],
+    [
+      "Q33-客厅养鱼",
+      19,
+      "标题/说明/来源中文",
+      "3. 睡眠不要穿袜子——记住这一点"
+    ],
+    [
+      "Q33-客厅养鱼",
+      20,
+      "标题/说明/来源中文",
+      "4. 脱发亚马逊上的Aveya生发洗发水（7天内头发如草般生长）"
+    ],
+    [
+      "Q33-客厅养鱼",
+      21,
+      "标题/说明/来源中文",
+      "5. 白发维生素H——无需染色即可变黑。"
+    ],
+    [
+      "Q33-客厅养鱼",
+      22,
+      "标题/说明/来源中文",
+      "6. 黄牙 OLCG 亚马逊上的去渍牙膏（一周内牙齿如珍珠般洁白）"
     ]
   ],
   "retired": {
@@ -29165,28 +29512,28 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "5785946fb8bd9e78adeedff52a3f9da4e35cdd17b298c3f05da2b00f447412cc",
+  "indexSha": "e1b08c9d11f5b6c69824f29e3560dd5aed25c2f6f07315086182c99089a9feb7",
   "latestBatch": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "versions": [
-      "Q33-14"
+      "Q33-客厅养鱼"
     ],
     "records": 6,
     "recordIds": [
-      "Q33-14·01",
-      "Q33-14·02",
-      "Q33-14·03",
-      "Q33-14·04",
-      "Q33-14·05",
-      "Q33-14·06"
+      "Q33-客厅养鱼·01",
+      "Q33-客厅养鱼·02",
+      "Q33-客厅养鱼·03",
+      "Q33-客厅养鱼·04",
+      "Q33-客厅养鱼·05",
+      "Q33-客厅养鱼·06"
     ]
   },
   "alignment": {
-    "subtitleVersions": 73,
-    "coveredVersions": 73,
+    "subtitleVersions": 74,
+    "coveredVersions": 74,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "5785946fb8bd9e78adeedff52a3f9da4e35cdd17b298c3f05da2b00f447412cc",
-    "checkedAt": "2026-11-11"
+    "sourceIndexSha256": "e1b08c9d11f5b6c69824f29e3560dd5aed25c2f6f07315086182c99089a9feb7",
+    "checkedAt": "2026-11-12"
   }
 }

@@ -2601,6 +2601,90 @@
         "source": "字幕上传提交日期",
         "sha256": "f343c72590e585bdbf11f3e31eb162447681f222fbd2294c1016d032a9855031"
       }
+    },
+    "Q33-客厅养鱼": {
+      "code": "Q33-客厅养鱼",
+      "pkg_code": "Q33-（客厅养鱼、睡觉不穿袜子）",
+      "aliases": [
+        "Q33-（客厅养鱼、睡觉不穿袜子）"
+      ],
+      "dates": [
+        "11.12"
+      ],
+      "src_packages": [
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（客厅养鱼、睡觉不穿袜子）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41"
+      ],
+      "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（客厅养鱼、睡觉不穿袜子）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41\\字幕夹（待入库）\\Q33-（客厅养鱼、睡觉不穿袜子）.png",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-客厅养鱼.png",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-客厅养鱼.png",
+      "layer_rel": "定版/Q33-客厅养鱼.png",
+      "preview_rel": "定版/Q33-客厅养鱼_成品预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-客厅养鱼_成品预览.png",
+      "preview_kind": "无字素材＋定版字幕合成预览",
+      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（客厅养鱼、睡觉不穿袜子）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41\\flow\\1 (13).mp4",
+      "preview_frame_seconds": 1,
+      "preview_source_note": "",
+      "sha256": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "preview_sha256": "e429ed5e233995a80d93f423ceace16ee4fe15287e0510e63ab81b2c682d4c9f",
+      "size": [
+        1536,
+        2752
+      ],
+      "preview_size": [
+        720,
+        1280
+      ],
+      "basis": "用户授权本次入库上线；原始文件逐字节保留",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-11-12T14:42:14+08:00",
+      "author_source": "用户明确确认作者张哲，绑定本版字幕 SHA-256 831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "copy": {
+        "source": "Q33文案-客厅养鱼、睡觉不穿袜子.docx",
+        "lines": [
+          "Secrets even doctors",
+          "won't tell you",
+          "1.Condom",
+          "Use less - kills sperm",
+          "2.Living room Don't keep fish - Take advice",
+          "3.Sleep",
+          "Don't wear socks - Remember",
+          "4. Hair loss",
+          "Aveya Hair Growth shampoo on ",
+          "Amazon(Grows hair like grass in 7 days)",
+          "5.Grey hair",
+          "Vitamin H - Turns black without dye.",
+          "6. Yellow teeth ",
+          "OLCG Stain-removal Toothpaste on",
+          "Amazon (Whitens teeth like pearls in one week)",
+          "连医生都不会告诉你的秘密",
+          "1. 避孕套少用——杀死精子",
+          "2. 客厅不要养鱼——听从建议",
+          "3. 睡眠不要穿袜子——记住这一点",
+          "4. 脱发亚马逊上的Aveya生发洗发水（7天内头发如草般生长）",
+          "5. 白发维生素H——无需染色即可变黑。",
+          "6. 黄牙 OLCG 亚马逊上的去渍牙膏（一周内牙齿如珍珠般洁白）"
+        ],
+        "download_rel": "文案/Q33-客厅养鱼_原文案.docx",
+        "original_download_rel": "文案/Q33-客厅养鱼_原文案.docx",
+        "sha256": "f9243f1af25145852aac1aa5315a87dfbec6fd6a71530fb3c320d891a6280845"
+      },
+      "copy_rel": "文案/Q33-客厅养鱼_原文案.docx",
+      "updated_at": "2026-11-12T14:42:14+08:00",
+      "title": "连医生都不会告诉你的秘密",
+      "products": [
+        "Aveya生发洗发水",
+        "OLCG去污牙膏"
+      ],
+      "upload_date": {
+        "date": "2026-11-12",
+        "source": "字幕上传提交日期",
+        "sha256": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e"
+      }
     }
   }
 }
