@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 59,
+  "revision": 60,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -454,6 +454,16 @@
       "confirmed_at": "2026-11-12T14:42:14+08:00",
       "confirmation_source": "2026-11-12 用户明确回复：作者张哲",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（客厅养鱼、睡觉不穿袜子）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41"
+    },
+    "Q33-口臭B1@eeaaad53198b28c32f9991b32eba74c5ca6bcdab2711c3cf32dc687c1c520ea3": {
+      "code": "Q33-口臭B1",
+      "sha256": "eeaaad53198b28c32f9991b32eba74c5ca6bcdab2711c3cf32dc687c1c520ea3",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-12T15:01:31+08:00",
+      "confirmation_source": "用户本次确认该版作者张哲",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（口臭B1、打鼾VC）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41"
     }
   },
   "history": [
