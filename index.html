@@ -251,7 +251,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   var data={versions:{}}, list=[], cur=null, opened=false, lbIdx=0, group='all';
   var cfg={groups:{basic:{codes:[]},extra:{codes:[]}},dates:{},notes:{}};
   function meta(v){var m=cfg.dates[v.code]; if(m && m.sha256 && m.sha256!==v.sha256)m=null; if(!m)m=v.upload_date; return m && m.sha256 && m.sha256!==v.sha256 ? null : m;}
-  function belongs(v,g){if(g==='all')return true; if(g==='q33')return /^Q33(?:$|-[0-9]+(?:-[0-9]+)*)$/i.test(v.code); if(g==='ungrouped')return !belongs(v,'q33')&&!belongs(v,'basic')&&!belongs(v,'extra'); return !!(cfg.groups[g] && cfg.groups[g].codes.indexOf(v.code)>=0);}
+  function belongs(v,g){if(g==='all')return true; if(g==='q33')return /^Q33(?:$|-)/i.test(v.code); if(g==='ungrouped')return !belongs(v,'q33')&&!belongs(v,'basic')&&!belongs(v,'extra'); return !!(cfg.groups[g] && cfg.groups[g].codes.indexOf(v.code)>=0);}
   function loadConfig(){fetch('board-config.json?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(x){cfg=x;render();}).catch(function(){document.getElementById('config-status').textContent='分组数据暂时无法读取，请刷新重试';});}
 
   document.getElementById('q').value=new URLSearchParams(location.search).get('q')||'';
