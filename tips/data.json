@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-12",
+  "built": "2026-11-13",
   "root": "字幕资源库 / INDEX.json",
   "rows": [
     {
@@ -12675,6 +12675,144 @@
       "sha": "eeaaad53198b28c32f9991b32eba74c5ca6bcdab2711c3cf32dc687c1c520ea3",
       "textHash": "68a5df667af58f318087679253b437f6fd9e2dd0e069b343236053b23892aff8",
       "addedAt": "2026-11-12"
+    },
+    {
+      "id": "Q33-便秘VC-失眠B6·01",
+      "code": "Q33-便秘VC-失眠B6",
+      "topic": "含糖饮料与脂肪堆积",
+      "groupId": "T176",
+      "kind": "生活小tips",
+      "text": "1.Coca Cola\nDrink less - piles on fat fast",
+      "zh": "1. 可口可乐——少喝一点，脂肪会快速堆积",
+      "zhDisplay": "1. 可口可乐——少喝一点，脂肪会快速堆积",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案--便秘VC、失眠B6.docx",
+      "line": "3–4",
+      "zhLine": "19–19",
+      "note": "",
+      "preview": "定版/版本/Q33-便秘VC-失眠B6/预览-b16ecc61e1e6.png",
+      "layer": "定版/版本/Q33-便秘VC-失眠B6/4412e589df10.png",
+      "sha": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
+      "textHash": "d5ea8eaa0cb31f219608d2c9d19ff8bc41e89b5a13753344eca06d58ef0e3a64",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "Q33-便秘VC-失眠B6·02",
+      "code": "Q33-便秘VC-失眠B6",
+      "topic": "便秘与维生素C",
+      "groupId": "T177",
+      "kind": "生活小tips",
+      "text": "2.Constipation\nVitamin C-Unclogs your gut",
+      "zh": "2. 便秘——维生素C——疏通肠道",
+      "zhDisplay": "2. 便秘——维生素C——疏通肠道",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案--便秘VC、失眠B6.docx",
+      "line": "5–6",
+      "zhLine": "20–20",
+      "note": "",
+      "preview": "定版/版本/Q33-便秘VC-失眠B6/预览-b16ecc61e1e6.png",
+      "layer": "定版/版本/Q33-便秘VC-失眠B6/4412e589df10.png",
+      "sha": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
+      "textHash": "7136b5de099e509934a15211e96c1aa6dc0d9dad2378bcf12e5186fcf2e6d3a7",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "Q33-便秘VC-失眠B6·03",
+      "code": "Q33-便秘VC-失眠B6",
+      "topic": "失眠与维生素B6",
+      "groupId": "T178",
+      "kind": "生活小tips",
+      "text": "3.Insomnia\nVitamin B6 - Brings back sleep",
+      "zh": "3. 失眠——维生素B6——恢复睡眠",
+      "zhDisplay": "3. 失眠——维生素B6——恢复睡眠",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案--便秘VC、失眠B6.docx",
+      "line": "7–8",
+      "zhLine": "21–21",
+      "note": "",
+      "preview": "定版/版本/Q33-便秘VC-失眠B6/预览-b16ecc61e1e6.png",
+      "layer": "定版/版本/Q33-便秘VC-失眠B6/4412e589df10.png",
+      "sha": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
+      "textHash": "81a6908d09e24b50ee5afcc268d227010191b0a4504fd293c99a3d8208714404",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "Q33-便秘VC-失眠B6·04",
+      "code": "Q33-便秘VC-失眠B6",
+      "topic": "淡化细纹",
+      "groupId": "T03",
+      "kind": "产品植入",
+      "text": "4.Hair loss\nAveya Hair Growth shampoo on Amazon\n(Grows hair like grass in 7 days)",
+      "zh": "4. 脱发——亚马逊上的Aveya生发洗发水（7天内让头发像草一样生长）",
+      "zhDisplay": "4. 脱发——亚马逊上的Aveya生发洗发水（7天内让头发像草一样生长）",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案--便秘VC、失眠B6.docx",
+      "line": "9–11",
+      "zhLine": "22–22",
+      "note": "",
+      "preview": "定版/版本/Q33-便秘VC-失眠B6/预览-b16ecc61e1e6.png",
+      "layer": "定版/版本/Q33-便秘VC-失眠B6/4412e589df10.png",
+      "sha": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
+      "textHash": "9ba14077567f0ef3f080419e111efce7c84b9a765ef6e6654df9a3568d294661",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "Q33-便秘VC-失眠B6·05",
+      "code": "Q33-便秘VC-失眠B6",
+      "topic": "白发与维生素",
+      "groupId": "T85",
+      "kind": "生活小tips",
+      "text": "5.Grey hair\nVitamin H - Turns black without dye.",
+      "zh": "5. 白发——维生素H——无需染发即可变黑。",
+      "zhDisplay": "5. 白发——维生素H——无需染发即可变黑。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案--便秘VC、失眠B6.docx",
+      "line": "12–13",
+      "zhLine": "23–23",
+      "note": "",
+      "preview": "定版/版本/Q33-便秘VC-失眠B6/预览-b16ecc61e1e6.png",
+      "layer": "定版/版本/Q33-便秘VC-失眠B6/4412e589df10.png",
+      "sha": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
+      "textHash": "1163289416f2e97a95ed3d711021f91ab1b7c91d81edcf3e1f8c8756c3149e07",
+      "addedAt": "2026-11-13"
+    },
+    {
+      "id": "Q33-便秘VC-失眠B6·06",
+      "code": "Q33-便秘VC-失眠B6",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6. Yellow teeth \nOLCG Stain-removal Toothpaste from\nAmazon Turn on Your Teeth Brightening & Whitening\nSwitch to Pearl-White Teeth in one week",
+      "zh": "6. 黄牙—— 来自亚马逊的OLCG 去渍牙膏——让牙齿焕发光彩并美白一周内即可拥有珍珠白牙齿",
+      "zhDisplay": "6. 黄牙—— 来自亚马逊的OLCG 去渍牙膏——让牙齿焕发光彩并美白一周内即可拥有珍珠白牙齿",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "",
+      "sourceType": "文案原文",
+      "source": "Q33文案--便秘VC、失眠B6.docx",
+      "line": "14–17",
+      "zhLine": "24–24",
+      "note": "",
+      "preview": "定版/版本/Q33-便秘VC-失眠B6/预览-b16ecc61e1e6.png",
+      "layer": "定版/版本/Q33-便秘VC-失眠B6/4412e589df10.png",
+      "sha": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
+      "textHash": "68a5df667af58f318087679253b437f6fd9e2dd0e069b343236053b23892aff8",
+      "addedAt": "2026-11-13"
     }
   ],
   "groups": [
@@ -12700,8 +12838,8 @@
     {
       "id": "T03",
       "name": "淡化细纹",
-      "count": 68,
-      "forms": 59,
+      "count": 69,
+      "forms": 60,
       "versions": [
         "A301-1",
         "A308",
@@ -12764,7 +12902,8 @@
         "Q33-2-1",
         "Q33-13",
         "A349-1",
-        "Q33-14"
+        "Q33-14",
+        "Q33-便秘VC-失眠B6"
       ]
     },
     {
@@ -12780,7 +12919,7 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 46,
+      "count": 47,
       "forms": 39,
       "versions": [
         "A301-1",
@@ -12824,7 +12963,8 @@
         "A349-1",
         "Q33-14",
         "Q33-客厅养鱼",
-        "Q33-口臭B1"
+        "Q33-口臭B1",
+        "Q33-便秘VC-失眠B6"
       ]
     },
     {
@@ -13740,7 +13880,7 @@
     {
       "id": "T85",
       "name": "白发与维生素",
-      "count": 18,
+      "count": 19,
       "forms": 8,
       "versions": [
         "Q33",
@@ -13760,7 +13900,8 @@
         "A362-2",
         "Q33-2-1",
         "Q33-客厅养鱼",
-        "Q33-口臭B1"
+        "Q33-口臭B1",
+        "Q33-便秘VC-失眠B6"
       ]
     },
     {
@@ -14605,6 +14746,33 @@
       "forms": 1,
       "versions": [
         "Q33-口臭B1"
+      ]
+    },
+    {
+      "id": "T176",
+      "name": "含糖饮料与脂肪堆积",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-便秘VC-失眠B6"
+      ]
+    },
+    {
+      "id": "T177",
+      "name": "便秘与维生素C",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-便秘VC-失眠B6"
+      ]
+    },
+    {
+      "id": "T178",
+      "name": "失眠与维生素B6",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-便秘VC-失眠B6"
       ]
     }
   ],
@@ -17892,6 +18060,47 @@
         "Q33-（口臭B1、打鼾VC）"
       ],
       "sourceBuilt": "2026-11-12",
+      "contextLineNumbers": []
+    },
+    {
+      "code": "Q33-便秘VC-失眠B6",
+      "count": 6,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "Q33文案--便秘VC、失眠B6.docx",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Coca Cola",
+        "Drink less - piles on fat fast",
+        "2.Constipation",
+        "Vitamin C-Unclogs your gut",
+        "3.Insomnia",
+        "Vitamin B6 - Brings back sleep",
+        "4.Hair loss",
+        "Aveya Hair Growth shampoo on Amazon",
+        "(Grows hair like grass in 7 days)",
+        "5.Grey hair",
+        "Vitamin H - Turns black without dye.",
+        "6. Yellow teeth ",
+        "OLCG Stain-removal Toothpaste from",
+        "Amazon Turn on Your Teeth Brightening & Whitening",
+        "Switch to Pearl-White Teeth in one week",
+        "连医生都不会告诉你的秘密",
+        "1. 可口可乐——少喝一点，脂肪会快速堆积",
+        "2. 便秘——维生素C——疏通肠道",
+        "3. 失眠——维生素B6——恢复睡眠",
+        "4. 脱发——亚马逊上的Aveya生发洗发水（7天内让头发像草一样生长）",
+        "5. 白发——维生素H——无需染发即可变黑。",
+        "6. 黄牙—— 来自亚马逊的OLCG 去渍牙膏——让牙齿焕发光彩并美白一周内即可拥有珍珠白牙齿"
+      ],
+      "layer": "定版/版本/Q33-便秘VC-失眠B6/4412e589df10.png",
+      "preview": "定版/版本/Q33-便秘VC-失眠B6/预览-b16ecc61e1e6.png",
+      "sha": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
+      "previewSha": "b16ecc61e1e6616fcf8d8d331d5d2d083e4d83169e9754bb58860ed49870b567",
+      "aliases": [
+        "Q33-（便秘VC、失眠B6）"
+      ],
+      "sourceBuilt": "2026-11-13",
       "contextLineNumbers": []
     }
   ],
@@ -29841,6 +30050,150 @@
       24,
       "标题/说明/来源中文",
       "6. 黄牙—— OLCG 去渍牙膏，来自亚马逊——开启牙齿亮白与美白之旅，一周内即可拥有珍珠白牙齿。"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      1,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      2,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      3,
+      "小tips原文",
+      "1.Coca Cola"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      4,
+      "小tips原文",
+      "Drink less - piles on fat fast"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      5,
+      "小tips原文",
+      "2.Constipation"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      6,
+      "小tips原文",
+      "Vitamin C-Unclogs your gut"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      7,
+      "小tips原文",
+      "3.Insomnia"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      8,
+      "小tips原文",
+      "Vitamin B6 - Brings back sleep"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      9,
+      "小tips原文",
+      "4.Hair loss"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      10,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on Amazon"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      11,
+      "小tips原文",
+      "(Grows hair like grass in 7 days)"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      12,
+      "小tips原文",
+      "5.Grey hair"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      13,
+      "小tips原文",
+      "Vitamin H - Turns black without dye."
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      14,
+      "小tips原文",
+      "6. Yellow teeth "
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      15,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste from"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      16,
+      "小tips原文",
+      "Amazon Turn on Your Teeth Brightening & Whitening"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      17,
+      "小tips原文",
+      "Switch to Pearl-White Teeth in one week"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      18,
+      "标题/说明/来源中文",
+      "连医生都不会告诉你的秘密"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      19,
+      "标题/说明/来源中文",
+      "1. 可口可乐——少喝一点，脂肪会快速堆积"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      20,
+      "标题/说明/来源中文",
+      "2. 便秘——维生素C——疏通肠道"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      21,
+      "标题/说明/来源中文",
+      "3. 失眠——维生素B6——恢复睡眠"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      22,
+      "标题/说明/来源中文",
+      "4. 脱发——亚马逊上的Aveya生发洗发水（7天内让头发像草一样生长）"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      23,
+      "标题/说明/来源中文",
+      "5. 白发——维生素H——无需染发即可变黑。"
+    ],
+    [
+      "Q33-便秘VC-失眠B6",
+      24,
+      "标题/说明/来源中文",
+      "6. 黄牙—— 来自亚马逊的OLCG 去渍牙膏——让牙齿焕发光彩并美白一周内即可拥有珍珠白牙齿"
     ]
   ],
   "retired": {
@@ -29849,28 +30202,28 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "293629cf6cb5355313c0eaeb7f3c15dc3d6c22e3ece57723c233f98fb1e5d396",
+  "indexSha": "f08454903aa55d9454f52f6b43a7344c44c57f2de89cd9c67bb903c932f9a27c",
   "latestBatch": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "versions": [
-      "Q33-口臭B1"
+      "Q33-便秘VC-失眠B6"
     ],
     "records": 6,
     "recordIds": [
-      "Q33-口臭B1·01",
-      "Q33-口臭B1·02",
-      "Q33-口臭B1·03",
-      "Q33-口臭B1·04",
-      "Q33-口臭B1·05",
-      "Q33-口臭B1·06"
+      "Q33-便秘VC-失眠B6·01",
+      "Q33-便秘VC-失眠B6·02",
+      "Q33-便秘VC-失眠B6·03",
+      "Q33-便秘VC-失眠B6·04",
+      "Q33-便秘VC-失眠B6·05",
+      "Q33-便秘VC-失眠B6·06"
     ]
   },
   "alignment": {
-    "subtitleVersions": 75,
-    "coveredVersions": 75,
+    "subtitleVersions": 76,
+    "coveredVersions": 76,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "293629cf6cb5355313c0eaeb7f3c15dc3d6c22e3ece57723c233f98fb1e5d396",
-    "checkedAt": "2026-11-12"
+    "sourceIndexSha256": "f08454903aa55d9454f52f6b43a7344c44c57f2de89cd9c67bb903c932f9a27c",
+    "checkedAt": "2026-11-13"
   }
 }
