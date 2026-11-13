@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 62,
+  "revision": 63,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -484,6 +484,16 @@
       "confirmed_at": "2026-11-13T14:04:01+08:00",
       "confirmation_source": "用户指定本包Q33-15资源入库上线；作者来自对应包明确署名郑惠跃，绑定PNG SHA256 a8377876681048bba035b622276235f777140de9fb315703edd71e9163517d4c",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.13\\Q33\\Q33-15-（黄牙VD、失眠B2）-11.13-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
+    },
+    "Q33-16@981fd3004ae56d14673f3c16ac40d5884cee8abaa091d52d19bb696e79f3d4ce": {
+      "code": "Q33-16",
+      "sha256": "981fd3004ae56d14673f3c16ac40d5884cee8abaa091d52d19bb696e79f3d4ce",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-13T14:16:17+08:00",
+      "confirmation_source": "用户指定：Q33-16 包明确署名作者郑惠跃、文案郑惠跃",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.13\\Q33\\Q33-16-（疲倦B2、白发VH）-11.13-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
     }
   },
   "history": [
