@@ -1,8 +1,8 @@
 {
-  "code": "Q33-口臭B1",
+  "code": "Q33-（口臭B1、打鼾VC）",
   "pkg_code": "Q33-（口臭B1、打鼾VC）",
   "aliases": [
-    "Q33-（口臭B1、打鼾VC）"
+    "Q33-口臭B1"
   ],
   "dates": [
     "11.12"
@@ -11,11 +11,11 @@
     "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（口臭B1、打鼾VC）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41"
   ],
   "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（口臭B1、打鼾VC）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41\\字幕夹（待agent入库）\\Q33文案-口臭B1、打鼾VC.png",
-  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-口臭B1.png",
-  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-口臭B1.png",
-  "layer_rel": "定版/Q33-口臭B1.png",
-  "preview_rel": "定版/Q33-口臭B1_成品预览.png",
-  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-口臭B1_成品预览.png",
+  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-（口臭B1、打鼾VC）.png",
+  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-（口臭B1、打鼾VC）.png",
+  "layer_rel": "定版/Q33-（口臭B1、打鼾VC）.png",
+  "preview_rel": "定版/Q33-（口臭B1、打鼾VC）_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-（口臭B1、打鼾VC）_成品预览.png",
   "preview_kind": "无字素材＋定版字幕合成预览",
   "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\1. 成品入口\\11.12\\Q33\\Q33-（口臭B1、打鼾VC）-11.12-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-41\\1 (1).mp4",
   "preview_frame_seconds": 0,
@@ -67,17 +67,20 @@
       "5. 白发——维生素H——无需染发即可变黑。",
       "6. 黄牙—— OLCG 去渍牙膏，来自亚马逊——开启牙齿亮白与美白之旅，一周内即可拥有珍珠白牙齿。"
     ],
-    "download_rel": "文案/Q33-口臭B1_原文案.docx",
-    "original_download_rel": "文案/Q33-口臭B1_原文案.docx",
+    "download_rel": "文案/Q33-（口臭B1、打鼾VC）_原文案.docx",
+    "original_download_rel": "文案/Q33-（口臭B1、打鼾VC）_原文案.docx",
     "sha256": "e099dcacc3f274abdeadc993eb7b02741c41e6a150d1c15180b2de840fbf9a29"
   },
-  "copy_rel": "文案/Q33-口臭B1_原文案.docx",
-  "updated_at": "2026-11-12T15:01:31+08:00",
+  "copy_rel": "文案/Q33-（口臭B1、打鼾VC）_原文案.docx",
+  "updated_at": "2026-11-13T14:26:19+08:00",
   "title": "",
   "products": "",
   "upload_date": {
     "date": "2026-11-12",
     "source": "字幕上传提交日期",
     "sha256": "eeaaad53198b28c32f9991b32eba74c5ca6bcdab2711c3cf32dc687c1c520ea3"
-  }
+  },
+  "display_name": "Q33-（口臭B1、打鼾VC）",
+  "renamed_from": "Q33-口臭B1",
+  "renamed_at": "2026-11-13T14:26:19+08:00"
 }
