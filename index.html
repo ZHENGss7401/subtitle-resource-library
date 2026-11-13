@@ -293,7 +293,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       card.appendChild(shot);
 
       var cp=el('div','cp');
-      var r1=el('div','r1',v.code);
+      var r1=el('div','r1',v.display_name||v.code);
       r1.appendChild(el('span','st '+conf(v.confidence), v.confidence));
       cp.appendChild(r1);
       cp.appendChild(el('div','date-line',meta(v)?'定版日期 '+meta(v).date:'定版日期待确认'));

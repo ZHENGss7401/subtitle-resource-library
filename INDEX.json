@@ -5214,8 +5214,7 @@
         "date": "2026-11-12",
         "source": "字幕上传提交日期",
         "sha256": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e"
-      },
-      "display_name": "Q33-（客厅养鱼、睡觉不穿袜子）"
+      }
     },
     "Q33-15": {
       "code": "Q33-15",
@@ -5297,8 +5296,7 @@
         "date": "2026-11-13",
         "source": "字幕上传提交日期",
         "sha256": "a8377876681048bba035b622276235f777140de9fb315703edd71e9163517d4c"
-      },
-      "display_name": "Q33-15-（黄牙VD、失眠B2）"
+      }
     },
     "Q33-16": {
       "code": "Q33-16",
@@ -5382,8 +5380,7 @@
         "date": "2026-11-13",
         "source": "字幕上传提交日期",
         "sha256": "981fd3004ae56d14673f3c16ac40d5884cee8abaa091d52d19bb696e79f3d4ce"
-      },
-      "display_name": "Q33-16-（疲倦B2、白发VH）"
+      }
     },
     "Q33-17": {
       "code": "Q33-17",
@@ -5472,7 +5469,6 @@
         "source": "字幕上传提交日期",
         "sha256": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5"
       },
-      "display_name": "Q33-17-（便秘VC、失眠B6）",
       "renamed_from": "Q33-便秘VC-失眠B6",
       "renamed_at": "2026-11-13T14:26:19+08:00"
     },
@@ -5558,7 +5554,6 @@
         "source": "字幕上传提交日期",
         "sha256": "eeaaad53198b28c32f9991b32eba74c5ca6bcdab2711c3cf32dc687c1c520ea3"
       },
-      "display_name": "Q33-（口臭B1、打鼾VC）",
       "renamed_from": "Q33-口臭B1",
       "renamed_at": "2026-11-13T14:26:19+08:00"
     }
