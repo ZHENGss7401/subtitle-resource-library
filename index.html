@@ -84,7 +84,7 @@ h2{font-family:var(--serif);font-size:22px;font-weight:600;letter-spacing:-.005e
 .card2 .cp{padding:9px 11px 11px;border-top:1px solid var(--rule-soft)}
 .card2 .r1{font-family:var(--mono);font-size:17px;font-weight:600;letter-spacing:-.01em;
   display:flex;align-items:baseline;gap:6px}
-.card2 .r1 .st{margin-left:auto;font-size:10px;font-weight:500;letter-spacing:.02em;
+.card2 .r1 .st{margin-left:auto;flex:0 0 auto;white-space:nowrap;font-size:10px;font-weight:500;letter-spacing:.02em;
   border:1px solid currentColor;border-radius:100px;padding:1px 6px;opacity:.9}
 .card2 .r2{font-size:11.5px;color:var(--ink3);margin-top:3px;display:flex;align-items:baseline;gap:6px}
 .card2 .r2 .pd{margin-left:auto;font-family:var(--mono);font-size:10.5px;white-space:nowrap}
@@ -293,7 +293,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       card.appendChild(shot);
 
       var cp=el('div','cp');
-      var r1=el('div','r1',v.display_name||v.code);
+      var r1=el('div','r1',v.code);
       r1.appendChild(el('span','st '+conf(v.confidence), v.confidence));
       cp.appendChild(r1);
       cp.appendChild(el('div','date-line',meta(v)?'定版日期 '+meta(v).date:'定版日期待确认'));
