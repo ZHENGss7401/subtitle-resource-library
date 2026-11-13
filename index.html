@@ -87,8 +87,6 @@ h2{font-family:var(--serif);font-size:22px;font-weight:600;letter-spacing:-.005e
 .card2 .r1 .st{margin-left:auto;font-size:10px;font-weight:500;letter-spacing:.02em;
   border:1px solid currentColor;border-radius:100px;padding:1px 6px;opacity:.9}
 .card2 .r2{font-size:11.5px;color:var(--ink3);margin-top:3px;display:flex;align-items:baseline;gap:6px}
-.card2 .r2 .al{font-family:var(--mono);font-size:10px;color:var(--li);opacity:.85;
-  border:1px solid currentColor;border-radius:100px;padding:0 5px}
 .card2 .r2 .pd{margin-left:auto;font-family:var(--mono);font-size:10.5px;white-space:nowrap}
 .card2 .r3{font-size:10.5px;color:var(--ink3);margin-top:2px;font-family:var(--mono);
   overflow:hidden;text-overflow:ellipsis;white-space:nowrap;opacity:.75}
@@ -302,7 +300,6 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       if(v.asset_type==='dynamic_video') cp.appendChild(el('div','r3','动态透明字幕 · MOV · '+v.fps+'fps'));
       var r2=el('div','r2');
       r2.appendChild(el('span',null,(v.dates||[]).length?'来源批次 '+(v.dates||[]).join(' / '):''));
-      if(v.aliases && v.aliases.length) r2.appendChild(el('span','al','包 '+v.aliases.join('/')));
       r2.appendChild(el('span','pd',v.size[0]+'×'+v.size[1]));
       cp.appendChild(r2);
       cp.appendChild(el('div','r3',v.sha256.slice(0,16)));
