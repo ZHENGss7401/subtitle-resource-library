@@ -64,11 +64,11 @@ h2{font-family:var(--serif);font-size:22px;font-weight:600;letter-spacing:-.005e
 @media(max-width:900px){.gal{grid-template-columns:repeat(3,1fr);gap:var(--s3)}}
 @media(max-width:560px){.gal{grid-template-columns:repeat(2,1fr);gap:var(--s3)}}
 .card2{background:var(--surface);border:1px solid var(--rule);border-radius:var(--r);overflow:hidden;
-  display:block;width:100%;text-align:left;padding:0;cursor:pointer;color:inherit;font:inherit;
+  display:flex;flex-direction:column;justify-content:flex-start;width:100%;text-align:left;padding:0;cursor:pointer;color:inherit;font:inherit;
   transition:transform .22s var(--ease),box-shadow .22s var(--ease),border-color .22s var(--ease)}
 .card2:hover,.card2:focus-visible{transform:translateY(-3px);box-shadow:var(--shadow);
   border-color:var(--ink3);outline:none}
-.card2 .shot{position:relative;background:var(--rule-soft)}
+.card2 .shot{position:relative;flex-shrink:0;background:var(--rule-soft)}
 .card2 img.pv{width:100%;aspect-ratio:750/1334;object-fit:cover;object-position:top;display:block}
 .card2 .layer{position:absolute;left:8px;bottom:8px;width:52px;height:52px;border-radius:var(--r);
   border:1px solid rgba(0,0,0,.22);overflow:hidden;
