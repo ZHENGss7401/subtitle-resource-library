@@ -1,10 +1,12 @@
 """Loopback-only author confirmation service; no credentials reach the browser."""
 import datetime
 import json
+import mimetypes
 import os
 from pathlib import Path
 import subprocess
 import threading
+from urllib.parse import unquote, urlsplit
 from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 REPO = Path(__file__).resolve().parent
@@ -131,7 +133,28 @@ class Handler(BaseHTTPRequestHandler):
         self.reply(200 if self.allowed() else 403, {})
 
     def do_GET(self):
-        if not self.allowed() or self.path not in ('/authors', '/groups'):
+        # A same-origin local board avoids browsers blocking public-to-loopback fetches.
+        request_path = unquote(urlsplit(self.path).path)
+        if self.headers.get('Host') == '127.0.0.1:17843':
+            relative = request_path.lstrip('/') or 'index.html'
+            public_files = {'index.html', 'data.js', 'author-ui.js', 'author-ui.css',
+                            'board-config.json', 'authors.json'}
+            target = (REPO / relative).resolve()
+            if (relative in public_files or relative.startswith(('定版/', '文案/'))) and target.is_relative_to(REPO):
+                try:
+                    raw = target.read_bytes()
+                    self.send_response(200)
+                    self.send_header('Content-Type', mimetypes.guess_type(str(target))[0] or 'application/octet-stream')
+                    self.send_header('Content-Length', str(len(raw)))
+                    self.send_header('Cache-Control', 'no-store')
+                    self.end_headers()
+                    self.wfile.write(raw)
+                except OSError:
+                    self.send_error(404)
+                return
+        same_origin = (self.headers.get('Host') == '127.0.0.1:17843' and
+                       not self.headers.get('Origin') and self.headers.get('Sec-Fetch-Site') == 'same-origin')
+        if not (self.allowed() or same_origin) or self.path not in ('/authors', '/groups'):
             self.reply(403, {'error': '不允许的请求'})
             return
         try:
