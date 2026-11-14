@@ -137,7 +137,7 @@ class Handler(BaseHTTPRequestHandler):
         request_path = unquote(urlsplit(self.path).path)
         if self.headers.get('Host') == '127.0.0.1:17843':
             relative = request_path.lstrip('/') or 'index.html'
-            public_files = {'index.html', 'data.js', 'author-ui.js', 'author-ui.css',
+            public_files = {'index.html', 'data.js', 'author-ui.js', 'author-ui.css', 'group-manager.js', 'group-manager.css',
                             'board-config.json', 'authors.json'}
             target = (REPO / relative).resolve()
             if (relative in public_files or relative.startswith(('定版/', '文案/'))) and target.is_relative_to(REPO):
