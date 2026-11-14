@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 63,
+  "revision": 64,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -494,6 +494,15 @@
       "confirmed_at": "2026-11-12T15:01:31+08:00",
       "confirmation_source": "用户本次确认该版作者张哲",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（口臭B1、打鼾VC）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41"
+    },
+    "Q33-2@38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385": {
+      "code": "Q33-2",
+      "sha256": "38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-14T10:06:37+08:00",
+      "confirmed_by": "惠跃主人",
+      "revision": 64
     }
   },
   "history": [
@@ -537,6 +546,18 @@
       "author": "余晓青",
       "at": "2026-10-22T17:56:54+08:00",
       "basis": "2026-10-22用户明确：半成品包内的A195即为A195-2，入库上线看板；原定版PNG原样保留"
+    },
+    {
+      "previous": null,
+      "confirmed": {
+        "code": "Q33-2",
+        "sha256": "38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385",
+        "author": "张哲",
+        "status": "confirmed",
+        "confirmed_at": "2026-11-14T10:06:37+08:00",
+        "confirmed_by": "惠跃主人",
+        "revision": 64
+      }
     }
   ]
 }
