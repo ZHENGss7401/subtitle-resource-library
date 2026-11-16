@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 67,
+  "revision": 68,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -531,6 +531,16 @@
       "confirmed_at": "2026-11-16T09:33:50+08:00",
       "confirmation_source": "2026-11-16 用户确认Q37-3作者“张哲”，绑定PNG SHA256 97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9；旧Q37作者登记不随本任务修改",
       "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16-Q37-3-source"
+    },
+    "A333-牙膏+洗发水@54823628a309511549e47a520ede109334ed569eae6770acdc0c9e0dad193416": {
+      "code": "A333-牙膏+洗发水",
+      "sha256": "54823628a309511549e47a520ede109334ed569eae6770acdc0c9e0dad193416",
+      "author": "余晓青",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T09:52:17+08:00",
+      "confirmation_source": "2026-11-16用户明确回复：沿用余晓青；绑定本次A333-牙膏+洗发水动态MOV哈希。",
+      "source_package": "D:\\Users\\Public\\Claude产出素材库\\A333-牙膏+洗发水-动态字幕-20261116"
     }
   },
   "history": [

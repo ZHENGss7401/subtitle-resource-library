@@ -3114,6 +3114,82 @@
         "source": "字幕上传提交日期",
         "sha256": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9"
       }
+    },
+    "A333-牙膏+洗发水": {
+      "code": "A333-牙膏+洗发水",
+      "pkg_code": "A333-牙膏+洗发水",
+      "aliases": [],
+      "dates": [
+        "11.16"
+      ],
+      "src_packages": [
+        "D:\\Users\\Public\\Claude产出素材库\\A333-牙膏+洗发水-动态字幕-20261116"
+      ],
+      "src_file": "D:\\Users\\Public\\Claude产出素材库\\A333-牙膏+洗发水-动态字幕-20261116\\A333-牙膏+洗发水_动态透明字幕.mov",
+      "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+洗发水.mov",
+      "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+洗发水.mov",
+      "layer_rel": "定版/A333-牙膏+洗发水.mov",
+      "preview_rel": "定版/A333-牙膏+洗发水_成品预览.png",
+      "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+洗发水_成品预览.png",
+      "preview_kind": "本次字幕＋同系列无字素材展示样片",
+      "preview_from": "D:\\Users\\Public\\Claude产出素材库\\A333-牙膏+洗发水-动态字幕-20261116\\A333-牙膏+洗发水_展示样片.mp4",
+      "preview_frame_seconds": 3.5,
+      "preview_source_note": "本次动态MOV叠同系列无字原素材生成的展示样片；原素材：Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\10.31\\001-A333-牙膏+果冻霜-10.31-余晓青-郑惠跃-（医生不会告诉你，但我要跟你说的事）-OLCG牙膏+OLCG果冻霜-郑雅斯-100\\flow素材\\+ (1).mp4；非批量成品交付。",
+      "sha256": "54823628a309511549e47a520ede109334ed569eae6770acdc0c9e0dad193416",
+      "preview_sha256": "fa5ecdd516b17954177d0b01142b53976fe6f26dcbd8773e5c2b65e4133379c4",
+      "size": [
+        720,
+        1280
+      ],
+      "preview_size": [
+        720,
+        1280
+      ],
+      "basis": "用户授权本次入库上线；原始文件逐字节保留",
+      "confidence": "已证实",
+      "contested": false,
+      "discarded": [],
+      "author": "余晓青",
+      "copywriter": "郑惠跃",
+      "author_status": "confirmed",
+      "author_confirmed_at": "2026-11-16T09:52:17+08:00",
+      "author_source": "本会话用户确认新版作者沿用余晓青",
+      "copy": {
+        "source": "A333-牙膏+洗发水_图片原文.txt",
+        "lines": [
+          "Things Your Doctor Won't Tell You, But I Will",
+          "Your anxiety is very likely caused by a long-term lack of sex.",
+          "Taking a shower at night often can lead to stroke and rheumatism.",
+          "Olcg Toothpaste on Amazon erases stains and whitens teeth in 7 days.",
+          "Don't wear tight underwear and yoga pants, they cause infections in women and ruin male fertility-your balls are being suffocated!",
+          "Sleeping with the fan on causes wet lungs and makes you sick easily.",
+          "Aveya Hair Growth Shampoo grows hair fast like grass in 7 days now available on Amazon.",
+          "Women should eat more meat, veggie diets hinder conception and painless periods mean you're extrafertile.",
+          "Pure cranberry juice will balance your pH levels and make you taste like candy down there."
+        ],
+        "download_rel": "文案/A333-牙膏+洗发水_原文案.txt",
+        "original_download_rel": "文案/A333-牙膏+洗发水_原文案.txt",
+        "sha256": "c3b3d283f7558dc74af642f1f860ef7c6146b485a750ad1769de50fb2bec51dc"
+      },
+      "copy_rel": "文案/A333-牙膏+洗发水_原文案.txt",
+      "updated_at": "2026-11-16T09:52:17+08:00",
+      "title": "医生不会告诉你，但我要跟你说的事",
+      "products": "OLCG牙膏 + Aveya生发洗发水",
+      "upload_date": {
+        "date": "2026-11-16",
+        "source": "字幕上传提交日期",
+        "sha256": "54823628a309511549e47a520ede109334ed569eae6770acdc0c9e0dad193416"
+      },
+      "asset_type": "dynamic_video",
+      "layer_still_rel": "定版/A333-牙膏+洗发水_静态参考.png",
+      "layer_still_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+洗发水_静态参考.png",
+      "layer_preview_rel": "定版/A333-牙膏+洗发水_动态预览.png",
+      "layer_preview_sha256": "78ad6f1b60477f28e1908e56cfbd1dc51f31c3f76d25e2634663cba729326f1c",
+      "media_type": "video/quicktime",
+      "preview_video_rel": "定版/A333-牙膏+洗发水_成品预览.mp4",
+      "preview_video_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A333-牙膏+洗发水_成品预览.mp4",
+      "preview_media_type": "video/mp4",
+      "preview_video_sha256": "9eafa86285b0a48b8e2e74817eb142eb42d4001bbd2759a274b7d1bbeb4b98c2"
     }
   }
 }
