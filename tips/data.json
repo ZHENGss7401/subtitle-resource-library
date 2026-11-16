@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-13",
+  "built": "2026-11-16",
   "root": "字幕资源库 / INDEX.json",
   "rows": [
     {
@@ -13158,6 +13158,190 @@
       "sha": "981fd3004ae56d14673f3c16ac40d5884cee8abaa091d52d19bb696e79f3d4ce",
       "textHash": "873a5b6503f4a354c03204d6fe1b2955cc18417b6ddd1972b13092f5a8019310",
       "addedAt": "2026-11-13"
+    },
+    {
+      "id": "Q37-3·01",
+      "code": "Q37-3",
+      "topic": "亲密姿势",
+      "groupId": "T90",
+      "kind": "生活小tips",
+      "text": "1) Try not to let your partner go in\nfrom behind, it's bad for your uterus",
+      "zh": "1）尽量别让伴侣从后面进入，这对子宫不好。",
+      "zhDisplay": "1）尽量别让伴侣从后面进入，这对子宫不好。",
+      "zhOrigin": "新增翻译（啊跃按本次PNG外文）",
+      "title": "Hills I will die on as a\ngynecologist of 16 years",
+      "zhTitle": "作为一名从业16年的妇科医生这些观点我会坚持到底",
+      "sourceType": "图片可见原文",
+      "source": "Q37-3_图片原文与新增译文.txt",
+      "line": "3–4",
+      "zhLine": "24–24",
+      "note": "英文按本次上传PNG逐字保留；中文为本次新增阅读译文。",
+      "preview": "定版/版本/Q37-3/预览-af311d9232d2.png",
+      "layer": "定版/版本/Q37-3/97ca4018ff3f.png",
+      "sha": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "textHash": "83fc11791805507bb0b62f8b0ba3457870c4459defbd5d65675472a550b0cce3",
+      "addedAt": "2026-11-16"
+    },
+    {
+      "id": "Q37-3·02",
+      "code": "Q37-3",
+      "topic": "如厕卫生",
+      "groupId": "T32",
+      "kind": "生活小tips",
+      "text": "2) Always close the lid before flushing,\nand always wipe front to back after\npeeing or pooping",
+      "zh": "2）冲水前始终盖上马桶盖，大小便后始终从前向后擦拭。",
+      "zhDisplay": "2）冲水前始终盖上马桶盖，大小便后始终从前向后擦拭。",
+      "zhOrigin": "新增翻译（啊跃按本次PNG外文）",
+      "title": "Hills I will die on as a\ngynecologist of 16 years",
+      "zhTitle": "作为一名从业16年的妇科医生这些观点我会坚持到底",
+      "sourceType": "图片可见原文",
+      "source": "Q37-3_图片原文与新增译文.txt",
+      "line": "5–7",
+      "zhLine": "25–25",
+      "note": "英文按本次上传PNG逐字保留；中文为本次新增阅读译文。",
+      "preview": "定版/版本/Q37-3/预览-af311d9232d2.png",
+      "layer": "定版/版本/Q37-3/97ca4018ff3f.png",
+      "sha": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "textHash": "7f53ef442a0f78166f645f69d0ed161e63fe65c92eac01356652cb9a1eb31fca",
+      "addedAt": "2026-11-16"
+    },
+    {
+      "id": "Q37-3·03",
+      "code": "Q37-3",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "3) Amazon’s Aveya Hair Growth Shampoo\ncan magically grow hair like grass in 7 days",
+      "zh": "3）亚马逊上的Aveya生发洗发水，能在7天内像草一样神奇地长出头发。",
+      "zhDisplay": "3）亚马逊上的Aveya生发洗发水，能在7天内像草一样神奇地长出头发。",
+      "zhOrigin": "新增翻译（啊跃按本次PNG外文）",
+      "title": "Hills I will die on as a\ngynecologist of 16 years",
+      "zhTitle": "作为一名从业16年的妇科医生这些观点我会坚持到底",
+      "sourceType": "图片可见原文",
+      "source": "Q37-3_图片原文与新增译文.txt",
+      "line": "8–9",
+      "zhLine": "26–26",
+      "note": "英文按本次上传PNG逐字保留；中文为本次新增阅读译文。",
+      "preview": "定版/版本/Q37-3/预览-af311d9232d2.png",
+      "layer": "定版/版本/Q37-3/97ca4018ff3f.png",
+      "sha": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "textHash": "de956319ef94b64ac8bbbdee7c0f963b6dd6e3ca81c48137ec9451130e2bce0a",
+      "addedAt": "2026-11-16"
+    },
+    {
+      "id": "Q37-3·04",
+      "code": "Q37-3",
+      "topic": "如厕时长",
+      "groupId": "T91",
+      "kind": "生活小tips",
+      "text": "4) sitting on the toilet for too long can\nlead to colorectal cancer",
+      "zh": "4）坐在马桶上太久会导致结直肠癌。",
+      "zhDisplay": "4）坐在马桶上太久会导致结直肠癌。",
+      "zhOrigin": "新增翻译（啊跃按本次PNG外文）",
+      "title": "Hills I will die on as a\ngynecologist of 16 years",
+      "zhTitle": "作为一名从业16年的妇科医生这些观点我会坚持到底",
+      "sourceType": "图片可见原文",
+      "source": "Q37-3_图片原文与新增译文.txt",
+      "line": "10–11",
+      "zhLine": "27–27",
+      "note": "英文按本次上传PNG逐字保留；中文为本次新增阅读译文。",
+      "preview": "定版/版本/Q37-3/预览-af311d9232d2.png",
+      "layer": "定版/版本/Q37-3/97ca4018ff3f.png",
+      "sha": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "textHash": "27db8988b66e51e525f018a71eb4da37e4af26f4843aeccb8ce04f4d03de5907",
+      "addedAt": "2026-11-16"
+    },
+    {
+      "id": "Q37-3·05",
+      "code": "Q37-3",
+      "topic": "乳头触碰反应",
+      "groupId": "T92",
+      "kind": "生活小tips",
+      "text": "5) Many people experience sudden crying\nor nausea when their nipples are touched,\nregardless of gender",
+      "zh": "5）许多人在乳头被触碰时会突然想哭或感到恶心，与性别无关。",
+      "zhDisplay": "5）许多人在乳头被触碰时会突然想哭或感到恶心，与性别无关。",
+      "zhOrigin": "新增翻译（啊跃按本次PNG外文）",
+      "title": "Hills I will die on as a\ngynecologist of 16 years",
+      "zhTitle": "作为一名从业16年的妇科医生这些观点我会坚持到底",
+      "sourceType": "图片可见原文",
+      "source": "Q37-3_图片原文与新增译文.txt",
+      "line": "12–14",
+      "zhLine": "28–28",
+      "note": "英文按本次上传PNG逐字保留；中文为本次新增阅读译文。",
+      "preview": "定版/版本/Q37-3/预览-af311d9232d2.png",
+      "layer": "定版/版本/Q37-3/97ca4018ff3f.png",
+      "sha": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "textHash": "7fe699acf5a5174e9d7ca6484775ea191c97d0a8ebf1a9feb2d2a1a4f0be8946",
+      "addedAt": "2026-11-16"
+    },
+    {
+      "id": "Q37-3·06",
+      "code": "Q37-3",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6) OLCG Toothpaste from AMZ\ncan activate the teeth brightening\nswitch, make your teeth pearl-white in\njust one week",
+      "zh": "6）AMZ上的OLCG牙膏能开启牙齿亮白开关，仅需一周就让牙齿变得珍珠般洁白。",
+      "zhDisplay": "6）AMZ上的OLCG牙膏能开启牙齿亮白开关，仅需一周就让牙齿变得珍珠般洁白。",
+      "zhOrigin": "新增翻译（啊跃按本次PNG外文）",
+      "title": "Hills I will die on as a\ngynecologist of 16 years",
+      "zhTitle": "作为一名从业16年的妇科医生这些观点我会坚持到底",
+      "sourceType": "图片可见原文",
+      "source": "Q37-3_图片原文与新增译文.txt",
+      "line": "15–18",
+      "zhLine": "29–29",
+      "note": "英文按本次上传PNG逐字保留；中文为本次新增阅读译文。",
+      "preview": "定版/版本/Q37-3/预览-af311d9232d2.png",
+      "layer": "定版/版本/Q37-3/97ca4018ff3f.png",
+      "sha": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "textHash": "6dcbebe35562889cf9130e2cb290dcf482b19c3048dac1965e3ab39b42b2e18a",
+      "addedAt": "2026-11-16"
+    },
+    {
+      "id": "Q37-3·07",
+      "code": "Q37-3",
+      "topic": "经期排便",
+      "groupId": "T93",
+      "kind": "生活小tips",
+      "text": "7) Your period makes your poop looser\nor more frequent. Blame prostaglandins",
+      "zh": "7）月经会让排便更稀或更频繁，这是前列腺素的作用。",
+      "zhDisplay": "7）月经会让排便更稀或更频繁，这是前列腺素的作用。",
+      "zhOrigin": "新增翻译（啊跃按本次PNG外文）",
+      "title": "Hills I will die on as a\ngynecologist of 16 years",
+      "zhTitle": "作为一名从业16年的妇科医生这些观点我会坚持到底",
+      "sourceType": "图片可见原文",
+      "source": "Q37-3_图片原文与新增译文.txt",
+      "line": "19–20",
+      "zhLine": "30–30",
+      "note": "英文按本次上传PNG逐字保留；中文为本次新增阅读译文。",
+      "preview": "定版/版本/Q37-3/预览-af311d9232d2.png",
+      "layer": "定版/版本/Q37-3/97ca4018ff3f.png",
+      "sha": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "textHash": "23b5648855e96a0cc9959fa66d8cbf51acc6be223c19a1e2940712ef93a085cd",
+      "addedAt": "2026-11-16"
+    },
+    {
+      "id": "Q37-3·08",
+      "code": "Q37-3",
+      "topic": "菠萝汁与私处",
+      "groupId": "T31",
+      "kind": "生活小tips",
+      "text": "8) Pineapple making you \"taste better\"? No\nstrong evidence. No harm in trying either.",
+      "zh": "8）菠萝会让你“味道更好”？没有有力证据。试试也无妨。",
+      "zhDisplay": "8）菠萝会让你“味道更好”？没有有力证据。试试也无妨。",
+      "zhOrigin": "新增翻译（啊跃按本次PNG外文）",
+      "title": "Hills I will die on as a\ngynecologist of 16 years",
+      "zhTitle": "作为一名从业16年的妇科医生这些观点我会坚持到底",
+      "sourceType": "图片可见原文",
+      "source": "Q37-3_图片原文与新增译文.txt",
+      "line": "21–22",
+      "zhLine": "31–31",
+      "note": "英文按本次上传PNG逐字保留；中文为本次新增阅读译文。",
+      "preview": "定版/版本/Q37-3/预览-af311d9232d2.png",
+      "layer": "定版/版本/Q37-3/97ca4018ff3f.png",
+      "sha": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "textHash": "f51e1027ddaf36bbf559befb337ae7f7def6d7c3bc3192ad0957f49a8ccbd5d8",
+      "addedAt": "2026-11-16"
     }
   ],
   "groups": [
@@ -13264,7 +13448,7 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 50,
+      "count": 51,
       "forms": 41,
       "versions": [
         "A301-1",
@@ -13311,7 +13495,8 @@
         "Q33-（口臭B1、打鼾VC）",
         "Q33-17",
         "Q33-15",
-        "Q33-16"
+        "Q33-16",
+        "Q37-3"
       ]
     },
     {
@@ -13595,8 +13780,8 @@
     {
       "id": "T31",
       "name": "菠萝汁与私处",
-      "count": 12,
-      "forms": 8,
+      "count": 13,
+      "forms": 9,
       "versions": [
         "B14-3",
         "B14-4",
@@ -13609,13 +13794,14 @@
         "A326",
         "A326-1",
         "Q37-2",
-        "A346-1"
+        "A346-1",
+        "Q37-3"
       ]
     },
     {
       "id": "T32",
       "name": "如厕卫生",
-      "count": 7,
+      "count": 8,
       "forms": 6,
       "versions": [
         "B14-3",
@@ -13624,7 +13810,8 @@
         "Q36",
         "Q37",
         "Q37-1",
-        "Q37-2"
+        "Q37-2",
+        "Q37-3"
       ]
     },
     {
@@ -14308,47 +14495,51 @@
     {
       "id": "T90",
       "name": "亲密姿势",
-      "count": 6,
+      "count": 7,
       "forms": 5,
       "versions": [
         "Q37",
         "Q37-1",
         "A326",
         "Q37-2",
-        "A357"
+        "A357",
+        "Q37-3"
       ]
     },
     {
       "id": "T91",
       "name": "如厕时长",
-      "count": 3,
+      "count": 4,
       "forms": 2,
       "versions": [
         "Q37",
         "Q37-1",
-        "Q37-2"
+        "Q37-2",
+        "Q37-3"
       ]
     },
     {
       "id": "T92",
       "name": "乳头触碰反应",
-      "count": 3,
+      "count": 4,
       "forms": 2,
       "versions": [
         "Q37",
         "Q37-1",
-        "Q37-2"
+        "Q37-2",
+        "Q37-3"
       ]
     },
     {
       "id": "T93",
       "name": "经期排便",
-      "count": 3,
+      "count": 4,
       "forms": 2,
       "versions": [
         "Q37",
         "Q37-1",
-        "Q37-2"
+        "Q37-2",
+        "Q37-3"
       ]
     },
     {
@@ -15087,12 +15278,13 @@
     {
       "id": "T174",
       "name": "脱发与生发洗发水",
-      "count": 3,
-      "forms": 3,
+      "count": 4,
+      "forms": 4,
       "versions": [
         "Q33-客厅养鱼",
         "Q33-15",
-        "Q33-16"
+        "Q33-16",
+        "Q37-3"
       ]
     },
     {
@@ -18551,6 +18743,54 @@
       ],
       "sourceBuilt": "2026-11-13",
       "contextLineNumbers": []
+    },
+    {
+      "code": "Q37-3",
+      "count": 8,
+      "title": "Hills I will die on as a\ngynecologist of 16 years",
+      "copySource": "Q37-3_图片原文与新增译文.txt",
+      "lines": [
+        "Hills I will die on as a",
+        "gynecologist of 16 years",
+        "1) Try not to let your partner go in",
+        "from behind, it's bad for your uterus",
+        "2) Always close the lid before flushing,",
+        "and always wipe front to back after",
+        "peeing or pooping",
+        "3) Amazon’s Aveya Hair Growth Shampoo",
+        "can magically grow hair like grass in 7 days",
+        "4) sitting on the toilet for too long can",
+        "lead to colorectal cancer",
+        "5) Many people experience sudden crying",
+        "or nausea when their nipples are touched,",
+        "regardless of gender",
+        "6) OLCG Toothpaste from AMZ",
+        "can activate the teeth brightening",
+        "switch, make your teeth pearl-white in",
+        "just one week",
+        "7) Your period makes your poop looser",
+        "or more frequent. Blame prostaglandins",
+        "8) Pineapple making you \"taste better\"? No",
+        "strong evidence. No harm in trying either.",
+        "中文译文（啊跃按本次PNG外文新增翻译，非原稿中文）",
+        "1）尽量别让伴侣从后面进入，这对子宫不好。",
+        "2）冲水前始终盖上马桶盖，大小便后始终从前向后擦拭。",
+        "3）亚马逊上的Aveya生发洗发水，能在7天内像草一样神奇地长出头发。",
+        "4）坐在马桶上太久会导致结直肠癌。",
+        "5）许多人在乳头被触碰时会突然想哭或感到恶心，与性别无关。",
+        "6）AMZ上的OLCG牙膏能开启牙齿亮白开关，仅需一周就让牙齿变得珍珠般洁白。",
+        "7）月经会让排便更稀或更频繁，这是前列腺素的作用。",
+        "8）菠萝会让你“味道更好”？没有有力证据。试试也无妨。"
+      ],
+      "layer": "定版/版本/Q37-3/97ca4018ff3f.png",
+      "preview": "定版/版本/Q37-3/预览-af311d9232d2.png",
+      "sha": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "previewSha": "af311d9232d211f47e68a30f246c17e21aa5b545d5d3a5477abd382cf950d800",
+      "aliases": [],
+      "sourceBuilt": "2026-11-16",
+      "contextLineNumbers": [
+        23
+      ]
     }
   ],
   "coverage": [
@@ -30931,6 +31171,192 @@
       25,
       "标题/说明/来源中文",
       "6. 黄牙 OLCG 去渍牙膏——来自亚马逊 开启牙齿美白与亮白功能，一周内即可拥有珍珠白牙齿"
+    ],
+    [
+      "Q37-3",
+      1,
+      "标题/说明/来源中文",
+      "Hills I will die on as a"
+    ],
+    [
+      "Q37-3",
+      2,
+      "标题/说明/来源中文",
+      "gynecologist of 16 years"
+    ],
+    [
+      "Q37-3",
+      3,
+      "小tips原文",
+      "1) Try not to let your partner go in"
+    ],
+    [
+      "Q37-3",
+      4,
+      "小tips原文",
+      "from behind, it's bad for your uterus"
+    ],
+    [
+      "Q37-3",
+      5,
+      "小tips原文",
+      "2) Always close the lid before flushing,"
+    ],
+    [
+      "Q37-3",
+      6,
+      "小tips原文",
+      "and always wipe front to back after"
+    ],
+    [
+      "Q37-3",
+      7,
+      "小tips原文",
+      "peeing or pooping"
+    ],
+    [
+      "Q37-3",
+      8,
+      "小tips原文",
+      "3) Amazon’s Aveya Hair Growth Shampoo"
+    ],
+    [
+      "Q37-3",
+      9,
+      "小tips原文",
+      "can magically grow hair like grass in 7 days"
+    ],
+    [
+      "Q37-3",
+      10,
+      "小tips原文",
+      "4) sitting on the toilet for too long can"
+    ],
+    [
+      "Q37-3",
+      11,
+      "小tips原文",
+      "lead to colorectal cancer"
+    ],
+    [
+      "Q37-3",
+      12,
+      "小tips原文",
+      "5) Many people experience sudden crying"
+    ],
+    [
+      "Q37-3",
+      13,
+      "小tips原文",
+      "or nausea when their nipples are touched,"
+    ],
+    [
+      "Q37-3",
+      14,
+      "小tips原文",
+      "regardless of gender"
+    ],
+    [
+      "Q37-3",
+      15,
+      "小tips原文",
+      "6) OLCG Toothpaste from AMZ"
+    ],
+    [
+      "Q37-3",
+      16,
+      "小tips原文",
+      "can activate the teeth brightening"
+    ],
+    [
+      "Q37-3",
+      17,
+      "小tips原文",
+      "switch, make your teeth pearl-white in"
+    ],
+    [
+      "Q37-3",
+      18,
+      "小tips原文",
+      "just one week"
+    ],
+    [
+      "Q37-3",
+      19,
+      "小tips原文",
+      "7) Your period makes your poop looser"
+    ],
+    [
+      "Q37-3",
+      20,
+      "小tips原文",
+      "or more frequent. Blame prostaglandins"
+    ],
+    [
+      "Q37-3",
+      21,
+      "小tips原文",
+      "8) Pineapple making you \"taste better\"? No"
+    ],
+    [
+      "Q37-3",
+      22,
+      "小tips原文",
+      "strong evidence. No harm in trying either."
+    ],
+    [
+      "Q37-3",
+      23,
+      "标题/说明/来源中文",
+      "中文译文（啊跃按本次PNG外文新增翻译，非原稿中文）"
+    ],
+    [
+      "Q37-3",
+      24,
+      "标题/说明/来源中文",
+      "1）尽量别让伴侣从后面进入，这对子宫不好。"
+    ],
+    [
+      "Q37-3",
+      25,
+      "标题/说明/来源中文",
+      "2）冲水前始终盖上马桶盖，大小便后始终从前向后擦拭。"
+    ],
+    [
+      "Q37-3",
+      26,
+      "标题/说明/来源中文",
+      "3）亚马逊上的Aveya生发洗发水，能在7天内像草一样神奇地长出头发。"
+    ],
+    [
+      "Q37-3",
+      27,
+      "标题/说明/来源中文",
+      "4）坐在马桶上太久会导致结直肠癌。"
+    ],
+    [
+      "Q37-3",
+      28,
+      "标题/说明/来源中文",
+      "5）许多人在乳头被触碰时会突然想哭或感到恶心，与性别无关。"
+    ],
+    [
+      "Q37-3",
+      29,
+      "标题/说明/来源中文",
+      "6）AMZ上的OLCG牙膏能开启牙齿亮白开关，仅需一周就让牙齿变得珍珠般洁白。"
+    ],
+    [
+      "Q37-3",
+      30,
+      "标题/说明/来源中文",
+      "7）月经会让排便更稀或更频繁，这是前列腺素的作用。"
+    ],
+    [
+      "Q37-3",
+      31,
+      "标题/说明/来源中文",
+      "8）菠萝会让你“味道更好”？没有有力证据。试试也无妨。"
     ]
   ],
   "retired": {
@@ -30939,29 +31365,30 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "7a30eb3e928bbaa2f5e623c7816d44573fc54dacab4a7eede134208339ea80e9",
+  "indexSha": "3c2f159415cb4a7ea9d48cc489cad4b809f204bb95cc74df3590fb8a1e69fe8e",
   "latestBatch": {
-    "date": "2026-11-13",
+    "date": "2026-11-16",
     "versions": [
-      "Q33-16"
+      "Q37-3"
     ],
-    "records": 7,
+    "records": 8,
     "recordIds": [
-      "Q33-16·01",
-      "Q33-16·02",
-      "Q33-16·03",
-      "Q33-16·04",
-      "Q33-16·05",
-      "Q33-16·06",
-      "Q33-16·图·981fd3004ae5·1"
+      "Q37-3·01",
+      "Q37-3·02",
+      "Q37-3·03",
+      "Q37-3·04",
+      "Q37-3·05",
+      "Q37-3·06",
+      "Q37-3·07",
+      "Q37-3·08"
     ]
   },
   "alignment": {
-    "subtitleVersions": 78,
-    "coveredVersions": 78,
+    "subtitleVersions": 79,
+    "coveredVersions": 79,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "7a30eb3e928bbaa2f5e623c7816d44573fc54dacab4a7eede134208339ea80e9",
-    "checkedAt": "2026-11-13"
+    "sourceIndexSha256": "3c2f159415cb4a7ea9d48cc489cad4b809f204bb95cc74df3590fb8a1e69fe8e",
+    "checkedAt": "2026-11-16"
   }
 }

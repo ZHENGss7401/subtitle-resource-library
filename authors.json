@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 66,
+  "revision": 67,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -521,6 +521,16 @@
       "confirmed_at": "2026-11-14T10:07:05+08:00",
       "confirmed_by": "惠跃主人",
       "revision": 66
+    },
+    "Q37-3@97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9": {
+      "code": "Q37-3",
+      "sha256": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T09:33:50+08:00",
+      "confirmation_source": "2026-11-16 用户确认Q37-3作者“张哲”，绑定PNG SHA256 97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9；旧Q37作者登记不随本任务修改",
+      "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16-Q37-3-source"
     }
   },
   "history": [
