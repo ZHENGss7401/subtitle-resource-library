@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 70,
+  "revision": 71,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -571,6 +571,16 @@
       "confirmed_at": "2026-11-16T15:03:22+08:00",
       "confirmation_source": "2026-11-16用户明确本包字幕完成，先出成品再入库；本次包名明确作者张哲、文案郑惠跃。",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\Q33\\Q33-2-2-11.16-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
+    },
+    "A349-2@37c4766c6ed12fab805a4f989914d956d8b4fbd09868223fb6ed48617c14cc7a": {
+      "code": "A349-2",
+      "sha256": "37c4766c6ed12fab805a4f989914d956d8b4fbd09868223fb6ed48617c14cc7a",
+      "author": "余晓青",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T17:48:11+08:00",
+      "confirmation_source": "2026-11-16用户明确：A349-2入库上线，作者余晓青。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\07-A349-1-11.16-英文-余晓青-惠跃-（从事妇科医生16年，这些事我希望更多人知道）-Aveya生发洗发水+OLCG牙膏-郑雅斯-76"
     }
   },
   "history": [
