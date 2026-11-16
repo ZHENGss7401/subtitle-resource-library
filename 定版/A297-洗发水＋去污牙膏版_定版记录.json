@@ -1,0 +1,87 @@
+{
+  "code": "A297-洗发水＋去污牙膏版",
+  "pkg_code": "A297-洗发水＋去污牙膏版",
+  "aliases": [],
+  "dates": [
+    "11.16"
+  ],
+  "src_packages": [
+    "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_A297-洗发水＋去污牙膏版_原始资料"
+  ],
+  "src_file": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_A297-洗发水＋去污牙膏版_原始资料\\A297-洗发水＋去污牙膏版.png",
+  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A297-洗发水＋去污牙膏版.png",
+  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A297-洗发水＋去污牙膏版.png",
+  "layer_rel": "定版/A297-洗发水＋去污牙膏版.png",
+  "preview_rel": "定版/A297-洗发水＋去污牙膏版_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A297-洗发水＋去污牙膏版_成品预览.png",
+  "preview_kind": "无字素材＋定版字幕合成预览",
+  "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/2. 半成品/11.06/008-A297-棉片+去污牙膏版-11.06-英文-余晓青-惠跃-（作为一名前医生这是我坚持的立场）-Aveya棉片+OLCG去污牙膏-郑雅斯-25/flow素材-25/柳欣/A297-棉片+去污牙膏版-柳欣 (1).mp4",
+  "preview_frame_seconds": 1,
+  "preview_source_note": "本次仅上传透明字幕；使用A297同系列无字flow素材1秒帧叠加当前字幕，非实际成品。",
+  "sha256": "e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24",
+  "preview_sha256": "c59684691406f380883bd07b2941bdf917d2ac73fc94223c84727d3702ab92be",
+  "size": [
+    1116,
+    2000
+  ],
+  "preview_size": [
+    720,
+    1280
+  ],
+  "basis": "用户授权本次入库上线；原始文件逐字节保留",
+  "confidence": "已证实",
+  "contested": false,
+  "discarded": [],
+  "author": "郑惠跃",
+  "copywriter": "",
+  "author_status": "confirmed",
+  "author_confirmed_at": "2026-11-16T10:51:10+08:00",
+  "author_source": "用户在本会话明确确认当前版号及作者",
+  "copy": {
+    "source": "图片原文转录.txt",
+    "lines": [
+      "As a former doctor this is",
+      "the stance I stand by",
+      "1.Drinking water",
+      "You pee right away",
+      "(it meansyou're",
+      "young)",
+      "2.Hair loss",
+      "Aveya Hair Growth",
+      "Shampoo",
+      "on Amazon",
+      "Grows hair like grass",
+      "in 7 days",
+      "3.Sleep",
+      "Don't sleep on",
+      "your stomach, back,",
+      "or side",
+      "4. Hair loss",
+      "honey + coconut oil",
+      "helped my hair grow",
+      "faster",
+      "5.Insomnia",
+      "Onion slice beside",
+      "bed to quiet racing",
+      "thoughts",
+      "6.Yellow teeth",
+      "OLCG Stain-removal",
+      "Toothpaste",
+      "from Amazon",
+      "whitens teeth like Pearls",
+      "in one week"
+    ],
+    "download_rel": "文案/A297-洗发水＋去污牙膏版_原文案.txt",
+    "original_download_rel": "文案/A297-洗发水＋去污牙膏版_原文案.txt",
+    "sha256": "ae2b2b961d4a2e69b662a6376c055f15580060218fd13f2b965e9afa60b9d646"
+  },
+  "copy_rel": "文案/A297-洗发水＋去污牙膏版_原文案.txt",
+  "updated_at": "2026-11-16T10:51:10+08:00",
+  "title": "作为一名前医生，这是我坚持的立场",
+  "products": "Aveya洗发水＋OLCG去污牙膏",
+  "upload_date": {
+    "date": "2026-11-16",
+    "source": "字幕上传提交日期",
+    "sha256": "e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24"
+  }
+}

@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 68,
+  "revision": 69,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -541,6 +541,26 @@
       "confirmed_at": "2026-11-16T09:52:17+08:00",
       "confirmation_source": "2026-11-16用户明确回复：沿用余晓青；绑定本次A333-牙膏+洗发水动态MOV哈希。",
       "source_package": "D:\\Users\\Public\\Claude产出素材库\\A333-牙膏+洗发水-动态字幕-20261116"
+    },
+    "Q31-3-洗发水+牙膏版@a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1": {
+      "code": "Q31-3-洗发水+牙膏版",
+      "sha256": "a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1",
+      "author": "张哲",
+      "copywriter": "",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T10:51:10+08:00",
+      "confirmation_source": "惠跃主人本会话明确：Q31-3-洗发水+牙膏版，作者张哲；绑定PNG SHA256 a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1",
+      "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_Q31-3-洗发水+牙膏版_原始资料"
+    },
+    "A297-洗发水＋去污牙膏版@e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24": {
+      "code": "A297-洗发水＋去污牙膏版",
+      "sha256": "e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24",
+      "author": "郑惠跃",
+      "copywriter": "",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T10:51:10+08:00",
+      "confirmation_source": "惠跃主人本会话明确：A297-洗发水＋去污牙膏版，作者郑惠跃；绑定PNG SHA256 e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24",
+      "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_A297-洗发水＋去污牙膏版_原始资料"
     }
   },
   "history": [

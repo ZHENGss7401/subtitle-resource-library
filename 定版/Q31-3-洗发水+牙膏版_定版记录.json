@@ -1,0 +1,78 @@
+{
+  "code": "Q31-3-洗发水+牙膏版",
+  "pkg_code": "Q31-3-洗发水+牙膏版",
+  "aliases": [],
+  "dates": [
+    "11.16"
+  ],
+  "src_packages": [
+    "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_Q31-3-洗发水+牙膏版_原始资料"
+  ],
+  "src_file": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_Q31-3-洗发水+牙膏版_原始资料\\Q31-3-洗发水+牙膏版.png",
+  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q31-3-洗发水+牙膏版.png",
+  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q31-3-洗发水+牙膏版.png",
+  "layer_rel": "定版/Q31-3-洗发水+牙膏版.png",
+  "preview_rel": "定版/Q31-3-洗发水+牙膏版_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q31-3-洗发水+牙膏版_成品预览.png",
+  "preview_kind": "无字素材＋定版字幕合成预览",
+  "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/2. 半成品/11.06/005-Q31-11.06-英文-张哲-惠跃-（能大幅延缓衰老的小习惯）-Aveya棉片-郑雅斯-23/flow素材-23/柳欣/Q31-柳欣 (1).mp4",
+  "preview_frame_seconds": 1,
+  "preview_source_note": "本次仅上传透明字幕；使用已登记Q31-2同系列无字flow素材1秒帧叠加当前字幕，非实际成品。",
+  "sha256": "a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1",
+  "preview_sha256": "5dd6d29c2fabd3eca1b996e305e87a17a9fc71244cce038144df55548cf1d829",
+  "size": [
+    1116,
+    2000
+  ],
+  "preview_size": [
+    720,
+    1280
+  ],
+  "basis": "用户授权本次入库上线；原始文件逐字节保留",
+  "confidence": "已证实",
+  "contested": false,
+  "discarded": [],
+  "author": "张哲",
+  "copywriter": "",
+  "author_status": "confirmed",
+  "author_confirmed_at": "2026-11-16T10:51:10+08:00",
+  "author_source": "用户在本会话明确确认当前版号及作者",
+  "copy": {
+    "source": "图片原文转录.txt",
+    "lines": [
+      "SMALL HABITS THAT",
+      "SLOW AGING (BIG TIME)",
+      "1. Brush your teeth before coffee.",
+      "2. Stop drinking through straws.",
+      "3. Sleep in a cool room.",
+      "4. Add parsley to your meals.",
+      "5. Aveya Hair Growth shampoo on",
+      "Amazon Grows hair like",
+      "grass in 7 days.",
+      "6. Keep your jaw relaxed.",
+      "7. Wear sunglasses in the sun.",
+      "8. Add pumpkin seeds to breakfast.",
+      "9. Don't rub your eyes.",
+      "10. Breathe through your nose.",
+      "11. Eat an apple after lunch.",
+      "12. Take the stairs more often.",
+      "13. Use a tongue scraper.",
+      "14. Give it a try. Olcg Toothpaste",
+      "whitens teeth in just 7",
+      "days,available on Amazon.",
+      "15.Finish dinner a little earlier."
+    ],
+    "download_rel": "文案/Q31-3-洗发水+牙膏版_原文案.txt",
+    "original_download_rel": "文案/Q31-3-洗发水+牙膏版_原文案.txt",
+    "sha256": "1495a03bc16560500db295678127a720ef07837726dd9b4e9137bb02eb806e87"
+  },
+  "copy_rel": "文案/Q31-3-洗发水+牙膏版_原文案.txt",
+  "updated_at": "2026-11-16T10:51:10+08:00",
+  "title": "大幅延缓衰老的小习惯",
+  "products": "Aveya洗发水＋OLCG去污牙膏",
+  "upload_date": {
+    "date": "2026-11-16",
+    "source": "字幕上传提交日期",
+    "sha256": "a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1"
+  }
+}
