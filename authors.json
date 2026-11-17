@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 74,
+  "revision": 75,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -621,6 +621,26 @@
       "confirmed_at": "2026-11-17T14:36:44+08:00",
       "confirmation_source": "2026-11-17用户要求入库上线；同版作者张哲。",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-口臭B1黑"
+    },
+    "A195-4-洗发水+牙膏@9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7": {
+      "code": "A195-4-洗发水+牙膏",
+      "sha256": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "author": "余晓青",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-17T15:18:34+08:00",
+      "confirmation_source": "2026-11-17用户明确作者余晓青，并要求两版入库上线。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\02-A195-3-11.16-英文-余晓青-惠跃-（你需要了解的10件事（牙医版））-OLCG去污牙膏-郑雅斯-37"
+    },
+    "A195-4-牙膏+洗发水@2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1": {
+      "code": "A195-4-牙膏+洗发水",
+      "sha256": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "author": "余晓青",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-17T15:18:34+08:00",
+      "confirmation_source": "2026-11-17用户明确作者余晓青，并要求两版入库上线。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\02-A195-3-11.16-英文-余晓青-惠跃-（你需要了解的10件事（牙医版））-OLCG去污牙膏-郑雅斯-37"
     }
   },
   "history": [

@@ -14837,6 +14837,466 @@
       "sha": "28cd90b00dbf2defe37cf25f3c9c7af655cbbe04b2be591b6b9b9229b1dfa062",
       "textHash": "f006bbf063939e2dab5f00d0d9dbd107b229ca852b2a1a773295793aed559149",
       "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·01",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "舌头与静息位",
+      "groupId": "T191",
+      "kind": "生活小tips",
+      "text": "1. The tongue has a resting position - and it should be on the palate.",
+      "zh": "1. 舌头有静息位——应贴在上颚。",
+      "zhDisplay": "1. 舌头有静息位——应贴在上颚。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "4–4",
+      "zhLine": "14–14",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "ae76a22e65c0530ef84ff921d65d3861615b2c26231b9d6226eabc59f8c32303",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·02",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "口呼吸",
+      "groupId": "T163",
+      "kind": "生活小tips",
+      "text": "2. Mouth breathing is not normal - at any age.",
+      "zh": "2. 口呼吸不正常——任何年龄都一样。",
+      "zhDisplay": "2. 口呼吸不正常——任何年龄都一样。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "5–5",
+      "zhLine": "15–15",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "b95d1ed672bf326eb463a46c9bbd5e89d80be932e14ef703c05a4b6e02adcbaf",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·03",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "牙齿不齐与空间",
+      "groupId": "T192",
+      "kind": "生活小tips",
+      "text": "3. Crooked teeth are often a space problem, not a tooth problem.",
+      "zh": "3. 牙齿不齐通常是空间问题，不是牙齿问题。",
+      "zhDisplay": "3. 牙齿不齐通常是空间问题，不是牙齿问题。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "6–6",
+      "zhLine": "16–16",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "4e3d4964643817742d1367bc196e9fe46247704496c0747d337133baa0d5ec39",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·04",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "打鼾",
+      "groupId": "T193",
+      "kind": "生活小tips",
+      "text": "4. Snoring is a red flag — not \"cute\" or \"normal.\"",
+      "zh": "4. 打鼾是危险信号——不是“可爱”或“正常”。",
+      "zhDisplay": "4. 打鼾是危险信号——不是“可爱”或“正常”。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "7–7",
+      "zhLine": "17–17",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "63db8ee5beb09f634effa3966c631b4a6cfedeb37c375253bb0ac888f9b4967d",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·05",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "5. Aveya Hair Growth Shampoo on Amazon Grows hair like grass in 7 days",
+      "zh": "5. Amazon上的Aveya生发洗发水，7天长出像草一样茂盛。",
+      "zhDisplay": "5. Amazon上的Aveya生发洗发水，7天长出像草一样茂盛。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "8–8",
+      "zhLine": "18–18",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "d1580ab45d3d987151e01379657230d858dfdc5cc9780592c2ee34d4506ff257",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·06",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "舌系带",
+      "groupId": "T97",
+      "kind": "生活小tips",
+      "text": "6. Tongue-tie is not just about speech - it affects breathing and growth.",
+      "zh": "6. 舌系带过短不只影响说话——还影响呼吸和发育。",
+      "zhDisplay": "6. 舌系带过短不只影响说话——还影响呼吸和发育。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "9–9",
+      "zhLine": "19–19",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "d7f341419717c52951a2c93ea776422dd6f4c72e11e9c1edb8ffb0c92a2f9f1e",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·07",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "磨牙与气道",
+      "groupId": "T98",
+      "kind": "生活小tips",
+      "text": "7. Grinding teeth is often the body trying to open the airway.",
+      "zh": "7. 磨牙常是身体在试图打开气道。",
+      "zhDisplay": "7. 磨牙常是身体在试图打开气道。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "10–10",
+      "zhLine": "20–20",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "d4c5d0fb93a88d6df3d4a9c4ff145e7863fed2d5efc6a63b884511a4512fe981",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·08",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "8. OLCG Stain-removal Toothpaste from Amazon (Whitens teeth like pearls in one week)",
+      "zh": "8. Amazon上的OLCG去渍牙膏（一周让牙齿白如珍珠）。",
+      "zhDisplay": "8. Amazon上的OLCG去渍牙膏（一周让牙齿白如珍珠）。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "11–11",
+      "zhLine": "21–21",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "401e689dc660749d753aeb9481af246f3dcebcc7963039563305832c6850876c",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·09",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "睡眠与ADHD",
+      "groupId": "T194",
+      "kind": "生活小tips",
+      "text": "9. Poor sleep can look like ADHD, not tiredness.",
+      "zh": "9. 睡眠差看起来像ADHD，而不是疲劳。",
+      "zhDisplay": "9. 睡眠差看起来像ADHD，而不是疲劳。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "12–12",
+      "zhLine": "22–22",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "b615ace7f436cf467d5a71278f7dedf55afce18a7059b440773e7431acd7a470",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-洗发水+牙膏·10",
+      "code": "A195-4-洗发水+牙膏",
+      "topic": "功能与结构",
+      "groupId": "T101",
+      "kind": "生活小tips",
+      "text": "10. Function shapes structure — always.",
+      "zh": "10. 功能决定结构——始终如此。",
+      "zhDisplay": "10. 功能决定结构——始终如此。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-洗发水+牙膏文案.docx",
+      "line": "13–13",
+      "zhLine": "23–23",
+      "note": "",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "textHash": "0009bf51174fc8bddbbd03880da6106e836e1a33bf6e3fc9500ef75b97057e46",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·01",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "舌头与静息位",
+      "groupId": "T191",
+      "kind": "生活小tips",
+      "text": "1. The tongue has a resting position - and it should be on the palate.",
+      "zh": "1. 舌头有静息位——应贴在上颚。",
+      "zhDisplay": "1. 舌头有静息位——应贴在上颚。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "4–4",
+      "zhLine": "14–14",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "ae76a22e65c0530ef84ff921d65d3861615b2c26231b9d6226eabc59f8c32303",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·02",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "口呼吸",
+      "groupId": "T163",
+      "kind": "生活小tips",
+      "text": "2. Mouth breathing is not normal - at any age.",
+      "zh": "2. 口呼吸不正常——任何年龄都一样。",
+      "zhDisplay": "2. 口呼吸不正常——任何年龄都一样。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "5–5",
+      "zhLine": "15–15",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "b95d1ed672bf326eb463a46c9bbd5e89d80be932e14ef703c05a4b6e02adcbaf",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·03",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "牙齿不齐与空间",
+      "groupId": "T192",
+      "kind": "生活小tips",
+      "text": "3. Crooked teeth are often a space problem, not a tooth problem.",
+      "zh": "3. 牙齿不齐通常是空间问题，不是牙齿问题。",
+      "zhDisplay": "3. 牙齿不齐通常是空间问题，不是牙齿问题。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "6–6",
+      "zhLine": "16–16",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "4e3d4964643817742d1367bc196e9fe46247704496c0747d337133baa0d5ec39",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·04",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "打鼾",
+      "groupId": "T193",
+      "kind": "生活小tips",
+      "text": "4. Snoring is a red flag — not \"cute\" or \"normal.\"",
+      "zh": "4. 打鼾是危险信号——不是“可爱”或“正常”。",
+      "zhDisplay": "4. 打鼾是危险信号——不是“可爱”或“正常”。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "7–7",
+      "zhLine": "17–17",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "63db8ee5beb09f634effa3966c631b4a6cfedeb37c375253bb0ac888f9b4967d",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·05",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "5. OLCG Stain-removal Toothpaste from Amazon Whitens teeth like pearls in 7 days",
+      "zh": "5. Amazon上的OLCG去渍牙膏，7天牙齿白如珍珠。",
+      "zhDisplay": "5. Amazon上的OLCG去渍牙膏，7天牙齿白如珍珠。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "8–8",
+      "zhLine": "18–18",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "d10d047ab37f692f9712bbfbfb3040f8fb9449bf4d44f88d6d8dfc34ecdf303e",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·06",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "舌系带",
+      "groupId": "T97",
+      "kind": "生活小tips",
+      "text": "6. Tongue-tie is not just about speech - it affects breathing and growth.",
+      "zh": "6. 舌系带过短不只影响说话——还影响呼吸和发育。",
+      "zhDisplay": "6. 舌系带过短不只影响说话——还影响呼吸和发育。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "9–9",
+      "zhLine": "19–19",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "d7f341419717c52951a2c93ea776422dd6f4c72e11e9c1edb8ffb0c92a2f9f1e",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·07",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "磨牙与气道",
+      "groupId": "T98",
+      "kind": "生活小tips",
+      "text": "7. Grinding teeth is often the body trying to open the airway.",
+      "zh": "7. 磨牙常是身体在试图打开气道。",
+      "zhDisplay": "7. 磨牙常是身体在试图打开气道。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "10–10",
+      "zhLine": "20–20",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "d4c5d0fb93a88d6df3d4a9c4ff145e7863fed2d5efc6a63b884511a4512fe981",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·08",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "8. Aveya Hair Growth Shampoo on Amazon (Grows hair like grass in 7 days)",
+      "zh": "8. Amazon上的Aveya生发洗发水（7天长出像草一样茂盛）。",
+      "zhDisplay": "8. Amazon上的Aveya生发洗发水（7天长出像草一样茂盛）。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "11–11",
+      "zhLine": "21–21",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "d610b91335e56c5315a24a560334428b5d4a6ff362cd0a1ac01d8b91a77cdf8c",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·09",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "睡眠与ADHD",
+      "groupId": "T194",
+      "kind": "生活小tips",
+      "text": "9. Poor sleep can look like ADHD, not tiredness.",
+      "zh": "9. 睡眠差看起来像ADHD，而不是疲劳。",
+      "zhDisplay": "9. 睡眠差看起来像ADHD，而不是疲劳。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "12–12",
+      "zhLine": "22–22",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "b615ace7f436cf467d5a71278f7dedf55afce18a7059b440773e7431acd7a470",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "A195-4-牙膏+洗发水·10",
+      "code": "A195-4-牙膏+洗发水",
+      "topic": "功能与结构",
+      "groupId": "T101",
+      "kind": "生活小tips",
+      "text": "10. Function shapes structure — always.",
+      "zh": "10. 功能决定结构——始终如此。",
+      "zhDisplay": "10. 功能决定结构——始终如此。",
+      "zhOrigin": "来源中文原文",
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "zhTitle": "你需要了解的10件事（牙医版）",
+      "sourceType": "文案原文",
+      "source": "A195-4-牙膏+洗发水文案.docx",
+      "line": "13–13",
+      "zhLine": "23–23",
+      "note": "",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "textHash": "0009bf51174fc8bddbbd03880da6106e836e1a33bf6e3fc9500ef75b97057e46",
+      "addedAt": "2026-11-17"
     }
   ],
   "groups": [
@@ -14943,8 +15403,8 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 60,
-      "forms": 46,
+      "count": 62,
+      "forms": 48,
       "versions": [
         "A301-1",
         "A310",
@@ -15000,7 +15460,9 @@
         "Q33-13-2",
         "Q33-17-2",
         "Q33-15黑",
-        "Q33-口臭B1黑"
+        "Q33-口臭B1黑",
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
       ]
     },
     {
@@ -16093,20 +16555,24 @@
     {
       "id": "T97",
       "name": "舌系带",
-      "count": 1,
-      "forms": 1,
+      "count": 3,
+      "forms": 2,
       "versions": [
-        "A195-2"
+        "A195-2",
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
       ]
     },
     {
       "id": "T98",
       "name": "磨牙与气道",
-      "count": 2,
+      "count": 4,
       "forms": 2,
       "versions": [
         "A195-2",
-        "A195-3"
+        "A195-3",
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
       ]
     },
     {
@@ -16130,11 +16596,13 @@
     {
       "id": "T101",
       "name": "功能与结构",
-      "count": 2,
+      "count": 4,
       "forms": 2,
       "versions": [
         "A195-2",
-        "A195-3"
+        "A195-3",
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
       ]
     },
     {
@@ -16717,10 +17185,12 @@
     {
       "id": "T163",
       "name": "口呼吸",
-      "count": 1,
+      "count": 3,
       "forms": 1,
       "versions": [
-        "A195-3"
+        "A195-3",
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
       ]
     },
     {
@@ -16816,8 +17286,8 @@
     {
       "id": "T174",
       "name": "脱发与生发洗发水",
-      "count": 10,
-      "forms": 7,
+      "count": 12,
+      "forms": 9,
       "versions": [
         "Q33-客厅养鱼",
         "Q33-15",
@@ -16828,7 +17298,9 @@
         "Q33-13-2",
         "Q33-17-2",
         "Q33-15黑",
-        "Q33-口臭B1黑"
+        "Q33-口臭B1黑",
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
       ]
     },
     {
@@ -16978,6 +17450,46 @@
       "forms": 1,
       "versions": [
         "Q33-口臭B1黑"
+      ]
+    },
+    {
+      "id": "T191",
+      "name": "舌头与静息位",
+      "count": 2,
+      "forms": 1,
+      "versions": [
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
+      ]
+    },
+    {
+      "id": "T192",
+      "name": "牙齿不齐与空间",
+      "count": 2,
+      "forms": 1,
+      "versions": [
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
+      ]
+    },
+    {
+      "id": "T193",
+      "name": "打鼾",
+      "count": 2,
+      "forms": 1,
+      "versions": [
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
+      ]
+    },
+    {
+      "id": "T194",
+      "name": "睡眠与ADHD",
+      "count": 2,
+      "forms": 1,
+      "versions": [
+        "A195-4-洗发水+牙膏",
+        "A195-4-牙膏+洗发水"
       ]
     }
   ],
@@ -20734,6 +21246,86 @@
       "preview": "定版/版本/Q33-口臭B1黑/预览-0e3f8e67a7b3.png",
       "sha": "28cd90b00dbf2defe37cf25f3c9c7af655cbbe04b2be591b6b9b9229b1dfa062",
       "previewSha": "0e3f8e67a7b3d9873f0d18b294b1aa4ed1faf3c079003bc9086e7e8f5ec38a8e",
+      "aliases": [],
+      "sourceBuilt": "2026-11-17",
+      "contextLineNumbers": [
+        1
+      ]
+    },
+    {
+      "code": "A195-4-洗发水+牙膏",
+      "count": 10,
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "copySource": "A195-4-洗发水+牙膏文案.docx",
+      "lines": [
+        "版本：A195-4-洗发水+牙膏　作者：余晓青　文案：惠跃　美工：郑雅斯　产品：Aveya生发洗发水+OLCG去渍牙膏",
+        "Here are 10 things you need to know:",
+        "(Dentist Edition)",
+        "1. The tongue has a resting position - and it should be on the palate.",
+        "2. Mouth breathing is not normal - at any age.",
+        "3. Crooked teeth are often a space problem, not a tooth problem.",
+        "4. Snoring is a red flag — not \"cute\" or \"normal.\"",
+        "5. Aveya Hair Growth Shampoo on Amazon Grows hair like grass in 7 days",
+        "6. Tongue-tie is not just about speech - it affects breathing and growth.",
+        "7. Grinding teeth is often the body trying to open the airway.",
+        "8. OLCG Stain-removal Toothpaste from Amazon (Whitens teeth like pearls in one week)",
+        "9. Poor sleep can look like ADHD, not tiredness.",
+        "10. Function shapes structure — always.",
+        "1. 舌头有静息位——应贴在上颚。",
+        "2. 口呼吸不正常——任何年龄都一样。",
+        "3. 牙齿不齐通常是空间问题，不是牙齿问题。",
+        "4. 打鼾是危险信号——不是“可爱”或“正常”。",
+        "5. Amazon上的Aveya生发洗发水，7天长出像草一样茂盛。",
+        "6. 舌系带过短不只影响说话——还影响呼吸和发育。",
+        "7. 磨牙常是身体在试图打开气道。",
+        "8. Amazon上的OLCG去渍牙膏（一周让牙齿白如珍珠）。",
+        "9. 睡眠差看起来像ADHD，而不是疲劳。",
+        "10. 功能决定结构——始终如此。"
+      ],
+      "layer": "定版/版本/A195-4-洗发水+牙膏/9a5549b1ec70.png",
+      "preview": "定版/版本/A195-4-洗发水+牙膏/预览-ab51c8231fc9.png",
+      "sha": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "previewSha": "ab51c8231fc926e5242fc21f13687d2febab7eed4d565fe90008850284c2cfce",
+      "aliases": [],
+      "sourceBuilt": "2026-11-17",
+      "contextLineNumbers": [
+        1
+      ]
+    },
+    {
+      "code": "A195-4-牙膏+洗发水",
+      "count": 10,
+      "title": "Here are 10 things you need to know:\n(Dentist Edition)",
+      "copySource": "A195-4-牙膏+洗发水文案.docx",
+      "lines": [
+        "版本：A195-4-牙膏+洗发水　作者：余晓青　文案：惠跃　美工：郑雅斯　产品：Aveya生发洗发水+OLCG去渍牙膏",
+        "Here are 10 things you need to know:",
+        "(Dentist Edition)",
+        "1. The tongue has a resting position - and it should be on the palate.",
+        "2. Mouth breathing is not normal - at any age.",
+        "3. Crooked teeth are often a space problem, not a tooth problem.",
+        "4. Snoring is a red flag — not \"cute\" or \"normal.\"",
+        "5. OLCG Stain-removal Toothpaste from Amazon Whitens teeth like pearls in 7 days",
+        "6. Tongue-tie is not just about speech - it affects breathing and growth.",
+        "7. Grinding teeth is often the body trying to open the airway.",
+        "8. Aveya Hair Growth Shampoo on Amazon (Grows hair like grass in 7 days)",
+        "9. Poor sleep can look like ADHD, not tiredness.",
+        "10. Function shapes structure — always.",
+        "1. 舌头有静息位——应贴在上颚。",
+        "2. 口呼吸不正常——任何年龄都一样。",
+        "3. 牙齿不齐通常是空间问题，不是牙齿问题。",
+        "4. 打鼾是危险信号——不是“可爱”或“正常”。",
+        "5. Amazon上的OLCG去渍牙膏，7天牙齿白如珍珠。",
+        "6. 舌系带过短不只影响说话——还影响呼吸和发育。",
+        "7. 磨牙常是身体在试图打开气道。",
+        "8. Amazon上的Aveya生发洗发水（7天长出像草一样茂盛）。",
+        "9. 睡眠差看起来像ADHD，而不是疲劳。",
+        "10. 功能决定结构——始终如此。"
+      ],
+      "layer": "定版/版本/A195-4-牙膏+洗发水/2c0ec9119d0e.png",
+      "preview": "定版/版本/A195-4-牙膏+洗发水/预览-5e3f875bae97.png",
+      "sha": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "previewSha": "5e3f875bae97b34dbb3ae849cf30bcf766bcd690d273138f63756d0b502a7cf9",
       "aliases": [],
       "sourceBuilt": "2026-11-17",
       "contextLineNumbers": [
@@ -34223,6 +34815,282 @@
       15,
       "标题/说明/来源中文",
       "6. 黄牙——来自亚马逊的OLCG去渍牙膏——一周内即可拥有珍珠白牙齿。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      1,
+      "标题/说明/来源中文",
+      "版本：A195-4-洗发水+牙膏　作者：余晓青　文案：惠跃　美工：郑雅斯　产品：Aveya生发洗发水+OLCG去渍牙膏"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      2,
+      "标题/说明/来源中文",
+      "Here are 10 things you need to know:"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      3,
+      "标题/说明/来源中文",
+      "(Dentist Edition)"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      4,
+      "小tips原文",
+      "1. The tongue has a resting position - and it should be on the palate."
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      5,
+      "小tips原文",
+      "2. Mouth breathing is not normal - at any age."
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      6,
+      "小tips原文",
+      "3. Crooked teeth are often a space problem, not a tooth problem."
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      7,
+      "小tips原文",
+      "4. Snoring is a red flag — not \"cute\" or \"normal.\""
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      8,
+      "小tips原文",
+      "5. Aveya Hair Growth Shampoo on Amazon Grows hair like grass in 7 days"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      9,
+      "小tips原文",
+      "6. Tongue-tie is not just about speech - it affects breathing and growth."
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      10,
+      "小tips原文",
+      "7. Grinding teeth is often the body trying to open the airway."
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      11,
+      "小tips原文",
+      "8. OLCG Stain-removal Toothpaste from Amazon (Whitens teeth like pearls in one week)"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      12,
+      "小tips原文",
+      "9. Poor sleep can look like ADHD, not tiredness."
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      13,
+      "小tips原文",
+      "10. Function shapes structure — always."
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      14,
+      "标题/说明/来源中文",
+      "1. 舌头有静息位——应贴在上颚。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      15,
+      "标题/说明/来源中文",
+      "2. 口呼吸不正常——任何年龄都一样。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      16,
+      "标题/说明/来源中文",
+      "3. 牙齿不齐通常是空间问题，不是牙齿问题。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      17,
+      "标题/说明/来源中文",
+      "4. 打鼾是危险信号——不是“可爱”或“正常”。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      18,
+      "标题/说明/来源中文",
+      "5. Amazon上的Aveya生发洗发水，7天长出像草一样茂盛。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      19,
+      "标题/说明/来源中文",
+      "6. 舌系带过短不只影响说话——还影响呼吸和发育。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      20,
+      "标题/说明/来源中文",
+      "7. 磨牙常是身体在试图打开气道。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      21,
+      "标题/说明/来源中文",
+      "8. Amazon上的OLCG去渍牙膏（一周让牙齿白如珍珠）。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      22,
+      "标题/说明/来源中文",
+      "9. 睡眠差看起来像ADHD，而不是疲劳。"
+    ],
+    [
+      "A195-4-洗发水+牙膏",
+      23,
+      "标题/说明/来源中文",
+      "10. 功能决定结构——始终如此。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      1,
+      "标题/说明/来源中文",
+      "版本：A195-4-牙膏+洗发水　作者：余晓青　文案：惠跃　美工：郑雅斯　产品：Aveya生发洗发水+OLCG去渍牙膏"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      2,
+      "标题/说明/来源中文",
+      "Here are 10 things you need to know:"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      3,
+      "标题/说明/来源中文",
+      "(Dentist Edition)"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      4,
+      "小tips原文",
+      "1. The tongue has a resting position - and it should be on the palate."
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      5,
+      "小tips原文",
+      "2. Mouth breathing is not normal - at any age."
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      6,
+      "小tips原文",
+      "3. Crooked teeth are often a space problem, not a tooth problem."
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      7,
+      "小tips原文",
+      "4. Snoring is a red flag — not \"cute\" or \"normal.\""
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      8,
+      "小tips原文",
+      "5. OLCG Stain-removal Toothpaste from Amazon Whitens teeth like pearls in 7 days"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      9,
+      "小tips原文",
+      "6. Tongue-tie is not just about speech - it affects breathing and growth."
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      10,
+      "小tips原文",
+      "7. Grinding teeth is often the body trying to open the airway."
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      11,
+      "小tips原文",
+      "8. Aveya Hair Growth Shampoo on Amazon (Grows hair like grass in 7 days)"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      12,
+      "小tips原文",
+      "9. Poor sleep can look like ADHD, not tiredness."
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      13,
+      "小tips原文",
+      "10. Function shapes structure — always."
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      14,
+      "标题/说明/来源中文",
+      "1. 舌头有静息位——应贴在上颚。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      15,
+      "标题/说明/来源中文",
+      "2. 口呼吸不正常——任何年龄都一样。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      16,
+      "标题/说明/来源中文",
+      "3. 牙齿不齐通常是空间问题，不是牙齿问题。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      17,
+      "标题/说明/来源中文",
+      "4. 打鼾是危险信号——不是“可爱”或“正常”。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      18,
+      "标题/说明/来源中文",
+      "5. Amazon上的OLCG去渍牙膏，7天牙齿白如珍珠。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      19,
+      "标题/说明/来源中文",
+      "6. 舌系带过短不只影响说话——还影响呼吸和发育。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      20,
+      "标题/说明/来源中文",
+      "7. 磨牙常是身体在试图打开气道。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      21,
+      "标题/说明/来源中文",
+      "8. Amazon上的Aveya生发洗发水（7天长出像草一样茂盛）。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      22,
+      "标题/说明/来源中文",
+      "9. 睡眠差看起来像ADHD，而不是疲劳。"
+    ],
+    [
+      "A195-4-牙膏+洗发水",
+      23,
+      "标题/说明/来源中文",
+      "10. 功能决定结构——始终如此。"
     ]
   ],
   "retired": {
@@ -34231,28 +35099,43 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "dd8262976d0edad611b331c295bd154ba27226d7b70693bf90014639734ecec5",
+  "indexSha": "9cbbfd04f2a2808e2b1042ced287fbc259a83528bbf0008d66369409c0b04868",
   "latestBatch": {
     "date": "2026-11-17",
     "versions": [
-      "Q33-口臭B1黑"
+      "A195-4-洗发水+牙膏",
+      "A195-4-牙膏+洗发水"
     ],
-    "records": 6,
+    "records": 20,
     "recordIds": [
-      "Q33-口臭B1黑·01",
-      "Q33-口臭B1黑·02",
-      "Q33-口臭B1黑·03",
-      "Q33-口臭B1黑·04",
-      "Q33-口臭B1黑·05",
-      "Q33-口臭B1黑·06"
+      "A195-4-洗发水+牙膏·01",
+      "A195-4-洗发水+牙膏·02",
+      "A195-4-洗发水+牙膏·03",
+      "A195-4-洗发水+牙膏·04",
+      "A195-4-洗发水+牙膏·05",
+      "A195-4-洗发水+牙膏·06",
+      "A195-4-洗发水+牙膏·07",
+      "A195-4-洗发水+牙膏·08",
+      "A195-4-洗发水+牙膏·09",
+      "A195-4-洗发水+牙膏·10",
+      "A195-4-牙膏+洗发水·01",
+      "A195-4-牙膏+洗发水·02",
+      "A195-4-牙膏+洗发水·03",
+      "A195-4-牙膏+洗发水·04",
+      "A195-4-牙膏+洗发水·05",
+      "A195-4-牙膏+洗发水·06",
+      "A195-4-牙膏+洗发水·07",
+      "A195-4-牙膏+洗发水·08",
+      "A195-4-牙膏+洗发水·09",
+      "A195-4-牙膏+洗发水·10"
     ]
   },
   "alignment": {
-    "subtitleVersions": 88,
-    "coveredVersions": 88,
+    "subtitleVersions": 90,
+    "coveredVersions": 90,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "dd8262976d0edad611b331c295bd154ba27226d7b70693bf90014639734ecec5",
+    "sourceIndexSha256": "9cbbfd04f2a2808e2b1042ced287fbc259a83528bbf0008d66369409c0b04868",
     "checkedAt": "2026-11-17"
   }
 }
