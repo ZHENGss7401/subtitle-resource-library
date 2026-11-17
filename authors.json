@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 73,
+  "revision": 74,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -611,6 +611,16 @@
       "confirmed_at": "2026-11-17T14:07:59+08:00",
       "confirmation_source": "2026-11-17用户明确作者郑惠跃。",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-15黑"
+    },
+    "Q33-口臭B1黑@28cd90b00dbf2defe37cf25f3c9c7af655cbbe04b2be591b6b9b9229b1dfa062": {
+      "code": "Q33-口臭B1黑",
+      "sha256": "28cd90b00dbf2defe37cf25f3c9c7af655cbbe04b2be591b6b9b9229b1dfa062",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-17T14:36:44+08:00",
+      "confirmation_source": "2026-11-17用户要求入库上线；同版作者张哲。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-口臭B1黑"
     }
   },
   "history": [
