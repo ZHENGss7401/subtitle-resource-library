@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-16",
+  "built": "2026-11-17",
   "root": "字幕资源库 / INDEX.json",
   "rows": [
     {
@@ -14285,6 +14285,144 @@
       "sha": "37c4766c6ed12fab805a4f989914d956d8b4fbd09868223fb6ed48617c14cc7a",
       "textHash": "c0cb326808a3503ed7bc47dd175216ee1c6d27b66861d0399d80f7c675d2f702",
       "addedAt": "2026-11-16"
+    },
+    {
+      "id": "Q33-13-2·01",
+      "code": "Q33-13-2",
+      "topic": "口交与喉癌",
+      "groupId": "T186",
+      "kind": "生活小tips",
+      "text": "1. Oral sex  Do less - throat cancer",
+      "zh": "1. 口交少做——会导致喉癌。",
+      "zhDisplay": "1. 口交少做——会导致喉癌。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13-2文案.docx",
+      "line": "4–4",
+      "zhLine": "10–10",
+      "note": "",
+      "preview": "定版/版本/Q33-13-2/预览-80addb933087.png",
+      "layer": "定版/版本/Q33-13-2/868bb0871095.png",
+      "sha": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
+      "textHash": "6f1e5daee231204704f30264a519cd5fc4282e4731693e687cd27d8a4efb9daf",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "Q33-13-2·02",
+      "code": "Q33-13-2",
+      "topic": "脚臭与维生素B1",
+      "groupId": "T187",
+      "kind": "生活小tips",
+      "text": "2. Foot odor  Vitamin B1 - The odor is gone",
+      "zh": "2. 脚臭　维生素B1——异味消失。",
+      "zhDisplay": "2. 脚臭　维生素B1——异味消失。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13-2文案.docx",
+      "line": "5–5",
+      "zhLine": "11–11",
+      "note": "",
+      "preview": "定版/版本/Q33-13-2/预览-80addb933087.png",
+      "layer": "定版/版本/Q33-13-2/868bb0871095.png",
+      "sha": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
+      "textHash": "5f38d37e0944ebc6e9db02acb4b30185e24c8fa14091831619906b206fa6dc91",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "Q33-13-2·03",
+      "code": "Q33-13-2",
+      "topic": "失眠与维生素B2",
+      "groupId": "T152",
+      "kind": "生活小tips",
+      "text": "3. Insomnia  Vitamin B2 - Sleepy at once.",
+      "zh": "3. 失眠　维生素B2——立刻犯困。",
+      "zhDisplay": "3. 失眠　维生素B2——立刻犯困。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13-2文案.docx",
+      "line": "6–6",
+      "zhLine": "12–12",
+      "note": "",
+      "preview": "定版/版本/Q33-13-2/预览-80addb933087.png",
+      "layer": "定版/版本/Q33-13-2/868bb0871095.png",
+      "sha": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
+      "textHash": "7714a757603f41542ca8ad9d5085ea9b99e262bf99ed90cec8874d1d8992a619",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "Q33-13-2·04",
+      "code": "Q33-13-2",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "4. Hair loss  Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)",
+      "zh": "4. 脱发：Amazon上的Aveya生发洗发水（7天内让头发如草般茂盛生长）。",
+      "zhDisplay": "4. 脱发：Amazon上的Aveya生发洗发水（7天内让头发如草般茂盛生长）。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13-2文案.docx",
+      "line": "7–7",
+      "zhLine": "13–13",
+      "note": "",
+      "preview": "定版/版本/Q33-13-2/预览-80addb933087.png",
+      "layer": "定版/版本/Q33-13-2/868bb0871095.png",
+      "sha": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
+      "textHash": "0dd8b6f8b2f9224099a9d1ce3e0e1cd900a2834c37b0b01e1cc53806958643eb",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "Q33-13-2·05",
+      "code": "Q33-13-2",
+      "topic": "黑眼圈与维生素K",
+      "groupId": "T153",
+      "kind": "生活小tips",
+      "text": "5. Dark circles  Vitamin K - Lightening pigment",
+      "zh": "5. 黑眼圈　维生素K——淡化色素。",
+      "zhDisplay": "5. 黑眼圈　维生素K——淡化色素。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13-2文案.docx",
+      "line": "8–8",
+      "zhLine": "14–14",
+      "note": "",
+      "preview": "定版/版本/Q33-13-2/预览-80addb933087.png",
+      "layer": "定版/版本/Q33-13-2/868bb0871095.png",
+      "sha": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
+      "textHash": "54c5ebdc00fa50ee6f65a63b84bb847032cc75e2d179a4939b2c597ce7e3084a",
+      "addedAt": "2026-11-17"
+    },
+    {
+      "id": "Q33-13-2·06",
+      "code": "Q33-13-2",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6. Yellow teeth  OLCG Stain-removal Toothpaste From Amazon (Whitens teeth like pearls in one week)",
+      "zh": "6. 黄牙　来自Amazon的OLCG去渍牙膏（一周内让牙齿如珍珠般洁白）。",
+      "zhDisplay": "6. 黄牙　来自Amazon的OLCG去渍牙膏（一周内让牙齿如珍珠般洁白）。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-13-2文案.docx",
+      "line": "9–9",
+      "zhLine": "15–15",
+      "note": "",
+      "preview": "定版/版本/Q33-13-2/预览-80addb933087.png",
+      "layer": "定版/版本/Q33-13-2/868bb0871095.png",
+      "sha": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
+      "textHash": "0a66c916e97faa808f0d67b6662f81c6b95b7bb9173d17e9f5be291eb6bc4fa5",
+      "addedAt": "2026-11-17"
     }
   ],
   "groups": [
@@ -14391,8 +14529,8 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 56,
-      "forms": 43,
+      "count": 57,
+      "forms": 44,
       "versions": [
         "A301-1",
         "A310",
@@ -14444,7 +14582,8 @@
         "Q31-3-洗发水+牙膏版",
         "A297-洗发水＋去污牙膏版",
         "Q33-2-2",
-        "A349-2"
+        "A349-2",
+        "Q33-13-2"
       ]
     },
     {
@@ -16058,22 +16197,24 @@
     {
       "id": "T152",
       "name": "失眠与维生素B2",
-      "count": 4,
-      "forms": 3,
+      "count": 5,
+      "forms": 4,
       "versions": [
         "Q33-2-1",
         "Q33-13",
         "Q33-15",
-        "Q33-2-2"
+        "Q33-2-2",
+        "Q33-13-2"
       ]
     },
     {
       "id": "T153",
       "name": "黑眼圈与维生素K",
-      "count": 1,
-      "forms": 1,
+      "count": 2,
+      "forms": 2,
       "versions": [
-        "Q33-13"
+        "Q33-13",
+        "Q33-13-2"
       ]
     },
     {
@@ -16254,15 +16395,16 @@
     {
       "id": "T174",
       "name": "脱发与生发洗发水",
-      "count": 6,
-      "forms": 6,
+      "count": 7,
+      "forms": 7,
       "versions": [
         "Q33-客厅养鱼",
         "Q33-15",
         "Q33-16",
         "Q37-3",
         "Q33-2-2",
-        "A349-2"
+        "A349-2",
+        "Q33-13-2"
       ]
     },
     {
@@ -16362,6 +16504,24 @@
       "forms": 1,
       "versions": [
         "A349-2"
+      ]
+    },
+    {
+      "id": "T186",
+      "name": "口交与喉癌",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-13-2"
+      ]
+    },
+    {
+      "id": "T187",
+      "name": "脚臭与维生素B1",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-13-2"
       ]
     }
   ],
@@ -19992,6 +20152,38 @@
       "previewSha": "8aef3c62e7601aae77c1d77b89ff9e55f6612efb40d828248ac5c4c5a8bbc872",
       "aliases": [],
       "sourceBuilt": "2026-11-16",
+      "contextLineNumbers": [
+        1
+      ]
+    },
+    {
+      "code": "Q33-13-2",
+      "count": 6,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "Q33-13-2文案.docx",
+      "lines": [
+        "版本：Q33-13-2　作者：郑惠跃　文案：郑惠跃　美工：郑雅斯　产品：Aveya生发洗发水+OLCG去污牙膏",
+        "Secrets even doctors",
+        "won't tell you",
+        "1. Oral sex  Do less - throat cancer",
+        "2. Foot odor  Vitamin B1 - The odor is gone",
+        "3. Insomnia  Vitamin B2 - Sleepy at once.",
+        "4. Hair loss  Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)",
+        "5. Dark circles  Vitamin K - Lightening pigment",
+        "6. Yellow teeth  OLCG Stain-removal Toothpaste From Amazon (Whitens teeth like pearls in one week)",
+        "1. 口交少做——会导致喉癌。",
+        "2. 脚臭　维生素B1——异味消失。",
+        "3. 失眠　维生素B2——立刻犯困。",
+        "4. 脱发：Amazon上的Aveya生发洗发水（7天内让头发如草般茂盛生长）。",
+        "5. 黑眼圈　维生素K——淡化色素。",
+        "6. 黄牙　来自Amazon的OLCG去渍牙膏（一周内让牙齿如珍珠般洁白）。"
+      ],
+      "layer": "定版/版本/Q33-13-2/868bb0871095.png",
+      "preview": "定版/版本/Q33-13-2/预览-80addb933087.png",
+      "sha": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
+      "previewSha": "80addb933087a7aa19d786f8b09e4eb890c64a0cee65c45d2681e5ed839f72a1",
+      "aliases": [],
+      "sourceBuilt": "2026-11-17",
       "contextLineNumbers": [
         1
       ]
@@ -33119,6 +33311,96 @@
       15,
       "标题/说明/来源中文",
       "6. 排卵试纸阳性只代表激素上升，并不确认成功排卵。"
+    ],
+    [
+      "Q33-13-2",
+      1,
+      "标题/说明/来源中文",
+      "版本：Q33-13-2　作者：郑惠跃　文案：郑惠跃　美工：郑雅斯　产品：Aveya生发洗发水+OLCG去污牙膏"
+    ],
+    [
+      "Q33-13-2",
+      2,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-13-2",
+      3,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-13-2",
+      4,
+      "小tips原文",
+      "1. Oral sex  Do less - throat cancer"
+    ],
+    [
+      "Q33-13-2",
+      5,
+      "小tips原文",
+      "2. Foot odor  Vitamin B1 - The odor is gone"
+    ],
+    [
+      "Q33-13-2",
+      6,
+      "小tips原文",
+      "3. Insomnia  Vitamin B2 - Sleepy at once."
+    ],
+    [
+      "Q33-13-2",
+      7,
+      "小tips原文",
+      "4. Hair loss  Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)"
+    ],
+    [
+      "Q33-13-2",
+      8,
+      "小tips原文",
+      "5. Dark circles  Vitamin K - Lightening pigment"
+    ],
+    [
+      "Q33-13-2",
+      9,
+      "小tips原文",
+      "6. Yellow teeth  OLCG Stain-removal Toothpaste From Amazon (Whitens teeth like pearls in one week)"
+    ],
+    [
+      "Q33-13-2",
+      10,
+      "标题/说明/来源中文",
+      "1. 口交少做——会导致喉癌。"
+    ],
+    [
+      "Q33-13-2",
+      11,
+      "标题/说明/来源中文",
+      "2. 脚臭　维生素B1——异味消失。"
+    ],
+    [
+      "Q33-13-2",
+      12,
+      "标题/说明/来源中文",
+      "3. 失眠　维生素B2——立刻犯困。"
+    ],
+    [
+      "Q33-13-2",
+      13,
+      "标题/说明/来源中文",
+      "4. 脱发：Amazon上的Aveya生发洗发水（7天内让头发如草般茂盛生长）。"
+    ],
+    [
+      "Q33-13-2",
+      14,
+      "标题/说明/来源中文",
+      "5. 黑眼圈　维生素K——淡化色素。"
+    ],
+    [
+      "Q33-13-2",
+      15,
+      "标题/说明/来源中文",
+      "6. 黄牙　来自Amazon的OLCG去渍牙膏（一周内让牙齿如珍珠般洁白）。"
     ]
   ],
   "retired": {
@@ -33127,28 +33409,28 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "7140dee52b1815680c300ab94543a28b537b9a4dfc7f14154bc526e9edee9ab5",
+  "indexSha": "a51c30e562ddff53e098394294e1d498151bed91b5d444c333668e06b599804e",
   "latestBatch": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "versions": [
-      "A349-2"
+      "Q33-13-2"
     ],
     "records": 6,
     "recordIds": [
-      "A349-2·01",
-      "A349-2·02",
-      "A349-2·03",
-      "A349-2·04",
-      "A349-2·05",
-      "A349-2·06"
+      "Q33-13-2·01",
+      "Q33-13-2·02",
+      "Q33-13-2·03",
+      "Q33-13-2·04",
+      "Q33-13-2·05",
+      "Q33-13-2·06"
     ]
   },
   "alignment": {
-    "subtitleVersions": 84,
-    "coveredVersions": 84,
+    "subtitleVersions": 85,
+    "coveredVersions": 85,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "7140dee52b1815680c300ab94543a28b537b9a4dfc7f14154bc526e9edee9ab5",
-    "checkedAt": "2026-11-16"
+    "sourceIndexSha256": "a51c30e562ddff53e098394294e1d498151bed91b5d444c333668e06b599804e",
+    "checkedAt": "2026-11-17"
   }
 }
