@@ -1,833 +1,827 @@
 {
- "schema": 1,
- "revision": 79,
- "records": {
-  "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
-   "code": "A308",
-   "sha256": "93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79",
-   "author": "郑惠跃",
-   "copywriter": "惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-20T01:49:31.120Z",
-   "confirmation_source": "当前会话用户明确指定：作者郑惠跃，文案惠跃、美工郑雅斯"
-  },
-  "Q20-2@b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598": {
-   "code": "Q20-2",
-   "sha256": "b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-20T04:22:27.879Z",
-   "confirmation_source": "当前会话用户明确指定：作者张哲，入资源库，上线看板"
-  },
-  "A311@5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b": {
-   "code": "A311",
-   "sha256": "5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b",
-   "author": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-20T04:38:36+00:00",
-   "confirmation_source": "本会话用户明确指定：作者郑惠跃"
-  },
-  "Q33-3@9e4ae287f202b5b899907edaef88134fac8a3c889ef171e094d8b09e488e77bf": {
-   "code": "Q33-3",
-   "sha256": "9e4ae287f202b5b899907edaef88134fac8a3c889ef171e094d8b09e488e77bf",
-   "author": "张哲",
-   "copywriter": "惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-20T16:43:14.792811+08:00",
-   "confirmation_source": "当前会话用户回复“是的”，确认作者张哲／文案惠跃／美工郑雅斯"
-  },
-  "A310@2433eac6cf90eb027529a9dea223442e5536b5181766b7ba7cbfa81ca051e55a": {
-   "code": "A310",
-   "sha256": "2433eac6cf90eb027529a9dea223442e5536b5181766b7ba7cbfa81ca051e55a",
-   "author": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-20T08:51:56.091Z",
-   "confirmation_source": "本会话用户明确指定：A310定版png字幕成功，入资源库，上线看板，作者郑惠跃"
-  },
-  "Q24-1@5dc842752cf09df75903d27a16d0b3a49d14df9d42c1c402a4285eee552c9e9d": {
-   "code": "Q24-1",
-   "sha256": "5dc842752cf09df75903d27a16d0b3a49d14df9d42c1c402a4285eee552c9e9d",
-   "author": "张哲",
-   "copywriter": "惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-21T10:06:23.003662+08:00",
-   "confirmation_source": "本会话用户明确回复：作者张哲、文案惠跃、美工郑雅斯；并指定本附件为Q24-1定版PNG"
-  },
-  "A313@6fa3dcd16b5f665c2d712b2853782df99da3ec7c68af5cc424cc26198e31f232": {
-   "code": "A313",
-   "sha256": "6fa3dcd16b5f665c2d712b2853782df99da3ec7c68af5cc424cc26198e31f232",
-   "author": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-21T10:41:06+08:00",
-   "confirmation_source": "本会话用户明确指定：作者郑惠跃"
-  },
-  "Q35-3@df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e": {
-   "code": "Q35-3",
-   "sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-21T15:42:31.175495+08:00",
-   "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功"
-  },
-  "A195-2@e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a": {
-   "code": "A195-2",
-   "sha256": "e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a",
-   "author": "余晓青",
-   "copywriter": "张哲",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-21T11:49:25.406651+08:00",
-   "confirmation_source": "本会话惠跃主人明确指定：作者余晓青-文案张哲-美工郑雅斯；2026-10-22用户明确半成品A195即A195-2，编号统一登记",
-   "aliases": [
-    "A195"
-   ],
-   "renamed_at": "2026-10-22T17:56:54+08:00"
-  },
-  "Q35-3@5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619": {
-   "code": "Q35-3",
-   "sha256": "5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-21T15:42:31.175495+08:00",
-   "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功；2026-10-23同版本删除Whitening并明确批准新PNG，沿用已确认署名",
-   "updated_at": "2026-10-23T10:11:28+08:00",
-   "supersedes_sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e"
-  },
-  "A318@8e59b7f19aa079f38d5c8696178c17e4c17c4772f06d96018e09918a877677ae": {
-   "code": "A318",
-   "sha256": "8e59b7f19aa079f38d5c8696178c17e4c17c4772f06d96018e09918a877677ae",
-   "author": "余晓青",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-26T09:45:56+08:00",
-   "confirmation_source": "本会话惠跃主人明确指定：A318入资源库上线看板，作者余晓青"
-  },
-  "A326@5eb4770b2a549008216b58bfe538711e5bec87f93ae2b6365340c8c84b2b76da": {
-   "code": "A326",
-   "sha256": "5eb4770b2a549008216b58bfe538711e5bec87f93ae2b6365340c8c84b2b76da",
-   "author": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-26T09:44:28+08:00",
-   "updated_at": "2026-10-27T10:00:10+08:00",
-   "confirmation_source": "本会话惠跃主人已明确作者郑惠跃；2026-10-27同编号A326附件替换，沿用该署名"
-  },
-  "Q37-2@27ef5d1c969ddc0c48a43d7d0e255b8f0015c12d172bfb9601575eb34dba3971": {
-   "code": "Q37-2",
-   "sha256": "27ef5d1c969ddc0c48a43d7d0e255b8f0015c12d172bfb9601575eb34dba3971",
-   "author": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-28T16:56:34.404692+08:00",
-   "confirmation_source": "2026-10-28 本会话用户指定两版包内PNG并明确作者郑惠跃；仅更新此精确图的作者确认",
-   "canonicalized_at": "2026-10-28T17:38:55+08:00",
-   "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
-  },
-  "Q33-4@2727f6974c0fcd11636c6c26626c02d88dc0a2f7786c017065e0c5ed049672a4": {
-   "code": "Q33-4",
-   "sha256": "2727f6974c0fcd11636c6c26626c02d88dc0a2f7786c017065e0c5ed049672a4",
-   "author": "张哲",
-   "copywriter": "惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-28T06:32:18.380Z",
-   "confirmation_source": "2026-10-28本会话惠跃主人明确确认Q33两版作者均为张哲；明确使用各素材夹分配的透明PNG，不使用资源库字幕。",
-   "canonicalized_at": "2026-10-28T17:38:55+08:00",
-   "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
-  },
-  "Q33-5@1cb9c9b7e94456b3ede14993bd437af71fc9e38c7d17962bd8cd7656c8ce5ce1": {
-   "code": "Q33-5",
-   "sha256": "1cb9c9b7e94456b3ede14993bd437af71fc9e38c7d17962bd8cd7656c8ce5ce1",
-   "author": "张哲",
-   "copywriter": "惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-28T06:32:18.381Z",
-   "confirmation_source": "2026-10-28本会话惠跃主人明确确认Q33两版作者均为张哲；明确使用各素材夹分配的透明PNG，不使用资源库字幕。",
-   "canonicalized_at": "2026-10-28T17:38:55+08:00",
-   "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
-  },
-  "A325@52a36ea058fc71707be6978081d89f573da76172778417356d13d5f3c816c89b": {
-   "code": "A325",
-   "sha256": "52a36ea058fc71707be6978081d89f573da76172778417356d13d5f3c816c89b",
-   "author": "郑惠跃",
-   "copywriter": "惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-24T08:23:14.836Z",
-   "confirmation_source": "2026-10-24用户指定附件为A325新版定版并要求先套出成品；作者明确确认：作者郑惠跃",
-   "canonicalized_at": "2026-10-28T17:38:55+08:00",
-   "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
-  },
-  "A333-3@ad99986190650842010321cfde62a29520f69b9004177b0f6aa6daf7255344ad": {
-   "code": "A333-3",
-   "sha256": "ad99986190650842010321cfde62a29520f69b9004177b0f6aa6daf7255344ad",
-   "author": "余晓青",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-30T14:01:16+08:00",
-   "asset_type": "dynamic_video",
-   "confirmation_source": "本会话用户明确回复A333-3作者署名：余晓青；确认绑定已认可MOV原文件SHA256。"
-  },
-  "A333-牙膏+果冻霜@4ea6a3c8be87a386fa8058c454db50aa3d68236080024e0bcbe3eb65570bd911": {
-   "code": "A333-牙膏+果冻霜",
-   "sha256": "4ea6a3c8be87a386fa8058c454db50aa3d68236080024e0bcbe3eb65570bd911",
-   "author": "余晓青",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-31T02:16:37.244Z",
-   "asset_type": "dynamic_video",
-   "confirmation_source": "本会话用户明确回复：作者余晓青、文案郑惠跃、美工郑雅斯；指定刚做好的牙膏+果冻霜动态字幕用于10.31这批生产。"
-  },
-  "A297-棉片+去污牙膏版@357fe042dd0070e882872d7d25e49b1bef9582867c9059f38cada32d4f8fa41b": {
-   "code": "A297-棉片+去污牙膏版",
-   "sha256": "357fe042dd0070e882872d7d25e49b1bef9582867c9059f38cada32d4f8fa41b",
-   "author": "",
-   "status": "pending",
-   "confirmation_source": "用户明确作者待定，后续确认"
-  },
-  "A314-2@8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14": {
-   "code": "A314-2",
-   "sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
-   "author": "李婷婷",
-   "copywriter": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-03T13:18:02+08:00",
-   "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18"
-  },
-  "A346-1@b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae": {
-   "code": "A346-1",
-   "sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
-   "author": "康慧敏",
-   "copywriter": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-03T13:18:02+08:00",
-   "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18"
-  },
-  "A357@d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c": {
-   "code": "A357",
-   "sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
-   "author": "郑惠跃",
-   "copywriter": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-03T13:23:03+08:00",
-   "confirmation_source": "按用户老规矩要求，从今日11.03半成品包获取对应作者信息",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18"
-  },
-  "A314-2@1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3": {
-   "code": "A314-2",
-   "sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
-   "author": "李婷婷",
-   "copywriter": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-03T13:18:02+08:00",
-   "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18",
-   "derived_from_sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
-   "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
-   "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
-   "attribution_note": "同版高清增强，沿用原已确认作者署名。"
-  },
-  "A346-1@24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c": {
-   "code": "A346-1",
-   "sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
-   "author": "康慧敏",
-   "copywriter": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-03T13:18:02+08:00",
-   "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18",
-   "derived_from_sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
-   "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
-   "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
-   "attribution_note": "同版高清增强，沿用原已确认作者署名。"
-  },
-  "A357@487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53": {
-   "code": "A357",
-   "sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
-   "author": "郑惠跃",
-   "copywriter": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-03T13:23:03+08:00",
-   "confirmation_source": "按用户老规矩要求，从今日11.03半成品包获取对应作者信息",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18",
-   "derived_from_sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
-   "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
-   "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
-   "attribution_note": "同版高清增强，沿用原已确认作者署名。"
-  },
-  "A348-1@c7090c21564d4e348f662f78cfbd780d4267013eb67bd60091e1161f78ad2ac5": {
-   "code": "A348-1",
-   "sha256": "c7090c21564d4e348f662f78cfbd780d4267013eb67bd60091e1161f78ad2ac5",
-   "author": "余晓青",
-   "copywriter": "张哲",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-04T10:14:27+08:00",
-   "confirmation_source": "沿用用户指定从11.03对应半成品包获取作者信息的规则",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\001-A348-1-11.3-余晓青-张哲-身体在向你发出这些信号-Aveya棉片+OLCG牙膏-18"
-  },
-  "Q33-6@41a87dcdf7f28f707b2e8b8761f9ee8ae09823fa3417c42b8a639568cd6c977c": {
-   "code": "Q33-6",
-   "sha256": "41a87dcdf7f28f707b2e8b8761f9ee8ae09823fa3417c42b8a639568cd6c977c",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-05T13:42:13.725764+08:00",
-   "confirmation_source": "2026-11-05 惠跃主人提供Q33-6-11.05-新版-英文-张哲-张哲包路径并要求完成该包；顺序为作者张哲、文案张哲。"
-  },
-  "Q33-7@7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17": {
-   "code": "Q33-7",
-   "sha256": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-05T13:53:53.504813+08:00",
-   "confirmation_source": "2026-11-05 惠跃主人提供Q33-7-11.05-新版-英文-张哲-张哲包路径并要求完成该包；顺序为作者张哲、文案张哲。"
-  },
-  "Q33-8@a8b4a4bfce1bc4c1909204b5acbd2fa55e8ff2a4701eca9974181b2cb4f834ed": {
-   "code": "Q33-8",
-   "sha256": "a8b4a4bfce1bc4c1909204b5acbd2fa55e8ff2a4701eca9974181b2cb4f834ed",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-05T14:09:41.342761+08:00",
-   "confirmation_source": "2026-11-05 惠跃主人提供Q33-8-11.05-新版-英文-张哲-张哲包路径并要求完成该包；顺序为作者张哲、文案张哲。"
-  },
-  "Q33-9@2ce4147bcc09ad2425f6466db53bf6858df4efe256c53b4e66b3c08daf7f6000": {
-   "code": "Q33-9",
-   "sha256": "2ce4147bcc09ad2425f6466db53bf6858df4efe256c53b4e66b3c08daf7f6000",
-   "author": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-05T09:46:41.571Z",
-   "confirmation_source": "2026-11-05本会话惠跃主人明确回复Q33-9作者：郑惠跃"
-  },
-  "Q33-9@7a2b3b3b25025321283f1bd77eb1d5fe076d1a6407d74a3c98c9851304de5289": {
-   "code": "Q33-9",
-   "sha256": "7a2b3b3b25025321283f1bd77eb1d5fe076d1a6407d74a3c98c9851304de5289",
-   "author": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-05T09:46:41.571Z",
-   "confirmation_source": "沿用2026-11-05本会话用户明确确认的作者郑惠跃；用户随后指定新版Q33-9 PNG替换同版定版。",
-   "derived_from_sha256": "2ce4147bcc09ad2425f6466db53bf6858df4efe256c53b4e66b3c08daf7f6000",
-   "updated_at": "2026-11-05T09:58:22.059Z"
-  },
-  "Q33-6-1@606bbb9c5d4bb78083381350e56b060628db790b9d84124cced096562122df76": {
-   "code": "Q33-6-1",
-   "sha256": "606bbb9c5d4bb78083381350e56b060628db790b9d84124cced096562122df76",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-06T02:15:27.528Z",
-   "confirmation_source": "2026-11-06 惠跃主人指定Q33-6-1包名英文-张哲-张哲并提供锁定PNG，作者张哲、文案张哲。"
-  },
-  "Q33-7-1@93f2bd75c6bcfac22871d66c708ddbaff111d4770400797249f98708d524adc3": {
-   "code": "Q33-7-1",
-   "sha256": "93f2bd75c6bcfac22871d66c708ddbaff111d4770400797249f98708d524adc3",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-06T02:28:52.473Z",
-   "confirmation_source": "2026-11-06 惠跃主人指定Q33-7-1（1）包名英文-张哲-张哲并要求同上包完成，作者张哲、文案张哲。"
-  },
-  "Q33-8-1@5a29303f5ceaf75ca43d24ee8198ae59f89926d9361a4e45f1db1f01e547a563": {
-   "code": "Q33-8-1",
-   "sha256": "5a29303f5ceaf75ca43d24ee8198ae59f89926d9361a4e45f1db1f01e547a563",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-06T02:43:44.766Z",
-   "confirmation_source": "2026-11-06 惠跃主人指定Q33-8-1包名英文-张哲-张哲并要求同上包完成，作者张哲、文案张哲。"
-  },
-  "Q33-10@81f04fd81aedbd4fb925b6fc95e86ddf72f570b55b9822b85defb5d9e397f438": {
-   "code": "Q33-10",
-   "sha256": "81f04fd81aedbd4fb925b6fc95e86ddf72f570b55b9822b85defb5d9e397f438",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-06T02:58:07.223Z",
-   "confirmation_source": "2026-11-06 惠跃主人指定Q33-10包名张哲-张哲并要求同上包完成，作者张哲、文案张哲。"
-  },
-  "Q33-11@6d23a81c56b5494635a047887649d3cfc2a504ee119d4f70ce01762880b1eaeb": {
-   "code": "Q33-11",
-   "sha256": "6d23a81c56b5494635a047887649d3cfc2a504ee119d4f70ce01762880b1eaeb",
-   "author": "张哲",
-   "copywriter": "惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-07T09:09:47+08:00",
-   "confirmation_source": "按用户要求从对应半成品包获取作者信息",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.07\\Q033-11-11.07-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG去污牙膏+OLCG果冻霜"
-  },
-  "A362-2@eff4ccaa8a37bf86832a49e621dee1dab8c9c42c3afc2aa114278a563ff87754": {
-   "code": "A362-2",
-   "sha256": "eff4ccaa8a37bf86832a49e621dee1dab8c9c42c3afc2aa114278a563ff87754",
-   "author": "康慧敏",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-07T10:13:31+08:00",
-   "confirmation_source": "用户授权从对应包获取作者信息",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.07\\A362-2-11.7-康慧敏-郑惠跃-连医生都不会告诉你的秘密（olcg牙膏+olcg果冻霜）"
-  },
-  "Q31-2@58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2": {
-   "code": "Q31-2",
-   "sha256": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
-   "author": "张哲",
-   "copywriter": "",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-07T14:31:05+08:00",
-   "confirmation_source": "用户2026-11-07本次确认“作者张哲”，绑定Q31-2原PNG 58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
-   "source_package": "D:/Users/Public/Claude产出素材库/Q31-2入库上线-20261107"
-  },
-  "Q33-12@e44d55e1bab34153581bc3605f782adb394167bc7449652fa8eb2f7dccb8f32a": {
-   "code": "Q33-12",
-   "sha256": "e44d55e1bab34153581bc3605f782adb394167bc7449652fa8eb2f7dccb8f32a",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-10T14:13:09+08:00",
-   "confirmation_source": "用户指定对应半成品包，包名明确署作者张哲",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\04-q33俱乐部\\Q33-12-11.10-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-OLCG去污牙膏+OLCG果冻霜"
-  },
-  "Q33-2-1@9c0285c67929e68db081ce0bdd547597d85ced9353289107ad5c49fbb7af5467": {
-   "code": "Q33-2-1",
-   "sha256": "9c0285c67929e68db081ce0bdd547597d85ced9353289107ad5c49fbb7af5467",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-10T14:13:09+08:00",
-   "confirmation_source": "用户指定对应半成品包，包名明确署作者张哲",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\04-q33俱乐部\\Q33-2-1-11.10-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG去污牙膏-郑雅斯-15"
-  },
-  "Q33-13@df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057": {
-   "code": "Q33-13",
-   "sha256": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-10T14:21:12+08:00",
-   "confirmation_source": "用户指定对应半成品包，包名明确署作者张哲",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\04-q33俱乐部\\Q33-13-11.10-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+OLCG去污牙膏-郑雅斯-23"
-  },
-  "A349-1@4fe86860f33bb053dc8cb07c8dedd04d2fadf675a44795206a38cbf05a473d36": {
-   "code": "A349-1",
-   "sha256": "4fe86860f33bb053dc8cb07c8dedd04d2fadf675a44795206a38cbf05a473d36",
-   "author": "余晓青",
-   "copywriter": "惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-10T14:46:48+08:00",
-   "confirmation_source": "用户指定半成品包名明确署作者余晓青",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\A349-1-11.10-余晓青-惠跃-从事妇科医生 16 年，这些事我希望更多人知道-olcg果冻霜+olcg牙膏-"
-  },
-  "A326-1@da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3": {
-   "code": "A326-1",
-   "sha256": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-10T15:36:22+08:00",
-   "confirmation_source": "沿用原A326-1确认作者，用户明确指定同版高清替换",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\02-另外加做组\\A326-1-10"
-  },
-  "A195-3@e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7": {
-   "code": "A195-3",
-   "sha256": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
-   "author": "余晓青",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-11T15:10:18+08:00",
-   "confirmation_source": "2026-11-11 用户明确回复：出成品再入库，作者依旧余晓青",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\01-基本盘组\\A195-3-11.11-英文-余晓青-郑惠跃-（你需要了解的10件事）-OLCG去污牙膏-郑雅斯-30"
-  },
-  "Q33-14@f343c72590e585bdbf11f3e31eb162447681f222fbd2294c1016d032a9855031": {
-   "code": "Q33-14",
-   "sha256": "f343c72590e585bdbf11f3e31eb162447681f222fbd2294c1016d032a9855031",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-11T15:46:28+08:00",
-   "confirmation_source": "用户授权从对应包获取作者信息",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\03-q33俱乐部\\Q33-14-11.11-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+OLCG去污牙膏-郑雅斯-20"
-  },
-  "Q33-客厅养鱼@831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e": {
-   "code": "Q33-客厅养鱼",
-   "sha256": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-12T14:42:14+08:00",
-   "confirmation_source": "2026-11-12 用户明确回复：作者张哲",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（客厅养鱼、睡觉不穿袜子）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41"
-  },
-  "Q33-15@a8377876681048bba035b622276235f777140de9fb315703edd71e9163517d4c": {
-   "code": "Q33-15",
-   "sha256": "a8377876681048bba035b622276235f777140de9fb315703edd71e9163517d4c",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-13T14:04:01+08:00",
-   "confirmation_source": "用户指定本包Q33-15资源入库上线；作者来自对应包明确署名郑惠跃，绑定PNG SHA256 a8377876681048bba035b622276235f777140de9fb315703edd71e9163517d4c",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.13\\Q33\\Q33-15-（黄牙VD、失眠B2）-11.13-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
-  },
-  "Q33-16@981fd3004ae56d14673f3c16ac40d5884cee8abaa091d52d19bb696e79f3d4ce": {
-   "code": "Q33-16",
-   "sha256": "981fd3004ae56d14673f3c16ac40d5884cee8abaa091d52d19bb696e79f3d4ce",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-13T14:16:17+08:00",
-   "confirmation_source": "用户指定：Q33-16 包明确署名作者郑惠跃、文案郑惠跃",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.13\\Q33\\Q33-16-（疲倦B2、白发VH）-11.13-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
-  },
-  "Q33-17@4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5": {
-   "code": "Q33-17",
-   "sha256": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-13T10:26:43+08:00",
-   "confirmation_source": "用户本次授权按老规矩从对应半成品包确认作者，原包署名为郑惠跃",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.13\\Q33\\Q33-（便秘VC、失眠B6）-11.13-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
-  },
-  "Q33-（口臭B1、打鼾VC）@eeaaad53198b28c32f9991b32eba74c5ca6bcdab2711c3cf32dc687c1c520ea3": {
-   "code": "Q33-（口臭B1、打鼾VC）",
-   "sha256": "eeaaad53198b28c32f9991b32eba74c5ca6bcdab2711c3cf32dc687c1c520ea3",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-12T15:01:31+08:00",
-   "confirmation_source": "用户本次确认该版作者张哲",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（口臭B1、打鼾VC）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41"
-  },
-  "Q33-2@38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385": {
-   "code": "Q33-2",
-   "sha256": "38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-14T10:06:37+08:00",
-   "confirmed_by": "惠跃主人",
-   "revision": 64
-  },
-  "Q33-1@c246030ae74b9f47a1d7f57ca323bf08b4749cba13c47aab0c08d24e32f7af24": {
-   "code": "Q33-1",
-   "sha256": "c246030ae74b9f47a1d7f57ca323bf08b4749cba13c47aab0c08d24e32f7af24",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-14T10:06:50+08:00",
-   "confirmed_by": "惠跃主人",
-   "revision": 65
-  },
-  "Q33@0564814f8ecf80c605d98b41e222c2dcb36d8f093bff18f1ed8ba0d261ef2a74": {
-   "code": "Q33",
-   "sha256": "0564814f8ecf80c605d98b41e222c2dcb36d8f093bff18f1ed8ba0d261ef2a74",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-14T10:07:05+08:00",
-   "confirmed_by": "惠跃主人",
-   "revision": 66
-  },
-  "Q37-3@97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9": {
-   "code": "Q37-3",
-   "sha256": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
-   "author": "张哲",
-   "copywriter": "惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-16T09:33:50+08:00",
-   "confirmation_source": "2026-11-16 用户确认Q37-3作者“张哲”，绑定PNG SHA256 97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9；旧Q37作者登记不随本任务修改",
-   "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16-Q37-3-source"
-  },
-  "A333-牙膏+洗发水@54823628a309511549e47a520ede109334ed569eae6770acdc0c9e0dad193416": {
-   "code": "A333-牙膏+洗发水",
-   "sha256": "54823628a309511549e47a520ede109334ed569eae6770acdc0c9e0dad193416",
-   "author": "余晓青",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-16T09:52:17+08:00",
-   "confirmation_source": "2026-11-16用户明确回复：沿用余晓青；绑定本次A333-牙膏+洗发水动态MOV哈希。",
-   "source_package": "D:\\Users\\Public\\Claude产出素材库\\A333-牙膏+洗发水-动态字幕-20261116"
-  },
-  "Q31-3-洗发水+牙膏版@a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1": {
-   "code": "Q31-3-洗发水+牙膏版",
-   "sha256": "a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1",
-   "author": "张哲",
-   "copywriter": "",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-16T10:51:10+08:00",
-   "confirmation_source": "惠跃主人本会话明确：Q31-3-洗发水+牙膏版，作者张哲；绑定PNG SHA256 a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1",
-   "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_Q31-3-洗发水+牙膏版_原始资料"
-  },
-  "A297-洗发水＋去污牙膏版@e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24": {
-   "code": "A297-洗发水＋去污牙膏版",
-   "sha256": "e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24",
-   "author": "郑惠跃",
-   "copywriter": "",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-16T10:51:10+08:00",
-   "confirmation_source": "惠跃主人本会话明确：A297-洗发水＋去污牙膏版，作者郑惠跃；绑定PNG SHA256 e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24",
-   "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_A297-洗发水＋去污牙膏版_原始资料"
-  },
-  "Q33-2-2@6660db59c97fbc5df423bccdbf7efe83201e532a2abb9a4c56e022ee24c1e8c8": {
-   "code": "Q33-2-2",
-   "sha256": "6660db59c97fbc5df423bccdbf7efe83201e532a2abb9a4c56e022ee24c1e8c8",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-16T15:03:22+08:00",
-   "confirmation_source": "2026-11-16用户明确本包字幕完成，先出成品再入库；本次包名明确作者张哲、文案郑惠跃。",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\Q33\\Q33-2-2-11.16-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
-  },
-  "A349-2@37c4766c6ed12fab805a4f989914d956d8b4fbd09868223fb6ed48617c14cc7a": {
-   "code": "A349-2",
-   "sha256": "37c4766c6ed12fab805a4f989914d956d8b4fbd09868223fb6ed48617c14cc7a",
-   "author": "余晓青",
-   "copywriter": "惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-16T17:48:11+08:00",
-   "confirmation_source": "2026-11-16用户明确：A349-2入库上线，作者余晓青。",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\07-A349-1-11.16-英文-余晓青-惠跃-（从事妇科医生16年，这些事我希望更多人知道）-Aveya生发洗发水+OLCG牙膏-郑雅斯-76"
-  },
-  "Q33-13-2@868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c": {
-   "code": "Q33-13-2",
-   "sha256": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-17T13:41:47+08:00",
-   "confirmation_source": "2026-11-17用户明确作者郑惠跃。",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-13-2-11.17-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-32"
-  },
-  "Q33-17-2@95f9cba1e4eb8f3b330db66f05140ef7acb1700a5fa4f5cf99c4b14cee874983": {
-   "code": "Q33-17-2",
-   "sha256": "95f9cba1e4eb8f3b330db66f05140ef7acb1700a5fa4f5cf99c4b14cee874983",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-17T14:07:59+08:00",
-   "confirmation_source": "2026-11-17用户明确作者郑惠跃。",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-17 -2-11.17-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
-  },
-  "Q33-15黑@0d7261bc02f4bf0dabc8374fde68576f7eae5c836c01abc58a21a08abbce877f": {
-   "code": "Q33-15黑",
-   "sha256": "0d7261bc02f4bf0dabc8374fde68576f7eae5c836c01abc58a21a08abbce877f",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-17T14:07:59+08:00",
-   "confirmation_source": "2026-11-17用户明确作者郑惠跃。",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-15黑"
-  },
-  "Q33-口臭B1黑@28cd90b00dbf2defe37cf25f3c9c7af655cbbe04b2be591b6b9b9229b1dfa062": {
-   "code": "Q33-口臭B1黑",
-   "sha256": "28cd90b00dbf2defe37cf25f3c9c7af655cbbe04b2be591b6b9b9229b1dfa062",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-17T14:36:44+08:00",
-   "confirmation_source": "2026-11-17用户要求入库上线；同版作者张哲。",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-口臭B1黑"
-  },
-  "A195-4-洗发水+牙膏@9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7": {
-   "code": "A195-4-洗发水+牙膏",
-   "sha256": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
-   "author": "余晓青",
-   "copywriter": "惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-17T15:18:34+08:00",
-   "confirmation_source": "2026-11-17用户明确作者余晓青，并要求两版入库上线。",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\02-A195-3-11.16-英文-余晓青-惠跃-（你需要了解的10件事（牙医版））-OLCG去污牙膏-郑雅斯-37"
-  },
-  "A195-4-牙膏+洗发水@2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1": {
-   "code": "A195-4-牙膏+洗发水",
-   "sha256": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
-   "author": "余晓青",
-   "copywriter": "惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-17T15:18:34+08:00",
-   "confirmation_source": "2026-11-17用户明确作者余晓青，并要求两版入库上线。",
-   "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\02-A195-3-11.16-英文-余晓青-惠跃-（你需要了解的10件事（牙医版））-OLCG去污牙膏-郑雅斯-37"
-  },
-  "Q33-8-2@800134c383593e8b5e3f455cfe90d171b4320f2d4c7c96bcabe6e5bbee9efc46": {
-   "code": "Q33-8-2",
-   "sha256": "800134c383593e8b5e3f455cfe90d171b4320f2d4c7c96bcabe6e5bbee9efc46",
-   "author": "张哲",
-   "copywriter": "张哲",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-17T18:09:46+08:00",
-   "confirmed_by": "惠跃主人",
-   "confirmation_source": "2026-11-17 惠跃主人答复：Q33-8-2作者张哲（本会话明确指定），用于韩妮Q33-8-2加做",
-   "revision": 76
-  },
-  "Q33-18@4d69c5e470b0330e7e18d071382b7865c25afa6ab536d59530e80163b62cad40": {
-   "code": "Q33-18",
-   "sha256": "4d69c5e470b0330e7e18d071382b7865c25afa6ab536d59530e80163b62cad40",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-18T11:33:20+08:00",
-   "confirmed_by": "惠跃主人",
-   "confirmation_source": "2026-11-17 Q33-18 包已按作者张哲交付并被接受；2026-11-18 复用时补登记",
-   "revision": 77
-  },
-  "Q33-19@d3ba862623f68489cf07227b2518eac42190c24e54e7b87b70fe863f16329ec1": {
-   "code": "Q33-19",
-   "sha256": "d3ba862623f68489cf07227b2518eac42190c24e54e7b87b70fe863f16329ec1",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-18T13:49:10+08:00",
-   "confirmed_by": "惠跃主人",
-   "confirmation_source": "2026-11-18 惠跃主人当面答复：Q33-19 作者郑惠跃",
-   "revision": 78
-  },
-  "A393@ec5db2b9b6f377ba7569c98407011008ddca92b98e3afa6876fb96a52670e33d": {
-   "code": "A393",
-   "sha256": "ec5db2b9b6f377ba7569c98407011008ddca92b98e3afa6876fb96a52670e33d",
-   "author": "郑惠跃",
-   "copywriter": "郑惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-11-18T14:01:51+08:00",
-   "confirmed_by": "惠跃主人",
-   "confirmation_source": "2026-11-18 半成品包名 A393-11-18-郑惠跃-郑惠跃-…-Aveya洗发水 已标注作者郑惠跃、文案郑惠跃、美工郑雅斯",
-   "revision": 79
-  }
- },
- "history": [
-  {
-   "code": "Q20-2",
-   "sha256": "b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598",
-   "author": "张哲",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-20T04:22:27.879Z",
-   "confirmation_source": "当前会话用户明确指定：作者张哲，入资源库，上线看板",
-   "action": "confirm",
-   "revision": 11
-  },
-  {
-   "code": "A311",
-   "sha256": "5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b",
-   "author": "郑惠跃",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-20T04:38:36+00:00",
-   "confirmation_source": "本会话用户明确指定：作者郑惠跃",
-   "action": "confirm",
-   "revision": 12
-  },
-  {
-   "code": "Q35-3",
-   "sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e",
-   "author": "张哲",
-   "copywriter": "郑惠跃",
-   "designer": "郑雅斯",
-   "status": "confirmed",
-   "confirmed_at": "2026-10-21T15:42:31.175495+08:00",
-   "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功",
-   "action": "confirm",
-   "revision": 19
-  },
-  {
-   "action": "rename_code",
-   "code": "A195-2",
-   "previous_code": "A195",
-   "sha256": "e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a",
-   "author": "余晓青",
-   "at": "2026-10-22T17:56:54+08:00",
-   "basis": "2026-10-22用户明确：半成品包内的A195即为A195-2，入库上线看板；原定版PNG原样保留"
-  },
-  {
-   "previous": null,
-   "confirmed": {
-    "code": "Q33-2",
-    "sha256": "38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385",
-    "author": "张哲",
-    "status": "confirmed",
-    "confirmed_at": "2026-11-14T10:06:37+08:00",
-    "confirmed_by": "惠跃主人",
-    "revision": 64
-   }
-  },
-  {
-   "previous": null,
-   "confirmed": {
-    "code": "Q33-1",
-    "sha256": "c246030ae74b9f47a1d7f57ca323bf08b4749cba13c47aab0c08d24e32f7af24",
-    "author": "张哲",
-    "status": "confirmed",
-    "confirmed_at": "2026-11-14T10:06:50+08:00",
-    "confirmed_by": "惠跃主人",
-    "revision": 65
-   }
-  },
-  {
-   "previous": null,
-   "confirmed": {
-    "code": "Q33",
-    "sha256": "0564814f8ecf80c605d98b41e222c2dcb36d8f093bff18f1ed8ba0d261ef2a74",
-    "author": "张哲",
-    "status": "confirmed",
-    "confirmed_at": "2026-11-14T10:07:05+08:00",
-    "confirmed_by": "惠跃主人",
-    "revision": 66
-   }
-  },
-  {
-   "previous": null,
-   "confirmed": {
-    "code": "Q33-8-2",
-    "sha256": "800134c383593e8b5e3f455cfe90d171b4320f2d4c7c96bcabe6e5bbee9efc46",
-    "author": "张哲",
-    "copywriter": "张哲",
-    "designer": "郑雅斯",
-    "status": "confirmed",
-    "confirmed_at": "2026-11-17T18:09:46+08:00",
-    "confirmed_by": "惠跃主人",
-    "confirmation_source": "2026-11-17 惠跃主人答复：Q33-8-2作者张哲（本会话明确指定），用于韩妮Q33-8-2加做",
-    "revision": 76
-   }
-  },
-  {
-   "previous": null,
-   "confirmed": {
-    "code": "Q33-18",
-    "sha256": "4d69c5e470b0330e7e18d071382b7865c25afa6ab536d59530e80163b62cad40",
-    "author": "张哲",
-    "copywriter": "郑惠跃",
-    "designer": "郑雅斯",
-    "status": "confirmed",
-    "confirmed_at": "2026-11-18T11:33:20+08:00",
-    "confirmed_by": "惠跃主人",
-    "confirmation_source": "2026-11-17 Q33-18 包已按作者张哲交付并被接受；2026-11-18 复用时补登记",
-    "revision": 77
-   }
-  },
-  {
-   "previous": null,
-   "confirmed": {
-    "code": "Q33-19",
-    "sha256": "d3ba862623f68489cf07227b2518eac42190c24e54e7b87b70fe863f16329ec1",
-    "author": "郑惠跃",
-    "copywriter": "郑惠跃",
-    "designer": "郑雅斯",
-    "status": "confirmed",
-    "confirmed_at": "2026-11-18T13:49:10+08:00",
-    "confirmed_by": "惠跃主人",
-    "confirmation_source": "2026-11-18 惠跃主人当面答复：Q33-19 作者郑惠跃",
-    "revision": 78
-   }
-  },
-  {
-   "previous": null,
-   "confirmed": {
-    "code": "A393",
-    "sha256": "ec5db2b9b6f377ba7569c98407011008ddca92b98e3afa6876fb96a52670e33d",
-    "author": "郑惠跃",
-    "copywriter": "郑惠跃",
-    "designer": "郑雅斯",
-    "status": "confirmed",
-    "confirmed_at": "2026-11-18T14:01:51+08:00",
-    "confirmed_by": "惠跃主人",
-    "confirmation_source": "2026-11-18 半成品包名 A393-11-18-郑惠跃-郑惠跃-…-Aveya洗发水 已标注作者郑惠跃、文案郑惠跃、美工郑雅斯",
-    "revision": 79
-   }
-  }
- ]
+  "schema": 1,
+  "revision": 80,
+  "records": {
+    "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
+      "code": "A308",
+      "sha256": "93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79",
+      "author": "郑惠跃",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T01:49:31.120Z",
+      "confirmation_source": "当前会话用户明确指定：作者郑惠跃，文案惠跃、美工郑雅斯"
+    },
+    "Q20-2@b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598": {
+      "code": "Q20-2",
+      "sha256": "b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T04:22:27.879Z",
+      "confirmation_source": "当前会话用户明确指定：作者张哲，入资源库，上线看板"
+    },
+    "A311@5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b": {
+      "code": "A311",
+      "sha256": "5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T04:38:36+00:00",
+      "confirmation_source": "本会话用户明确指定：作者郑惠跃"
+    },
+    "Q33-3@9e4ae287f202b5b899907edaef88134fac8a3c889ef171e094d8b09e488e77bf": {
+      "code": "Q33-3",
+      "sha256": "9e4ae287f202b5b899907edaef88134fac8a3c889ef171e094d8b09e488e77bf",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T16:43:14.792811+08:00",
+      "confirmation_source": "当前会话用户回复“是的”，确认作者张哲／文案惠跃／美工郑雅斯"
+    },
+    "A310@2433eac6cf90eb027529a9dea223442e5536b5181766b7ba7cbfa81ca051e55a": {
+      "code": "A310",
+      "sha256": "2433eac6cf90eb027529a9dea223442e5536b5181766b7ba7cbfa81ca051e55a",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T08:51:56.091Z",
+      "confirmation_source": "本会话用户明确指定：A310定版png字幕成功，入资源库，上线看板，作者郑惠跃"
+    },
+    "Q24-1@5dc842752cf09df75903d27a16d0b3a49d14df9d42c1c402a4285eee552c9e9d": {
+      "code": "Q24-1",
+      "sha256": "5dc842752cf09df75903d27a16d0b3a49d14df9d42c1c402a4285eee552c9e9d",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-21T10:06:23.003662+08:00",
+      "confirmation_source": "本会话用户明确回复：作者张哲、文案惠跃、美工郑雅斯；并指定本附件为Q24-1定版PNG"
+    },
+    "A313@6fa3dcd16b5f665c2d712b2853782df99da3ec7c68af5cc424cc26198e31f232": {
+      "code": "A313",
+      "sha256": "6fa3dcd16b5f665c2d712b2853782df99da3ec7c68af5cc424cc26198e31f232",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-21T10:41:06+08:00",
+      "confirmation_source": "本会话用户明确指定：作者郑惠跃"
+    },
+    "Q35-3@df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e": {
+      "code": "Q35-3",
+      "sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-21T15:42:31.175495+08:00",
+      "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功"
+    },
+    "A195-2@e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a": {
+      "code": "A195-2",
+      "sha256": "e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a",
+      "author": "余晓青",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-21T11:49:25.406651+08:00",
+      "confirmation_source": "本会话惠跃主人明确指定：作者余晓青-文案张哲-美工郑雅斯；2026-10-22用户明确半成品A195即A195-2，编号统一登记",
+      "aliases": [
+        "A195"
+      ],
+      "renamed_at": "2026-10-22T17:56:54+08:00"
+    },
+    "Q35-3@5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619": {
+      "code": "Q35-3",
+      "sha256": "5c72751a373bf31457da746c6cef8fab8f5f2df70f87dd05aaa5c99723bce619",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-21T15:42:31.175495+08:00",
+      "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功；2026-10-23同版本删除Whitening并明确批准新PNG，沿用已确认署名",
+      "updated_at": "2026-10-23T10:11:28+08:00",
+      "supersedes_sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e"
+    },
+    "A318@8e59b7f19aa079f38d5c8696178c17e4c17c4772f06d96018e09918a877677ae": {
+      "code": "A318",
+      "sha256": "8e59b7f19aa079f38d5c8696178c17e4c17c4772f06d96018e09918a877677ae",
+      "author": "余晓青",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-26T09:45:56+08:00",
+      "confirmation_source": "本会话惠跃主人明确指定：A318入资源库上线看板，作者余晓青"
+    },
+    "A326@5eb4770b2a549008216b58bfe538711e5bec87f93ae2b6365340c8c84b2b76da": {
+      "code": "A326",
+      "sha256": "5eb4770b2a549008216b58bfe538711e5bec87f93ae2b6365340c8c84b2b76da",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-26T09:44:28+08:00",
+      "updated_at": "2026-10-27T10:00:10+08:00",
+      "confirmation_source": "本会话惠跃主人已明确作者郑惠跃；2026-10-27同编号A326附件替换，沿用该署名"
+    },
+    "Q37-2@27ef5d1c969ddc0c48a43d7d0e255b8f0015c12d172bfb9601575eb34dba3971": {
+      "code": "Q37-2",
+      "sha256": "27ef5d1c969ddc0c48a43d7d0e255b8f0015c12d172bfb9601575eb34dba3971",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-28T16:56:34.404692+08:00",
+      "confirmation_source": "2026-10-28 本会话用户指定两版包内PNG并明确作者郑惠跃；仅更新此精确图的作者确认",
+      "canonicalized_at": "2026-10-28T17:38:55+08:00",
+      "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
+    },
+    "Q33-4@2727f6974c0fcd11636c6c26626c02d88dc0a2f7786c017065e0c5ed049672a4": {
+      "code": "Q33-4",
+      "sha256": "2727f6974c0fcd11636c6c26626c02d88dc0a2f7786c017065e0c5ed049672a4",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-28T06:32:18.380Z",
+      "confirmation_source": "2026-10-28本会话惠跃主人明确确认Q33两版作者均为张哲；明确使用各素材夹分配的透明PNG，不使用资源库字幕。",
+      "canonicalized_at": "2026-10-28T17:38:55+08:00",
+      "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
+    },
+    "Q33-5@1cb9c9b7e94456b3ede14993bd437af71fc9e38c7d17962bd8cd7656c8ce5ce1": {
+      "code": "Q33-5",
+      "sha256": "1cb9c9b7e94456b3ede14993bd437af71fc9e38c7d17962bd8cd7656c8ce5ce1",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-28T06:32:18.381Z",
+      "confirmation_source": "2026-10-28本会话惠跃主人明确确认Q33两版作者均为张哲；明确使用各素材夹分配的透明PNG，不使用资源库字幕。",
+      "canonicalized_at": "2026-10-28T17:38:55+08:00",
+      "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
+    },
+    "A325@52a36ea058fc71707be6978081d89f573da76172778417356d13d5f3c816c89b": {
+      "code": "A325",
+      "sha256": "52a36ea058fc71707be6978081d89f573da76172778417356d13d5f3c816c89b",
+      "author": "郑惠跃",
+      "copywriter": "惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-24T08:23:14.836Z",
+      "confirmation_source": "2026-10-24用户指定附件为A325新版定版并要求先套出成品；作者明确确认：作者郑惠跃",
+      "canonicalized_at": "2026-10-28T17:38:55+08:00",
+      "canonicalization_source": "用户要求将10.28四张缺失字幕完善入库上线；按现有编号顺延独立登记，精确PNG与原确认作者未变"
+    },
+    "A333-3@ad99986190650842010321cfde62a29520f69b9004177b0f6aa6daf7255344ad": {
+      "code": "A333-3",
+      "sha256": "ad99986190650842010321cfde62a29520f69b9004177b0f6aa6daf7255344ad",
+      "author": "余晓青",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-30T14:01:16+08:00",
+      "asset_type": "dynamic_video",
+      "confirmation_source": "本会话用户明确回复A333-3作者署名：余晓青；确认绑定已认可MOV原文件SHA256。"
+    },
+    "A333-牙膏+果冻霜@4ea6a3c8be87a386fa8058c454db50aa3d68236080024e0bcbe3eb65570bd911": {
+      "code": "A333-牙膏+果冻霜",
+      "sha256": "4ea6a3c8be87a386fa8058c454db50aa3d68236080024e0bcbe3eb65570bd911",
+      "author": "余晓青",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-31T02:16:37.244Z",
+      "asset_type": "dynamic_video",
+      "confirmation_source": "本会话用户明确回复：作者余晓青、文案郑惠跃、美工郑雅斯；指定刚做好的牙膏+果冻霜动态字幕用于10.31这批生产。"
+    },
+    "A297-棉片+去污牙膏版@357fe042dd0070e882872d7d25e49b1bef9582867c9059f38cada32d4f8fa41b": {
+      "code": "A297-棉片+去污牙膏版",
+      "sha256": "357fe042dd0070e882872d7d25e49b1bef9582867c9059f38cada32d4f8fa41b",
+      "author": "",
+      "status": "pending",
+      "confirmation_source": "用户明确作者待定，后续确认"
+    },
+    "A314-2@8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14": {
+      "code": "A314-2",
+      "sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
+      "author": "李婷婷",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:18:02+08:00",
+      "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18"
+    },
+    "A346-1@b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae": {
+      "code": "A346-1",
+      "sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
+      "author": "康慧敏",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:18:02+08:00",
+      "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18"
+    },
+    "A357@d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c": {
+      "code": "A357",
+      "sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
+      "author": "郑惠跃",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:23:03+08:00",
+      "confirmation_source": "按用户老规矩要求，从今日11.03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18"
+    },
+    "A314-2@1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3": {
+      "code": "A314-2",
+      "sha256": "1aa3099691c9bfa4e4a576089862b298eaa77a2f0554b1e629d3d578216565b3",
+      "author": "李婷婷",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:18:02+08:00",
+      "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\002-A314-2-11.3-李婷婷-张哲-就连医生都不会告诉你的秘密-（olcg牙膏+aveya棉片）-18",
+      "derived_from_sha256": "8b1f51dd41c2b9a19764612847c5134fd9eceb109fb8c0527a13ff478ebdaf14",
+      "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
+      "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
+      "attribution_note": "同版高清增强，沿用原已确认作者署名。"
+    },
+    "A346-1@24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c": {
+      "code": "A346-1",
+      "sha256": "24a5b4f814e6491caedb67132b29d63dde9b1062091268bbf7a9763286407f5c",
+      "author": "康慧敏",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:18:02+08:00",
+      "confirmation_source": "用户指示从2026-11-03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\003-A346-1-11.3-康慧敏-张哲-医生不会告诉你的事情，但我会告诉你（aveya棉片+olcg牙膏）-18",
+      "derived_from_sha256": "b2d87a52aac23200f222b3b81d1b0a64b95fbe64461785058ae06d434a9257ae",
+      "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
+      "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
+      "attribution_note": "同版高清增强，沿用原已确认作者署名。"
+    },
+    "A357@487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53": {
+      "code": "A357",
+      "sha256": "487c3c8128f22772f5c3a923c68b138b18fd87f288a1c3d30036900f47ab4f53",
+      "author": "郑惠跃",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-03T13:23:03+08:00",
+      "confirmation_source": "按用户老规矩要求，从今日11.03半成品包获取对应作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\004-A357-11.3-郑惠跃-张哲-作为一名妇科医生我死也要死守的原则（OLCG牙膏）-18",
+      "derived_from_sha256": "d1e3c81d74e2be3ca2ed8ae3b21364520aac909f8f8d5ff18335a87cd4bea60c",
+      "enhancement_approved_at": "2026-11-03T13:59:25+08:00",
+      "enhancement_approval": "2026-11-03惠跃主人审阅本批高清候选后明确表示满意，要求入库上线看板替代原资源。",
+      "attribution_note": "同版高清增强，沿用原已确认作者署名。"
+    },
+    "A348-1@c7090c21564d4e348f662f78cfbd780d4267013eb67bd60091e1161f78ad2ac5": {
+      "code": "A348-1",
+      "sha256": "c7090c21564d4e348f662f78cfbd780d4267013eb67bd60091e1161f78ad2ac5",
+      "author": "余晓青",
+      "copywriter": "张哲",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-04T10:14:27+08:00",
+      "confirmation_source": "沿用用户指定从11.03对应半成品包获取作者信息的规则",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.03\\001-A348-1-11.3-余晓青-张哲-身体在向你发出这些信号-Aveya棉片+OLCG牙膏-18"
+    },
+    "Q33-6@41a87dcdf7f28f707b2e8b8761f9ee8ae09823fa3417c42b8a639568cd6c977c": {
+      "code": "Q33-6",
+      "sha256": "41a87dcdf7f28f707b2e8b8761f9ee8ae09823fa3417c42b8a639568cd6c977c",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-05T13:42:13.725764+08:00",
+      "confirmation_source": "2026-11-05 惠跃主人提供Q33-6-11.05-新版-英文-张哲-张哲包路径并要求完成该包；顺序为作者张哲、文案张哲。"
+    },
+    "Q33-7@7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17": {
+      "code": "Q33-7",
+      "sha256": "7b97579f5ff6f11ebef6061415d7fed2471ffc03a7392a77b83a94b99f587f17",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-05T13:53:53.504813+08:00",
+      "confirmation_source": "2026-11-05 惠跃主人提供Q33-7-11.05-新版-英文-张哲-张哲包路径并要求完成该包；顺序为作者张哲、文案张哲。"
+    },
+    "Q33-8@a8b4a4bfce1bc4c1909204b5acbd2fa55e8ff2a4701eca9974181b2cb4f834ed": {
+      "code": "Q33-8",
+      "sha256": "a8b4a4bfce1bc4c1909204b5acbd2fa55e8ff2a4701eca9974181b2cb4f834ed",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-05T14:09:41.342761+08:00",
+      "confirmation_source": "2026-11-05 惠跃主人提供Q33-8-11.05-新版-英文-张哲-张哲包路径并要求完成该包；顺序为作者张哲、文案张哲。"
+    },
+    "Q33-9@2ce4147bcc09ad2425f6466db53bf6858df4efe256c53b4e66b3c08daf7f6000": {
+      "code": "Q33-9",
+      "sha256": "2ce4147bcc09ad2425f6466db53bf6858df4efe256c53b4e66b3c08daf7f6000",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-05T09:46:41.571Z",
+      "confirmation_source": "2026-11-05本会话惠跃主人明确回复Q33-9作者：郑惠跃"
+    },
+    "Q33-9@7a2b3b3b25025321283f1bd77eb1d5fe076d1a6407d74a3c98c9851304de5289": {
+      "code": "Q33-9",
+      "sha256": "7a2b3b3b25025321283f1bd77eb1d5fe076d1a6407d74a3c98c9851304de5289",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-05T09:46:41.571Z",
+      "confirmation_source": "沿用2026-11-05本会话用户明确确认的作者郑惠跃；用户随后指定新版Q33-9 PNG替换同版定版。",
+      "derived_from_sha256": "2ce4147bcc09ad2425f6466db53bf6858df4efe256c53b4e66b3c08daf7f6000",
+      "updated_at": "2026-11-05T09:58:22.059Z"
+    },
+    "Q33-6-1@606bbb9c5d4bb78083381350e56b060628db790b9d84124cced096562122df76": {
+      "code": "Q33-6-1",
+      "sha256": "606bbb9c5d4bb78083381350e56b060628db790b9d84124cced096562122df76",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-06T02:15:27.528Z",
+      "confirmation_source": "2026-11-06 惠跃主人指定Q33-6-1包名英文-张哲-张哲并提供锁定PNG，作者张哲、文案张哲。"
+    },
+    "Q33-7-1@93f2bd75c6bcfac22871d66c708ddbaff111d4770400797249f98708d524adc3": {
+      "code": "Q33-7-1",
+      "sha256": "93f2bd75c6bcfac22871d66c708ddbaff111d4770400797249f98708d524adc3",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-06T02:28:52.473Z",
+      "confirmation_source": "2026-11-06 惠跃主人指定Q33-7-1（1）包名英文-张哲-张哲并要求同上包完成，作者张哲、文案张哲。"
+    },
+    "Q33-8-1@5a29303f5ceaf75ca43d24ee8198ae59f89926d9361a4e45f1db1f01e547a563": {
+      "code": "Q33-8-1",
+      "sha256": "5a29303f5ceaf75ca43d24ee8198ae59f89926d9361a4e45f1db1f01e547a563",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-06T02:43:44.766Z",
+      "confirmation_source": "2026-11-06 惠跃主人指定Q33-8-1包名英文-张哲-张哲并要求同上包完成，作者张哲、文案张哲。"
+    },
+    "Q33-10@81f04fd81aedbd4fb925b6fc95e86ddf72f570b55b9822b85defb5d9e397f438": {
+      "code": "Q33-10",
+      "sha256": "81f04fd81aedbd4fb925b6fc95e86ddf72f570b55b9822b85defb5d9e397f438",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-06T02:58:07.223Z",
+      "confirmation_source": "2026-11-06 惠跃主人指定Q33-10包名张哲-张哲并要求同上包完成，作者张哲、文案张哲。"
+    },
+    "Q33-11@6d23a81c56b5494635a047887649d3cfc2a504ee119d4f70ce01762880b1eaeb": {
+      "code": "Q33-11",
+      "sha256": "6d23a81c56b5494635a047887649d3cfc2a504ee119d4f70ce01762880b1eaeb",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-07T09:09:47+08:00",
+      "confirmation_source": "按用户要求从对应半成品包获取作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.07\\Q033-11-11.07-英文-张哲-惠跃-（连医生都不会告诉你的秘密）-OLCG去污牙膏+OLCG果冻霜"
+    },
+    "A362-2@eff4ccaa8a37bf86832a49e621dee1dab8c9c42c3afc2aa114278a563ff87754": {
+      "code": "A362-2",
+      "sha256": "eff4ccaa8a37bf86832a49e621dee1dab8c9c42c3afc2aa114278a563ff87754",
+      "author": "康慧敏",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-07T10:13:31+08:00",
+      "confirmation_source": "用户授权从对应包获取作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.07\\A362-2-11.7-康慧敏-郑惠跃-连医生都不会告诉你的秘密（olcg牙膏+olcg果冻霜）"
+    },
+    "Q31-2@58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2": {
+      "code": "Q31-2",
+      "sha256": "58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "author": "张哲",
+      "copywriter": "",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-07T14:31:05+08:00",
+      "confirmation_source": "用户2026-11-07本次确认“作者张哲”，绑定Q31-2原PNG 58fa0e1b8ac9354e270b61ef24d458687220703e015c06f1f20ba20b6e1300e2",
+      "source_package": "D:/Users/Public/Claude产出素材库/Q31-2入库上线-20261107"
+    },
+    "Q33-12@e44d55e1bab34153581bc3605f782adb394167bc7449652fa8eb2f7dccb8f32a": {
+      "code": "Q33-12",
+      "sha256": "e44d55e1bab34153581bc3605f782adb394167bc7449652fa8eb2f7dccb8f32a",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-10T14:13:09+08:00",
+      "confirmation_source": "用户指定对应半成品包，包名明确署作者张哲",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\04-q33俱乐部\\Q33-12-11.10-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-OLCG去污牙膏+OLCG果冻霜"
+    },
+    "Q33-2-1@9c0285c67929e68db081ce0bdd547597d85ced9353289107ad5c49fbb7af5467": {
+      "code": "Q33-2-1",
+      "sha256": "9c0285c67929e68db081ce0bdd547597d85ced9353289107ad5c49fbb7af5467",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-10T14:13:09+08:00",
+      "confirmation_source": "用户指定对应半成品包，包名明确署作者张哲",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\04-q33俱乐部\\Q33-2-1-11.10-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya棉片+OLCG去污牙膏-郑雅斯-15"
+    },
+    "Q33-13@df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057": {
+      "code": "Q33-13",
+      "sha256": "df13f8d5aabdb8e5d293b044bd47a7870c330f5060304148233a4f32dc00f057",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-10T14:21:12+08:00",
+      "confirmation_source": "用户指定对应半成品包，包名明确署作者张哲",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\04-q33俱乐部\\Q33-13-11.10-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+OLCG去污牙膏-郑雅斯-23"
+    },
+    "A349-1@4fe86860f33bb053dc8cb07c8dedd04d2fadf675a44795206a38cbf05a473d36": {
+      "code": "A349-1",
+      "sha256": "4fe86860f33bb053dc8cb07c8dedd04d2fadf675a44795206a38cbf05a473d36",
+      "author": "余晓青",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-10T14:46:48+08:00",
+      "confirmation_source": "用户指定半成品包名明确署作者余晓青",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\A349-1-11.10-余晓青-惠跃-从事妇科医生 16 年，这些事我希望更多人知道-olcg果冻霜+olcg牙膏-"
+    },
+    "A326-1@da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3": {
+      "code": "A326-1",
+      "sha256": "da3f118f239a0521641f2b19c61e06687885d830798146ee7c3e78ab6cd22bf3",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-10T15:36:22+08:00",
+      "confirmation_source": "沿用原A326-1确认作者，用户明确指定同版高清替换",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.10\\02-另外加做组\\A326-1-10"
+    },
+    "A195-3@e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7": {
+      "code": "A195-3",
+      "sha256": "e315a708ba3fc05a5ec3f917f601e31d0055a2d8d65eae9cbec6e6687f423fa7",
+      "author": "余晓青",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-11T15:10:18+08:00",
+      "confirmation_source": "2026-11-11 用户明确回复：出成品再入库，作者依旧余晓青",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\01-基本盘组\\A195-3-11.11-英文-余晓青-郑惠跃-（你需要了解的10件事）-OLCG去污牙膏-郑雅斯-30"
+    },
+    "Q33-14@f343c72590e585bdbf11f3e31eb162447681f222fbd2294c1016d032a9855031": {
+      "code": "Q33-14",
+      "sha256": "f343c72590e585bdbf11f3e31eb162447681f222fbd2294c1016d032a9855031",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-11T15:46:28+08:00",
+      "confirmation_source": "用户授权从对应包获取作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.11\\03-q33俱乐部\\Q33-14-11.11-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-OLCG果冻霜+OLCG去污牙膏-郑雅斯-20"
+    },
+    "Q33-客厅养鱼@831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e": {
+      "code": "Q33-客厅养鱼",
+      "sha256": "831f003d66c1eb8133d098e54bfecacb1d37f3b6fdbe767c684074327cc5835e",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-12T14:42:14+08:00",
+      "confirmation_source": "2026-11-12 用户明确回复：作者张哲",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（客厅养鱼、睡觉不穿袜子）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41"
+    },
+    "Q33-15@a8377876681048bba035b622276235f777140de9fb315703edd71e9163517d4c": {
+      "code": "Q33-15",
+      "sha256": "a8377876681048bba035b622276235f777140de9fb315703edd71e9163517d4c",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-13T14:04:01+08:00",
+      "confirmation_source": "用户指定本包Q33-15资源入库上线；作者来自对应包明确署名郑惠跃，绑定PNG SHA256 a8377876681048bba035b622276235f777140de9fb315703edd71e9163517d4c",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.13\\Q33\\Q33-15-（黄牙VD、失眠B2）-11.13-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
+    },
+    "Q33-16@981fd3004ae56d14673f3c16ac40d5884cee8abaa091d52d19bb696e79f3d4ce": {
+      "code": "Q33-16",
+      "sha256": "981fd3004ae56d14673f3c16ac40d5884cee8abaa091d52d19bb696e79f3d4ce",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-13T14:16:17+08:00",
+      "confirmation_source": "用户指定：Q33-16 包明确署名作者郑惠跃、文案郑惠跃",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.13\\Q33\\Q33-16-（疲倦B2、白发VH）-11.13-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
+    },
+    "Q33-17@4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5": {
+      "code": "Q33-17",
+      "sha256": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-13T10:26:43+08:00",
+      "confirmation_source": "用户本次授权按老规矩从对应半成品包确认作者，原包署名为郑惠跃",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.13\\Q33\\Q33-（便秘VC、失眠B6）-11.13-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
+    },
+    "Q33-（口臭B1、打鼾VC）@eeaaad53198b28c32f9991b32eba74c5ca6bcdab2711c3cf32dc687c1c520ea3": {
+      "code": "Q33-（口臭B1、打鼾VC）",
+      "sha256": "eeaaad53198b28c32f9991b32eba74c5ca6bcdab2711c3cf32dc687c1c520ea3",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-12T15:01:31+08:00",
+      "confirmation_source": "用户本次确认该版作者张哲",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.12\\Q33\\Q33-（口臭B1、打鼾VC）-11.12-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-41"
+    },
+    "Q33-2@38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385": {
+      "code": "Q33-2",
+      "sha256": "38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-14T10:06:37+08:00",
+      "confirmed_by": "惠跃主人",
+      "revision": 64
+    },
+    "Q33-1@c246030ae74b9f47a1d7f57ca323bf08b4749cba13c47aab0c08d24e32f7af24": {
+      "code": "Q33-1",
+      "sha256": "c246030ae74b9f47a1d7f57ca323bf08b4749cba13c47aab0c08d24e32f7af24",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-14T10:06:50+08:00",
+      "confirmed_by": "惠跃主人",
+      "revision": 65
+    },
+    "Q33@0564814f8ecf80c605d98b41e222c2dcb36d8f093bff18f1ed8ba0d261ef2a74": {
+      "code": "Q33",
+      "sha256": "0564814f8ecf80c605d98b41e222c2dcb36d8f093bff18f1ed8ba0d261ef2a74",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-14T10:07:05+08:00",
+      "confirmed_by": "惠跃主人",
+      "revision": 66
+    },
+    "Q37-3@97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9": {
+      "code": "Q37-3",
+      "sha256": "97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9",
+      "author": "张哲",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T09:33:50+08:00",
+      "confirmation_source": "2026-11-16 用户确认Q37-3作者“张哲”，绑定PNG SHA256 97ca4018ff3f42f43b3fa90dd0d9ecc9234db9afce3dc5a1f8f7bac6be4d17d9；旧Q37作者登记不随本任务修改",
+      "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16-Q37-3-source"
+    },
+    "A333-牙膏+洗发水@54823628a309511549e47a520ede109334ed569eae6770acdc0c9e0dad193416": {
+      "code": "A333-牙膏+洗发水",
+      "sha256": "54823628a309511549e47a520ede109334ed569eae6770acdc0c9e0dad193416",
+      "author": "余晓青",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T09:52:17+08:00",
+      "confirmation_source": "2026-11-16用户明确回复：沿用余晓青；绑定本次A333-牙膏+洗发水动态MOV哈希。",
+      "source_package": "D:\\Users\\Public\\Claude产出素材库\\A333-牙膏+洗发水-动态字幕-20261116"
+    },
+    "Q31-3-洗发水+牙膏版@a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1": {
+      "code": "Q31-3-洗发水+牙膏版",
+      "sha256": "a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1",
+      "author": "张哲",
+      "copywriter": "",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T10:51:10+08:00",
+      "confirmation_source": "惠跃主人本会话明确：Q31-3-洗发水+牙膏版，作者张哲；绑定PNG SHA256 a4222e0cb9cc837e4ad93e4c07a089222d03ff27da91b75e3c095e5e3dda52d1",
+      "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_Q31-3-洗发水+牙膏版_原始资料"
+    },
+    "A297-洗发水＋去污牙膏版@e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24": {
+      "code": "A297-洗发水＋去污牙膏版",
+      "sha256": "e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24",
+      "author": "郑惠跃",
+      "copywriter": "",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T10:51:10+08:00",
+      "confirmation_source": "惠跃主人本会话明确：A297-洗发水＋去污牙膏版，作者郑惠跃；绑定PNG SHA256 e3f3276daa51c34b24a3cdc1a9068e1cc7f36a9e0a614d39145440b72f578f24",
+      "source_package": "D:\\Users\\Public\\Claude产出素材库\\字幕入库快速通道\\任务\\2026-11-16_A297-洗发水＋去污牙膏版_原始资料"
+    },
+    "Q33-2-2@6660db59c97fbc5df423bccdbf7efe83201e532a2abb9a4c56e022ee24c1e8c8": {
+      "code": "Q33-2-2",
+      "sha256": "6660db59c97fbc5df423bccdbf7efe83201e532a2abb9a4c56e022ee24c1e8c8",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T15:03:22+08:00",
+      "confirmation_source": "2026-11-16用户明确本包字幕完成，先出成品再入库；本次包名明确作者张哲、文案郑惠跃。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\Q33\\Q33-2-2-11.16-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
+    },
+    "A349-2@37c4766c6ed12fab805a4f989914d956d8b4fbd09868223fb6ed48617c14cc7a": {
+      "code": "A349-2",
+      "sha256": "37c4766c6ed12fab805a4f989914d956d8b4fbd09868223fb6ed48617c14cc7a",
+      "author": "余晓青",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-16T17:48:11+08:00",
+      "confirmation_source": "2026-11-16用户明确：A349-2入库上线，作者余晓青。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\07-A349-1-11.16-英文-余晓青-惠跃-（从事妇科医生16年，这些事我希望更多人知道）-Aveya生发洗发水+OLCG牙膏-郑雅斯-76"
+    },
+    "Q33-13-2@868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c": {
+      "code": "Q33-13-2",
+      "sha256": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-17T13:41:47+08:00",
+      "confirmation_source": "2026-11-17用户明确作者郑惠跃。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-13-2-11.17-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-32"
+    },
+    "Q33-17-2@95f9cba1e4eb8f3b330db66f05140ef7acb1700a5fa4f5cf99c4b14cee874983": {
+      "code": "Q33-17-2",
+      "sha256": "95f9cba1e4eb8f3b330db66f05140ef7acb1700a5fa4f5cf99c4b14cee874983",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-17T14:07:59+08:00",
+      "confirmation_source": "2026-11-17用户明确作者郑惠跃。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-17 -2-11.17-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
+    },
+    "Q33-15黑@0d7261bc02f4bf0dabc8374fde68576f7eae5c836c01abc58a21a08abbce877f": {
+      "code": "Q33-15黑",
+      "sha256": "0d7261bc02f4bf0dabc8374fde68576f7eae5c836c01abc58a21a08abbce877f",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-17T14:07:59+08:00",
+      "confirmation_source": "2026-11-17用户明确作者郑惠跃。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-15黑"
+    },
+    "Q33-口臭B1黑@28cd90b00dbf2defe37cf25f3c9c7af655cbbe04b2be591b6b9b9229b1dfa062": {
+      "code": "Q33-口臭B1黑",
+      "sha256": "28cd90b00dbf2defe37cf25f3c9c7af655cbbe04b2be591b6b9b9229b1dfa062",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-17T14:36:44+08:00",
+      "confirmation_source": "2026-11-17用户要求入库上线；同版作者张哲。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\Q33-口臭B1黑"
+    },
+    "A195-4-洗发水+牙膏@9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7": {
+      "code": "A195-4-洗发水+牙膏",
+      "sha256": "9a5549b1ec706e4690ab6db49482a4a0bc78222d4c1080ae3af7c060ea142eb7",
+      "author": "余晓青",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-17T15:18:34+08:00",
+      "confirmation_source": "2026-11-17用户明确作者余晓青，并要求两版入库上线。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\02-A195-3-11.16-英文-余晓青-惠跃-（你需要了解的10件事（牙医版））-OLCG去污牙膏-郑雅斯-37"
+    },
+    "A195-4-牙膏+洗发水@2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1": {
+      "code": "A195-4-牙膏+洗发水",
+      "sha256": "2c0ec9119d0e89045b8ede8ac862aadbefb0f43378d8fd4982765f2f1e3365f1",
+      "author": "余晓青",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-17T15:18:34+08:00",
+      "confirmation_source": "2026-11-17用户明确作者余晓青，并要求两版入库上线。",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.16\\02-A195-3-11.16-英文-余晓青-惠跃-（你需要了解的10件事（牙医版））-OLCG去污牙膏-郑雅斯-37"
+    },
+    "Q33-8-2@800134c383593e8b5e3f455cfe90d171b4320f2d4c7c96bcabe6e5bbee9efc46": {
+      "code": "Q33-8-2",
+      "sha256": "800134c383593e8b5e3f455cfe90d171b4320f2d4c7c96bcabe6e5bbee9efc46",
+      "author": "张哲",
+      "copywriter": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T14:04:04+08:00",
+      "confirmation_source": "用户授权从对应包获取作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.17\\q33-俱乐部\\q33-8-2-运营加做"
+    },
+    "Q33-18@4d69c5e470b0330e7e18d071382b7865c25afa6ab536d59530e80163b62cad40": {
+      "code": "Q33-18",
+      "sha256": "4d69c5e470b0330e7e18d071382b7865c25afa6ab536d59530e80163b62cad40",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T14:04:04+08:00",
+      "confirmation_source": "用户授权从对应包获取作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.18\\01-q33俱乐部\\Q33-18-11.18-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-26"
+    },
+    "Q33-19@d3ba862623f68489cf07227b2518eac42190c24e54e7b87b70fe863f16329ec1": {
+      "code": "Q33-19",
+      "sha256": "d3ba862623f68489cf07227b2518eac42190c24e54e7b87b70fe863f16329ec1",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T14:04:04+08:00",
+      "confirmation_source": "用户授权从对应包获取作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.18\\01-q33俱乐部\\Q33-19"
+    },
+    "A393@ec5db2b9b6f377ba7569c98407011008ddca92b98e3afa6876fb96a52670e33d": {
+      "code": "A393",
+      "sha256": "ec5db2b9b6f377ba7569c98407011008ddca92b98e3afa6876fb96a52670e33d",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T14:01:51+08:00",
+      "confirmed_by": "惠跃主人",
+      "confirmation_source": "2026-11-18 半成品包名 A393-11-18-郑惠跃-郑惠跃-…-Aveya洗发水 已标注作者郑惠跃、文案郑惠跃、美工郑雅斯",
+      "revision": 79
+    }
+  },
+  "history": [
+    {
+      "code": "Q20-2",
+      "sha256": "b1c254ef5cdb043985fc3380f5f5b2d65c94680477cb24317e04c41e3e249598",
+      "author": "张哲",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T04:22:27.879Z",
+      "confirmation_source": "当前会话用户明确指定：作者张哲，入资源库，上线看板",
+      "action": "confirm",
+      "revision": 11
+    },
+    {
+      "code": "A311",
+      "sha256": "5e87f62f3937ba5ebc544fc3083fe6423d414310315ef44b0be31cfaa6a5459b",
+      "author": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-20T04:38:36+00:00",
+      "confirmation_source": "本会话用户明确指定：作者郑惠跃",
+      "action": "confirm",
+      "revision": 12
+    },
+    {
+      "code": "Q35-3",
+      "sha256": "df5972a20def8d0191a3064de7e6de55b1f47a3194e30baa7f38f9fd4b00064e",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-10-21T15:42:31.175495+08:00",
+      "confirmation_source": "本会话惠跃主人明确回复：作者张哲，文案郑惠跃，美工郑雅斯；明确指定附件定版为q35-3成功",
+      "action": "confirm",
+      "revision": 19
+    },
+    {
+      "action": "rename_code",
+      "code": "A195-2",
+      "previous_code": "A195",
+      "sha256": "e8a59f7362da2c81cba6db9e5557bb90644b954ff05bf61e1dc06f1fb990695a",
+      "author": "余晓青",
+      "at": "2026-10-22T17:56:54+08:00",
+      "basis": "2026-10-22用户明确：半成品包内的A195即为A195-2，入库上线看板；原定版PNG原样保留"
+    },
+    {
+      "previous": null,
+      "confirmed": {
+        "code": "Q33-2",
+        "sha256": "38ba26f41850d9b1e6204fcf2957ec1e84408de79f091a18476843f8c52e3385",
+        "author": "张哲",
+        "status": "confirmed",
+        "confirmed_at": "2026-11-14T10:06:37+08:00",
+        "confirmed_by": "惠跃主人",
+        "revision": 64
+      }
+    },
+    {
+      "previous": null,
+      "confirmed": {
+        "code": "Q33-1",
+        "sha256": "c246030ae74b9f47a1d7f57ca323bf08b4749cba13c47aab0c08d24e32f7af24",
+        "author": "张哲",
+        "status": "confirmed",
+        "confirmed_at": "2026-11-14T10:06:50+08:00",
+        "confirmed_by": "惠跃主人",
+        "revision": 65
+      }
+    },
+    {
+      "previous": null,
+      "confirmed": {
+        "code": "Q33",
+        "sha256": "0564814f8ecf80c605d98b41e222c2dcb36d8f093bff18f1ed8ba0d261ef2a74",
+        "author": "张哲",
+        "status": "confirmed",
+        "confirmed_at": "2026-11-14T10:07:05+08:00",
+        "confirmed_by": "惠跃主人",
+        "revision": 66
+      }
+    },
+    {
+      "previous": null,
+      "confirmed": {
+        "code": "Q33-8-2",
+        "sha256": "800134c383593e8b5e3f455cfe90d171b4320f2d4c7c96bcabe6e5bbee9efc46",
+        "author": "张哲",
+        "copywriter": "张哲",
+        "designer": "郑雅斯",
+        "status": "confirmed",
+        "confirmed_at": "2026-11-17T18:09:46+08:00",
+        "confirmed_by": "惠跃主人",
+        "confirmation_source": "2026-11-17 惠跃主人答复：Q33-8-2作者张哲（本会话明确指定），用于韩妮Q33-8-2加做",
+        "revision": 76
+      }
+    },
+    {
+      "previous": null,
+      "confirmed": {
+        "code": "Q33-18",
+        "sha256": "4d69c5e470b0330e7e18d071382b7865c25afa6ab536d59530e80163b62cad40",
+        "author": "张哲",
+        "copywriter": "郑惠跃",
+        "designer": "郑雅斯",
+        "status": "confirmed",
+        "confirmed_at": "2026-11-18T11:33:20+08:00",
+        "confirmed_by": "惠跃主人",
+        "confirmation_source": "2026-11-17 Q33-18 包已按作者张哲交付并被接受；2026-11-18 复用时补登记",
+        "revision": 77
+      }
+    },
+    {
+      "previous": null,
+      "confirmed": {
+        "code": "Q33-19",
+        "sha256": "d3ba862623f68489cf07227b2518eac42190c24e54e7b87b70fe863f16329ec1",
+        "author": "郑惠跃",
+        "copywriter": "郑惠跃",
+        "designer": "郑雅斯",
+        "status": "confirmed",
+        "confirmed_at": "2026-11-18T13:49:10+08:00",
+        "confirmed_by": "惠跃主人",
+        "confirmation_source": "2026-11-18 惠跃主人当面答复：Q33-19 作者郑惠跃",
+        "revision": 78
+      }
+    },
+    {
+      "previous": null,
+      "confirmed": {
+        "code": "A393",
+        "sha256": "ec5db2b9b6f377ba7569c98407011008ddca92b98e3afa6876fb96a52670e33d",
+        "author": "郑惠跃",
+        "copywriter": "郑惠跃",
+        "designer": "郑雅斯",
+        "status": "confirmed",
+        "confirmed_at": "2026-11-18T14:01:51+08:00",
+        "confirmed_by": "惠跃主人",
+        "confirmation_source": "2026-11-18 半成品包名 A393-11-18-郑惠跃-郑惠跃-…-Aveya洗发水 已标注作者郑惠跃、文案郑惠跃、美工郑雅斯",
+        "revision": 79
+      }
+    }
+  ]
 }
