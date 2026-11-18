@@ -1,6 +1,6 @@
 {
  "schema": 1,
- "revision": 78,
+ "revision": 79,
  "records": {
   "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
    "code": "A308",
@@ -677,6 +677,18 @@
    "confirmed_by": "惠跃主人",
    "confirmation_source": "2026-11-18 惠跃主人当面答复：Q33-19 作者郑惠跃",
    "revision": 78
+  },
+  "A393@ec5db2b9b6f377ba7569c98407011008ddca92b98e3afa6876fb96a52670e33d": {
+   "code": "A393",
+   "sha256": "ec5db2b9b6f377ba7569c98407011008ddca92b98e3afa6876fb96a52670e33d",
+   "author": "郑惠跃",
+   "copywriter": "郑惠跃",
+   "designer": "郑雅斯",
+   "status": "confirmed",
+   "confirmed_at": "2026-11-18T14:01:51+08:00",
+   "confirmed_by": "惠跃主人",
+   "confirmation_source": "2026-11-18 半成品包名 A393-11-18-郑惠跃-郑惠跃-…-Aveya洗发水 已标注作者郑惠跃、文案郑惠跃、美工郑雅斯",
+   "revision": 79
   }
  },
  "history": [
@@ -800,6 +812,21 @@
     "confirmed_by": "惠跃主人",
     "confirmation_source": "2026-11-18 惠跃主人当面答复：Q33-19 作者郑惠跃",
     "revision": 78
+   }
+  },
+  {
+   "previous": null,
+   "confirmed": {
+    "code": "A393",
+    "sha256": "ec5db2b9b6f377ba7569c98407011008ddca92b98e3afa6876fb96a52670e33d",
+    "author": "郑惠跃",
+    "copywriter": "郑惠跃",
+    "designer": "郑雅斯",
+    "status": "confirmed",
+    "confirmed_at": "2026-11-18T14:01:51+08:00",
+    "confirmed_by": "惠跃主人",
+    "confirmation_source": "2026-11-18 半成品包名 A393-11-18-郑惠跃-郑惠跃-…-Aveya洗发水 已标注作者郑惠跃、文案郑惠跃、美工郑雅斯",
+    "revision": 79
    }
   }
  ]
