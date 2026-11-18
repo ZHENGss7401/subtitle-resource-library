@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 80,
+  "revision": 81,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -683,6 +683,16 @@
       "confirmed_by": "惠跃主人",
       "confirmation_source": "2026-11-18 半成品包名 A393-11-18-郑惠跃-郑惠跃-…-Aveya洗发水 已标注作者郑惠跃、文案郑惠跃、美工郑雅斯",
       "revision": 79
+    },
+    "A349-2-1@b4c9b500e2b58affd86168a6b39ad9d0e9e0e21ff7d9c077e545d19454fc5618": {
+      "code": "A349-2-1",
+      "sha256": "b4c9b500e2b58affd86168a6b39ad9d0e9e0e21ff7d9c077e545d19454fc5618",
+      "author": "余晓青",
+      "copywriter": "惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T16:36:12+08:00",
+      "confirmation_source": "用户授权从对应包获取作者信息",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.18\\03-A349-2-1"
     }
   },
   "history": [
