@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 81,
+  "revision": 82,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -693,6 +693,146 @@
       "confirmed_at": "2026-11-18T16:36:12+08:00",
       "confirmation_source": "用户授权从对应包获取作者信息",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.18\\03-A349-2-1"
+    },
+    "Q33-2-2黑@1cb68a7cd04fb93c3c6856cb5f9fce18cce7a8a8db8d390eb6d75cacbd0cfefc": {
+      "code": "Q33-2-2黑",
+      "sha256": "1cb68a7cd04fb93c3c6856cb5f9fce18cce7a8a8db8d390eb6d75cacbd0cfefc",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T18:13:58+08:00",
+      "confirmation_source": "用户在本任务明确选择“保留原作者，注明惠跃改标题”；绑定 Q33-2-2黑@1cb68a7cd04fb93c3c6856cb5f9fce18cce7a8a8db8d390eb6d75cacbd0cfefc",
+      "source_package": "C:\\Users\\111\\Downloads\\01-q33俱乐部\\Q33-2-2",
+      "title_adjustment": {
+        "by": "郑惠跃",
+        "description": "标题黑白反差更新；正文与库内同号白版不同，按用户指定版号归组，分别保留文案和原件；保留原作者",
+        "source": "用户本轮明确确认"
+      },
+      "derived_from": {
+        "code": "Q33-2-2",
+        "sha256": "6660db59c97fbc5df423bccdbf7efe83201e532a2abb9a4c56e022ee24c1e8c8",
+        "copy_rel": "文案/Q33-2-2_原文案.docx"
+      }
+    },
+    "Q33-13-2黑@456ac76ad84107ef17d90712c1b84217979e083b72dab68e93e70050fd0ad296": {
+      "code": "Q33-13-2黑",
+      "sha256": "456ac76ad84107ef17d90712c1b84217979e083b72dab68e93e70050fd0ad296",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T18:13:58+08:00",
+      "confirmation_source": "用户在本任务明确选择“保留原作者，注明惠跃改标题”；绑定 Q33-13-2黑@456ac76ad84107ef17d90712c1b84217979e083b72dab68e93e70050fd0ad296",
+      "source_package": "C:\\Users\\111\\Downloads\\01-q33俱乐部\\Q33-13-2",
+      "title_adjustment": {
+        "by": "郑惠跃",
+        "description": "标题黑白反差更新；保留原作者",
+        "source": "用户本轮明确确认"
+      },
+      "derived_from": {
+        "code": "Q33-13-2",
+        "sha256": "868bb08710957e6325f4456d9af6c1ee93c912bc19ec88c7bd075fe6a2472d4c",
+        "copy_rel": "文案/Q33-13-2_原文案.docx"
+      }
+    },
+    "Q33-16黑@acb25c383c7400574c164bc12ae46865271577f5170b1a584489ce0d88d5e678": {
+      "code": "Q33-16黑",
+      "sha256": "acb25c383c7400574c164bc12ae46865271577f5170b1a584489ce0d88d5e678",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T18:13:58+08:00",
+      "confirmation_source": "用户在本任务明确选择“保留原作者，注明惠跃改标题”；绑定 Q33-16黑@acb25c383c7400574c164bc12ae46865271577f5170b1a584489ce0d88d5e678",
+      "source_package": "C:\\Users\\111\\Downloads\\01-q33俱乐部\\Q33-16",
+      "title_adjustment": {
+        "by": "郑惠跃",
+        "description": "标题黑白反差更新；保留原作者",
+        "source": "用户本轮明确确认"
+      },
+      "derived_from": {
+        "code": "Q33-16",
+        "sha256": "981fd3004ae56d14673f3c16ac40d5884cee8abaa091d52d19bb696e79f3d4ce",
+        "copy_rel": "文案/Q33-16_原文案.docx"
+      }
+    },
+    "Q33-17黑@a1f8d3549dfbfca185b4415b6e9f82463d689c06bf95abe8deb1a1e35e43c861": {
+      "code": "Q33-17黑",
+      "sha256": "a1f8d3549dfbfca185b4415b6e9f82463d689c06bf95abe8deb1a1e35e43c861",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T18:13:58+08:00",
+      "confirmation_source": "用户在本任务明确选择“保留原作者，注明惠跃改标题”；绑定 Q33-17黑@a1f8d3549dfbfca185b4415b6e9f82463d689c06bf95abe8deb1a1e35e43c861",
+      "source_package": "C:\\Users\\111\\Downloads\\01-q33俱乐部\\Q33-17",
+      "title_adjustment": {
+        "by": "郑惠跃",
+        "description": "标题黑白反差更新；保留原作者",
+        "source": "用户本轮明确确认"
+      },
+      "derived_from": {
+        "code": "Q33-17",
+        "sha256": "4412e589df105491eb40d00f46e693c102cae10f2272d7cbfc0e64d6dcaea7c5",
+        "copy_rel": "文案/Q33-17_原文案.docx"
+      }
+    },
+    "Q33-17-2黑@d941422a3115af068b5ee93ad139614a8463c08cf8a18e2bd1ec19d58b7bef51": {
+      "code": "Q33-17-2黑",
+      "sha256": "d941422a3115af068b5ee93ad139614a8463c08cf8a18e2bd1ec19d58b7bef51",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T18:13:58+08:00",
+      "confirmation_source": "用户在本任务明确选择“保留原作者，注明惠跃改标题”；绑定 Q33-17-2黑@d941422a3115af068b5ee93ad139614a8463c08cf8a18e2bd1ec19d58b7bef51",
+      "source_package": "C:\\Users\\111\\Downloads\\01-q33俱乐部\\Q33-17-2",
+      "title_adjustment": {
+        "by": "郑惠跃",
+        "description": "标题黑白反差更新；保留原作者",
+        "source": "用户本轮明确确认"
+      },
+      "derived_from": {
+        "code": "Q33-17-2",
+        "sha256": "95f9cba1e4eb8f3b330db66f05140ef7acb1700a5fa4f5cf99c4b14cee874983",
+        "copy_rel": "文案/Q33-17-2_原文案.docx"
+      }
+    },
+    "Q33-18黑@a8ad3b05f51580c1cbf91cbd80aa5527eef4d34febad3397722b81c8a662b6c4": {
+      "code": "Q33-18黑",
+      "sha256": "a8ad3b05f51580c1cbf91cbd80aa5527eef4d34febad3397722b81c8a662b6c4",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T18:13:58+08:00",
+      "confirmation_source": "用户在本任务明确选择“保留原作者，注明惠跃改标题”；绑定 Q33-18黑@a8ad3b05f51580c1cbf91cbd80aa5527eef4d34febad3397722b81c8a662b6c4",
+      "source_package": "C:\\Users\\111\\Downloads\\01-q33俱乐部\\Q33-18",
+      "title_adjustment": {
+        "by": "郑惠跃",
+        "description": "标题黑白反差更新；保留原作者",
+        "source": "用户本轮明确确认"
+      },
+      "derived_from": {
+        "code": "Q33-18",
+        "sha256": "4d69c5e470b0330e7e18d071382b7865c25afa6ab536d59530e80163b62cad40",
+        "copy_rel": "文案/Q33-18_原文案.docx"
+      }
+    },
+    "Q33-19黑@a73f32ae7fedbae30bd4660f688a0a9be9aff5d6b6d3479c211352cb89fa3517": {
+      "code": "Q33-19黑",
+      "sha256": "a73f32ae7fedbae30bd4660f688a0a9be9aff5d6b6d3479c211352cb89fa3517",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-18T18:13:58+08:00",
+      "confirmation_source": "用户在本任务明确选择“保留原作者，注明惠跃改标题”；绑定 Q33-19黑@a73f32ae7fedbae30bd4660f688a0a9be9aff5d6b6d3479c211352cb89fa3517",
+      "source_package": "C:\\Users\\111\\Downloads\\01-q33俱乐部\\Q33-19",
+      "title_adjustment": {
+        "by": "郑惠跃",
+        "description": "标题黑白反差更新；保留原作者",
+        "source": "用户本轮明确确认"
+      },
+      "derived_from": {
+        "code": "Q33-19",
+        "sha256": "d3ba862623f68489cf07227b2518eac42190c24e54e7b87b70fe863f16329ec1",
+        "copy_rel": "文案/Q33-19_原文案.docx"
+      }
     }
   },
   "history": [

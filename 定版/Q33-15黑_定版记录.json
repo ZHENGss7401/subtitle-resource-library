@@ -40,15 +40,14 @@
   "copy": {
     "source": "Q33-15黑文案.docx",
     "lines": [
-      "版本：Q33-15黑　作者：郑惠跃　文案：郑惠跃　美工：郑雅斯　产品：Aveya生发洗发水+OLCG去污牙膏",
-      "Secrets even doctors",
-      "won't tell you",
-      "1. Oral sex  Do less - throat cancer",
-      "2. Big belly  Vitamin D - A Flatter Belly",
-      "3. Insomnia  Vitamin B2 - Sleepy at once",
-      "4. Hair loss  Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)",
-      "5. Grey hair  Vitamin H - Turns black without dye.",
-      "6. Yellow teeth  OLCG Stain-removal Toothpaste from Amazon (Whitens teeth like pearls in one week)",
+      "Secrets even doctors won't tell you",
+      "1. Oral sex Do less - throat cancer",
+      "2. Big belly Vitamin D - A Flatter Belly",
+      "3. Insomnia Vitamin B2 - Sleepy at once",
+      "4. Hair loss Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)",
+      "5. Grey hair Vitamin H - Turns black without dye.",
+      "6. Yellow teeth OLCG Stain-removal Toothpaste from Amazon (Whitens teeth like pearls in one week)",
+      "",
       "1. 口交少做一点——减少喉癌风险。",
       "2. 大肚子——维生素D——让腹部更平坦。",
       "3. 失眠——维生素B2——瞬间让你昏昏欲睡。",
@@ -68,5 +67,12 @@
     "date": "2026-11-17",
     "source": "字幕上传提交日期",
     "sha256": "0d7261bc02f4bf0dabc8374fde68576f7eae5c836c01abc58a21a08abbce877f"
+  },
+  "board_parent_code": "Q33-15",
+  "variant_label": "黑底白字标题",
+  "title_adjustment": {
+    "by": "郑惠跃",
+    "description": "标题黑白反差更新；保留原作者",
+    "source": "用户本轮明确确认"
   }
 }

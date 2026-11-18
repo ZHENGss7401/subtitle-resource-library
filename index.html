@@ -174,6 +174,11 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 .wrap{max-width:1440px}.masthead{align-items:flex-start}.tools{gap:10px;align-items:center}.tools input{width:min(300px,100%);height:44px;border-radius:8px;font-family:var(--sans);font-size:14px}.filter-btn,.more-filter{height:44px;border-radius:8px;border:1px solid var(--rule);background:var(--surface);color:var(--ink);padding:0 15px;cursor:pointer;font:inherit;font-size:13px}.filter-btn:hover,.more-filter:hover{border-color:var(--ink3)}.filter-btn[aria-pressed="true"]{background:var(--li);border-color:var(--li);color:#fff}.filter-btn:focus-visible,.more-filter:focus-visible{outline:2px solid var(--peng);outline-offset:2px}.tools .stat{font-size:12px}.sort-note{font-size:12px;color:var(--ink2);padding-left:4px}.gal{gap:16px}.card2{border-radius:8px}.card2 .cp{padding:12px;border-left:3px solid var(--peng)}.date-line{font-family:var(--mono);font-size:12px;color:var(--ink2);margin-top:4px}.empty-result{grid-column:1/-1;padding:40px 0;color:var(--ink3)}.change-note{padding:12px 15px;border-bottom:1px solid var(--rule);font-size:13px;color:var(--ink2)}.change-note strong{color:var(--ink)}
 @media(max-width:680px){.tools input{width:100%}.tools .stat{margin-left:0}.filter-btn,.more-filter{height:40px;padding:0 11px}.sort-note{width:100%}}
 
+.variant-select{max-width:100%;min-width:0;color:var(--ink);background:var(--surface)}
+.card2 .variant-select{margin-top:6px;width:100%}
+.variant-select:focus-visible{outline:2px solid var(--peng);outline-offset:2px}
+.fcard.pic>header{flex-wrap:wrap}
+.fcard.pic>header .t{flex-basis:100%;white-space:normal;overflow-wrap:anywhere}
 </style>
 <link rel="stylesheet" href="author-ui.css">
 <link rel="stylesheet" href="group-manager.css">
@@ -206,7 +211,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
 <footer>
   <p><b>透明层</b> 包含静态 PNG 与动态 MOV；动态版点开可播放成品预览，并下载透明 MOV 复用。
-     <b>成品预览</b> 使用该版本实际样品，卡片封面取自样品首帧。</p>
+     <b>成品预览</b> 优先使用该版本实际样品；无字素材合成的示意预览会在版本说明中注明。</p>
   <p>命令行取一份定版：<code>python build_index.py --find "Q30-1"</code>　·
      库里每张都锁了 SHA256，与来源包逐条回验。</p>
   <p>本页每 15 秒自动拉一次 <code>data.js</code>——库里加了新版本，页面会自己更新，不用手动刷新。</p>
@@ -268,6 +273,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   var root=document.documentElement;
   root.classList.add('js');
   var data={versions:{}}, list=[], cur=null, opened=false, lbIdx=0, group='all';
+  var families=new Map(), selected=new Map(), lastQuery=null;
   var cfg={groups:{basic:{name:'基本盘组',codes:[]},extra:{name:'另外加做组',codes:[]}},dates:{},notes:{}};
   function meta(v){var m=cfg.dates[v.code]; if(m && m.sha256 && m.sha256!==v.sha256)m=null; if(!m)m=v.upload_date; return m && m.sha256 && m.sha256!==v.sha256 ? null : m;}
   function belongs(v,g){if(g==='all')return true; if(g==='q33')return /^Q33(?:$|-)/i.test(v.code); if(g==='ungrouped')return !belongs(v,'q33')&&!belongs(v,'basic')&&!belongs(v,'extra'); return !!(cfg.groups[g] && cfg.groups[g].codes.indexOf(v.code)>=0);}
@@ -288,11 +294,34 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     if(txt!=null)e.textContent=txt; return e;}
   function conf(st){return st==='已证实'?'ok':(st==='已回填'?'bf':'un');}
 
+  function familyCode(v){return v.board_parent_code && data.versions[v.board_parent_code] ? v.board_parent_code : v.code;}
+  function variants(v){return families.get(familyCode(v))||[v];}
+  function matches(v,q){return !q || [v.code,v.display_name||''].concat(v.aliases||[]).join(' ').toUpperCase().indexOf(q)>=0;}
+  function versionSelect(v,onChange){
+    var select=el('select','tab variant-select'); select.setAttribute('aria-label','选择标题版本');
+    variants(v).forEach(function(x){var option=el('option',null,(x.variant_label||'白底黑字标题')+' · '+x.code);option.value=x.code;select.appendChild(option);});
+    select.value=v.code;
+    select.addEventListener('click',function(e){e.stopPropagation();});
+    select.addEventListener('keydown',function(e){e.stopPropagation();});
+    select.addEventListener('change',function(){selected.set(familyCode(v),select.value);onChange(data.versions[select.value]);});
+    return select;
+  }
   function render(){
     data = window.SUBLIB || {versions:{}};
     var all = Object.keys(data.versions).map(function(k){return data.versions[k];});
     var q = document.getElementById('q').value.trim().toUpperCase();
-    list = all.filter(function(v){return belongs(v,group) && (!q || [v.code,v.display_name||''].concat(v.aliases||[]).join(' ').toUpperCase().indexOf(q)>=0);})
+    if(q!==lastQuery){selected.clear();lastQuery=q;}
+    families=new Map();
+    all.forEach(function(v){var key=familyCode(v);if(!families.has(key))families.set(key,[]);families.get(key).push(v);});
+    var visible=[];
+    families.forEach(function(items,key){
+      items.sort(function(a,b){return (a.code===key?-1:b.code===key?1:0);});
+      if(!items.some(function(v){return belongs(v,group);}) || !items.some(function(v){return matches(v,q);}))return;
+      var v=items.find(function(x){return x.code===selected.get(key);})||items[0];
+      if(!selected.has(key)&&!matches(v,q))v=items.find(function(x){return matches(x,q);});
+      visible.push(v);
+    });
+    list = visible
               .sort(function(a,b){var ad=meta(a),bd=meta(b),av=(ad&&(ad.uploaded_at||ad.date))||'',bv=(bd&&(bd.uploaded_at||bd.date))||'';return bv.localeCompare(av)||a.code.localeCompare(b.code,undefined,{numeric:true});});
 
     var nOk=0,nBf=0,nUn=0;
@@ -304,7 +333,9 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
     var g=document.getElementById('grid'); g.innerHTML='';
     list.forEach(function(v){
-      var card=el('button','card2'); card.type='button';
+      var multiple=variants(v).length>1, card=el(multiple?'div':'button','card2');
+      if(multiple){card.setAttribute('role','button');card.tabIndex=0;}else card.type='button';
+      card.dataset.parentCode=familyCode(v);
       var shot=el('div','shot');
       var img=el('img','pv'); img.src=v.preview_rel; img.loading='lazy'; img.alt=v.code;
       shot.appendChild(img);
@@ -317,6 +348,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       var r1=el('div','r1',v.display_name||v.code);
       r1.appendChild(el('span','st '+conf(v.confidence), v.confidence));
       cp.appendChild(r1);
+      if(variants(v).length>1){cp.appendChild(versionSelect(v,function(){render();}));cp.appendChild(el('div','r3','当前版号：'+v.code));}
       cp.appendChild(el('div','date-line',meta(v)?'定版日期 '+meta(v).date:'定版日期待确认'));
       if(v.asset_type==='dynamic_video') cp.appendChild(el('div','r3','动态透明字幕 · MOV · '+v.fps+'fps'));
       var r2=el('div','r2');
@@ -331,16 +363,17 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       card.appendChild(cp);
 
       card.addEventListener('click',function(){ openModal(v); });
+      card.addEventListener('keydown',function(e){if(multiple&&e.target===card&&(e.key==='Enter'||e.key===' ')){e.preventDefault();openModal(v);}});
       g.appendChild(card);
     });
 
     if(!list.length) g.appendChild(el('div','empty-result','没有找到符合条件的版本，请调整搜索或筛选。'));
     document.getElementById('stat').textContent =
-      list.length+' / '+all.length+' 个版本';
+      list.length+' / '+families.size+' 组 · '+list.reduce(function(n,v){return n+variants(v).length;},0)+' / '+all.length+' 个版本';
     document.getElementById('h2sub').innerHTML =
-      '点任意一张打开对照——左边是定版预览图，右边是这个版本的中英文文案。共 <b>'+all.length+
+      '点任意一张打开对照——左边是定版预览图，右边是这个版本的中英文文案。共 <b>'+families.size+'</b> 组、<b>'+all.length+
       '</b> 个版本，其中已证实 <b>'+nOk+'</b>、已回填 <b>'+nBf+'</b>'+
-      (nUn?'、推断待补 <b>'+nUn+'</b>':'')+(q||group!=='all'?'；当前筛出 <b>'+list.length+'</b> 个':'')+'。';
+      (nUn?'、推断待补 <b>'+nUn+'</b>':'')+(q||group!=='all'?'；当前筛出 <b>'+list.length+'</b> 组':'')+'。';
   }
 
   /* ---------- 尺寸：按图片真实比例给预览卡定宽 ---------- */
@@ -378,18 +411,20 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     box.classList.toggle('checker',which==='layer');
     document.getElementById('t-prev').textContent=dynamic?'成品预览':'定版预览';
     document.getElementById('t-layer').textContent=dynamic?'透明动画':'透明层';
-    var download=document.getElementById('m-download'); download.hidden=!dynamic;
-    if(dynamic){ download.href=cur.layer_rel; download.download=cur.code+'.mov'; }
+    var download=document.getElementById('m-download'); download.hidden=!dynamic&&variants(cur).length<2;
+    if(!download.hidden){download.textContent=dynamic?'下载透明 MOV':'下载透明 PNG';download.href=cur.layer_rel;download.download=cur.code+(dynamic?'.mov':'.png');}
     document.getElementById('t-prev').classList.toggle('on',which!=='layer');
     document.getElementById('t-layer').classList.toggle('on',which==='layer');
     fitPic();
   }
 
   function openModal(v){
-    opened=true; cur=v;
-    var change=document.getElementById('change-note'); change.textContent=''; var label=el('strong',null,'优化说明  ');change.appendChild(label);var note=cfg.notes[v.code]; change.appendChild(document.createTextNode(note && note.sha256===v.sha256 && (!note.baseline || (data.versions[note.baseline] && data.versions[note.baseline].sha256===note.baseline_sha256)) && note.text ? note.text : '暂无已确认的优化说明'));
+    opened=true; cur=v;selected.set(familyCode(v),v.code);
+    var change=document.getElementById('change-note'); change.textContent=''; var label=el('strong',null,'优化说明  ');change.appendChild(label);var note=cfg.notes[v.code]; change.appendChild(document.createTextNode(note && note.sha256===v.sha256 && (!note.baseline || (data.versions[note.baseline] && data.versions[note.baseline].sha256===note.baseline_sha256)) && note.text ? note.text : v.title_adjustment ? v.title_adjustment.description+'；标题调整：'+v.title_adjustment.by+(v.preview_source_note?'；预览说明：'+v.preview_source_note:'') : '暂无已确认的优化说明'));
     document.getElementById('m-title').dataset.code=v.code;
-    document.getElementById('m-title').textContent=v.display_name||v.code;
+    document.getElementById('m-title').textContent=(v.display_name||v.code)+(variants(v).length>1&&v.display_name&&v.display_name!==v.code?' · '+v.code:'');
+    var oldSelect=document.querySelector('.fcard.pic .variant-select');if(oldSelect)oldSelect.remove();
+    if(variants(v).length>1)document.getElementById('m-title').after(versionSelect(v,function(next){render();openModal(next);}));
     document.getElementById('m-src').textContent =
       v.size[0]+'×'+v.size[1]+'　'+v.sha256.slice(0,16)+'　'+v.confidence+
       (v.aliases&&v.aliases.length?'　包名 '+v.aliases.join('/'):'')+
@@ -418,6 +453,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     if(!list.length) return;
     lbIdx=(i+list.length)%list.length;
     var v=list[lbIdx];
+    if(cur&&familyCode(cur)===familyCode(v))v=cur;
     lbimg.src=(cur&&cur.code===v.code&&document.getElementById('m-box').classList.contains('checker'))
       ? (v.layer_still_rel||v.layer_rel) : v.preview_rel;
     lbcap.innerHTML='<b>'+v.code+'</b>　'+(v.dates||[]).join(' / ')+'　'+v.size[0]+'×'+v.size[1]+
@@ -429,7 +465,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
   document.getElementById('m-img').addEventListener('click',function(){
     var v=cur; if(!v) return;
-    var i=list.findIndex(function(x){return x.code===v.code;});
+    var i=list.findIndex(function(x){return familyCode(x)===familyCode(v);});
     lbOpen(i<0?0:i);
   });
   document.getElementById('lbx').addEventListener('click',lbHide);

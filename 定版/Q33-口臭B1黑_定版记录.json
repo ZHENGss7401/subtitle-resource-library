@@ -40,15 +40,14 @@
   "copy": {
     "source": "Q33-口臭B1黑文案.docx",
     "lines": [
-      "版本：Q33-口臭B1黑　作者：张哲　文案：郑惠跃　美工：郑雅斯　产品：Aveya生发洗发水+OLCG去污牙膏",
-      "Secrets even doctors",
-      "won't tell you",
-      "1. Oral sex  Do less - throat cancer",
-      "2. Bad breath  Vitamin B1 - Gone for good",
-      "3. Snoring  Vitamin C - Quiet all night long",
-      "4. Hair loss  Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)",
-      "5. Grey hair  Vitamin H - Turns black without dye.",
-      "6. Yellow teeth  OLCG Stain-removal Toothpaste from Amazon Turn on Your Teeth Brightening & Whitening Switch to Pearl-White Teeth in one week",
+      "Secrets even doctors won't tell you",
+      "1. Oral sex Do less - throat cancer",
+      "2. Bad breath Vitamin B1 - Gone for good",
+      "3. Snoring Vitamin C - Quiet all night long",
+      "4. Hair loss Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)",
+      "5. Grey hair Vitamin H - Turns black without dye.",
+      "6. Yellow teeth OLCG Stain-removal Toothpaste from Amazon Turn on Your Teeth Brightening & Whitening Switch to Pearl-White Teeth in one week",
+      "",
       "1. 口交——减少频率——预防喉癌。",
       "2. 口臭——维生素B1——一劳永逸。",
       "3. 打鼾——维生素C——整夜安静。",
@@ -68,5 +67,12 @@
     "date": "2026-11-17",
     "source": "字幕上传提交日期",
     "sha256": "28cd90b00dbf2defe37cf25f3c9c7af655cbbe04b2be591b6b9b9229b1dfa062"
+  },
+  "board_parent_code": "Q33-（口臭B1、打鼾VC）",
+  "variant_label": "黑底白字标题",
+  "title_adjustment": {
+    "by": "郑惠跃",
+    "description": "标题黑白反差更新；保留原作者",
+    "source": "用户本轮明确确认"
   }
 }
