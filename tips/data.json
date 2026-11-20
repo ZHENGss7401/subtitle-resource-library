@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-18",
+  "built": "2026-11-20",
   "root": "字幕资源库 / INDEX.json",
   "rows": [
     {
@@ -16815,6 +16815,328 @@
       "sha": "a73f32ae7fedbae30bd4660f688a0a9be9aff5d6b6d3479c211352cb89fa3517",
       "textHash": "a2cc2fd0aef7da55c04e77265de4a43acd9cbd76177e96d454508c3eae68026f",
       "addedAt": "2026-11-18"
+    },
+    {
+      "id": "Q33-20·01",
+      "code": "Q33-20",
+      "topic": "口交与感染",
+      "groupId": "T208",
+      "kind": "生活小tips",
+      "text": "1.Oral sex\nDo not swallow - Colon cancer",
+      "zh": "1. 口交：不要吞咽——否则可能引发结肠癌。",
+      "zhDisplay": "1. 口交：不要吞咽——否则可能引发结肠癌。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "3–4",
+      "zhLine": "18–18",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20/预览-47e6eecfaa6f.png",
+      "layer": "定版/版本/Q33-20/59659a6d7b28.png",
+      "sha": "59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "textHash": "7806b442f77cddbf9a3bf41833b9119496c9704102813e57b17c4f2447677fb2",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20·02",
+      "code": "Q33-20",
+      "topic": "私密护理",
+      "groupId": "T182",
+      "kind": "生活小tips",
+      "text": "2.Private parts\nTake Vitamin H - Repair the mucous membrane",
+      "zh": "2. 私密部位：服用维生素H——可修复黏膜。",
+      "zhDisplay": "2. 私密部位：服用维生素H——可修复黏膜。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "5–6",
+      "zhLine": "19–19",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20/预览-47e6eecfaa6f.png",
+      "layer": "定版/版本/Q33-20/59659a6d7b28.png",
+      "sha": "59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "textHash": "300d6b2a80522058bd2332227551331caea9283eb2d380a4887094dc69d2b4a5",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20·03",
+      "code": "Q33-20",
+      "topic": "白发与维生素",
+      "groupId": "T85",
+      "kind": "生活小tips",
+      "text": "3.Grey hair\nTake Vitamin H - Turns black without dye.",
+      "zh": "3. 白发：服用维生素H——无需染发，头发便会变黑。",
+      "zhDisplay": "3. 白发：服用维生素H——无需染发，头发便会变黑。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "7–8",
+      "zhLine": "20–20",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20/预览-47e6eecfaa6f.png",
+      "layer": "定版/版本/Q33-20/59659a6d7b28.png",
+      "sha": "59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "textHash": "00b430e63bbf4455c8bc553131fa6187dc0d31eba1dca560f37b003719b6b730",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20·04",
+      "code": "Q33-20",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "4. Hair loss\nAveya Hair Growth shampoo on Amazon\n(Grows hair like grass in 7 days)",
+      "zh": "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。",
+      "zhDisplay": "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "9–11",
+      "zhLine": "21–21",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20/预览-47e6eecfaa6f.png",
+      "layer": "定版/版本/Q33-20/59659a6d7b28.png",
+      "sha": "59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "textHash": "69716652146079ac3be8a818a5e732fd0312ff68c6671c210bd4b524b93aa815",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20·05",
+      "code": "Q33-20",
+      "topic": "胸部下垂",
+      "groupId": "T139",
+      "kind": "生活小tips",
+      "text": "5.Big bust\nDon't wear a camisole - prone to sagging",
+      "zh": "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。",
+      "zhDisplay": "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "12–13",
+      "zhLine": "22–22",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。图片使用弯撇号，DOCX使用直撇号，原件各自保留。",
+      "preview": "定版/版本/Q33-20/预览-47e6eecfaa6f.png",
+      "layer": "定版/版本/Q33-20/59659a6d7b28.png",
+      "sha": "59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "textHash": "357f1a43cc96d21b39ca44e5ca46dc14be11889e5538eee498ba96174d78a6a7",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20·06",
+      "code": "Q33-20",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth  \nOLCG Stain-removal Toothpaste from\nAmazon(Whitens teeth like pearls in one week)",
+      "zh": "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）",
+      "zhDisplay": "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "14–16",
+      "zhLine": "23–23",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20/预览-47e6eecfaa6f.png",
+      "layer": "定版/版本/Q33-20/59659a6d7b28.png",
+      "sha": "59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "textHash": "9bc510ad190aaa9362f76264fbf74e10e890c9f12819ec03c41c145ff40be65e",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20·图·59659a6d7b28·1",
+      "code": "Q33-20",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth\nOLCG Stain-removal Toothpaste from AMZ\n(Whitens teeth like pearls in one week)",
+      "zh": "",
+      "zhDisplay": "6. 黄牙：来自亚马逊的OLCG去渍牙膏（一周内让牙齿如珍珠般洁白）。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "图片可见原文",
+      "source": "定版/版本/Q33-20/59659a6d7b28.png",
+      "line": "图片差异",
+      "zhLine": "",
+      "note": "图片使用AMZ缩写；DOCX使用Amazon并有不同换行。保留两种原文形态；产品功效未经核验。",
+      "preview": "定版/版本/Q33-20/预览-47e6eecfaa6f.png",
+      "layer": "定版/版本/Q33-20/59659a6d7b28.png",
+      "sha": "59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "textHash": "f80cd51d2be8286b12914072fac2a26dc54dd61fd5f5d9c964f1415ec8de0b1c",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20黑·01",
+      "code": "Q33-20黑",
+      "topic": "口交与感染",
+      "groupId": "T208",
+      "kind": "生活小tips",
+      "text": "1.Oral sex\nDo not swallow - Colon cancer",
+      "zh": "1. 口交：不要吞咽——否则可能引发结肠癌。",
+      "zhDisplay": "1. 口交：不要吞咽——否则可能引发结肠癌。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "3–4",
+      "zhLine": "18–18",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20黑/预览-95997b45c788.png",
+      "layer": "定版/版本/Q33-20黑/9bcf2e417572.png",
+      "sha": "9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "textHash": "7806b442f77cddbf9a3bf41833b9119496c9704102813e57b17c4f2447677fb2",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20黑·02",
+      "code": "Q33-20黑",
+      "topic": "私密护理",
+      "groupId": "T182",
+      "kind": "生活小tips",
+      "text": "2.Private parts\nTake Vitamin H - Repair the mucous membrane",
+      "zh": "2. 私密部位：服用维生素H——可修复黏膜。",
+      "zhDisplay": "2. 私密部位：服用维生素H——可修复黏膜。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "5–6",
+      "zhLine": "19–19",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20黑/预览-95997b45c788.png",
+      "layer": "定版/版本/Q33-20黑/9bcf2e417572.png",
+      "sha": "9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "textHash": "300d6b2a80522058bd2332227551331caea9283eb2d380a4887094dc69d2b4a5",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20黑·03",
+      "code": "Q33-20黑",
+      "topic": "白发与维生素",
+      "groupId": "T85",
+      "kind": "生活小tips",
+      "text": "3.Grey hair\nTake Vitamin H - Turns black without dye.",
+      "zh": "3. 白发：服用维生素H——无需染发，头发便会变黑。",
+      "zhDisplay": "3. 白发：服用维生素H——无需染发，头发便会变黑。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "7–8",
+      "zhLine": "20–20",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20黑/预览-95997b45c788.png",
+      "layer": "定版/版本/Q33-20黑/9bcf2e417572.png",
+      "sha": "9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "textHash": "00b430e63bbf4455c8bc553131fa6187dc0d31eba1dca560f37b003719b6b730",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20黑·04",
+      "code": "Q33-20黑",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "4. Hair loss\nAveya Hair Growth shampoo on Amazon\n(Grows hair like grass in 7 days)",
+      "zh": "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。",
+      "zhDisplay": "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "9–11",
+      "zhLine": "21–21",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20黑/预览-95997b45c788.png",
+      "layer": "定版/版本/Q33-20黑/9bcf2e417572.png",
+      "sha": "9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "textHash": "69716652146079ac3be8a818a5e732fd0312ff68c6671c210bd4b524b93aa815",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20黑·05",
+      "code": "Q33-20黑",
+      "topic": "胸部下垂",
+      "groupId": "T139",
+      "kind": "生活小tips",
+      "text": "5.Big bust\nDon't wear a camisole - prone to sagging",
+      "zh": "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。",
+      "zhDisplay": "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "12–13",
+      "zhLine": "22–22",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。图片使用弯撇号，DOCX使用直撇号，原件各自保留。",
+      "preview": "定版/版本/Q33-20黑/预览-95997b45c788.png",
+      "layer": "定版/版本/Q33-20黑/9bcf2e417572.png",
+      "sha": "9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "textHash": "357f1a43cc96d21b39ca44e5ca46dc14be11889e5538eee498ba96174d78a6a7",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20黑·06",
+      "code": "Q33-20黑",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth  \nOLCG Stain-removal Toothpaste from\nAmazon(Whitens teeth like pearls in one week)",
+      "zh": "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）",
+      "zhDisplay": "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-20文案.docx",
+      "line": "14–16",
+      "zhLine": "23–23",
+      "note": "原文素材宣称，未作医学核验；归档不代表医学建议或功效背书。",
+      "preview": "定版/版本/Q33-20黑/预览-95997b45c788.png",
+      "layer": "定版/版本/Q33-20黑/9bcf2e417572.png",
+      "sha": "9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "textHash": "9bc510ad190aaa9362f76264fbf74e10e890c9f12819ec03c41c145ff40be65e",
+      "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-20黑·图·9bcf2e417572·1",
+      "code": "Q33-20黑",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth\nOLCG Stain-removal Toothpaste from AMZ\n(Whitens teeth like pearls in one week)",
+      "zh": "",
+      "zhDisplay": "6. 黄牙：来自亚马逊的OLCG去渍牙膏（一周内让牙齿如珍珠般洁白）。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密",
+      "sourceType": "图片可见原文",
+      "source": "定版/版本/Q33-20黑/9bcf2e417572.png",
+      "line": "图片差异",
+      "zhLine": "",
+      "note": "图片使用AMZ缩写；DOCX使用Amazon并有不同换行。保留两种原文形态；产品功效未经核验。",
+      "preview": "定版/版本/Q33-20黑/预览-95997b45c788.png",
+      "layer": "定版/版本/Q33-20黑/9bcf2e417572.png",
+      "sha": "9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "textHash": "f80cd51d2be8286b12914072fac2a26dc54dd61fd5f5d9c964f1415ec8de0b1c",
+      "addedAt": "2026-11-20"
     }
   ],
   "groups": [
@@ -16924,8 +17246,8 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 72,
-      "forms": 53,
+      "count": 76,
+      "forms": 55,
       "versions": [
         "A301-1",
         "A310",
@@ -16993,7 +17315,9 @@
         "Q33-17黑",
         "Q33-17-2黑",
         "Q33-18黑",
-        "Q33-19黑"
+        "Q33-19黑",
+        "Q33-20",
+        "Q33-20黑"
       ]
     },
     {
@@ -17931,8 +18255,8 @@
     {
       "id": "T85",
       "name": "白发与维生素",
-      "count": 35,
-      "forms": 16,
+      "count": 37,
+      "forms": 17,
       "versions": [
         "Q33",
         "Q33-1",
@@ -17967,7 +18291,9 @@
         "Q33-17黑",
         "Q33-17-2黑",
         "Q33-18黑",
-        "Q33-19黑"
+        "Q33-19黑",
+        "Q33-20",
+        "Q33-20黑"
       ]
     },
     {
@@ -18512,10 +18838,12 @@
     {
       "id": "T139",
       "name": "胸部下垂",
-      "count": 1,
-      "forms": 1,
+      "count": 3,
+      "forms": 2,
       "versions": [
-        "Q33-7"
+        "Q33-7",
+        "Q33-20",
+        "Q33-20黑"
       ]
     },
     {
@@ -18844,7 +19172,7 @@
     {
       "id": "T174",
       "name": "脱发与生发洗发水",
-      "count": 13,
+      "count": 15,
       "forms": 10,
       "versions": [
         "Q33-客厅养鱼",
@@ -18859,7 +19187,9 @@
         "Q33-口臭B1黑",
         "A195-4-洗发水+牙膏",
         "A195-4-牙膏+洗发水",
-        "A349-2-1"
+        "A349-2-1",
+        "Q33-20",
+        "Q33-20黑"
       ]
     },
     {
@@ -18938,10 +19268,12 @@
     {
       "id": "T182",
       "name": "私密护理",
-      "count": 1,
-      "forms": 1,
+      "count": 3,
+      "forms": 2,
       "versions": [
-        "A333-牙膏+洗发水"
+        "A333-牙膏+洗发水",
+        "Q33-20",
+        "Q33-20黑"
       ]
     },
     {
@@ -19180,10 +19512,12 @@
     {
       "id": "T208",
       "name": "口交与感染",
-      "count": 1,
-      "forms": 1,
+      "count": 3,
+      "forms": 2,
       "versions": [
-        "Q33-18黑"
+        "Q33-18黑",
+        "Q33-20",
+        "Q33-20黑"
       ]
     },
     {
@@ -23355,6 +23689,82 @@
       "previewSha": "8bb713cf714bcd49832ff8507e301b49376c182102aa45fbd272e59316658728",
       "aliases": [],
       "sourceBuilt": "2026-11-18",
+      "contextLineNumbers": []
+    },
+    {
+      "code": "Q33-20",
+      "count": 7,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "Q33-20文案.docx",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Oral sex",
+        "Do not swallow - Colon cancer",
+        "2.Private parts",
+        "Take Vitamin H - Repair the mucous membrane",
+        "3.Grey hair",
+        "Take Vitamin H - Turns black without dye.",
+        "4. Hair loss",
+        "Aveya Hair Growth shampoo on Amazon",
+        "(Grows hair like grass in 7 days)",
+        "5.Big bust",
+        "Don't wear a camisole - prone to sagging",
+        "6.Yellow teeth  ",
+        "OLCG Stain-removal Toothpaste from",
+        "Amazon(Whitens teeth like pearls in one week)",
+        "连医生也不会告诉你的秘密：",
+        "1. 口交：不要吞咽——否则可能引发结肠癌。",
+        "2. 私密部位：服用维生素H——可修复黏膜。",
+        "3. 白发：服用维生素H——无需染发，头发便会变黑。",
+        "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。",
+        "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。",
+        "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）"
+      ],
+      "layer": "定版/版本/Q33-20/59659a6d7b28.png",
+      "preview": "定版/版本/Q33-20/预览-47e6eecfaa6f.png",
+      "sha": "59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "previewSha": "47e6eecfaa6fd4af846004b61f2f2172db96bd5af38e5273dc32bf83ab92966b",
+      "aliases": [],
+      "sourceBuilt": "2026-11-20",
+      "contextLineNumbers": []
+    },
+    {
+      "code": "Q33-20黑",
+      "count": 7,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "Q33-20文案.docx",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Oral sex",
+        "Do not swallow - Colon cancer",
+        "2.Private parts",
+        "Take Vitamin H - Repair the mucous membrane",
+        "3.Grey hair",
+        "Take Vitamin H - Turns black without dye.",
+        "4. Hair loss",
+        "Aveya Hair Growth shampoo on Amazon",
+        "(Grows hair like grass in 7 days)",
+        "5.Big bust",
+        "Don't wear a camisole - prone to sagging",
+        "6.Yellow teeth  ",
+        "OLCG Stain-removal Toothpaste from",
+        "Amazon(Whitens teeth like pearls in one week)",
+        "连医生也不会告诉你的秘密：",
+        "1. 口交：不要吞咽——否则可能引发结肠癌。",
+        "2. 私密部位：服用维生素H——可修复黏膜。",
+        "3. 白发：服用维生素H——无需染发，头发便会变黑。",
+        "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。",
+        "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。",
+        "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）"
+      ],
+      "layer": "定版/版本/Q33-20黑/9bcf2e417572.png",
+      "preview": "定版/版本/Q33-20黑/预览-95997b45c788.png",
+      "sha": "9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "previewSha": "95997b45c788019aa63685c03d426d934b2155b4cacf7c1a8ae83d96d276d1e9",
+      "aliases": [],
+      "sourceBuilt": "2026-11-20",
       "contextLineNumbers": []
     }
   ],
@@ -38004,6 +38414,282 @@
       7,
       "小tips原文",
       "6.Yellow teeth OLCG Stain-removal Toothpaste from Amazon Turn on Your Teeth Brightening & Whitening Switch to Pearl-White Teeth in one week"
+    ],
+    [
+      "Q33-20",
+      1,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-20",
+      2,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-20",
+      3,
+      "小tips原文",
+      "1.Oral sex"
+    ],
+    [
+      "Q33-20",
+      4,
+      "小tips原文",
+      "Do not swallow - Colon cancer"
+    ],
+    [
+      "Q33-20",
+      5,
+      "小tips原文",
+      "2.Private parts"
+    ],
+    [
+      "Q33-20",
+      6,
+      "小tips原文",
+      "Take Vitamin H - Repair the mucous membrane"
+    ],
+    [
+      "Q33-20",
+      7,
+      "小tips原文",
+      "3.Grey hair"
+    ],
+    [
+      "Q33-20",
+      8,
+      "小tips原文",
+      "Take Vitamin H - Turns black without dye."
+    ],
+    [
+      "Q33-20",
+      9,
+      "小tips原文",
+      "4. Hair loss"
+    ],
+    [
+      "Q33-20",
+      10,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on Amazon"
+    ],
+    [
+      "Q33-20",
+      11,
+      "小tips原文",
+      "(Grows hair like grass in 7 days)"
+    ],
+    [
+      "Q33-20",
+      12,
+      "小tips原文",
+      "5.Big bust"
+    ],
+    [
+      "Q33-20",
+      13,
+      "小tips原文",
+      "Don't wear a camisole - prone to sagging"
+    ],
+    [
+      "Q33-20",
+      14,
+      "小tips原文",
+      "6.Yellow teeth  "
+    ],
+    [
+      "Q33-20",
+      15,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste from"
+    ],
+    [
+      "Q33-20",
+      16,
+      "小tips原文",
+      "Amazon(Whitens teeth like pearls in one week)"
+    ],
+    [
+      "Q33-20",
+      17,
+      "标题/说明/来源中文",
+      "连医生也不会告诉你的秘密："
+    ],
+    [
+      "Q33-20",
+      18,
+      "标题/说明/来源中文",
+      "1. 口交：不要吞咽——否则可能引发结肠癌。"
+    ],
+    [
+      "Q33-20",
+      19,
+      "标题/说明/来源中文",
+      "2. 私密部位：服用维生素H——可修复黏膜。"
+    ],
+    [
+      "Q33-20",
+      20,
+      "标题/说明/来源中文",
+      "3. 白发：服用维生素H——无需染发，头发便会变黑。"
+    ],
+    [
+      "Q33-20",
+      21,
+      "标题/说明/来源中文",
+      "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。"
+    ],
+    [
+      "Q33-20",
+      22,
+      "标题/说明/来源中文",
+      "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。"
+    ],
+    [
+      "Q33-20",
+      23,
+      "标题/说明/来源中文",
+      "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）"
+    ],
+    [
+      "Q33-20黑",
+      1,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-20黑",
+      2,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-20黑",
+      3,
+      "小tips原文",
+      "1.Oral sex"
+    ],
+    [
+      "Q33-20黑",
+      4,
+      "小tips原文",
+      "Do not swallow - Colon cancer"
+    ],
+    [
+      "Q33-20黑",
+      5,
+      "小tips原文",
+      "2.Private parts"
+    ],
+    [
+      "Q33-20黑",
+      6,
+      "小tips原文",
+      "Take Vitamin H - Repair the mucous membrane"
+    ],
+    [
+      "Q33-20黑",
+      7,
+      "小tips原文",
+      "3.Grey hair"
+    ],
+    [
+      "Q33-20黑",
+      8,
+      "小tips原文",
+      "Take Vitamin H - Turns black without dye."
+    ],
+    [
+      "Q33-20黑",
+      9,
+      "小tips原文",
+      "4. Hair loss"
+    ],
+    [
+      "Q33-20黑",
+      10,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on Amazon"
+    ],
+    [
+      "Q33-20黑",
+      11,
+      "小tips原文",
+      "(Grows hair like grass in 7 days)"
+    ],
+    [
+      "Q33-20黑",
+      12,
+      "小tips原文",
+      "5.Big bust"
+    ],
+    [
+      "Q33-20黑",
+      13,
+      "小tips原文",
+      "Don't wear a camisole - prone to sagging"
+    ],
+    [
+      "Q33-20黑",
+      14,
+      "小tips原文",
+      "6.Yellow teeth  "
+    ],
+    [
+      "Q33-20黑",
+      15,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste from"
+    ],
+    [
+      "Q33-20黑",
+      16,
+      "小tips原文",
+      "Amazon(Whitens teeth like pearls in one week)"
+    ],
+    [
+      "Q33-20黑",
+      17,
+      "标题/说明/来源中文",
+      "连医生也不会告诉你的秘密："
+    ],
+    [
+      "Q33-20黑",
+      18,
+      "标题/说明/来源中文",
+      "1. 口交：不要吞咽——否则可能引发结肠癌。"
+    ],
+    [
+      "Q33-20黑",
+      19,
+      "标题/说明/来源中文",
+      "2. 私密部位：服用维生素H——可修复黏膜。"
+    ],
+    [
+      "Q33-20黑",
+      20,
+      "标题/说明/来源中文",
+      "3. 白发：服用维生素H——无需染发，头发便会变黑。"
+    ],
+    [
+      "Q33-20黑",
+      21,
+      "标题/说明/来源中文",
+      "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。"
+    ],
+    [
+      "Q33-20黑",
+      22,
+      "标题/说明/来源中文",
+      "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。"
+    ],
+    [
+      "Q33-20黑",
+      23,
+      "标题/说明/来源中文",
+      "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）"
     ]
   ],
   "retired": {
@@ -38012,70 +38698,37 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "5c49347a0c84cb3d982dedee00e10739478ba0046b7a343988fab158fa98b383",
+  "indexSha": "f9aceb7b48dc98562ea8d35ab5bcf2f74d1e42e345554e7458cc5e2d45052232",
   "latestBatch": {
-    "date": "2026-11-18",
+    "date": "2026-11-20",
     "versions": [
-      "Q33-2-2黑",
-      "Q33-13-2黑",
-      "Q33-16黑",
-      "Q33-17黑",
-      "Q33-17-2黑",
-      "Q33-18黑",
-      "Q33-19黑"
+      "Q33-20",
+      "Q33-20黑"
     ],
-    "records": 42,
+    "records": 14,
     "recordIds": [
-      "Q33-2-2黑·01",
-      "Q33-2-2黑·02",
-      "Q33-2-2黑·03",
-      "Q33-2-2黑·04",
-      "Q33-2-2黑·05",
-      "Q33-2-2黑·06",
-      "Q33-13-2黑·01",
-      "Q33-13-2黑·02",
-      "Q33-13-2黑·03",
-      "Q33-13-2黑·04",
-      "Q33-13-2黑·05",
-      "Q33-13-2黑·06",
-      "Q33-16黑·01",
-      "Q33-16黑·02",
-      "Q33-16黑·03",
-      "Q33-16黑·04",
-      "Q33-16黑·05",
-      "Q33-16黑·06",
-      "Q33-17黑·01",
-      "Q33-17黑·02",
-      "Q33-17黑·03",
-      "Q33-17黑·04",
-      "Q33-17黑·05",
-      "Q33-17黑·06",
-      "Q33-17-2黑·01",
-      "Q33-17-2黑·02",
-      "Q33-17-2黑·03",
-      "Q33-17-2黑·04",
-      "Q33-17-2黑·05",
-      "Q33-17-2黑·06",
-      "Q33-18黑·01",
-      "Q33-18黑·02",
-      "Q33-18黑·03",
-      "Q33-18黑·04",
-      "Q33-18黑·05",
-      "Q33-18黑·06",
-      "Q33-19黑·01",
-      "Q33-19黑·02",
-      "Q33-19黑·03",
-      "Q33-19黑·04",
-      "Q33-19黑·05",
-      "Q33-19黑·06"
+      "Q33-20·01",
+      "Q33-20·02",
+      "Q33-20·03",
+      "Q33-20·04",
+      "Q33-20·05",
+      "Q33-20·06",
+      "Q33-20·图·59659a6d7b28·1",
+      "Q33-20黑·01",
+      "Q33-20黑·02",
+      "Q33-20黑·03",
+      "Q33-20黑·04",
+      "Q33-20黑·05",
+      "Q33-20黑·06",
+      "Q33-20黑·图·9bcf2e417572·1"
     ]
   },
   "alignment": {
-    "subtitleVersions": 101,
-    "coveredVersions": 101,
+    "subtitleVersions": 103,
+    "coveredVersions": 103,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "5c49347a0c84cb3d982dedee00e10739478ba0046b7a343988fab158fa98b383",
-    "checkedAt": "2026-11-18"
+    "sourceIndexSha256": "f9aceb7b48dc98562ea8d35ab5bcf2f74d1e42e345554e7458cc5e2d45052232",
+    "checkedAt": "2026-11-20"
   }
 }

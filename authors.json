@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 82,
+  "revision": 83,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -833,6 +833,26 @@
         "sha256": "d3ba862623f68489cf07227b2518eac42190c24e54e7b87b70fe863f16329ec1",
         "copy_rel": "文案/Q33-19_原文案.docx"
       }
+    },
+    "Q33-20@59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1": {
+      "code": "Q33-20",
+      "sha256": "59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-20T12:05:32+08:00",
+      "confirmation_source": "本次用户授权入库的Q33-20包名明确作者与文案均为郑惠跃；逐版绑定PNG SHA256 59659a6d7b2893217fa00a5ce1ac1f48b69e0a9a0ab68a86b360d733c461ddc1",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.20\\Q33俱乐部\\Q33-20-11.20-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
+    },
+    "Q33-20黑@9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8": {
+      "code": "Q33-20黑",
+      "sha256": "9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-20T12:05:32+08:00",
+      "confirmation_source": "本次用户授权入库的Q33-20包名明确作者与文案均为郑惠跃；逐版绑定PNG SHA256 9bcf2e417572bc9b681287660564ca6f5c515e9a5aefd31439b0308934a0acb8",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.20\\Q33俱乐部\\Q33-20-11.20-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏"
     }
   },
   "history": [
