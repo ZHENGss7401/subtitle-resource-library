@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 86,
+  "revision": 87,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -933,6 +933,26 @@
       "confirmed_at": "2026-11-23T14:50:00+08:00",
       "confirmation_source": "2026-11-23 惠跃主人确认：A391-1 两个优化新版的作者都是余晓青",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.23\\02-A391-1"
+    },
+    "Q33-17-5@f8ec3543460007ca22d3111e0b36cad88e71e3109463551d9ee1405752e4f2f7": {
+      "code": "Q33-17-5",
+      "sha256": "f8ec3543460007ca22d3111e0b36cad88e71e3109463551d9ee1405752e4f2f7",
+      "author": "郑惠跃",
+      "copywriter": "",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-23T17:16:25+08:00",
+      "confirmation_source": "2026-11-23 本会话用户明确作者郑惠跃；版本Q33-17-5，PNG SHA256 f8ec3543460007ca22d3111e0b36cad88e71e3109463551d9ee1405752e4f2f7",
+      "source_package": "C:\\Users\\111\\Downloads\\今日字幕透明图-q33-17-5"
+    },
+    "Q33-17-5黑@c630701510933b001ee247f6786bf3d9787dc0d212d3ae4d67ffff22d697b51d": {
+      "code": "Q33-17-5黑",
+      "sha256": "c630701510933b001ee247f6786bf3d9787dc0d212d3ae4d67ffff22d697b51d",
+      "author": "郑惠跃",
+      "copywriter": "",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-23T17:16:25+08:00",
+      "confirmation_source": "2026-11-23 本会话用户明确作者郑惠跃；版本Q33-17-5黑，PNG SHA256 c630701510933b001ee247f6786bf3d9787dc0d212d3ae4d67ffff22d697b51d",
+      "source_package": "C:\\Users\\111\\Downloads\\今日字幕透明图-q33-17-5"
     }
   },
   "history": [

@@ -1,0 +1,83 @@
+{
+  "code": "Q33-17-5",
+  "pkg_code": "Q33-17-5",
+  "aliases": [],
+  "dates": [
+    "11.23"
+  ],
+  "src_packages": [
+    "C:\\Users\\111\\Downloads\\今日字幕透明图-q33-17-5"
+  ],
+  "src_file": "C:\\Users\\111\\Downloads\\今日字幕透明图-q33-17-5\\q33-17-5-常规.png",
+  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-17-5.png",
+  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-17-5.png",
+  "layer_rel": "定版/Q33-17-5.png",
+  "preview_rel": "定版/Q33-17-5_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-17-5_成品预览.png",
+  "preview_kind": "无字素材＋定版字幕合成预览",
+  "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/2. 半成品/11.20/Q33俱乐部/Q33-17-4-11.20-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-35/flow/004.mp4",
+  "preview_frame_seconds": 1,
+  "preview_source_note": "本包仅提供字幕PNG；使用同系列Q33-17-4包flow无字素材第1秒合成，非本版实际成品",
+  "sha256": "f8ec3543460007ca22d3111e0b36cad88e71e3109463551d9ee1405752e4f2f7",
+  "preview_sha256": "800c845a31d0f6464caa2b6a5962e3e5d5aeba048cb1e36f3c00d9b27cee74cb",
+  "size": [
+    1536,
+    2752
+  ],
+  "preview_size": [
+    720,
+    1280
+  ],
+  "basis": "用户授权本次入库上线；原始文件逐字节保留",
+  "confidence": "已证实",
+  "contested": false,
+  "discarded": [],
+  "author": "郑惠跃",
+  "copywriter": "",
+  "author_status": "confirmed",
+  "author_confirmed_at": "2026-11-23T17:16:25+08:00",
+  "author_source": "2026-11-23 惠跃主人明确两图作者郑惠跃；对应PNG SHA256 f8ec3543460007ca22d3111e0b36cad88e71e3109463551d9ee1405752e4f2f7",
+  "copy": {
+    "source": "Q33-17-5_图片可见原文.txt",
+    "lines": [
+      "Secrets even doctors",
+      "won’t tell you",
+      "1.Coca Cola",
+      "Drink less",
+      "piles on fat fast",
+      "2. Constipation",
+      "Take Vitamin C",
+      "Unclogs your gut",
+      "3.Insomnia",
+      "Take Vitamin B6",
+      "Brings back sleep",
+      "4.Hair loss",
+      "Aveya Hair Growth",
+      "shampoo on Amazon",
+      "grows hair like",
+      "grass in 7 days.",
+      "5. Grey hair",
+      "Take Vitamin H",
+      "Turns black",
+      "without dye",
+      "6.Yellow teeth",
+      "OLCG Stain-removal",
+      "Toothpaste from Amazon",
+      "Whitens teeth like",
+      "pearls in one week"
+    ],
+    "download_rel": "文案/Q33-17-5_原文案.txt",
+    "original_download_rel": "文案/Q33-17-5_原文案.txt",
+    "sha256": "98cfe1cebeba39e22c23ceed8241318c862920b295ef72f1b46012cbcdd0e4bd"
+  },
+  "copy_rel": "文案/Q33-17-5_原文案.txt",
+  "updated_at": "2026-11-23T17:16:25+08:00",
+  "title": "连医生都不会告诉你的秘密",
+  "products": "Aveya生发洗发水 + OLCG去渍牙膏",
+  "upload_date": {
+    "date": "2026-11-23",
+    "source": "字幕上传提交日期",
+    "sha256": "f8ec3543460007ca22d3111e0b36cad88e71e3109463551d9ee1405752e4f2f7"
+  },
+  "variant_label": "白底黑字标题"
+}
