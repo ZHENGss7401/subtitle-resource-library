@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 85,
+  "revision": 86,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -913,6 +913,26 @@
       "confirmed_at": "2026-11-23T11:46:34+08:00",
       "confirmation_source": "2026-11-23 惠跃主人确认包内新款黑字幕（q33-2-2-黑-新）作者张哲",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.23\\01-q33俱乐部\\q33-2-2-20"
+    },
+    "A391-1黑@32fb2cf8fcfce36c01043156e6363237b9bb63c485361b7ab0ab8d8e2a6092f7": {
+      "code": "A391-1黑",
+      "sha256": "32fb2cf8fcfce36c01043156e6363237b9bb63c485361b7ab0ab8d8e2a6092f7",
+      "author": "余晓青",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-23T14:50:00+08:00",
+      "confirmation_source": "2026-11-23 惠跃主人确认：A391-1 两个优化新版的作者都是余晓青",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.23\\02-A391-1"
+    },
+    "A391-1黄@a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375": {
+      "code": "A391-1黄",
+      "sha256": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375",
+      "author": "余晓青",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-23T14:50:00+08:00",
+      "confirmation_source": "2026-11-23 惠跃主人确认：A391-1 两个优化新版的作者都是余晓青",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.23\\02-A391-1"
     }
   },
   "history": [

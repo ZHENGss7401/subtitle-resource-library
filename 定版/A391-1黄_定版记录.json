@@ -1,0 +1,91 @@
+{
+  "code": "A391-1黄",
+  "pkg_code": "A391-1黄",
+  "aliases": [],
+  "dates": [
+    "11.23"
+  ],
+  "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.23\\02-A391-1"
+  ],
+  "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.23\\02-A391-1\\字幕夹（待Agnes入库与常规版合并）\\A391-1-黄.png",
+  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A391-1黄.png",
+  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A391-1黄.png",
+  "layer_rel": "定版/A391-1黄.png",
+  "preview_rel": "定版/A391-1黄_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\A391-1黄_成品预览.png",
+  "preview_kind": "无字素材＋定版字幕合成预览",
+  "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/2. 半成品/11.20/A391-1-11.20-余晓青-郑惠跃-（我是一名皮肤科医生，真希望更多人知道这些）-Aveya洗发水+OLCG去污牙膏-30/flow/003.mp4",
+  "preview_frame_seconds": 1,
+  "preview_source_note": "复用A391-1常规版对应包flow无字素材第1秒，叠加当前原始PNG；非实际成品首帧",
+  "sha256": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375",
+  "preview_sha256": "89de6cc8960e7ad1d015a0c0ede8b1bd7dfd718b41d8da39e1500f370b939e6d",
+  "size": [
+    1536,
+    2752
+  ],
+  "preview_size": [
+    720,
+    1280
+  ],
+  "basis": "用户授权本次入库上线；原始文件逐字节保留",
+  "confidence": "已证实",
+  "contested": false,
+  "discarded": [],
+  "author": "余晓青",
+  "copywriter": "郑惠跃",
+  "author_status": "confirmed",
+  "author_confirmed_at": "2026-11-23T14:50:00+08:00",
+  "author_source": "2026-11-23 惠跃主人确认：A391-1 两个优化新版的作者都是余晓青",
+  "copy": {
+    "source": "A391-1_原文案.docx",
+    "lines": [
+      "I'm a dermatologist and I wish more people knew:",
+      "• Pepsi Cola",
+      "Drink less -age your teeth",
+      "• Insomnia",
+      "Vitamin B6 - Brings back sleep",
+      "• Hair loss",
+      "Aveya Hair Growth shampoo on Amazon",
+      "(Grows hair like grass in 7 days)",
+      "• Grey hair",
+      "Vitamin H - Turns black without dye",
+      "• Yellow teeth",
+      "OLCG Stain-removal Toothpaste",
+      "from AMZ (Whitens teeth like pearls in one week)",
+      "• Acne",
+      "Vitamin B6 + Zinc - pimples fade fast",
+      "我是一名皮肤科医生，真希望更多人知道这些：",
+      "1. 百事可乐——少喝——会让牙齿老化",
+      "2. 失眠——维生素B6——恢复睡眠",
+      "3. 脱发——亚马逊上的Aveya生发洗发水（7天内头发像草一样生长）",
+      "4. 白发——维生素H——无需染发即可变黑",
+      "5. 黄牙——来自亚马逊的OLCG去渍牙膏（一周内让牙齿像珍珠般洁白）",
+      "6. 痘痘——维生素B6＋锌——痘痘快速消退"
+    ],
+    "download_rel": "文案/A391-1黄_原文案.docx",
+    "original_download_rel": "文案/A391-1黄_原文案.docx",
+    "sha256": "7c09ff0131f309bd766c80e7ab2954b25110dee16a3e80be226c252fd7d19ef4"
+  },
+  "copy_rel": "文案/A391-1黄_原文案.docx",
+  "updated_at": "2026-11-23T14:57:57+08:00",
+  "title": "我是一名皮肤科医生，真希望更多人知道这些",
+  "products": "Aveya生发洗发水 + OLCG去渍牙膏",
+  "upload_date": {
+    "date": "2026-11-23",
+    "source": "字幕上传提交日期",
+    "sha256": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375"
+  },
+  "board_parent_code": "A391-1",
+  "variant_label": "黄底黑字标题",
+  "derived_from": {
+    "code": "A391-1",
+    "sha256": "dcbc47db966ac8b19019d3b09cd27d0d10d852ba432f73421e5f649fc267c2dc",
+    "copy_rel": "文案/A391-1_原文案.docx"
+  },
+  "naming_correction": {
+    "previous_package_code": "A349-1",
+    "confirmed_code": "A391-1",
+    "source": "2026-11-23 惠跃主人明确：我的名字命名出错了，应该是A391-1"
+  }
+}

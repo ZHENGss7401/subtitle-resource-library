@@ -17965,6 +17965,282 @@
       "sha": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
       "textHash": "85310e7319794e004de05a2b44f71f2fbd4cd8bee55a6287db6c298ad34ec404",
       "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黑·01",
+      "code": "A391-1黑",
+      "topic": "可乐与牙齿",
+      "groupId": "T217",
+      "kind": "生活小tips",
+      "text": "• Pepsi Cola\nDrink less -age your teeth",
+      "zh": "1. 百事可乐——少喝——会让牙齿老化",
+      "zhDisplay": "1. 百事可乐——少喝——会让牙齿老化",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "2–3",
+      "zhLine": "17–17",
+      "note": "",
+      "preview": "定版/版本/A391-1黑/预览-3e5a92320742.png",
+      "layer": "定版/版本/A391-1黑/32fb2cf8fcfc.png",
+      "sha": "32fb2cf8fcfce36c01043156e6363237b9bb63c485361b7ab0ab8d8e2a6092f7",
+      "textHash": "33080778f4c78ce15fe59c908c4266cbf8b8778d2120941209b3ab5ec6d8cc28",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黑·02",
+      "code": "A391-1黑",
+      "topic": "失眠与维生素B6",
+      "groupId": "T178",
+      "kind": "生活小tips",
+      "text": "• Insomnia\nVitamin B6 - Brings back sleep",
+      "zh": "2. 失眠——维生素B6——恢复睡眠",
+      "zhDisplay": "2. 失眠——维生素B6——恢复睡眠",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "4–5",
+      "zhLine": "18–18",
+      "note": "",
+      "preview": "定版/版本/A391-1黑/预览-3e5a92320742.png",
+      "layer": "定版/版本/A391-1黑/32fb2cf8fcfc.png",
+      "sha": "32fb2cf8fcfce36c01043156e6363237b9bb63c485361b7ab0ab8d8e2a6092f7",
+      "textHash": "82c06f8ee8e178bdf66470544f241452daabf6f3570efd28afb45b8c71dcba40",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黑·03",
+      "code": "A391-1黑",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "• Hair loss\nAveya Hair Growth shampoo on Amazon\n(Grows hair like grass in 7 days)",
+      "zh": "3. 脱发——亚马逊上的Aveya生发洗发水（7天内头发像草一样生长）",
+      "zhDisplay": "3. 脱发——亚马逊上的Aveya生发洗发水（7天内头发像草一样生长）",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "6–8",
+      "zhLine": "19–19",
+      "note": "",
+      "preview": "定版/版本/A391-1黑/预览-3e5a92320742.png",
+      "layer": "定版/版本/A391-1黑/32fb2cf8fcfc.png",
+      "sha": "32fb2cf8fcfce36c01043156e6363237b9bb63c485361b7ab0ab8d8e2a6092f7",
+      "textHash": "27378003168a29f25b3ee00e4cfa94540669e0d22e05785753f3b29b875d383d",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黑·04",
+      "code": "A391-1黑",
+      "topic": "白发与维生素H",
+      "groupId": "T213",
+      "kind": "生活小tips",
+      "text": "• Grey hair\nVitamin H - Turns black without dye",
+      "zh": "4. 白发——维生素H——无需染发即可变黑",
+      "zhDisplay": "4. 白发——维生素H——无需染发即可变黑",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "9–10",
+      "zhLine": "20–20",
+      "note": "",
+      "preview": "定版/版本/A391-1黑/预览-3e5a92320742.png",
+      "layer": "定版/版本/A391-1黑/32fb2cf8fcfc.png",
+      "sha": "32fb2cf8fcfce36c01043156e6363237b9bb63c485361b7ab0ab8d8e2a6092f7",
+      "textHash": "a6644fe5f0a5169b14c97a1f334a93cbc973b440b60da3aa6ccee2dd0d46b549",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黑·05",
+      "code": "A391-1黑",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "• Yellow teeth\nOLCG Stain-removal Toothpaste\nfrom AMZ (Whitens teeth like pearls in one week)",
+      "zh": "5. 黄牙——来自亚马逊的OLCG去渍牙膏（一周内让牙齿像珍珠般洁白）",
+      "zhDisplay": "5. 黄牙——来自亚马逊的OLCG去渍牙膏（一周内让牙齿像珍珠般洁白）",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "11–13",
+      "zhLine": "21–21",
+      "note": "",
+      "preview": "定版/版本/A391-1黑/预览-3e5a92320742.png",
+      "layer": "定版/版本/A391-1黑/32fb2cf8fcfc.png",
+      "sha": "32fb2cf8fcfce36c01043156e6363237b9bb63c485361b7ab0ab8d8e2a6092f7",
+      "textHash": "0e8a3821e615e1777d47a4586a60035acbe0c8891766d1e0d90631b03344c7f6",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黑·06",
+      "code": "A391-1黑",
+      "topic": "痘痘与维生素B6锌",
+      "groupId": "T218",
+      "kind": "生活小tips",
+      "text": "• Acne\nVitamin B6 + Zinc - pimples fade fast",
+      "zh": "6. 痘痘——维生素B6＋锌——痘痘快速消退",
+      "zhDisplay": "6. 痘痘——维生素B6＋锌——痘痘快速消退",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "14–15",
+      "zhLine": "22–22",
+      "note": "",
+      "preview": "定版/版本/A391-1黑/预览-3e5a92320742.png",
+      "layer": "定版/版本/A391-1黑/32fb2cf8fcfc.png",
+      "sha": "32fb2cf8fcfce36c01043156e6363237b9bb63c485361b7ab0ab8d8e2a6092f7",
+      "textHash": "d76defa36e033da75267e916368123848151360cc4edaf7ad08efd799aaf455c",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黄·01",
+      "code": "A391-1黄",
+      "topic": "可乐与牙齿",
+      "groupId": "T217",
+      "kind": "生活小tips",
+      "text": "• Pepsi Cola\nDrink less -age your teeth",
+      "zh": "1. 百事可乐——少喝——会让牙齿老化",
+      "zhDisplay": "1. 百事可乐——少喝——会让牙齿老化",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "2–3",
+      "zhLine": "17–17",
+      "note": "",
+      "preview": "定版/版本/A391-1黄/预览-89de6cc8960e.png",
+      "layer": "定版/版本/A391-1黄/a1a1f0d27e00.png",
+      "sha": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375",
+      "textHash": "33080778f4c78ce15fe59c908c4266cbf8b8778d2120941209b3ab5ec6d8cc28",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黄·02",
+      "code": "A391-1黄",
+      "topic": "失眠与维生素B6",
+      "groupId": "T178",
+      "kind": "生活小tips",
+      "text": "• Insomnia\nVitamin B6 - Brings back sleep",
+      "zh": "2. 失眠——维生素B6——恢复睡眠",
+      "zhDisplay": "2. 失眠——维生素B6——恢复睡眠",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "4–5",
+      "zhLine": "18–18",
+      "note": "",
+      "preview": "定版/版本/A391-1黄/预览-89de6cc8960e.png",
+      "layer": "定版/版本/A391-1黄/a1a1f0d27e00.png",
+      "sha": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375",
+      "textHash": "82c06f8ee8e178bdf66470544f241452daabf6f3570efd28afb45b8c71dcba40",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黄·03",
+      "code": "A391-1黄",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "• Hair loss\nAveya Hair Growth shampoo on Amazon\n(Grows hair like grass in 7 days)",
+      "zh": "3. 脱发——亚马逊上的Aveya生发洗发水（7天内头发像草一样生长）",
+      "zhDisplay": "3. 脱发——亚马逊上的Aveya生发洗发水（7天内头发像草一样生长）",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "6–8",
+      "zhLine": "19–19",
+      "note": "",
+      "preview": "定版/版本/A391-1黄/预览-89de6cc8960e.png",
+      "layer": "定版/版本/A391-1黄/a1a1f0d27e00.png",
+      "sha": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375",
+      "textHash": "27378003168a29f25b3ee00e4cfa94540669e0d22e05785753f3b29b875d383d",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黄·04",
+      "code": "A391-1黄",
+      "topic": "白发与维生素H",
+      "groupId": "T213",
+      "kind": "生活小tips",
+      "text": "• Grey hair\nVitamin H - Turns black without dye",
+      "zh": "4. 白发——维生素H——无需染发即可变黑",
+      "zhDisplay": "4. 白发——维生素H——无需染发即可变黑",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "9–10",
+      "zhLine": "20–20",
+      "note": "",
+      "preview": "定版/版本/A391-1黄/预览-89de6cc8960e.png",
+      "layer": "定版/版本/A391-1黄/a1a1f0d27e00.png",
+      "sha": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375",
+      "textHash": "a6644fe5f0a5169b14c97a1f334a93cbc973b440b60da3aa6ccee2dd0d46b549",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黄·05",
+      "code": "A391-1黄",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "• Yellow teeth\nOLCG Stain-removal Toothpaste\nfrom AMZ (Whitens teeth like pearls in one week)",
+      "zh": "5. 黄牙——来自亚马逊的OLCG去渍牙膏（一周内让牙齿像珍珠般洁白）",
+      "zhDisplay": "5. 黄牙——来自亚马逊的OLCG去渍牙膏（一周内让牙齿像珍珠般洁白）",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "11–13",
+      "zhLine": "21–21",
+      "note": "",
+      "preview": "定版/版本/A391-1黄/预览-89de6cc8960e.png",
+      "layer": "定版/版本/A391-1黄/a1a1f0d27e00.png",
+      "sha": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375",
+      "textHash": "0e8a3821e615e1777d47a4586a60035acbe0c8891766d1e0d90631b03344c7f6",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "A391-1黄·06",
+      "code": "A391-1黄",
+      "topic": "痘痘与维生素B6锌",
+      "groupId": "T218",
+      "kind": "生活小tips",
+      "text": "• Acne\nVitamin B6 + Zinc - pimples fade fast",
+      "zh": "6. 痘痘——维生素B6＋锌——痘痘快速消退",
+      "zhDisplay": "6. 痘痘——维生素B6＋锌——痘痘快速消退",
+      "zhOrigin": "来源中文原文",
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "zhTitle": "我是一名皮肤科医生，真希望更多人知道这些：",
+      "sourceType": "文案原文",
+      "source": "A391-1_原文案.docx",
+      "line": "14–15",
+      "zhLine": "22–22",
+      "note": "",
+      "preview": "定版/版本/A391-1黄/预览-89de6cc8960e.png",
+      "layer": "定版/版本/A391-1黄/a1a1f0d27e00.png",
+      "sha": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375",
+      "textHash": "d76defa36e033da75267e916368123848151360cc4edaf7ad08efd799aaf455c",
+      "addedAt": "2026-11-23"
     }
   ],
   "groups": [
@@ -18074,7 +18350,7 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 82,
+      "count": 84,
       "forms": 57,
       "versions": [
         "A301-1",
@@ -18150,7 +18426,9 @@
         "Q33-17-4",
         "Q33-18-1",
         "Q33-19-1",
-        "A391-1"
+        "A391-1",
+        "A391-1黑",
+        "A391-1黄"
       ]
     },
     {
@@ -20007,7 +20285,7 @@
     {
       "id": "T174",
       "name": "脱发与生发洗发水",
-      "count": 21,
+      "count": 23,
       "forms": 13,
       "versions": [
         "Q33-客厅养鱼",
@@ -20030,7 +20308,9 @@
         "Q33-18-1",
         "Q33-19-1",
         "A391-1",
-        "Q33-2-2黑"
+        "Q33-2-2黑",
+        "A391-1黑",
+        "A391-1黄"
       ]
     },
     {
@@ -20073,13 +20353,15 @@
     {
       "id": "T178",
       "name": "失眠与维生素B6",
-      "count": 4,
+      "count": 6,
       "forms": 3,
       "versions": [
         "Q33-17",
         "Q33-17-2",
         "Q33-17-4",
-        "A391-1"
+        "A391-1",
+        "A391-1黑",
+        "A391-1黄"
       ]
     },
     {
@@ -20408,7 +20690,7 @@
     {
       "id": "T213",
       "name": "白发与维生素H",
-      "count": 6,
+      "count": 8,
       "forms": 5,
       "versions": [
         "Q33-17-3",
@@ -20416,7 +20698,9 @@
         "Q33-18-1",
         "Q33-19-1",
         "A391-1",
-        "Q33-2-2黑"
+        "Q33-2-2黑",
+        "A391-1黑",
+        "A391-1黄"
       ]
     },
     {
@@ -20449,19 +20733,23 @@
     {
       "id": "T217",
       "name": "可乐与牙齿",
-      "count": 1,
+      "count": 3,
       "forms": 1,
       "versions": [
-        "A391-1"
+        "A391-1",
+        "A391-1黑",
+        "A391-1黄"
       ]
     },
     {
       "id": "T218",
       "name": "痘痘与维生素B6锌",
-      "count": 1,
+      "count": 3,
       "forms": 1,
       "versions": [
-        "A391-1"
+        "A391-1",
+        "A391-1黑",
+        "A391-1黄"
       ]
     },
     {
@@ -24930,6 +25218,80 @@
           "contextLineNumbers": []
         }
       ]
+    },
+    {
+      "code": "A391-1黑",
+      "count": 6,
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "copySource": "A391-1_原文案.docx",
+      "lines": [
+        "I'm a dermatologist and I wish more people knew:",
+        "• Pepsi Cola",
+        "Drink less -age your teeth",
+        "• Insomnia",
+        "Vitamin B6 - Brings back sleep",
+        "• Hair loss",
+        "Aveya Hair Growth shampoo on Amazon",
+        "(Grows hair like grass in 7 days)",
+        "• Grey hair",
+        "Vitamin H - Turns black without dye",
+        "• Yellow teeth",
+        "OLCG Stain-removal Toothpaste",
+        "from AMZ (Whitens teeth like pearls in one week)",
+        "• Acne",
+        "Vitamin B6 + Zinc - pimples fade fast",
+        "我是一名皮肤科医生，真希望更多人知道这些：",
+        "1. 百事可乐——少喝——会让牙齿老化",
+        "2. 失眠——维生素B6——恢复睡眠",
+        "3. 脱发——亚马逊上的Aveya生发洗发水（7天内头发像草一样生长）",
+        "4. 白发——维生素H——无需染发即可变黑",
+        "5. 黄牙——来自亚马逊的OLCG去渍牙膏（一周内让牙齿像珍珠般洁白）",
+        "6. 痘痘——维生素B6＋锌——痘痘快速消退"
+      ],
+      "layer": "定版/版本/A391-1黑/32fb2cf8fcfc.png",
+      "preview": "定版/版本/A391-1黑/预览-3e5a92320742.png",
+      "sha": "32fb2cf8fcfce36c01043156e6363237b9bb63c485361b7ab0ab8d8e2a6092f7",
+      "previewSha": "3e5a923207421e19975178bb680636fc7533e7e663f5a38b4d5265a8bdb7d01c",
+      "aliases": [],
+      "sourceBuilt": "2026-11-23",
+      "contextLineNumbers": []
+    },
+    {
+      "code": "A391-1黄",
+      "count": 6,
+      "title": "I'm a dermatologist and I wish more people knew:",
+      "copySource": "A391-1_原文案.docx",
+      "lines": [
+        "I'm a dermatologist and I wish more people knew:",
+        "• Pepsi Cola",
+        "Drink less -age your teeth",
+        "• Insomnia",
+        "Vitamin B6 - Brings back sleep",
+        "• Hair loss",
+        "Aveya Hair Growth shampoo on Amazon",
+        "(Grows hair like grass in 7 days)",
+        "• Grey hair",
+        "Vitamin H - Turns black without dye",
+        "• Yellow teeth",
+        "OLCG Stain-removal Toothpaste",
+        "from AMZ (Whitens teeth like pearls in one week)",
+        "• Acne",
+        "Vitamin B6 + Zinc - pimples fade fast",
+        "我是一名皮肤科医生，真希望更多人知道这些：",
+        "1. 百事可乐——少喝——会让牙齿老化",
+        "2. 失眠——维生素B6——恢复睡眠",
+        "3. 脱发——亚马逊上的Aveya生发洗发水（7天内头发像草一样生长）",
+        "4. 白发——维生素H——无需染发即可变黑",
+        "5. 黄牙——来自亚马逊的OLCG去渍牙膏（一周内让牙齿像珍珠般洁白）",
+        "6. 痘痘——维生素B6＋锌——痘痘快速消退"
+      ],
+      "layer": "定版/版本/A391-1黄/a1a1f0d27e00.png",
+      "preview": "定版/版本/A391-1黄/预览-89de6cc8960e.png",
+      "sha": "a1a1f0d27e00a9e676cda498e911224c66fdef1dc4e9de50ab19be7d700ed375",
+      "previewSha": "89de6cc8960e7ad1d015a0c0ede8b1bd7dfd718b41d8da39e1500f370b939e6d",
+      "aliases": [],
+      "sourceBuilt": "2026-11-23",
+      "contextLineNumbers": []
     }
   ],
   "coverage": [
@@ -40664,6 +41026,270 @@
       18,
       "标题/说明/来源中文",
       "黄牙　亚马逊上的 OLCG 去渍牙膏（1 周让牙齿白得像珍珠）。"
+    ],
+    [
+      "A391-1黑",
+      1,
+      "标题/说明/来源中文",
+      "I'm a dermatologist and I wish more people knew:"
+    ],
+    [
+      "A391-1黑",
+      2,
+      "小tips原文",
+      "• Pepsi Cola"
+    ],
+    [
+      "A391-1黑",
+      3,
+      "小tips原文",
+      "Drink less -age your teeth"
+    ],
+    [
+      "A391-1黑",
+      4,
+      "小tips原文",
+      "• Insomnia"
+    ],
+    [
+      "A391-1黑",
+      5,
+      "小tips原文",
+      "Vitamin B6 - Brings back sleep"
+    ],
+    [
+      "A391-1黑",
+      6,
+      "小tips原文",
+      "• Hair loss"
+    ],
+    [
+      "A391-1黑",
+      7,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on Amazon"
+    ],
+    [
+      "A391-1黑",
+      8,
+      "小tips原文",
+      "(Grows hair like grass in 7 days)"
+    ],
+    [
+      "A391-1黑",
+      9,
+      "小tips原文",
+      "• Grey hair"
+    ],
+    [
+      "A391-1黑",
+      10,
+      "小tips原文",
+      "Vitamin H - Turns black without dye"
+    ],
+    [
+      "A391-1黑",
+      11,
+      "小tips原文",
+      "• Yellow teeth"
+    ],
+    [
+      "A391-1黑",
+      12,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste"
+    ],
+    [
+      "A391-1黑",
+      13,
+      "小tips原文",
+      "from AMZ (Whitens teeth like pearls in one week)"
+    ],
+    [
+      "A391-1黑",
+      14,
+      "小tips原文",
+      "• Acne"
+    ],
+    [
+      "A391-1黑",
+      15,
+      "小tips原文",
+      "Vitamin B6 + Zinc - pimples fade fast"
+    ],
+    [
+      "A391-1黑",
+      16,
+      "标题/说明/来源中文",
+      "我是一名皮肤科医生，真希望更多人知道这些："
+    ],
+    [
+      "A391-1黑",
+      17,
+      "标题/说明/来源中文",
+      "1. 百事可乐——少喝——会让牙齿老化"
+    ],
+    [
+      "A391-1黑",
+      18,
+      "标题/说明/来源中文",
+      "2. 失眠——维生素B6——恢复睡眠"
+    ],
+    [
+      "A391-1黑",
+      19,
+      "标题/说明/来源中文",
+      "3. 脱发——亚马逊上的Aveya生发洗发水（7天内头发像草一样生长）"
+    ],
+    [
+      "A391-1黑",
+      20,
+      "标题/说明/来源中文",
+      "4. 白发——维生素H——无需染发即可变黑"
+    ],
+    [
+      "A391-1黑",
+      21,
+      "标题/说明/来源中文",
+      "5. 黄牙——来自亚马逊的OLCG去渍牙膏（一周内让牙齿像珍珠般洁白）"
+    ],
+    [
+      "A391-1黑",
+      22,
+      "标题/说明/来源中文",
+      "6. 痘痘——维生素B6＋锌——痘痘快速消退"
+    ],
+    [
+      "A391-1黄",
+      1,
+      "标题/说明/来源中文",
+      "I'm a dermatologist and I wish more people knew:"
+    ],
+    [
+      "A391-1黄",
+      2,
+      "小tips原文",
+      "• Pepsi Cola"
+    ],
+    [
+      "A391-1黄",
+      3,
+      "小tips原文",
+      "Drink less -age your teeth"
+    ],
+    [
+      "A391-1黄",
+      4,
+      "小tips原文",
+      "• Insomnia"
+    ],
+    [
+      "A391-1黄",
+      5,
+      "小tips原文",
+      "Vitamin B6 - Brings back sleep"
+    ],
+    [
+      "A391-1黄",
+      6,
+      "小tips原文",
+      "• Hair loss"
+    ],
+    [
+      "A391-1黄",
+      7,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on Amazon"
+    ],
+    [
+      "A391-1黄",
+      8,
+      "小tips原文",
+      "(Grows hair like grass in 7 days)"
+    ],
+    [
+      "A391-1黄",
+      9,
+      "小tips原文",
+      "• Grey hair"
+    ],
+    [
+      "A391-1黄",
+      10,
+      "小tips原文",
+      "Vitamin H - Turns black without dye"
+    ],
+    [
+      "A391-1黄",
+      11,
+      "小tips原文",
+      "• Yellow teeth"
+    ],
+    [
+      "A391-1黄",
+      12,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste"
+    ],
+    [
+      "A391-1黄",
+      13,
+      "小tips原文",
+      "from AMZ (Whitens teeth like pearls in one week)"
+    ],
+    [
+      "A391-1黄",
+      14,
+      "小tips原文",
+      "• Acne"
+    ],
+    [
+      "A391-1黄",
+      15,
+      "小tips原文",
+      "Vitamin B6 + Zinc - pimples fade fast"
+    ],
+    [
+      "A391-1黄",
+      16,
+      "标题/说明/来源中文",
+      "我是一名皮肤科医生，真希望更多人知道这些："
+    ],
+    [
+      "A391-1黄",
+      17,
+      "标题/说明/来源中文",
+      "1. 百事可乐——少喝——会让牙齿老化"
+    ],
+    [
+      "A391-1黄",
+      18,
+      "标题/说明/来源中文",
+      "2. 失眠——维生素B6——恢复睡眠"
+    ],
+    [
+      "A391-1黄",
+      19,
+      "标题/说明/来源中文",
+      "3. 脱发——亚马逊上的Aveya生发洗发水（7天内头发像草一样生长）"
+    ],
+    [
+      "A391-1黄",
+      20,
+      "标题/说明/来源中文",
+      "4. 白发——维生素H——无需染发即可变黑"
+    ],
+    [
+      "A391-1黄",
+      21,
+      "标题/说明/来源中文",
+      "5. 黄牙——来自亚马逊的OLCG去渍牙膏（一周内让牙齿像珍珠般洁白）"
+    ],
+    [
+      "A391-1黄",
+      22,
+      "标题/说明/来源中文",
+      "6. 痘痘——维生素B6＋锌——痘痘快速消退"
     ]
   ],
   "retired": {
@@ -40672,28 +41298,35 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "b6099988ff0f6e7c5d103615ce024f5f960f66e4e616443bb2c31dcf106e04ef",
+  "indexSha": "be895299ee405038e375b6c574d5be58a165c251be60485ad0eff18fa20b8f22",
   "latestBatch": {
     "date": "2026-11-23",
     "versions": [
-      "Q33-2-2黑"
+      "A391-1黑",
+      "A391-1黄"
     ],
-    "records": 6,
+    "records": 12,
     "recordIds": [
-      "Q33-2-2黑·01·760c75488197",
-      "Q33-2-2黑·02·760c75488197",
-      "Q33-2-2黑·03·760c75488197",
-      "Q33-2-2黑·04·760c75488197",
-      "Q33-2-2黑·05·760c75488197",
-      "Q33-2-2黑·06·760c75488197"
+      "A391-1黑·01",
+      "A391-1黑·02",
+      "A391-1黑·03",
+      "A391-1黑·04",
+      "A391-1黑·05",
+      "A391-1黑·06",
+      "A391-1黄·01",
+      "A391-1黄·02",
+      "A391-1黄·03",
+      "A391-1黄·04",
+      "A391-1黄·05",
+      "A391-1黄·06"
     ]
   },
   "alignment": {
-    "subtitleVersions": 108,
-    "coveredVersions": 108,
+    "subtitleVersions": 110,
+    "coveredVersions": 110,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "b6099988ff0f6e7c5d103615ce024f5f960f66e4e616443bb2c31dcf106e04ef",
+    "sourceIndexSha256": "be895299ee405038e375b6c574d5be58a165c251be60485ad0eff18fa20b8f22",
     "checkedAt": "2026-11-23"
   }
 }
