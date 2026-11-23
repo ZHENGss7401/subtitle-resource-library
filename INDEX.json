@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-20T17:15:13+08:00",
+  "built": "2026-11-23T11:56:04+08:00",
   "scope": [
     "10.7",
     "10.8",
@@ -6001,23 +6001,23 @@
       "pkg_code": "Q33-2-2黑",
       "aliases": [],
       "dates": [
-        "11.18"
+        "11.23"
       ],
       "src_packages": [
-        "C:\\Users\\111\\Downloads\\01-q33俱乐部\\Q33-2-2"
+        "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.23\\01-q33俱乐部\\Q33-2-2-11.23-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-20"
       ],
-      "src_file": "C:\\Users\\111\\Downloads\\01-q33俱乐部\\Q33-2-2\\Q33-2-2-1-黑.png",
+      "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.23\\01-q33俱乐部\\Q33-2-2-11.23-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-20\\字幕夹\\q33-2-2-黑-新.png",
       "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-2-2黑.png",
       "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-2-2黑.png",
       "layer_rel": "定版/Q33-2-2黑.png",
       "preview_rel": "定版/Q33-2-2黑_成品预览.png",
       "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-2-2黑_成品预览.png",
-      "preview_kind": "无字素材＋定版字幕合成预览",
-      "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.13\\Q33\\Q33-16-（疲倦B2、白发VH）-11.13-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏\\flow\\1 (1).mp4",
-      "preview_frame_seconds": 1,
-      "preview_source_note": "本地包仅有字幕；取同系列Q33-16无字素材1秒背景合成，非该新版实际成品",
-      "sha256": "1cb68a7cd04fb93c3c6856cb5f9fce18cce7a8a8db8d390eb6d75cacbd0cfefc",
-      "preview_sha256": "89d40015424cd7e368fd13ff7693851a6c5c68b645ef095c6023fdd8a075b86f",
+      "preview_kind": "实际成品首帧",
+      "preview_from": "Y:/足贴视频素材/BOREAC淋巴滴剂/1. 成品入口/11.23/Q33俱乐部/Q33-2-2-11.23-英文-张哲-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-20/165.mp4",
+      "preview_frame_seconds": 0,
+      "preview_source_note": "",
+      "sha256": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
+      "preview_sha256": "0e14e1b4df8d7d62125e8154afb500fdf80a43c88949e21d155916996f1a0443",
       "size": [
         1536,
         2752
@@ -6033,44 +6033,47 @@
       "author": "张哲",
       "copywriter": "郑惠跃",
       "author_status": "confirmed",
-      "author_confirmed_at": "2026-11-18T18:13:58+08:00",
-      "author_source": "对应白版 Q33-2-2@6660db59c97fbc5df423bccdbf7efe83201e532a2abb9a4c56e022ee24c1e8c8；用户本轮明确保留原作者，注明惠跃改标题",
+      "author_confirmed_at": "2026-11-23T11:46:34+08:00",
+      "author_source": "2026-11-23 惠跃主人确认包内新款黑字幕（q33-2-2-黑-新）作者张哲",
       "copy": {
-        "source": "Q33-2-2黑_图片可见原文.txt",
+        "source": "Q33-2-2_原文案.docx",
         "lines": [
-          "Secrets even doctors won’t tell you",
-          "1.Oral sex Do less - throat cancer",
-          "2.Bad breath Vitamin B1 - Gone for good",
-          "3.Snoring Vitamin C - Quiet all night long",
-          "4.Hair loss Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)",
-          "5.Grey hair Vitamin H - Turns black without dye.",
-          "6.Yellow teeth OLCG Toothpaste from Amazon Turn on Your Teeth Brightening & Whitening Switch to Pearl-White Teeth in one week"
+          "版本：Q33-2-2　作者：张哲　文案：郑惠跃　美工：郑雅斯",
+          "Secrets even doctors ",
+          "won't tell you",
+          "1.Back pain    Vitamin D - Pain gone instantly.",
+          "2.Gout    Vitamin D1 - Cured right away.",
+          "3.Insomnia    Vitamin B2 - Sleepy at once.",
+          "4.Hair loss    Aveya Hair Growth shampoo on ",
+          "Amazon(Grows hair like grass in 7 days)",
+          "5.Grey hair    Vitamin H - Turns black without dye.",
+          "6. Yellow teeth OLCG Stain-Removal Toothpaste",
+          "from Amazon (Whitens teeth like pearls in one week)",
+          "连医生都不会告诉你的秘密",
+          "腰背痛　维生素 D——疼痛立刻消失。 ",
+          "痛风　维生素 D1——立刻治好。",
+          "失眠　维生素 B2——立刻犯困。",
+          "脱发：Amazon 上的 Aveya 生发洗发水（7 天内让头发像草一样茂盛生长）",
+          "白发　维生素 H——不用染发也能变黑。 ",
+          "黄牙　亚马逊上的 OLCG 去渍牙膏（1 周让牙齿白得像珍珠）。"
         ],
-        "download_rel": "文案/Q33-2-2黑_原文案.txt",
-        "original_download_rel": "文案/Q33-2-2黑_原文案.txt",
-        "sha256": "1e978abce7ff542b0f3dae7c184c69bca11bbc7a98ddcd9e543861d71efb47b8"
+        "download_rel": "文案/Q33-2-2黑_原文案.docx",
+        "original_download_rel": "文案/Q33-2-2黑_原文案.docx",
+        "sha256": "5faad334a759d162f987d0df8c1fc3bc33c2eab9bb1b490ee308dc4e56da85e1"
       },
-      "copy_rel": "文案/Q33-2-2黑_原文案.txt",
-      "updated_at": "2026-11-18T18:13:58+08:00",
+      "copy_rel": "文案/Q33-2-2黑_原文案.docx",
+      "updated_at": "2026-11-23T11:56:04+08:00",
       "title": "连医生都不会告诉你的秘密",
       "products": "Aveya洗发水 + OLCG去污牙膏",
       "upload_date": {
-        "date": "2026-11-18",
+        "date": "2026-11-23",
         "source": "字幕上传提交日期",
-        "sha256": "1cb68a7cd04fb93c3c6856cb5f9fce18cce7a8a8db8d390eb6d75cacbd0cfefc"
+        "sha256": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922"
       },
+      "previous_sha256": "1cb68a7cd04fb93c3c6856cb5f9fce18cce7a8a8db8d390eb6d75cacbd0cfefc",
       "board_parent_code": "Q33-2-2",
       "variant_label": "黑底白字标题",
-      "title_adjustment": {
-        "by": "郑惠跃",
-        "description": "标题黑白反差更新；正文与库内同号白版不同，按用户指定版号归组，分别保留文案和原件；保留原作者",
-        "source": "用户本轮明确确认"
-      },
-      "derived_from": {
-        "code": "Q33-2-2",
-        "sha256": "6660db59c97fbc5df423bccdbf7efe83201e532a2abb9a4c56e022ee24c1e8c8",
-        "copy_rel": "文案/Q33-2-2_原文案.docx"
-      }
+      "replaceReason": "惠跃指定：用今日包内最新款黑字幕替换旧黑版；2026-11-23确认保留旧tips并允许新增6条"
     },
     "Q33-13-2黑": {
       "code": "Q33-13-2黑",

@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-20",
+  "built": "2026-11-23",
   "root": "字幕资源库 / INDEX.json",
   "rows": [
     {
@@ -17827,6 +17827,144 @@
       "sha": "dcbc47db966ac8b19019d3b09cd27d0d10d852ba432f73421e5f649fc267c2dc",
       "textHash": "d76defa36e033da75267e916368123848151360cc4edaf7ad08efd799aaf455c",
       "addedAt": "2026-11-20"
+    },
+    {
+      "id": "Q33-2-2黑·01·760c75488197",
+      "code": "Q33-2-2黑",
+      "topic": "背痛与维生素D",
+      "groupId": "T219",
+      "kind": "生活小tips",
+      "text": "1.Back pain    Vitamin D - Pain gone instantly.",
+      "zh": "腰背痛　维生素 D——疼痛立刻消失。 ",
+      "zhDisplay": "腰背痛　维生素 D——疼痛立刻消失。 ",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors \nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-2-2_原文案.docx",
+      "line": "4–4",
+      "zhLine": "13–13",
+      "note": "",
+      "preview": "定版/版本/Q33-2-2黑/预览-0e14e1b4df8d.png",
+      "layer": "定版/版本/Q33-2-2黑/760c75488197.png",
+      "sha": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
+      "textHash": "296e341f9d077d10645fe8d1f623fe112da3ee71c02814727ede945819f5c7dc",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "Q33-2-2黑·02·760c75488197",
+      "code": "Q33-2-2黑",
+      "topic": "痛风与维生素D1",
+      "groupId": "T151",
+      "kind": "生活小tips",
+      "text": "2.Gout    Vitamin D1 - Cured right away.",
+      "zh": "痛风　维生素 D1——立刻治好。",
+      "zhDisplay": "痛风　维生素 D1——立刻治好。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors \nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-2-2_原文案.docx",
+      "line": "5–5",
+      "zhLine": "14–14",
+      "note": "",
+      "preview": "定版/版本/Q33-2-2黑/预览-0e14e1b4df8d.png",
+      "layer": "定版/版本/Q33-2-2黑/760c75488197.png",
+      "sha": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
+      "textHash": "24dd7d4bc9a3fd232de0b7a0cee60be52e873cd6cced6f512b4826ec447970c3",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "Q33-2-2黑·03·760c75488197",
+      "code": "Q33-2-2黑",
+      "topic": "失眠与维生素B2",
+      "groupId": "T152",
+      "kind": "生活小tips",
+      "text": "3.Insomnia    Vitamin B2 - Sleepy at once.",
+      "zh": "失眠　维生素 B2——立刻犯困。",
+      "zhDisplay": "失眠　维生素 B2——立刻犯困。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors \nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-2-2_原文案.docx",
+      "line": "6–6",
+      "zhLine": "15–15",
+      "note": "",
+      "preview": "定版/版本/Q33-2-2黑/预览-0e14e1b4df8d.png",
+      "layer": "定版/版本/Q33-2-2黑/760c75488197.png",
+      "sha": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
+      "textHash": "843b4451292a0437afa4598a12e88a5ba47fa1022ccd77683198274f14d71c96",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "Q33-2-2黑·04·760c75488197",
+      "code": "Q33-2-2黑",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "4.Hair loss    Aveya Hair Growth shampoo on \nAmazon(Grows hair like grass in 7 days)",
+      "zh": "脱发：Amazon 上的 Aveya 生发洗发水（7 天内让头发像草一样茂盛生长）",
+      "zhDisplay": "脱发：Amazon 上的 Aveya 生发洗发水（7 天内让头发像草一样茂盛生长）",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors \nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-2-2_原文案.docx",
+      "line": "7–8",
+      "zhLine": "16–16",
+      "note": "",
+      "preview": "定版/版本/Q33-2-2黑/预览-0e14e1b4df8d.png",
+      "layer": "定版/版本/Q33-2-2黑/760c75488197.png",
+      "sha": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
+      "textHash": "e843911e8f21d2cd8a99f7effdd16c20e5b46d5bb31e5f99a759cb514f428afa",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "Q33-2-2黑·05·760c75488197",
+      "code": "Q33-2-2黑",
+      "topic": "白发与维生素H",
+      "groupId": "T213",
+      "kind": "生活小tips",
+      "text": "5.Grey hair    Vitamin H - Turns black without dye.",
+      "zh": "白发　维生素 H——不用染发也能变黑。 ",
+      "zhDisplay": "白发　维生素 H——不用染发也能变黑。 ",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors \nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-2-2_原文案.docx",
+      "line": "9–9",
+      "zhLine": "17–17",
+      "note": "",
+      "preview": "定版/版本/Q33-2-2黑/预览-0e14e1b4df8d.png",
+      "layer": "定版/版本/Q33-2-2黑/760c75488197.png",
+      "sha": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
+      "textHash": "234c0a7b80da36797027f880e3b29b642c81f8d4460075284c102278456a523c",
+      "addedAt": "2026-11-23"
+    },
+    {
+      "id": "Q33-2-2黑·06·760c75488197",
+      "code": "Q33-2-2黑",
+      "topic": "牙齿美白",
+      "groupId": "T05",
+      "kind": "产品植入",
+      "text": "6. Yellow teeth OLCG Stain-Removal Toothpaste\nfrom Amazon (Whitens teeth like pearls in one week)",
+      "zh": "黄牙　亚马逊上的 OLCG 去渍牙膏（1 周让牙齿白得像珍珠）。",
+      "zhDisplay": "黄牙　亚马逊上的 OLCG 去渍牙膏（1 周让牙齿白得像珍珠）。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors \nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "Q33-2-2_原文案.docx",
+      "line": "10–11",
+      "zhLine": "18–18",
+      "note": "",
+      "preview": "定版/版本/Q33-2-2黑/预览-0e14e1b4df8d.png",
+      "layer": "定版/版本/Q33-2-2黑/760c75488197.png",
+      "sha": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
+      "textHash": "85310e7319794e004de05a2b44f71f2fbd4cd8bee55a6287db6c298ad34ec404",
+      "addedAt": "2026-11-23"
     }
   ],
   "groups": [
@@ -17936,7 +18074,7 @@
     {
       "id": "T05",
       "name": "牙齿美白",
-      "count": 81,
+      "count": 82,
       "forms": 57,
       "versions": [
         "A301-1",
@@ -19656,17 +19794,18 @@
     {
       "id": "T151",
       "name": "痛风与维生素D1",
-      "count": 2,
+      "count": 3,
       "forms": 1,
       "versions": [
         "Q33-2-1",
-        "Q33-2-2"
+        "Q33-2-2",
+        "Q33-2-2黑"
       ]
     },
     {
       "id": "T152",
       "name": "失眠与维生素B2",
-      "count": 6,
+      "count": 7,
       "forms": 5,
       "versions": [
         "Q33-2-1",
@@ -19674,7 +19813,8 @@
         "Q33-15",
         "Q33-2-2",
         "Q33-13-2",
-        "Q33-15黑"
+        "Q33-15黑",
+        "Q33-2-2黑"
       ]
     },
     {
@@ -19867,7 +20007,7 @@
     {
       "id": "T174",
       "name": "脱发与生发洗发水",
-      "count": 20,
+      "count": 21,
       "forms": 13,
       "versions": [
         "Q33-客厅养鱼",
@@ -19889,7 +20029,8 @@
         "Q33-17-4",
         "Q33-18-1",
         "Q33-19-1",
-        "A391-1"
+        "A391-1",
+        "Q33-2-2黑"
       ]
     },
     {
@@ -20267,14 +20408,15 @@
     {
       "id": "T213",
       "name": "白发与维生素H",
-      "count": 5,
-      "forms": 4,
+      "count": 6,
+      "forms": 5,
       "versions": [
         "Q33-17-3",
         "Q33-17-4",
         "Q33-18-1",
         "Q33-19-1",
-        "A391-1"
+        "A391-1",
+        "Q33-2-2黑"
       ]
     },
     {
@@ -20320,6 +20462,15 @@
       "forms": 1,
       "versions": [
         "A391-1"
+      ]
+    },
+    {
+      "id": "T219",
+      "name": "背痛与维生素D",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "Q33-2-2黑"
       ]
     }
   ],
@@ -24322,28 +24473,6 @@
       "contextLineNumbers": []
     },
     {
-      "code": "Q33-2-2黑",
-      "count": 6,
-      "title": "Secrets even doctors won’t tell you",
-      "copySource": "Q33-2-2黑_图片可见原文.txt",
-      "lines": [
-        "Secrets even doctors won’t tell you",
-        "1.Oral sex Do less - throat cancer",
-        "2.Bad breath Vitamin B1 - Gone for good",
-        "3.Snoring Vitamin C - Quiet all night long",
-        "4.Hair loss Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)",
-        "5.Grey hair Vitamin H - Turns black without dye.",
-        "6.Yellow teeth OLCG Toothpaste from Amazon Turn on Your Teeth Brightening & Whitening Switch to Pearl-White Teeth in one week"
-      ],
-      "layer": "定版/版本/Q33-2-2黑/1cb68a7cd04f.png",
-      "preview": "定版/版本/Q33-2-2黑/预览-89d40015424c.png",
-      "sha": "1cb68a7cd04fb93c3c6856cb5f9fce18cce7a8a8db8d390eb6d75cacbd0cfefc",
-      "previewSha": "89d40015424cd7e368fd13ff7693851a6c5c68b645ef095c6023fdd8a075b86f",
-      "aliases": [],
-      "sourceBuilt": "2026-11-18",
-      "contextLineNumbers": []
-    },
-    {
       "code": "Q33-13-2黑",
       "count": 6,
       "title": "Secrets even doctors won’t tell you",
@@ -24742,6 +24871,65 @@
       "aliases": [],
       "sourceBuilt": "2026-11-20",
       "contextLineNumbers": []
+    },
+    {
+      "code": "Q33-2-2黑",
+      "count": 12,
+      "title": "Secrets even doctors \nwon't tell you",
+      "copySource": "Q33-2-2_原文案.docx",
+      "lines": [
+        "版本：Q33-2-2　作者：张哲　文案：郑惠跃　美工：郑雅斯",
+        "Secrets even doctors ",
+        "won't tell you",
+        "1.Back pain    Vitamin D - Pain gone instantly.",
+        "2.Gout    Vitamin D1 - Cured right away.",
+        "3.Insomnia    Vitamin B2 - Sleepy at once.",
+        "4.Hair loss    Aveya Hair Growth shampoo on ",
+        "Amazon(Grows hair like grass in 7 days)",
+        "5.Grey hair    Vitamin H - Turns black without dye.",
+        "6. Yellow teeth OLCG Stain-Removal Toothpaste",
+        "from Amazon (Whitens teeth like pearls in one week)",
+        "连医生都不会告诉你的秘密",
+        "腰背痛　维生素 D——疼痛立刻消失。 ",
+        "痛风　维生素 D1——立刻治好。",
+        "失眠　维生素 B2——立刻犯困。",
+        "脱发：Amazon 上的 Aveya 生发洗发水（7 天内让头发像草一样茂盛生长）",
+        "白发　维生素 H——不用染发也能变黑。 ",
+        "黄牙　亚马逊上的 OLCG 去渍牙膏（1 周让牙齿白得像珍珠）。"
+      ],
+      "layer": "定版/版本/Q33-2-2黑/760c75488197.png",
+      "preview": "定版/版本/Q33-2-2黑/预览-0e14e1b4df8d.png",
+      "sha": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
+      "previewSha": "0e14e1b4df8d7d62125e8154afb500fdf80a43c88949e21d155916996f1a0443",
+      "aliases": [],
+      "sourceBuilt": "2026-11-23",
+      "contextLineNumbers": [
+        1
+      ],
+      "history": [
+        {
+          "code": "Q33-2-2黑",
+          "count": 6,
+          "title": "Secrets even doctors won’t tell you",
+          "copySource": "Q33-2-2黑_图片可见原文.txt",
+          "lines": [
+            "Secrets even doctors won’t tell you",
+            "1.Oral sex Do less - throat cancer",
+            "2.Bad breath Vitamin B1 - Gone for good",
+            "3.Snoring Vitamin C - Quiet all night long",
+            "4.Hair loss Aveya Hair Growth shampoo on Amazon (Grows hair like grass in 7 days)",
+            "5.Grey hair Vitamin H - Turns black without dye.",
+            "6.Yellow teeth OLCG Toothpaste from Amazon Turn on Your Teeth Brightening & Whitening Switch to Pearl-White Teeth in one week"
+          ],
+          "layer": "定版/版本/Q33-2-2黑/1cb68a7cd04f.png",
+          "preview": "定版/版本/Q33-2-2黑/预览-89d40015424c.png",
+          "sha": "1cb68a7cd04fb93c3c6856cb5f9fce18cce7a8a8db8d390eb6d75cacbd0cfefc",
+          "previewSha": "89d40015424cd7e368fd13ff7693851a6c5c68b645ef095c6023fdd8a075b86f",
+          "aliases": [],
+          "sourceBuilt": "2026-11-18",
+          "contextLineNumbers": []
+        }
+      ]
     }
   ],
   "coverage": [
@@ -40368,6 +40556,114 @@
       22,
       "标题/说明/来源中文",
       "6. 痘痘——维生素B6＋锌——痘痘快速消退"
+    ],
+    [
+      "Q33-2-2黑",
+      1,
+      "标题/说明/来源中文",
+      "版本：Q33-2-2　作者：张哲　文案：郑惠跃　美工：郑雅斯"
+    ],
+    [
+      "Q33-2-2黑",
+      2,
+      "标题/说明/来源中文",
+      "Secrets even doctors "
+    ],
+    [
+      "Q33-2-2黑",
+      3,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-2-2黑",
+      4,
+      "小tips原文",
+      "1.Back pain    Vitamin D - Pain gone instantly."
+    ],
+    [
+      "Q33-2-2黑",
+      5,
+      "小tips原文",
+      "2.Gout    Vitamin D1 - Cured right away."
+    ],
+    [
+      "Q33-2-2黑",
+      6,
+      "小tips原文",
+      "3.Insomnia    Vitamin B2 - Sleepy at once."
+    ],
+    [
+      "Q33-2-2黑",
+      7,
+      "小tips原文",
+      "4.Hair loss    Aveya Hair Growth shampoo on "
+    ],
+    [
+      "Q33-2-2黑",
+      8,
+      "小tips原文",
+      "Amazon(Grows hair like grass in 7 days)"
+    ],
+    [
+      "Q33-2-2黑",
+      9,
+      "小tips原文",
+      "5.Grey hair    Vitamin H - Turns black without dye."
+    ],
+    [
+      "Q33-2-2黑",
+      10,
+      "小tips原文",
+      "6. Yellow teeth OLCG Stain-Removal Toothpaste"
+    ],
+    [
+      "Q33-2-2黑",
+      11,
+      "小tips原文",
+      "from Amazon (Whitens teeth like pearls in one week)"
+    ],
+    [
+      "Q33-2-2黑",
+      12,
+      "标题/说明/来源中文",
+      "连医生都不会告诉你的秘密"
+    ],
+    [
+      "Q33-2-2黑",
+      13,
+      "标题/说明/来源中文",
+      "腰背痛　维生素 D——疼痛立刻消失。 "
+    ],
+    [
+      "Q33-2-2黑",
+      14,
+      "标题/说明/来源中文",
+      "痛风　维生素 D1——立刻治好。"
+    ],
+    [
+      "Q33-2-2黑",
+      15,
+      "标题/说明/来源中文",
+      "失眠　维生素 B2——立刻犯困。"
+    ],
+    [
+      "Q33-2-2黑",
+      16,
+      "标题/说明/来源中文",
+      "脱发：Amazon 上的 Aveya 生发洗发水（7 天内让头发像草一样茂盛生长）"
+    ],
+    [
+      "Q33-2-2黑",
+      17,
+      "标题/说明/来源中文",
+      "白发　维生素 H——不用染发也能变黑。 "
+    ],
+    [
+      "Q33-2-2黑",
+      18,
+      "标题/说明/来源中文",
+      "黄牙　亚马逊上的 OLCG 去渍牙膏（1 周让牙齿白得像珍珠）。"
     ]
   ],
   "retired": {
@@ -40376,48 +40672,20 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "8aadc33678933ba11445c02fb2029f9be7437eb46cfd69e5b02b61edf70bd3c0",
+  "indexSha": "b6099988ff0f6e7c5d103615ce024f5f960f66e4e616443bb2c31dcf106e04ef",
   "latestBatch": {
-    "date": "2026-11-20",
+    "date": "2026-11-23",
     "versions": [
-      "Q33-17-3",
-      "Q33-17-4",
-      "Q33-18-1",
-      "Q33-19-1",
-      "A391-1"
+      "Q33-2-2黑"
     ],
-    "records": 30,
+    "records": 6,
     "recordIds": [
-      "Q33-17-3·01",
-      "Q33-17-3·02",
-      "Q33-17-3·03",
-      "Q33-17-3·04",
-      "Q33-17-3·05",
-      "Q33-17-3·06",
-      "Q33-17-4·01",
-      "Q33-17-4·02",
-      "Q33-17-4·03",
-      "Q33-17-4·04",
-      "Q33-17-4·05",
-      "Q33-17-4·06",
-      "Q33-18-1·01",
-      "Q33-18-1·02",
-      "Q33-18-1·03",
-      "Q33-18-1·04",
-      "Q33-18-1·05",
-      "Q33-18-1·06",
-      "Q33-19-1·01",
-      "Q33-19-1·02",
-      "Q33-19-1·03",
-      "Q33-19-1·04",
-      "Q33-19-1·05",
-      "Q33-19-1·06",
-      "A391-1·01",
-      "A391-1·02",
-      "A391-1·03",
-      "A391-1·04",
-      "A391-1·05",
-      "A391-1·06"
+      "Q33-2-2黑·01·760c75488197",
+      "Q33-2-2黑·02·760c75488197",
+      "Q33-2-2黑·03·760c75488197",
+      "Q33-2-2黑·04·760c75488197",
+      "Q33-2-2黑·05·760c75488197",
+      "Q33-2-2黑·06·760c75488197"
     ]
   },
   "alignment": {
@@ -40425,7 +40693,7 @@
     "coveredVersions": 108,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "8aadc33678933ba11445c02fb2029f9be7437eb46cfd69e5b02b61edf70bd3c0",
-    "checkedAt": "2026-11-20"
+    "sourceIndexSha256": "b6099988ff0f6e7c5d103615ce024f5f960f66e4e616443bb2c31dcf106e04ef",
+    "checkedAt": "2026-11-23"
   }
 }

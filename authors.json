@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 84,
+  "revision": 85,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -903,6 +903,16 @@
       "confirmed_at": "2026-11-20T17:15:13+08:00",
       "confirmation_source": "用户授权从对应包获取作者信息",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.20\\A391-1-11.20-余晓青-郑惠跃-（我是一名皮肤科医生，真希望更多人知道这些）-Aveya洗发水+OLCG去污牙膏-30"
+    },
+    "Q33-2-2黑@760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922": {
+      "code": "Q33-2-2黑",
+      "sha256": "760c7548819779b897be06f72703d3512afb63187047d2011ba26e2737eb0922",
+      "author": "张哲",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-23T11:46:34+08:00",
+      "confirmation_source": "2026-11-23 惠跃主人确认包内新款黑字幕（q33-2-2-黑-新）作者张哲",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.23\\01-q33俱乐部\\q33-2-2-20"
     }
   },
   "history": [
