@@ -179,6 +179,10 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 .variant-select:focus-visible{outline:2px solid var(--peng);outline-offset:2px}
 .fcard.pic>header{flex-wrap:wrap}
 .fcard.pic>header .t{flex-basis:100%;white-space:normal;overflow-wrap:anywhere}
+.back-to-top{position:fixed;right:calc(var(--s4) + env(safe-area-inset-right));bottom:calc(var(--s4) + env(safe-area-inset-bottom));z-index:10;display:grid;place-items:center;width:44px;height:44px;border:1px solid var(--ink3);border-radius:50%;background:var(--surface);color:var(--ink2);box-shadow:var(--shadow);cursor:pointer}
+.back-to-top[hidden]{display:none}
+.back-to-top:hover,.back-to-top:active{color:var(--ink);border-color:var(--ink)}
+.back-to-top:focus-visible{outline:2px solid var(--peng);outline-offset:2px}
 </style>
 <link rel="stylesheet" href="author-ui.css">
 <link rel="stylesheet" href="group-manager.css">
@@ -188,7 +192,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
 <header class="masthead">
   <div>
-    <h1>定版字幕 <em>资源库</em></h1>
+    <h1 id="board-top" tabindex="-1">定版字幕 <em>资源库</em></h1>
     <p class="sub" id="sub">收录已确认的静态 PNG 与动态 MOV，配套对照文案、定版预览与真实成品视频。</p>
   </div>
   <div class="meta">
@@ -218,6 +222,10 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 </footer>
 
 </div>
+
+<button type="button" id="back-to-top" class="back-to-top" aria-label="回到顶部" title="回到顶部" hidden>
+  <svg width="20" height="20" viewBox="0 0 20 20" fill="none" stroke="currentColor" stroke-width="1.7" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="m6 10 4-4 4 4m-8 5 4-4 4 4"/></svg>
+</button>
 
 <dialog id="group-manager" aria-labelledby="manage-title">
   <form method="dialog" class="manager-head"><strong id="manage-title">分组成员</strong><button aria-label="关闭">×</button></form>
@@ -504,6 +512,15 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
   document.getElementById('q').addEventListener('input',render);
   document.getElementById('reload').addEventListener('click',function(){ location.reload(); });
+
+  var backToTop=document.getElementById('back-to-top');
+  function syncBackToTop(){backToTop.hidden=window.scrollY<=240;}
+  window.addEventListener('scroll',syncBackToTop,{passive:true});
+  window.addEventListener('pageshow',syncBackToTop);
+  backToTop.addEventListener('click',function(){
+    document.getElementById('board-top').focus({preventScroll:true});
+    window.scrollTo({top:0,behavior:matchMedia('(prefers-reduced-motion: reduce)').matches?'instant':'smooth'});
+  });
 
   /* ---------- 热更新：每 15 秒拉一次 data.js；开着浮层时不打断 ---------- */
   function pull(cb){
