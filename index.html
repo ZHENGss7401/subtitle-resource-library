@@ -321,8 +321,11 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       if(!selected.has(key)&&!matches(v,q))v=items.find(function(x){return matches(x,q);});
       visible.push(v);
     });
-    list = visible
-              .sort(function(a,b){var ad=meta(a),bd=meta(b),av=(ad&&(ad.uploaded_at||ad.date))||'',bv=(bd&&(bd.uploaded_at||bd.date))||'';return bv.localeCompare(av)||a.code.localeCompare(b.code,undefined,{numeric:true});});
+    list=visible.sort(function(a,b){
+      var ak=familyCode(a),bk=familyCode(b),ad=meta(data.versions[ak]),bd=meta(data.versions[bk]);
+      var av=(ad&&(ad.uploaded_at||ad.date))||'',bv=(bd&&(bd.uploaded_at||bd.date))||'';
+      return bv.localeCompare(av)||ak.localeCompare(bk,undefined,{numeric:true});
+    });
 
     var nOk=0,nBf=0,nUn=0;
     all.forEach(function(v){
