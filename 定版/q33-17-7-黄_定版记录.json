@@ -1,0 +1,77 @@
+{
+  "code": "q33-17-7-黄",
+  "pkg_code": "Q33-17-6-7",
+  "aliases": [],
+  "dates": [
+    "11.25"
+  ],
+  "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.25\\01-q33俱乐部\\Q33-17-6-7-11.25-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-20"
+  ],
+  "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.25\\01-q33俱乐部\\Q33-17-6-7-11.25-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-20\\字幕夹(待agent入库）\\q33-17-7-黄.png",
+  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\q33-17-7-黄.png",
+  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\q33-17-7-黄.png",
+  "layer_rel": "定版/q33-17-7-黄.png",
+  "preview_rel": "定版/q33-17-7-黄_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\q33-17-7-黄_成品预览.png",
+  "preview_kind": "实际成品首帧",
+  "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\1. 成品入口\\11.25\\Q33俱乐部\\Q33-17-7-11.25-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-20\\1122 11.25.mp4",
+  "preview_frame_seconds": 0,
+  "preview_source_note": "",
+  "sha256": "65df3d625f67174c098fd8c9ae3328242b3e3b5dedf7b9a06204f84a3c87922b",
+  "preview_sha256": "d26ddc809b7d0e51f250f074353c2965082fd051dcd909e1d78a7d5c07f90f77",
+  "size": [
+    1536,
+    2752
+  ],
+  "preview_size": [
+    720,
+    1280
+  ],
+  "basis": "用户授权本次入库上线；原始文件逐字节保留",
+  "confidence": "已证实",
+  "contested": false,
+  "discarded": [],
+  "author": "郑惠跃",
+  "copywriter": "郑惠跃",
+  "author_status": "confirmed",
+  "author_confirmed_at": "2026-11-25T14:54:13+08:00",
+  "author_source": "字幕资源库 authors.json：按版号与 PNG SHA256 确认",
+  "copy": {
+    "source": "q33-17-7-黄_原文案.docx",
+    "lines": [
+      "Secrets even doctors",
+      "won't tell you",
+      "1.Coca Cola",
+      "Drink less - piles on fat fast",
+      "2.Constipation",
+      "Vitamin C — Unclogs your gut",
+      "3.Have a cold",
+      "Vitamin B6 - Kills your cold overnight",
+      "4.Hair loss",
+      "Aveya Hair Growth shampoo on Amazon",
+      "(Grows hair like grass in 7 days)",
+      "5.Grey hair",
+      "Vitamin H - Turns black without dye.",
+      "6. Yellow teeth",
+      "OLCG Toothpaste from Amazon",
+      "(Switch to Pearl-White Teeth in one week)"
+    ],
+    "download_rel": "文案/q33-17-7-黄_原文案.docx",
+    "original_download_rel": "文案/q33-17-7-黄_原文案.docx",
+    "sha256": "f9dfd7dade44a3c9d2e729e9c843cb1ac2b0881a107e44d09ca3804177e9c775"
+  },
+  "copy_rel": "文案/q33-17-7-黄_原文案.docx",
+  "updated_at": "2026-11-25T14:54:13+08:00",
+  "title": "连医生都不会告诉你的秘密",
+  "products": "Aveya 洗发水 + OLCG 去污牙膏",
+  "tips_mode": "none",
+  "display_name": "Q33-17-7",
+  "variant_label": "黄底黑字",
+  "board_parent_code": "q33-17-7-常规",
+  "upload_date": {
+    "date": "2026-11-25",
+    "source": "字幕上传提交日期",
+    "sha256": "65df3d625f67174c098fd8c9ae3328242b3e3b5dedf7b9a06204f84a3c87922b"
+  }
+}
