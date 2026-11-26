@@ -1,6 +1,6 @@
 {
   "schema": 1,
-  "revision": 88,
+  "revision": 89,
   "records": {
     "A308@93a446801171ee65a9b427c1d727a0101f81faffd3dc9f1c130fa85103171c79": {
       "code": "A308",
@@ -993,6 +993,47 @@
       "confirmed_at": "2026-11-25T14:32:38+08:00",
       "confirmation_source": "2026-11-25 惠跃主人确认三张字幕作者均为郑惠跃",
       "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.25\\01-q33俱乐部\\q33-17-6-7-20"
+    },
+    "Q33-21-常规@fe0e08fd101732fc127b92f9e8660bb942263f72edac1785566639bf8040706d": {
+      "code": "Q33-21-常规",
+      "sha256": "fe0e08fd101732fc127b92f9e8660bb942263f72edac1785566639bf8040706d",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-26T14:33:50+08:00",
+      "confirmation_source": "用户确认此组作者；按三份原 PNG 的 SHA256 分别登记",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.26\\A404-21-11.26-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-40"
+    },
+    "Q33-21-黄@bf84513586fb1ba88a813dfe8211a34a580c420447460fd9c6c786e24de534b2": {
+      "code": "Q33-21-黄",
+      "sha256": "bf84513586fb1ba88a813dfe8211a34a580c420447460fd9c6c786e24de534b2",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-26T14:33:50+08:00",
+      "confirmation_source": "用户确认此组作者；按三份原 PNG 的 SHA256 分别登记",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.26\\A404-21-11.26-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-40"
+    },
+    "Q33-21-黑@8e394b2d8418bd2989a2bd678dd317be7fc07d83d2e53a9b559f2bf93fa3cdab": {
+      "code": "Q33-21-黑",
+      "sha256": "8e394b2d8418bd2989a2bd678dd317be7fc07d83d2e53a9b559f2bf93fa3cdab",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-26T14:33:50+08:00",
+      "confirmation_source": "用户确认此组作者；按三份原 PNG 的 SHA256 分别登记",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.26\\A404-21-11.26-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-40"
+    },
+    "q33-20-黄-新@c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f": {
+      "code": "q33-20-黄-新",
+      "sha256": "c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f",
+      "author": "郑惠跃",
+      "copywriter": "郑惠跃",
+      "designer": "郑雅斯",
+      "status": "confirmed",
+      "confirmed_at": "2026-11-26T14:13:28+08:00",
+      "confirmation_source": "2026-11-26 惠跃主人指令：按郑惠跃入库黄版",
+      "source_package": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.26\\01-q33俱乐部\\Q33-20-40"
     }
   },
   "history": [

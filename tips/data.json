@@ -1,5 +1,5 @@
 {
-  "built": "2026-11-23",
+  "built": "2026-11-26",
   "root": "字幕资源库 / INDEX.json",
   "rows": [
     {
@@ -18517,6 +18517,581 @@
       "sha": "c630701510933b001ee247f6786bf3d9787dc0d212d3ae4d67ffff22d697b51d",
       "textHash": "0ed632556b2d045bf735fb5ff74d4e8f0b4f091b3f557346a2d9b3d584dbeaa3",
       "addedAt": "2026-11-23"
+    },
+    {
+      "id": "Q33-21-常规·01",
+      "code": "Q33-21-常规",
+      "topic": "饮酒与外观",
+      "groupId": "T221",
+      "kind": "生活小tips",
+      "text": "1.Alcohol\nDrink less - Ages your face fast",
+      "zh": "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。",
+      "zhDisplay": "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-常规_原文案.docx",
+      "line": "3–4",
+      "zhLine": "20–20",
+      "note": "",
+      "preview": "定版/版本/Q33-21-常规/预览-efbd59c461c1.png",
+      "layer": "定版/版本/Q33-21-常规/fe0e08fd1017.png",
+      "sha": "fe0e08fd101732fc127b92f9e8660bb942263f72edac1785566639bf8040706d",
+      "textHash": "35e6f6c8973c02f73bb4852b317f99264bf82d205d003f66b32c7677a2556ba1",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-常规·02",
+      "code": "Q33-21-常规",
+      "topic": "口臭与维生素B2",
+      "groupId": "T215",
+      "kind": "生活小tips",
+      "text": "2.Coca-Cola\nVitamin B2 - Kills morning bad breath instantly",
+      "zh": "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。",
+      "zhDisplay": "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-常规_原文案.docx",
+      "line": "5–6",
+      "zhLine": "21–21",
+      "note": "原图编号为可口可乐，下一行是维生素 B2；按原样保留。",
+      "preview": "定版/版本/Q33-21-常规/预览-efbd59c461c1.png",
+      "layer": "定版/版本/Q33-21-常规/fe0e08fd1017.png",
+      "sha": "fe0e08fd101732fc127b92f9e8660bb942263f72edac1785566639bf8040706d",
+      "textHash": "86e8602d2a8bd69ebef16eda693d49777cd989dbcedab056fcceefe9f913a062",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-常规·03",
+      "code": "Q33-21-常规",
+      "topic": "腹泻与维生素B5",
+      "groupId": "T222",
+      "kind": "生活小tips",
+      "text": "3.Diarrhea\nVitamin B5 - Resets your gut overnight",
+      "zh": "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。",
+      "zhDisplay": "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-常规_原文案.docx",
+      "line": "7–8",
+      "zhLine": "22–22",
+      "note": "",
+      "preview": "定版/版本/Q33-21-常规/预览-efbd59c461c1.png",
+      "layer": "定版/版本/Q33-21-常规/fe0e08fd1017.png",
+      "sha": "fe0e08fd101732fc127b92f9e8660bb942263f72edac1785566639bf8040706d",
+      "textHash": "1bbf901b4dcdcdae5b18b8c4fa9f299e743876a8f3b815296d4aaca5c0f2b9f7",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-常规·04",
+      "code": "Q33-21-常规",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "4.Hair loss\nAveya Hair Growth shampoo on Amazon\n(Grows hair like grass in 7 days)",
+      "zh": "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+      "zhDisplay": "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-常规_原文案.docx",
+      "line": "9–11",
+      "zhLine": "23–23",
+      "note": "",
+      "preview": "定版/版本/Q33-21-常规/预览-efbd59c461c1.png",
+      "layer": "定版/版本/Q33-21-常规/fe0e08fd1017.png",
+      "sha": "fe0e08fd101732fc127b92f9e8660bb942263f72edac1785566639bf8040706d",
+      "textHash": "9ba14077567f0ef3f080419e111efce7c84b9a765ef6e6654df9a3568d294661",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-常规·05",
+      "code": "Q33-21-常规",
+      "topic": "白发与维生素H",
+      "groupId": "T213",
+      "kind": "生活小tips",
+      "text": "5.Grey hair\nVitamin H - Turns black without dye.",
+      "zh": "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+      "zhDisplay": "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-常规_原文案.docx",
+      "line": "12–13",
+      "zhLine": "24–24",
+      "note": "",
+      "preview": "定版/版本/Q33-21-常规/预览-efbd59c461c1.png",
+      "layer": "定版/版本/Q33-21-常规/fe0e08fd1017.png",
+      "sha": "fe0e08fd101732fc127b92f9e8660bb942263f72edac1785566639bf8040706d",
+      "textHash": "1163289416f2e97a95ed3d711021f91ab1b7c91d81edcf3e1f8c8756c3149e07",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-常规·06",
+      "code": "Q33-21-常规",
+      "topic": "OLCG去污牙膏",
+      "groupId": "T166",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth\nOLCG Stain-removal Toothpaste from Amazon\nTurn on Your Teeth Brightening & Whitening\nSwitch to Pearl-White Teeth in one week",
+      "zh": "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。",
+      "zhDisplay": "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-常规_原文案.docx",
+      "line": "14–17",
+      "zhLine": "25–25",
+      "note": "",
+      "preview": "定版/版本/Q33-21-常规/预览-efbd59c461c1.png",
+      "layer": "定版/版本/Q33-21-常规/fe0e08fd1017.png",
+      "sha": "fe0e08fd101732fc127b92f9e8660bb942263f72edac1785566639bf8040706d",
+      "textHash": "9ea1c82e5d46fb598e16d7bca7798dd4b3284d856f7cf54482c89d71290742c9",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黄·01",
+      "code": "Q33-21-黄",
+      "topic": "饮酒与外观",
+      "groupId": "T221",
+      "kind": "生活小tips",
+      "text": "1.Alcohol\nDrink less - Ages your face fast",
+      "zh": "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。",
+      "zhDisplay": "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黄_原文案.docx",
+      "line": "3–4",
+      "zhLine": "20–20",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黄/预览-6b00702f9afb.png",
+      "layer": "定版/版本/Q33-21-黄/bf84513586fb.png",
+      "sha": "bf84513586fb1ba88a813dfe8211a34a580c420447460fd9c6c786e24de534b2",
+      "textHash": "35e6f6c8973c02f73bb4852b317f99264bf82d205d003f66b32c7677a2556ba1",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黄·02",
+      "code": "Q33-21-黄",
+      "topic": "口臭与维生素B2",
+      "groupId": "T215",
+      "kind": "生活小tips",
+      "text": "2.Coca-Cola\nVitamin B2 - Kills morning bad breath instantly",
+      "zh": "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。",
+      "zhDisplay": "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黄_原文案.docx",
+      "line": "5–6",
+      "zhLine": "21–21",
+      "note": "原图编号为可口可乐，下一行是维生素 B2；按原样保留。",
+      "preview": "定版/版本/Q33-21-黄/预览-6b00702f9afb.png",
+      "layer": "定版/版本/Q33-21-黄/bf84513586fb.png",
+      "sha": "bf84513586fb1ba88a813dfe8211a34a580c420447460fd9c6c786e24de534b2",
+      "textHash": "86e8602d2a8bd69ebef16eda693d49777cd989dbcedab056fcceefe9f913a062",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黄·03",
+      "code": "Q33-21-黄",
+      "topic": "腹泻与维生素B5",
+      "groupId": "T222",
+      "kind": "生活小tips",
+      "text": "3.Diarrhea\nVitamin B5 - Resets your gut overnight",
+      "zh": "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。",
+      "zhDisplay": "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黄_原文案.docx",
+      "line": "7–8",
+      "zhLine": "22–22",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黄/预览-6b00702f9afb.png",
+      "layer": "定版/版本/Q33-21-黄/bf84513586fb.png",
+      "sha": "bf84513586fb1ba88a813dfe8211a34a580c420447460fd9c6c786e24de534b2",
+      "textHash": "1bbf901b4dcdcdae5b18b8c4fa9f299e743876a8f3b815296d4aaca5c0f2b9f7",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黄·04",
+      "code": "Q33-21-黄",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "4.Hair loss\nAveya Hair Growth shampoo on Amazon\n(Grows hair like grass in 7 days)",
+      "zh": "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+      "zhDisplay": "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黄_原文案.docx",
+      "line": "9–11",
+      "zhLine": "23–23",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黄/预览-6b00702f9afb.png",
+      "layer": "定版/版本/Q33-21-黄/bf84513586fb.png",
+      "sha": "bf84513586fb1ba88a813dfe8211a34a580c420447460fd9c6c786e24de534b2",
+      "textHash": "9ba14077567f0ef3f080419e111efce7c84b9a765ef6e6654df9a3568d294661",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黄·05",
+      "code": "Q33-21-黄",
+      "topic": "白发与维生素H",
+      "groupId": "T213",
+      "kind": "生活小tips",
+      "text": "5.Grey hair\nVitamin H - Turns black without dye.",
+      "zh": "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+      "zhDisplay": "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黄_原文案.docx",
+      "line": "12–13",
+      "zhLine": "24–24",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黄/预览-6b00702f9afb.png",
+      "layer": "定版/版本/Q33-21-黄/bf84513586fb.png",
+      "sha": "bf84513586fb1ba88a813dfe8211a34a580c420447460fd9c6c786e24de534b2",
+      "textHash": "1163289416f2e97a95ed3d711021f91ab1b7c91d81edcf3e1f8c8756c3149e07",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黄·06",
+      "code": "Q33-21-黄",
+      "topic": "OLCG去污牙膏",
+      "groupId": "T166",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth\nOLCG Stain-removal Toothpaste from Amazon\nTurn on Your Teeth Brightening & Whitening\nSwitch to Pearl-White Teeth in one week",
+      "zh": "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。",
+      "zhDisplay": "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黄_原文案.docx",
+      "line": "14–17",
+      "zhLine": "25–25",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黄/预览-6b00702f9afb.png",
+      "layer": "定版/版本/Q33-21-黄/bf84513586fb.png",
+      "sha": "bf84513586fb1ba88a813dfe8211a34a580c420447460fd9c6c786e24de534b2",
+      "textHash": "9ea1c82e5d46fb598e16d7bca7798dd4b3284d856f7cf54482c89d71290742c9",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黑·01",
+      "code": "Q33-21-黑",
+      "topic": "饮酒与外观",
+      "groupId": "T221",
+      "kind": "生活小tips",
+      "text": "1.Alcohol\nDrink less - Ages your face fast",
+      "zh": "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。",
+      "zhDisplay": "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黑_原文案.docx",
+      "line": "3–4",
+      "zhLine": "20–20",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黑/预览-0ff1ab90c9b4.png",
+      "layer": "定版/版本/Q33-21-黑/8e394b2d8418.png",
+      "sha": "8e394b2d8418bd2989a2bd678dd317be7fc07d83d2e53a9b559f2bf93fa3cdab",
+      "textHash": "35e6f6c8973c02f73bb4852b317f99264bf82d205d003f66b32c7677a2556ba1",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黑·02",
+      "code": "Q33-21-黑",
+      "topic": "口臭与维生素B2",
+      "groupId": "T215",
+      "kind": "生活小tips",
+      "text": "2.Coca-Cola\nVitamin B2 - Kills morning bad breath instantly",
+      "zh": "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。",
+      "zhDisplay": "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黑_原文案.docx",
+      "line": "5–6",
+      "zhLine": "21–21",
+      "note": "原图编号为可口可乐，下一行是维生素 B2；按原样保留。",
+      "preview": "定版/版本/Q33-21-黑/预览-0ff1ab90c9b4.png",
+      "layer": "定版/版本/Q33-21-黑/8e394b2d8418.png",
+      "sha": "8e394b2d8418bd2989a2bd678dd317be7fc07d83d2e53a9b559f2bf93fa3cdab",
+      "textHash": "86e8602d2a8bd69ebef16eda693d49777cd989dbcedab056fcceefe9f913a062",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黑·03",
+      "code": "Q33-21-黑",
+      "topic": "腹泻与维生素B5",
+      "groupId": "T222",
+      "kind": "生活小tips",
+      "text": "3.Diarrhea\nVitamin B5 - Resets your gut overnight",
+      "zh": "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。",
+      "zhDisplay": "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黑_原文案.docx",
+      "line": "7–8",
+      "zhLine": "22–22",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黑/预览-0ff1ab90c9b4.png",
+      "layer": "定版/版本/Q33-21-黑/8e394b2d8418.png",
+      "sha": "8e394b2d8418bd2989a2bd678dd317be7fc07d83d2e53a9b559f2bf93fa3cdab",
+      "textHash": "1bbf901b4dcdcdae5b18b8c4fa9f299e743876a8f3b815296d4aaca5c0f2b9f7",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黑·04",
+      "code": "Q33-21-黑",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "4.Hair loss\nAveya Hair Growth shampoo on Amazon\n(Grows hair like grass in 7 days)",
+      "zh": "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+      "zhDisplay": "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黑_原文案.docx",
+      "line": "9–11",
+      "zhLine": "23–23",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黑/预览-0ff1ab90c9b4.png",
+      "layer": "定版/版本/Q33-21-黑/8e394b2d8418.png",
+      "sha": "8e394b2d8418bd2989a2bd678dd317be7fc07d83d2e53a9b559f2bf93fa3cdab",
+      "textHash": "9ba14077567f0ef3f080419e111efce7c84b9a765ef6e6654df9a3568d294661",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黑·05",
+      "code": "Q33-21-黑",
+      "topic": "白发与维生素H",
+      "groupId": "T213",
+      "kind": "生活小tips",
+      "text": "5.Grey hair\nVitamin H - Turns black without dye.",
+      "zh": "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+      "zhDisplay": "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黑_原文案.docx",
+      "line": "12–13",
+      "zhLine": "24–24",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黑/预览-0ff1ab90c9b4.png",
+      "layer": "定版/版本/Q33-21-黑/8e394b2d8418.png",
+      "sha": "8e394b2d8418bd2989a2bd678dd317be7fc07d83d2e53a9b559f2bf93fa3cdab",
+      "textHash": "1163289416f2e97a95ed3d711021f91ab1b7c91d81edcf3e1f8c8756c3149e07",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "Q33-21-黑·06",
+      "code": "Q33-21-黑",
+      "topic": "OLCG去污牙膏",
+      "groupId": "T166",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth\nOLCG Stain-removal Toothpaste from Amazon\nTurn on Your Teeth Brightening & Whitening\nSwitch to Pearl-White Teeth in one week",
+      "zh": "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。",
+      "zhDisplay": "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。",
+      "zhOrigin": "新增翻译（按本次图片外文；保留原文宣称，不代表医学认可）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生都不会告诉你的秘密",
+      "sourceType": "文案原文",
+      "source": "q33-21-黑_原文案.docx",
+      "line": "14–17",
+      "zhLine": "25–25",
+      "note": "",
+      "preview": "定版/版本/Q33-21-黑/预览-0ff1ab90c9b4.png",
+      "layer": "定版/版本/Q33-21-黑/8e394b2d8418.png",
+      "sha": "8e394b2d8418bd2989a2bd678dd317be7fc07d83d2e53a9b559f2bf93fa3cdab",
+      "textHash": "9ea1c82e5d46fb598e16d7bca7798dd4b3284d856f7cf54482c89d71290742c9",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "q33-20-黄-新·01",
+      "code": "q33-20-黄-新",
+      "topic": "口交与结肠癌",
+      "groupId": "T223",
+      "kind": "生活小tips",
+      "text": "1.Oral sex\nDo not swallow - Colon cancer",
+      "zh": "1. 口交：不要吞咽——否则可能引发结肠癌。",
+      "zhDisplay": "1. 口交：不要吞咽——否则可能引发结肠癌。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密：",
+      "sourceType": "文案原文",
+      "source": "q33-20-黄-新_原文案.docx",
+      "line": "3–4",
+      "zhLine": "18–18",
+      "note": "存档原文说法，不代表医学或功效认可。",
+      "preview": "定版/版本/q33-20-黄-新/预览-2b75a2fda812.png",
+      "layer": "定版/版本/q33-20-黄-新/c247d4342f3b.png",
+      "sha": "c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f",
+      "textHash": "7806b442f77cddbf9a3bf41833b9119496c9704102813e57b17c4f2447677fb2",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "q33-20-黄-新·02",
+      "code": "q33-20-黄-新",
+      "topic": "私密部位与维生素H",
+      "groupId": "T224",
+      "kind": "生活小tips",
+      "text": "2.Private parts\nTake Vitamin H - Repair the mucous membrane",
+      "zh": "2. 私密部位：服用维生素H——可修复黏膜。",
+      "zhDisplay": "2. 私密部位：服用维生素H——可修复黏膜。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密：",
+      "sourceType": "文案原文",
+      "source": "q33-20-黄-新_原文案.docx",
+      "line": "5–6",
+      "zhLine": "19–19",
+      "note": "存档原文说法，不代表医学或功效认可。",
+      "preview": "定版/版本/q33-20-黄-新/预览-2b75a2fda812.png",
+      "layer": "定版/版本/q33-20-黄-新/c247d4342f3b.png",
+      "sha": "c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f",
+      "textHash": "300d6b2a80522058bd2332227551331caea9283eb2d380a4887094dc69d2b4a5",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "q33-20-黄-新·03",
+      "code": "q33-20-黄-新",
+      "topic": "白发与维生素H",
+      "groupId": "T213",
+      "kind": "生活小tips",
+      "text": "3.Grey hair\nTake Vitamin H - Turns black without dye.",
+      "zh": "3. 白发：服用维生素H——无需染发，头发便会变黑。",
+      "zhDisplay": "3. 白发：服用维生素H——无需染发，头发便会变黑。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密：",
+      "sourceType": "文案原文",
+      "source": "q33-20-黄-新_原文案.docx",
+      "line": "7–8",
+      "zhLine": "20–20",
+      "note": "存档原文说法，不代表医学或功效认可。",
+      "preview": "定版/版本/q33-20-黄-新/预览-2b75a2fda812.png",
+      "layer": "定版/版本/q33-20-黄-新/c247d4342f3b.png",
+      "sha": "c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f",
+      "textHash": "00b430e63bbf4455c8bc553131fa6187dc0d31eba1dca560f37b003719b6b730",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "q33-20-黄-新·04",
+      "code": "q33-20-黄-新",
+      "topic": "脱发与生发洗发水",
+      "groupId": "T174",
+      "kind": "产品植入",
+      "text": "4. Hair loss\nAveya Hair Growth shampoo on Amazon\n(Grows hair like grass in 7 days)",
+      "zh": "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。",
+      "zhDisplay": "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密：",
+      "sourceType": "文案原文",
+      "source": "q33-20-黄-新_原文案.docx",
+      "line": "9–11",
+      "zhLine": "21–21",
+      "note": "存档原文说法，不代表医学或功效认可。",
+      "preview": "定版/版本/q33-20-黄-新/预览-2b75a2fda812.png",
+      "layer": "定版/版本/q33-20-黄-新/c247d4342f3b.png",
+      "sha": "c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f",
+      "textHash": "69716652146079ac3be8a818a5e732fd0312ff68c6671c210bd4b524b93aa815",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "q33-20-黄-新·05",
+      "code": "q33-20-黄-新",
+      "topic": "吊带背心与胸部",
+      "groupId": "T225",
+      "kind": "生活小tips",
+      "text": "5.Big bust\nDon't wear a camisole - prone to sagging",
+      "zh": "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。",
+      "zhDisplay": "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密：",
+      "sourceType": "文案原文",
+      "source": "q33-20-黄-新_原文案.docx",
+      "line": "12–13",
+      "zhLine": "22–22",
+      "note": "存档原文说法，不代表医学或功效认可。",
+      "preview": "定版/版本/q33-20-黄-新/预览-2b75a2fda812.png",
+      "layer": "定版/版本/q33-20-黄-新/c247d4342f3b.png",
+      "sha": "c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f",
+      "textHash": "357f1a43cc96d21b39ca44e5ca46dc14be11889e5538eee498ba96174d78a6a7",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "q33-20-黄-新·06",
+      "code": "q33-20-黄-新",
+      "topic": "OLCG去污牙膏",
+      "groupId": "T166",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth  \nOLCG Stain-removal Toothpaste from\nAmazon(Whitens teeth like pearls in one week)",
+      "zh": "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）",
+      "zhDisplay": "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）",
+      "zhOrigin": "来源中文原文",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密：",
+      "sourceType": "文案原文",
+      "source": "q33-20-黄-新_原文案.docx",
+      "line": "14–16",
+      "zhLine": "23–23",
+      "note": "存档原文说法，不代表医学或功效认可。",
+      "preview": "定版/版本/q33-20-黄-新/预览-2b75a2fda812.png",
+      "layer": "定版/版本/q33-20-黄-新/c247d4342f3b.png",
+      "sha": "c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f",
+      "textHash": "9bc510ad190aaa9362f76264fbf74e10e890c9f12819ec03c41c145ff40be65e",
+      "addedAt": "2026-11-26"
+    },
+    {
+      "id": "q33-20-黄-新·图·c247d4342f3b·1",
+      "code": "q33-20-黄-新",
+      "topic": "OLCG去污牙膏",
+      "groupId": "T166",
+      "kind": "产品植入",
+      "text": "6.Yellow teeth\nOLCG Stain-removal Toothpaste from AMZ\n(Whitens teeth like pearls in one week)",
+      "zh": "",
+      "zhDisplay": "黄牙：原图写的是亚马逊（AMZ）上的 OLCG 去渍牙膏，并声称一周内可让牙齿白如珍珠。",
+      "zhOrigin": "新增翻译（按图片外文）",
+      "title": "Secrets even doctors\nwon't tell you",
+      "zhTitle": "连医生也不会告诉你的秘密：",
+      "sourceType": "图片可见原文",
+      "source": "定版/版本/q33-20-黄-新/c247d4342f3b.png",
+      "line": "图片差异",
+      "zhLine": "",
+      "note": "图片写 AMZ，源 DOCX 写 Amazon；两种原文分别保留，不代表功效认可。",
+      "preview": "定版/版本/q33-20-黄-新/预览-2b75a2fda812.png",
+      "layer": "定版/版本/q33-20-黄-新/c247d4342f3b.png",
+      "sha": "c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f",
+      "textHash": "f80cd51d2be8286b12914072fac2a26dc54dd61fd5f5d9c964f1415ec8de0b1c",
+      "addedAt": "2026-11-26"
     }
   ],
   "groups": [
@@ -20491,10 +21066,14 @@
     {
       "id": "T166",
       "name": "OLCG去污牙膏",
-      "count": 1,
-      "forms": 1,
+      "count": 6,
+      "forms": 4,
       "versions": [
-        "A195-3"
+        "A195-3",
+        "Q33-21-常规",
+        "Q33-21-黄",
+        "Q33-21-黑",
+        "q33-20-黄-新"
       ]
     },
     {
@@ -20563,7 +21142,7 @@
     {
       "id": "T174",
       "name": "脱发与生发洗发水",
-      "count": 25,
+      "count": 29,
       "forms": 14,
       "versions": [
         "Q33-客厅养鱼",
@@ -20590,7 +21169,11 @@
         "A391-1黑",
         "A391-1黄",
         "Q33-17-5",
-        "Q33-17-5黑"
+        "Q33-17-5黑",
+        "Q33-21-常规",
+        "Q33-21-黄",
+        "Q33-21-黑",
+        "q33-20-黄-新"
       ]
     },
     {
@@ -20974,8 +21557,8 @@
     {
       "id": "T213",
       "name": "白发与维生素H",
-      "count": 10,
-      "forms": 6,
+      "count": 14,
+      "forms": 7,
       "versions": [
         "Q33-17-3",
         "Q33-17-4",
@@ -20986,7 +21569,11 @@
         "A391-1黑",
         "A391-1黄",
         "Q33-17-5",
-        "Q33-17-5黑"
+        "Q33-17-5黑",
+        "Q33-21-常规",
+        "Q33-21-黄",
+        "Q33-21-黑",
+        "q33-20-黄-新"
       ]
     },
     {
@@ -21001,10 +21588,13 @@
     {
       "id": "T215",
       "name": "口臭与维生素B2",
-      "count": 1,
-      "forms": 1,
+      "count": 4,
+      "forms": 2,
       "versions": [
-        "Q33-18-1"
+        "Q33-18-1",
+        "Q33-21-常规",
+        "Q33-21-黄",
+        "Q33-21-黑"
       ]
     },
     {
@@ -21055,6 +21645,55 @@
       "versions": [
         "Q33-17-5",
         "Q33-17-5黑"
+      ]
+    },
+    {
+      "id": "T221",
+      "name": "饮酒与外观",
+      "count": 3,
+      "forms": 1,
+      "versions": [
+        "Q33-21-常规",
+        "Q33-21-黄",
+        "Q33-21-黑"
+      ]
+    },
+    {
+      "id": "T222",
+      "name": "腹泻与维生素B5",
+      "count": 3,
+      "forms": 1,
+      "versions": [
+        "Q33-21-常规",
+        "Q33-21-黄",
+        "Q33-21-黑"
+      ]
+    },
+    {
+      "id": "T223",
+      "name": "口交与结肠癌",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "q33-20-黄-新"
+      ]
+    },
+    {
+      "id": "T224",
+      "name": "私密部位与维生素H",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "q33-20-黄-新"
+      ]
+    },
+    {
+      "id": "T225",
+      "name": "吊带背心与胸部",
+      "count": 1,
+      "forms": 1,
+      "versions": [
+        "q33-20-黄-新"
       ]
     }
   ],
@@ -25667,6 +26306,170 @@
       "previewSha": "e8e9bea47a061a1775cf180b9f5fd354c09cf5825da129152f744223667a3b71",
       "aliases": [],
       "sourceBuilt": "2026-11-23",
+      "contextLineNumbers": []
+    },
+    {
+      "code": "Q33-21-常规",
+      "count": 6,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "q33-21-常规_原文案.docx",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Alcohol",
+        "Drink less - Ages your face fast",
+        "2.Coca-Cola",
+        "Vitamin B2 - Kills morning bad breath instantly",
+        "3.Diarrhea",
+        "Vitamin B5 - Resets your gut overnight",
+        "4.Hair loss",
+        "Aveya Hair Growth shampoo on Amazon",
+        "(Grows hair like grass in 7 days)",
+        "5.Grey hair",
+        "Vitamin H - Turns black without dye.",
+        "6.Yellow teeth",
+        "OLCG Stain-removal Toothpaste from Amazon",
+        "Turn on Your Teeth Brightening & Whitening",
+        "Switch to Pearl-White Teeth in one week",
+        "中文译文：按图片外文补译，仅记录原文说法，不代表医学或功效认可。",
+        "连医生都不会告诉你的秘密",
+        "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。",
+        "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。",
+        "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。",
+        "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+        "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+        "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。"
+      ],
+      "layer": "定版/版本/Q33-21-常规/fe0e08fd1017.png",
+      "preview": "定版/版本/Q33-21-常规/预览-efbd59c461c1.png",
+      "sha": "fe0e08fd101732fc127b92f9e8660bb942263f72edac1785566639bf8040706d",
+      "previewSha": "efbd59c461c1360e16e3a1c556c10b2d198466e8c197a9f948bbf48777664983",
+      "aliases": [],
+      "sourceBuilt": "2026-11-26",
+      "contextLineNumbers": [
+        18
+      ]
+    },
+    {
+      "code": "Q33-21-黄",
+      "count": 6,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "q33-21-黄_原文案.docx",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Alcohol",
+        "Drink less - Ages your face fast",
+        "2.Coca-Cola",
+        "Vitamin B2 - Kills morning bad breath instantly",
+        "3.Diarrhea",
+        "Vitamin B5 - Resets your gut overnight",
+        "4.Hair loss",
+        "Aveya Hair Growth shampoo on Amazon",
+        "(Grows hair like grass in 7 days)",
+        "5.Grey hair",
+        "Vitamin H - Turns black without dye.",
+        "6.Yellow teeth",
+        "OLCG Stain-removal Toothpaste from Amazon",
+        "Turn on Your Teeth Brightening & Whitening",
+        "Switch to Pearl-White Teeth in one week",
+        "中文译文：按图片外文补译，仅记录原文说法，不代表医学或功效认可。",
+        "连医生都不会告诉你的秘密",
+        "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。",
+        "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。",
+        "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。",
+        "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+        "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+        "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。"
+      ],
+      "layer": "定版/版本/Q33-21-黄/bf84513586fb.png",
+      "preview": "定版/版本/Q33-21-黄/预览-6b00702f9afb.png",
+      "sha": "bf84513586fb1ba88a813dfe8211a34a580c420447460fd9c6c786e24de534b2",
+      "previewSha": "6b00702f9afbd60f17777ed17eb28dffbf217edafb60fcd6e9a73ad27f937a00",
+      "aliases": [],
+      "sourceBuilt": "2026-11-26",
+      "contextLineNumbers": [
+        18
+      ]
+    },
+    {
+      "code": "Q33-21-黑",
+      "count": 6,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "q33-21-黑_原文案.docx",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Alcohol",
+        "Drink less - Ages your face fast",
+        "2.Coca-Cola",
+        "Vitamin B2 - Kills morning bad breath instantly",
+        "3.Diarrhea",
+        "Vitamin B5 - Resets your gut overnight",
+        "4.Hair loss",
+        "Aveya Hair Growth shampoo on Amazon",
+        "(Grows hair like grass in 7 days)",
+        "5.Grey hair",
+        "Vitamin H - Turns black without dye.",
+        "6.Yellow teeth",
+        "OLCG Stain-removal Toothpaste from Amazon",
+        "Turn on Your Teeth Brightening & Whitening",
+        "Switch to Pearl-White Teeth in one week",
+        "中文译文：按图片外文补译，仅记录原文说法，不代表医学或功效认可。",
+        "连医生都不会告诉你的秘密",
+        "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。",
+        "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。",
+        "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。",
+        "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+        "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+        "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。"
+      ],
+      "layer": "定版/版本/Q33-21-黑/8e394b2d8418.png",
+      "preview": "定版/版本/Q33-21-黑/预览-0ff1ab90c9b4.png",
+      "sha": "8e394b2d8418bd2989a2bd678dd317be7fc07d83d2e53a9b559f2bf93fa3cdab",
+      "previewSha": "0ff1ab90c9b40a9121730bb511cd73920067228252caee144d767cddd882ef11",
+      "aliases": [],
+      "sourceBuilt": "2026-11-26",
+      "contextLineNumbers": [
+        18
+      ]
+    },
+    {
+      "code": "q33-20-黄-新",
+      "count": 7,
+      "title": "Secrets even doctors\nwon't tell you",
+      "copySource": "q33-20-黄-新_原文案.docx",
+      "lines": [
+        "Secrets even doctors",
+        "won't tell you",
+        "1.Oral sex",
+        "Do not swallow - Colon cancer",
+        "2.Private parts",
+        "Take Vitamin H - Repair the mucous membrane",
+        "3.Grey hair",
+        "Take Vitamin H - Turns black without dye.",
+        "4. Hair loss",
+        "Aveya Hair Growth shampoo on Amazon",
+        "(Grows hair like grass in 7 days)",
+        "5.Big bust",
+        "Don't wear a camisole - prone to sagging",
+        "6.Yellow teeth  ",
+        "OLCG Stain-removal Toothpaste from",
+        "Amazon(Whitens teeth like pearls in one week)",
+        "连医生也不会告诉你的秘密：",
+        "1. 口交：不要吞咽——否则可能引发结肠癌。",
+        "2. 私密部位：服用维生素H——可修复黏膜。",
+        "3. 白发：服用维生素H——无需染发，头发便会变黑。",
+        "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。",
+        "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。",
+        "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）"
+      ],
+      "layer": "定版/版本/q33-20-黄-新/c247d4342f3b.png",
+      "preview": "定版/版本/q33-20-黄-新/预览-2b75a2fda812.png",
+      "sha": "c247d4342f3ba969c1a28021a84702fe0405b70c834c8120cdf71dd736c6a62f",
+      "previewSha": "2b75a2fda812ba45426d217f9d90b4d796c1ff4551251f50f0a00fa1417156ff",
+      "aliases": [],
+      "sourceBuilt": "2026-11-26",
       "contextLineNumbers": []
     }
   ],
@@ -41966,6 +42769,594 @@
       25,
       "小tips原文",
       "pearls in one week"
+    ],
+    [
+      "Q33-21-常规",
+      1,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-21-常规",
+      2,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-21-常规",
+      3,
+      "小tips原文",
+      "1.Alcohol"
+    ],
+    [
+      "Q33-21-常规",
+      4,
+      "小tips原文",
+      "Drink less - Ages your face fast"
+    ],
+    [
+      "Q33-21-常规",
+      5,
+      "小tips原文",
+      "2.Coca-Cola"
+    ],
+    [
+      "Q33-21-常规",
+      6,
+      "小tips原文",
+      "Vitamin B2 - Kills morning bad breath instantly"
+    ],
+    [
+      "Q33-21-常规",
+      7,
+      "小tips原文",
+      "3.Diarrhea"
+    ],
+    [
+      "Q33-21-常规",
+      8,
+      "小tips原文",
+      "Vitamin B5 - Resets your gut overnight"
+    ],
+    [
+      "Q33-21-常规",
+      9,
+      "小tips原文",
+      "4.Hair loss"
+    ],
+    [
+      "Q33-21-常规",
+      10,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on Amazon"
+    ],
+    [
+      "Q33-21-常规",
+      11,
+      "小tips原文",
+      "(Grows hair like grass in 7 days)"
+    ],
+    [
+      "Q33-21-常规",
+      12,
+      "小tips原文",
+      "5.Grey hair"
+    ],
+    [
+      "Q33-21-常规",
+      13,
+      "小tips原文",
+      "Vitamin H - Turns black without dye."
+    ],
+    [
+      "Q33-21-常规",
+      14,
+      "小tips原文",
+      "6.Yellow teeth"
+    ],
+    [
+      "Q33-21-常规",
+      15,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste from Amazon"
+    ],
+    [
+      "Q33-21-常规",
+      16,
+      "小tips原文",
+      "Turn on Your Teeth Brightening & Whitening"
+    ],
+    [
+      "Q33-21-常规",
+      17,
+      "小tips原文",
+      "Switch to Pearl-White Teeth in one week"
+    ],
+    [
+      "Q33-21-常规",
+      18,
+      "标题/说明/来源中文",
+      "中文译文：按图片外文补译，仅记录原文说法，不代表医学或功效认可。"
+    ],
+    [
+      "Q33-21-常规",
+      19,
+      "标题/说明/来源中文",
+      "连医生都不会告诉你的秘密"
+    ],
+    [
+      "Q33-21-常规",
+      20,
+      "标题/说明/来源中文",
+      "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。"
+    ],
+    [
+      "Q33-21-常规",
+      21,
+      "标题/说明/来源中文",
+      "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。"
+    ],
+    [
+      "Q33-21-常规",
+      22,
+      "标题/说明/来源中文",
+      "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。"
+    ],
+    [
+      "Q33-21-常规",
+      23,
+      "标题/说明/来源中文",
+      "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。"
+    ],
+    [
+      "Q33-21-常规",
+      24,
+      "标题/说明/来源中文",
+      "5. 白发：原文称，维生素 H 能让白发不用染就变黑。"
+    ],
+    [
+      "Q33-21-常规",
+      25,
+      "标题/说明/来源中文",
+      "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。"
+    ],
+    [
+      "Q33-21-黄",
+      1,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-21-黄",
+      2,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-21-黄",
+      3,
+      "小tips原文",
+      "1.Alcohol"
+    ],
+    [
+      "Q33-21-黄",
+      4,
+      "小tips原文",
+      "Drink less - Ages your face fast"
+    ],
+    [
+      "Q33-21-黄",
+      5,
+      "小tips原文",
+      "2.Coca-Cola"
+    ],
+    [
+      "Q33-21-黄",
+      6,
+      "小tips原文",
+      "Vitamin B2 - Kills morning bad breath instantly"
+    ],
+    [
+      "Q33-21-黄",
+      7,
+      "小tips原文",
+      "3.Diarrhea"
+    ],
+    [
+      "Q33-21-黄",
+      8,
+      "小tips原文",
+      "Vitamin B5 - Resets your gut overnight"
+    ],
+    [
+      "Q33-21-黄",
+      9,
+      "小tips原文",
+      "4.Hair loss"
+    ],
+    [
+      "Q33-21-黄",
+      10,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on Amazon"
+    ],
+    [
+      "Q33-21-黄",
+      11,
+      "小tips原文",
+      "(Grows hair like grass in 7 days)"
+    ],
+    [
+      "Q33-21-黄",
+      12,
+      "小tips原文",
+      "5.Grey hair"
+    ],
+    [
+      "Q33-21-黄",
+      13,
+      "小tips原文",
+      "Vitamin H - Turns black without dye."
+    ],
+    [
+      "Q33-21-黄",
+      14,
+      "小tips原文",
+      "6.Yellow teeth"
+    ],
+    [
+      "Q33-21-黄",
+      15,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste from Amazon"
+    ],
+    [
+      "Q33-21-黄",
+      16,
+      "小tips原文",
+      "Turn on Your Teeth Brightening & Whitening"
+    ],
+    [
+      "Q33-21-黄",
+      17,
+      "小tips原文",
+      "Switch to Pearl-White Teeth in one week"
+    ],
+    [
+      "Q33-21-黄",
+      18,
+      "标题/说明/来源中文",
+      "中文译文：按图片外文补译，仅记录原文说法，不代表医学或功效认可。"
+    ],
+    [
+      "Q33-21-黄",
+      19,
+      "标题/说明/来源中文",
+      "连医生都不会告诉你的秘密"
+    ],
+    [
+      "Q33-21-黄",
+      20,
+      "标题/说明/来源中文",
+      "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。"
+    ],
+    [
+      "Q33-21-黄",
+      21,
+      "标题/说明/来源中文",
+      "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。"
+    ],
+    [
+      "Q33-21-黄",
+      22,
+      "标题/说明/来源中文",
+      "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。"
+    ],
+    [
+      "Q33-21-黄",
+      23,
+      "标题/说明/来源中文",
+      "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。"
+    ],
+    [
+      "Q33-21-黄",
+      24,
+      "标题/说明/来源中文",
+      "5. 白发：原文称，维生素 H 能让白发不用染就变黑。"
+    ],
+    [
+      "Q33-21-黄",
+      25,
+      "标题/说明/来源中文",
+      "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。"
+    ],
+    [
+      "Q33-21-黑",
+      1,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "Q33-21-黑",
+      2,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "Q33-21-黑",
+      3,
+      "小tips原文",
+      "1.Alcohol"
+    ],
+    [
+      "Q33-21-黑",
+      4,
+      "小tips原文",
+      "Drink less - Ages your face fast"
+    ],
+    [
+      "Q33-21-黑",
+      5,
+      "小tips原文",
+      "2.Coca-Cola"
+    ],
+    [
+      "Q33-21-黑",
+      6,
+      "小tips原文",
+      "Vitamin B2 - Kills morning bad breath instantly"
+    ],
+    [
+      "Q33-21-黑",
+      7,
+      "小tips原文",
+      "3.Diarrhea"
+    ],
+    [
+      "Q33-21-黑",
+      8,
+      "小tips原文",
+      "Vitamin B5 - Resets your gut overnight"
+    ],
+    [
+      "Q33-21-黑",
+      9,
+      "小tips原文",
+      "4.Hair loss"
+    ],
+    [
+      "Q33-21-黑",
+      10,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on Amazon"
+    ],
+    [
+      "Q33-21-黑",
+      11,
+      "小tips原文",
+      "(Grows hair like grass in 7 days)"
+    ],
+    [
+      "Q33-21-黑",
+      12,
+      "小tips原文",
+      "5.Grey hair"
+    ],
+    [
+      "Q33-21-黑",
+      13,
+      "小tips原文",
+      "Vitamin H - Turns black without dye."
+    ],
+    [
+      "Q33-21-黑",
+      14,
+      "小tips原文",
+      "6.Yellow teeth"
+    ],
+    [
+      "Q33-21-黑",
+      15,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste from Amazon"
+    ],
+    [
+      "Q33-21-黑",
+      16,
+      "小tips原文",
+      "Turn on Your Teeth Brightening & Whitening"
+    ],
+    [
+      "Q33-21-黑",
+      17,
+      "小tips原文",
+      "Switch to Pearl-White Teeth in one week"
+    ],
+    [
+      "Q33-21-黑",
+      18,
+      "标题/说明/来源中文",
+      "中文译文：按图片外文补译，仅记录原文说法，不代表医学或功效认可。"
+    ],
+    [
+      "Q33-21-黑",
+      19,
+      "标题/说明/来源中文",
+      "连医生都不会告诉你的秘密"
+    ],
+    [
+      "Q33-21-黑",
+      20,
+      "标题/说明/来源中文",
+      "1. 酒精：少喝酒——原文称，喝酒会让脸显老得更快。"
+    ],
+    [
+      "Q33-21-黑",
+      21,
+      "标题/说明/来源中文",
+      "2. 可口可乐：原文称，维生素 B2 能立刻消除晨起口臭。"
+    ],
+    [
+      "Q33-21-黑",
+      22,
+      "标题/说明/来源中文",
+      "3. 腹泻：原文称，维生素 B5 能在一夜之间让肠道恢复正常。"
+    ],
+    [
+      "Q33-21-黑",
+      23,
+      "标题/说明/来源中文",
+      "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。"
+    ],
+    [
+      "Q33-21-黑",
+      24,
+      "标题/说明/来源中文",
+      "5. 白发：原文称，维生素 H 能让白发不用染就变黑。"
+    ],
+    [
+      "Q33-21-黑",
+      25,
+      "标题/说明/来源中文",
+      "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。"
+    ],
+    [
+      "q33-20-黄-新",
+      1,
+      "标题/说明/来源中文",
+      "Secrets even doctors"
+    ],
+    [
+      "q33-20-黄-新",
+      2,
+      "标题/说明/来源中文",
+      "won't tell you"
+    ],
+    [
+      "q33-20-黄-新",
+      3,
+      "小tips原文",
+      "1.Oral sex"
+    ],
+    [
+      "q33-20-黄-新",
+      4,
+      "小tips原文",
+      "Do not swallow - Colon cancer"
+    ],
+    [
+      "q33-20-黄-新",
+      5,
+      "小tips原文",
+      "2.Private parts"
+    ],
+    [
+      "q33-20-黄-新",
+      6,
+      "小tips原文",
+      "Take Vitamin H - Repair the mucous membrane"
+    ],
+    [
+      "q33-20-黄-新",
+      7,
+      "小tips原文",
+      "3.Grey hair"
+    ],
+    [
+      "q33-20-黄-新",
+      8,
+      "小tips原文",
+      "Take Vitamin H - Turns black without dye."
+    ],
+    [
+      "q33-20-黄-新",
+      9,
+      "小tips原文",
+      "4. Hair loss"
+    ],
+    [
+      "q33-20-黄-新",
+      10,
+      "小tips原文",
+      "Aveya Hair Growth shampoo on Amazon"
+    ],
+    [
+      "q33-20-黄-新",
+      11,
+      "小tips原文",
+      "(Grows hair like grass in 7 days)"
+    ],
+    [
+      "q33-20-黄-新",
+      12,
+      "小tips原文",
+      "5.Big bust"
+    ],
+    [
+      "q33-20-黄-新",
+      13,
+      "小tips原文",
+      "Don't wear a camisole - prone to sagging"
+    ],
+    [
+      "q33-20-黄-新",
+      14,
+      "小tips原文",
+      "6.Yellow teeth  "
+    ],
+    [
+      "q33-20-黄-新",
+      15,
+      "小tips原文",
+      "OLCG Stain-removal Toothpaste from"
+    ],
+    [
+      "q33-20-黄-新",
+      16,
+      "小tips原文",
+      "Amazon(Whitens teeth like pearls in one week)"
+    ],
+    [
+      "q33-20-黄-新",
+      17,
+      "标题/说明/来源中文",
+      "连医生也不会告诉你的秘密："
+    ],
+    [
+      "q33-20-黄-新",
+      18,
+      "标题/说明/来源中文",
+      "1. 口交：不要吞咽——否则可能引发结肠癌。"
+    ],
+    [
+      "q33-20-黄-新",
+      19,
+      "标题/说明/来源中文",
+      "2. 私密部位：服用维生素H——可修复黏膜。"
+    ],
+    [
+      "q33-20-黄-新",
+      20,
+      "标题/说明/来源中文",
+      "3. 白发：服用维生素H——无需染发，头发便会变黑。"
+    ],
+    [
+      "q33-20-黄-新",
+      21,
+      "标题/说明/来源中文",
+      "4. 脱发：在亚马逊购买Aveya Hair Growth shampoo（7天内头发就能像草一样茂盛生长）。"
+    ],
+    [
+      "q33-20-黄-新",
+      22,
+      "标题/说明/来源中文",
+      "5. 乳房过大：不要穿吊带背心——容易导致乳房下垂。"
+    ],
+    [
+      "q33-20-黄-新",
+      23,
+      "标题/说明/来源中文",
+      "6. Amazon上的Yellow Teeth OLCG 去渍牙膏（可在一周内使牙齿像珍珠一样洁白）"
     ]
   ],
   "retired": {
@@ -41974,35 +43365,50 @@
       "date": "2026-10-14"
     }
   },
-  "indexSha": "2dd6ffa1cebc5ec77ca6495a900d8533c7fe7e108943f16f2a1e9d77ca0b7173",
+  "indexSha": "99a230ffa0cafaf27fe99f9f1aba64d45be4db8728f44cf89c89cdefd960bb95",
   "latestBatch": {
-    "date": "2026-11-23",
+    "date": "2026-11-26",
     "versions": [
-      "Q33-17-5",
-      "Q33-17-5黑"
+      "Q33-21-常规",
+      "Q33-21-黄",
+      "Q33-21-黑",
+      "q33-20-黄-新"
     ],
-    "records": 12,
+    "records": 25,
     "recordIds": [
-      "Q33-17-5·01",
-      "Q33-17-5·02",
-      "Q33-17-5·03",
-      "Q33-17-5·04",
-      "Q33-17-5·05",
-      "Q33-17-5·06",
-      "Q33-17-5黑·01",
-      "Q33-17-5黑·02",
-      "Q33-17-5黑·03",
-      "Q33-17-5黑·04",
-      "Q33-17-5黑·05",
-      "Q33-17-5黑·06"
+      "Q33-21-常规·01",
+      "Q33-21-常规·02",
+      "Q33-21-常规·03",
+      "Q33-21-常规·04",
+      "Q33-21-常规·05",
+      "Q33-21-常规·06",
+      "Q33-21-黄·01",
+      "Q33-21-黄·02",
+      "Q33-21-黄·03",
+      "Q33-21-黄·04",
+      "Q33-21-黄·05",
+      "Q33-21-黄·06",
+      "Q33-21-黑·01",
+      "Q33-21-黑·02",
+      "Q33-21-黑·03",
+      "Q33-21-黑·04",
+      "Q33-21-黑·05",
+      "Q33-21-黑·06",
+      "q33-20-黄-新·01",
+      "q33-20-黄-新·02",
+      "q33-20-黄-新·03",
+      "q33-20-黄-新·04",
+      "q33-20-黄-新·05",
+      "q33-20-黄-新·06",
+      "q33-20-黄-新·图·c247d4342f3b·1"
     ]
   },
   "alignment": {
-    "subtitleVersions": 112,
-    "coveredVersions": 112,
+    "subtitleVersions": 120,
+    "coveredVersions": 116,
     "missingVersions": [],
     "sourceIndex": "字幕资源库 / INDEX.json",
-    "sourceIndexSha256": "2dd6ffa1cebc5ec77ca6495a900d8533c7fe7e108943f16f2a1e9d77ca0b7173",
-    "checkedAt": "2026-11-23"
+    "sourceIndexSha256": "99a230ffa0cafaf27fe99f9f1aba64d45be4db8728f44cf89c89cdefd960bb95",
+    "checkedAt": "2026-11-26"
   }
 }
