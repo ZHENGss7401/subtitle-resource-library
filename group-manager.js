@@ -7,7 +7,7 @@ window.createGroupManager = function (options) {
   const save = get('manage-save'), retry = get('manage-retry');
   let draft, dirty = false, busy = false, active = 'basic', adding = false;
   const selected = new Set();
-  const local = location.origin === 'http://127.0.0.1:17843';
+  if (!window.boardManageMode) return;
   const clone = value => JSON.parse(JSON.stringify(value));
   const versions = () => options.getData().versions;
   const codes = key => key === 'q33'
@@ -87,14 +87,13 @@ window.createGroupManager = function (options) {
   async function call(method, body) {
     let response;
     try {
-      response = await fetch('http://127.0.0.1:17843/groups', {
+      response = await fetch('/groups', {
         method, headers: body ? {'Content-Type': 'application/json', 'X-Author-Confirm': '1'} : {},
         body: body ? JSON.stringify(body) : undefined,
         signal: AbortSignal.timeout(body ? 90000 : 7000)
       });
     } catch (_) {
-      throw Error(local ? '暂时无法连接保存服务，请重试。未保存的修改仍保留在此窗口。'
-        : '请打开下方的本机管理页进行保存。');
+      throw Error('暂时无法连接本机管理服务，请重试。未保存的修改仍保留在此窗口。');
     }
     const result = await response.json();
     if (!response.ok) throw Error(result.error || '保存失败，请重试。');
@@ -114,11 +113,9 @@ window.createGroupManager = function (options) {
         status.textContent = dirty ? '有未保存的修改' : '选择分组，查看和整理成员';
       }
       retry.hidden = true;
-      get('local-manage-help').hidden = true;
     } catch (error) {
       status.textContent = error.message;
       retry.hidden = false;
-      get('local-manage-help').hidden = local;
     } finally {
       busy = false;
       paint();
@@ -181,7 +178,6 @@ window.createGroupManager = function (options) {
     } catch (error) {
       status.textContent = error.message;
       retry.hidden = false;
-      get('local-manage-help').hidden = local;
     } finally {
       busy = false;
       editor.disabled = false;

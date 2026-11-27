@@ -61,6 +61,15 @@ class AuthorsTest(unittest.TestCase):
         self.assertEqual(len(result['registry']['history']), 2)
         self.assertEqual(result['registry']['history'][1]['previous']['author'], '测试作者')
 
+    def test_management_origin_is_loopback_only(self):
+        handler = bridge.Handler.__new__(bridge.Handler)
+        handler.headers = {'Host': '127.0.0.1:17843', 'Origin': bridge.ORIGIN}
+        self.assertTrue(handler.allowed())
+        handler.headers['Origin'] = 'https://public.example'
+        self.assertFalse(handler.allowed())
+        handler.headers = {'Host': 'public.example', 'Origin': bridge.ORIGIN}
+        self.assertFalse(handler.allowed())
+
     def test_invalid_name_or_hash_rejected(self):
         for payload in ({**self.payload(), 'author': ' '}, {**self.payload(), 'author': 'x\ny'},
                         {**self.payload(), 'sha256': 'b'*64}):

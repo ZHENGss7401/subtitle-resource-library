@@ -180,7 +180,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 .fcard.pic>header{flex-wrap:wrap}
 .fcard.pic>header .t{flex-basis:100%;white-space:normal;overflow-wrap:anywhere}
 .back-to-top{position:fixed;right:calc(var(--s4) + env(safe-area-inset-right));bottom:calc(var(--s4) + env(safe-area-inset-bottom));z-index:10;display:grid;place-items:center;width:44px;height:44px;border:1px solid var(--ink3);border-radius:50%;background:var(--surface);color:var(--ink2);box-shadow:var(--shadow);cursor:pointer}
-.back-to-top[hidden]{display:none}
+.back-to-top[hidden],#manage-open[hidden],#local-board-label[hidden],.change-note[hidden]{display:none}
 .back-to-top:hover,.back-to-top:active{color:var(--ink);border-color:var(--ink)}
 .back-to-top:focus-visible{outline:2px solid var(--peng);outline-offset:2px}
 </style>
@@ -193,32 +193,28 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 <header class="masthead">
   <div>
     <h1 id="board-top" tabindex="-1">定版字幕 <em>资源库</em></h1>
-    <p class="sub" id="sub">收录已确认的静态 PNG 与动态 MOV，配套对照文案、定版预览与真实成品视频。</p>
+    <p class="sub" id="sub">收录已定版的 PNG 和 MOV 字幕，可查看预览和对应文案。</p>
   </div>
   <div class="meta">
-    库 <b>0. 字幕资源库\定版\</b><br>
-    生成 <b id="m-built">—</b>
-    <br><button class="tog" id="tog" type="button">Dark</button>
+    <div id="local-board-label" hidden>本机管理</div>
+    更新于 <b id="m-built">—</b>
+    <br><button class="tog" id="tog" type="button">浅色</button>
   </div>
 </header>
 
 <section class="reveal">
   <h2>定版总览</h2>
-  <p class="h2sub" id="h2sub">点任意一张打开对照——左边是定版预览图，右边是这个版本的中英文文案。</p>
+  <p class="h2sub" id="h2sub"></p>
   <div class="tools">
     <input id="q" type="search" placeholder="搜索版本，如 Q33-8" aria-label="搜索版本" autocomplete="off">
     <button class="tog" id="reload" type="button" style="margin-top:0">刷新</button>
-    <button class="filter-btn" data-group="all" aria-pressed="true">全部</button><button class="filter-btn" data-group="q33" aria-pressed="false">Q33俱乐部</button><button class="filter-btn" data-group="basic" aria-pressed="false">基本盘组</button><button class="filter-btn" data-group="extra" aria-pressed="false">另外加做组</button><select class="more-filter" id="more-filter" aria-label="更多筛选"><option value="">更多筛选</option><option value="ungrouped">未分组</option></select><button class="filter-btn" id="manage-open" type="button">管理分组</button><span class="sort-note">定版日期：最新优先</span><span class="stat" id="stat"></span>
+    <button class="filter-btn" data-group="all" aria-pressed="true">全部</button><button class="filter-btn" data-group="q33" aria-pressed="false">Q33俱乐部</button><button class="filter-btn" data-group="basic" aria-pressed="false">基本盘组</button><button class="filter-btn" data-group="extra" aria-pressed="false">另外加做组</button><button class="filter-btn" data-group="ungrouped" aria-pressed="false">未分组</button><button class="filter-btn" id="manage-open" type="button" hidden>管理分组</button><span class="sort-note">按最新定版排序</span><span class="stat" id="stat"></span>
   </div>
   <p id="config-status" role="status"></p><div class="gal" id="grid"></div>
 </section>
 
 <footer>
-  <p><b>透明层</b> 包含静态 PNG 与动态 MOV；动态版点开可播放成品预览，并下载透明 MOV 复用。
-     <b>成品预览</b> 优先使用该版本实际样品；无字素材合成的示意预览会在版本说明中注明。</p>
-  <p>命令行取一份定版：<code>python build_index.py --find "Q30-1"</code>　·
-     库里每张都锁了 SHA256，与来源包逐条回验。</p>
-  <p>本页每 15 秒自动拉一次 <code>data.js</code>——库里加了新版本，页面会自己更新，不用手动刷新。</p>
+  <p>打开详情可查看透明字幕层。动态字幕和多样式版本可直接下载。</p>
 </footer>
 
 </div>
@@ -244,7 +240,6 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   </fieldset>
   <footer class="manager-footer">
     <div class="manager-actions"><span id="manage-status" role="status"></span><button class="manager-link" id="manage-retry" type="button" hidden>重试连接</button><button class="manager-primary" id="manage-save" type="button">保存更改</button></div>
-    <p id="local-manage-help" hidden><a href="http://127.0.0.1:17843/?manage=1" target="_blank" rel="noopener">打开本机管理页</a> · 在本机页面重新整理并保存；当前未保存的修改不会自动转移。</p>
   </footer>
 </dialog><div class="floatwrap hidden" id="modal">
   <section class="fcard pic">
@@ -276,32 +271,43 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 </div>
 
 <script src="data.js"></script>
-<script src="group-manager.js"></script>
+<script src="group-manager.js?v=20261127-board"></script>
 <script>(function(){
   var root=document.documentElement;
   root.classList.add('js');
   var data={versions:{}}, list=[], cur=null, opened=false, lbIdx=0, group='all';
   var families=new Map(), selected=new Map(), lastQuery=null;
+  var manage=window.boardManageMode=location.origin==='http://127.0.0.1:17843' &&
+    (location.pathname==='/manage'||new URLSearchParams(location.search).get('manage')==='1');
   var cfg={groups:{basic:{name:'基本盘组',codes:[]},extra:{name:'另外加做组',codes:[]}},dates:{},notes:{}};
   function meta(v){var m=cfg.dates[v.code]; if(m && m.sha256 && m.sha256!==v.sha256)m=null; if(!m)m=v.upload_date; return m && m.sha256 && m.sha256!==v.sha256 ? null : m;}
   function belongs(v,g){if(g==='all')return true; if(g==='q33')return /^Q33(?:$|-)/i.test(v.code); if(g==='ungrouped')return !belongs(v,'q33')&&!belongs(v,'basic')&&!belongs(v,'extra'); return !!(cfg.groups[g] && cfg.groups[g].codes.indexOf(v.code)>=0);}
-  function loadConfig(){fetch('board-config.json?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(x){cfg=x;render();if(location.origin==='http://127.0.0.1:17843'&&new URLSearchParams(location.search).has('manage')&&!manageAutoOpened){manageAutoOpened=true;document.getElementById('manage-open').click();}}).catch(function(){document.getElementById('config-status').textContent='分组数据暂时无法读取，请刷新重试';});}
+  function loadConfig(){fetch('board-config.json?t='+Date.now(),{cache:'no-store'}).then(function(r){if(!r.ok)throw Error();return r.json();}).then(function(x){cfg=x;render();if(manage&&new URLSearchParams(location.search).get('manage')==='1'&&!manageAutoOpened){manageAutoOpened=true;document.getElementById('manage-open').click();}}).catch(function(){document.getElementById('config-status').textContent='分组数据暂时无法读取，请刷新重试';});}
 
   document.getElementById('q').value=new URLSearchParams(location.search).get('q')||'';
 
   /* 主题：跟随系统，可手动切换（与汇报页同一套约定） */
   var t=document.getElementById('tog');
   var pref='dark';
-  root.setAttribute('data-theme',pref); t.textContent = pref==='dark'?'Light':'Dark';
+  root.setAttribute('data-theme',pref); t.textContent = pref==='dark'?'浅色':'深色';
   t.addEventListener('click',function(){
     var n=root.getAttribute('data-theme')==='dark'?'light':'dark';
-    root.setAttribute('data-theme',n); t.textContent = n==='dark'?'Light':'Dark';
+    root.setAttribute('data-theme',n); t.textContent = n==='dark'?'浅色':'深色';
   });
 
   function el(tag,cls,txt){var e=document.createElement(tag); if(cls)e.className=cls;
     if(txt!=null)e.textContent=txt; return e;}
   function conf(st){return st==='已证实'?'ok':(st==='已回填'?'bf':'un');}
 
+  function confidenceLabel(st){return st==='已证实'?'已核验':st==='已回填'?'历史补录':'待补凭据';}
+  function previewLabel(kind){
+    if(!kind)return '';
+    if(/合成|无字素材|自制|套Flow/i.test(kind))return '合成示意';
+    if(/成品包|包内/.test(kind))return '成品包预览';
+    if(/成品.*首帧|实际成品帧/.test(kind))return '成品首帧';
+    if(/成品/.test(kind))return '成品预览';
+    return '定版预览';
+  }
   function familyCode(v){return v.board_parent_code && data.versions[v.board_parent_code] ? v.board_parent_code : v.code;}
   function variants(v){return families.get(familyCode(v))||[v];}
   function matches(v,q){return !q || [v.code,v.display_name||''].concat(v.aliases||[]).join(' ').toUpperCase().indexOf(q)>=0;}
@@ -340,7 +346,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       if(v.confidence==='已证实')nOk++; else if(v.confidence==='已回填')nBf++; else nUn++;
     });
 
-    document.getElementById('m-built').textContent = (data.built||'—').replace('T',' ');
+    document.getElementById('m-built').textContent = (data.built||'—').replace('T',' ').slice(0,16);
 
     var g=document.getElementById('grid'); g.innerHTML='';
     list.forEach(function(v){
@@ -352,25 +358,19 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       shot.appendChild(img);
       var lay=el('div','layer'); var li=el('img'); li.src=v.layer_still_rel||v.layer_rel; li.loading='lazy'; li.alt='';
       lay.appendChild(li); shot.appendChild(lay);
-      shot.appendChild(el('span','lens',v.asset_type==='dynamic_video'?'▶ 成品预览':'点开看文案'));
+      shot.appendChild(el('span','lens',v.asset_type==='dynamic_video'?'▶ 成品预览':'查看详情'));
       card.appendChild(shot);
 
       var cp=el('div','cp');
       var r1=el('div','r1',v.display_name||v.code);
-      r1.appendChild(el('span','st '+conf(v.confidence), v.confidence));
+      r1.appendChild(el('span','st '+conf(v.confidence),confidenceLabel(v.confidence)));
       cp.appendChild(r1);
-      if(variants(v).length>1){cp.appendChild(versionSelect(v,function(){render();}));cp.appendChild(el('div','r3','当前版号：'+v.code));}
+      if(multiple)cp.appendChild(versionSelect(v,function(){render();}));
       cp.appendChild(el('div','date-line',meta(v)?'定版日期 '+meta(v).date:'定版日期待确认'));
       if(v.asset_type==='dynamic_video') cp.appendChild(el('div','r3','动态透明字幕 · MOV · '+v.fps+'fps'));
-      var r2=el('div','r2');
-      r2.appendChild(el('span',null,(v.dates||[]).length?'来源批次 '+(v.dates||[]).join(' / '):''));
-      r2.appendChild(el('span','pd',v.size[0]+'×'+v.size[1]));
-      cp.appendChild(r2);
-      cp.appendChild(el('div','r3',v.sha256.slice(0,16)));
-      var r4=el('div','r3');
-      if(v.contested) { r4.className='r3 flag'; r4.textContent='⚠ 有被弃候选'; }
-      else r4.textContent='预览来源：'+(v.preview_kind||'—');
-      cp.appendChild(r4);
+      var source=previewLabel(v.preview_kind);
+      if(v.contested) cp.appendChild(el('div','r3 flag','存在弃用候选'));
+      if(source){var previewType=el('div','r3',source);previewType.title=v.preview_kind;cp.appendChild(previewType);}
       card.appendChild(cp);
 
       card.addEventListener('click',function(){ openModal(v); });
@@ -378,13 +378,13 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
       g.appendChild(card);
     });
 
-    if(!list.length) g.appendChild(el('div','empty-result','没有找到符合条件的版本，请调整搜索或筛选。'));
+    if(!list.length) g.appendChild(el('div','empty-result','没有匹配的版本，试试换个版号或切换分组。'));
     document.getElementById('stat').textContent =
       list.length+' / '+families.size+' 组 · '+list.reduce(function(n,v){return n+variants(v).length;},0)+' / '+all.length+' 个版本';
     document.getElementById('h2sub').innerHTML =
-      '点任意一张打开对照——左边是定版预览图，右边是这个版本的中英文文案。共 <b>'+families.size+'</b> 组、<b>'+all.length+
-      '</b> 个版本，其中已证实 <b>'+nOk+'</b>、已回填 <b>'+nBf+'</b>'+
-      (nUn?'、推断待补 <b>'+nUn+'</b>':'')+(q||group!=='all'?'；当前筛出 <b>'+list.length+'</b> 组':'')+'。';
+      '共 <b>'+families.size+'</b> 组、<b>'+all.length+
+      '</b> 个版本（已核验 <b>'+nOk+'</b> · 历史补录 <b>'+nBf+'</b>'+
+      (nUn?' · 待补凭据 <b>'+nUn+'</b>':'')+'）'+(q||group!=='all'?'；当前筛出 <b>'+list.length+'</b> 组':'')+'。';
   }
 
   /* ---------- 尺寸：按图片真实比例给预览卡定宽 ---------- */
@@ -431,18 +431,26 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
 
   function openModal(v){
     opened=true; cur=v;selected.set(familyCode(v),v.code);
-    var change=document.getElementById('change-note'); change.textContent=''; var label=el('strong',null,'优化说明  ');change.appendChild(label);var note=cfg.notes[v.code]; change.appendChild(document.createTextNode(note && note.sha256===v.sha256 && (!note.baseline || (data.versions[note.baseline] && data.versions[note.baseline].sha256===note.baseline_sha256)) && note.text ? note.text : v.title_adjustment ? v.title_adjustment.description+'；标题调整：'+v.title_adjustment.by+(v.preview_source_note?'；预览说明：'+v.preview_source_note:'') : '暂无已确认的优化说明'));
+    var change=document.getElementById('change-note'), note=cfg.notes[v.code];
+    var explanation=note && note.sha256===v.sha256 && (!note.baseline || (data.versions[note.baseline] && data.versions[note.baseline].sha256===note.baseline_sha256)) && note.text
+      ? note.text : v.title_adjustment ? v.title_adjustment.description+'；标题调整：'+v.title_adjustment.by : '';
+    var sourceNote=v.preview_source_note||'';
+    change.textContent=''; change.hidden=!explanation&&!sourceNote;
+    if(explanation||sourceNote){
+      change.appendChild(el('strong',null,explanation?'优化说明  ':'预览说明  '));
+      change.appendChild(document.createTextNode([explanation,sourceNote].filter(Boolean).join('；')));
+    }
     document.getElementById('m-title').dataset.code=v.code;
     document.getElementById('m-title').textContent=(v.display_name||v.code)+(variants(v).length>1&&v.display_name&&v.display_name!==v.code?' · '+v.code:'');
     var oldSelect=document.querySelector('.fcard.pic .variant-select');if(oldSelect)oldSelect.remove();
     if(variants(v).length>1)document.getElementById('m-title').after(versionSelect(v,function(next){render();openModal(next);}));
     document.getElementById('m-src').textContent =
-      v.size[0]+'×'+v.size[1]+'　'+v.sha256.slice(0,16)+'　'+v.confidence+
+      v.size[0]+'×'+v.size[1]+'　'+v.sha256.slice(0,16)+'　'+confidenceLabel(v.confidence)+
       (v.aliases&&v.aliases.length?'　包名 '+v.aliases.join('/'):'')+
-      '　·　文案：'+((v.copy&&v.copy.source)||'未找到文案文件');
+      '　·　文案：'+((v.copy&&v.copy.source)||'暂无对应文案')+(v.copy?.zh_source?'　·　译文：'+v.copy.zh_source:'');
     var box=document.getElementById('m-text'); box.innerHTML='';
-    var lines=(v.copy&&v.copy.lines)||[];
-    if(!lines.length){ box.appendChild(el('div','empty','这个版本的半成品包里没有可读的文案文件。')); }
+    var lines=(v.copy?.lines||[]).concat(v.copy?.zh_lines||[]);
+    if(!lines.length){ box.appendChild(el('div','empty','暂无对应文案。')); }
     else lines.forEach(function(l){
       box.appendChild(el('div', /[一-龥]/.test(l) ? 'zh' : 'en', l));
     });
@@ -468,7 +476,7 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
     lbimg.src=(cur&&cur.code===v.code&&document.getElementById('m-box').classList.contains('checker'))
       ? (v.layer_still_rel||v.layer_rel) : v.preview_rel;
     lbcap.innerHTML='<b>'+v.code+'</b>　'+(v.dates||[]).join(' / ')+'　'+v.size[0]+'×'+v.size[1]+
-      '　'+v.confidence+'　<span style="opacity:.65">'+v.sha256.slice(0,16)+'</span>';
+      '　'+confidenceLabel(v.confidence)+'　<span style="opacity:.65">'+v.sha256.slice(0,16)+'</span>';
     lb.classList.add('on'); document.body.style.overflow='hidden';
   }
   function lbHide(){ lb.classList.remove('on'); lbimg.src='';
@@ -504,11 +512,14 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   document.getElementById('m-img').addEventListener('load',fitPic);
   document.getElementById('m-video').addEventListener('loadedmetadata',fitPic);
   window.addEventListener('resize',fitPic);
-  document.querySelectorAll('.filter-btn[data-group]').forEach(function(btn){btn.addEventListener('click',function(){group=btn.dataset.group;document.getElementById('more-filter').value='';document.querySelectorAll('.filter-btn[data-group]').forEach(function(b){b.setAttribute('aria-pressed',String(b===btn));});render();});});
-  document.getElementById('more-filter').addEventListener('change',function(){group=this.value||'all';document.querySelectorAll('.filter-btn').forEach(function(b){b.setAttribute('aria-pressed',String(b.dataset.group===group));});render();});
+  document.querySelectorAll('.filter-btn[data-group]').forEach(function(btn){btn.addEventListener('click',function(){group=btn.dataset.group;document.querySelectorAll('.filter-btn[data-group]').forEach(function(b){b.setAttribute('aria-pressed',String(b===btn));});render();});});
 
   var manageAutoOpened=false;
-  window.createGroupManager({getData:function(){return data;},getConfig:function(){return cfg;},getGroup:function(){return group;},onSave:function(next){cfg=next;render();}});
+  if(manage){
+    document.getElementById('local-board-label').hidden=false;
+    document.getElementById('manage-open').hidden=false;
+    window.createGroupManager({getData:function(){return data;},getConfig:function(){return cfg;},getGroup:function(){return group;},onSave:function(next){cfg=next;render();}});
+  }
 
   document.getElementById('q').addEventListener('input',render);
   document.getElementById('reload').addEventListener('click',function(){ location.reload(); });
@@ -549,6 +560,6 @@ html.js .reveal:not(.in){opacity:0;transform:translateY(10px)}
   render(); loadConfig(); setInterval(loadConfig,60000);
   setInterval(function(){ if(!opened && !lb.classList.contains('on')) pull(render); },15000);
 })();</script>
-<script src="author-ui.js"></script>
+<script src="author-ui.js?v=20261127-board"></script>
 </body>
 </html>

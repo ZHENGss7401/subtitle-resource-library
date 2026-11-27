@@ -11,7 +11,7 @@ from http.server import BaseHTTPRequestHandler, ThreadingHTTPServer
 
 REPO = Path(__file__).resolve().parent
 LIB = Path(r'Y:\足贴视频素材\BOREAC淋巴滴剂\0. 字幕资源库')
-ORIGINS = {'https://zhengss7401.github.io', 'http://127.0.0.1:17843', 'http://10.66.180.18:18765', 'http://127.0.0.1:18766'}
+ORIGIN = 'http://127.0.0.1:17843'
 LOCK = threading.Lock()
 
 def read(path):
@@ -111,13 +111,13 @@ class Handler(BaseHTTPRequestHandler):
 
     def allowed(self):
         return (self.headers.get('Host') == '127.0.0.1:17843' and
-                self.headers.get('Origin', '').lower() in ORIGINS)
+                self.headers.get('Origin', '').lower() == ORIGIN)
 
     def reply(self, status, body):
         raw = json.dumps(body, ensure_ascii=False).encode('utf-8')
         self.send_response(status)
         origin = self.headers.get('Origin', '')
-        if origin.lower() in ORIGINS:
+        if origin.lower() == ORIGIN:
             self.send_header('Access-Control-Allow-Origin', origin)
             self.send_header('Vary', 'Origin')
         self.send_header('Access-Control-Allow-Private-Network', 'true')
@@ -136,7 +136,7 @@ class Handler(BaseHTTPRequestHandler):
         # A same-origin local board avoids browsers blocking public-to-loopback fetches.
         request_path = unquote(urlsplit(self.path).path)
         if self.headers.get('Host') == '127.0.0.1:17843':
-            relative = request_path.lstrip('/') or 'index.html'
+            relative = 'index.html' if request_path in ('/', '/manage') else request_path.lstrip('/')
             public_files = {'index.html', 'data.js', 'author-ui.js', 'author-ui.css', 'group-manager.js', 'group-manager.css',
                             'board-config.json', 'authors.json'}
             target = (REPO / relative).resolve()
@@ -178,7 +178,7 @@ class Handler(BaseHTTPRequestHandler):
         except ValueError as e:
             self.reply(409, {'error': str(e)})
         except Exception:
-            self.reply(503, {'error': '保存或线上同步失败；请联系啊跃检查维护副本。'})
+            self.reply(503, {'error': '保存或同步失败，请检查本机管理服务后重试。'})
 
 if __name__ == '__main__':
     ThreadingHTTPServer(('127.0.0.1', 17843), Handler).serve_forever()

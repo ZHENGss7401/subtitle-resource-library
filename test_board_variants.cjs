@@ -71,6 +71,15 @@ for (const file of ['index.html', 'page.html']) {
   const actualContext = {window: {}}; vm.runInNewContext(fs.readFileSync(path.join(__dirname, 'data.js'), 'utf8'), actualContext);
   const actual = actualContext.window.SUBLIB.versions, live = boot(file, actual);
   const expected = new Set(Object.values(actual).map(v => v.board_parent_code && actual[v.board_parent_code] ? v.board_parent_code : v.code)).size;
+  for (const v of Object.values(actual)) {
+    if (!v.copy?.zh_lines) continue;
+    assert(v.copy.zh_source);
+    assert.equal(v.copy.zh_lines.length, 7);
+    assert.deepEqual(Array.from(v.copy.zh_lines.slice(1), l => l.match(/^([1-6])\. /)?.[1]), ['1','2','3','4','5','6']);
+    live.api.openModal(v);
+    assert(live.nodes['m-text'].textContent.includes(v.copy.lines[0]));
+    assert(live.nodes['m-text'].textContent.includes(v.copy.zh_lines.at(-1)));
+  }
   assert.equal(live.api.getList().length, expected);
   console.log(`${file}: PASS (nine pairs, search, Q33/custom filter, selectors, current code, copy, PNG/MOV, lightbox, unparented/orphan, immutability); live ${expected} groups / ${Object.keys(actual).length} versions`);
 }
