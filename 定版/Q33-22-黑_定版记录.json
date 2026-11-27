@@ -1,0 +1,84 @@
+{
+  "code": "Q33-22-黑",
+  "pkg_code": "Q33-22",
+  "aliases": [],
+  "dates": [
+    "11.27"
+  ],
+  "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.27\\01-Q33-俱乐部\\今日新版\\Q33-22-11.27-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-45"
+  ],
+  "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.27\\01-Q33-俱乐部\\今日新版\\Q33-22-11.27-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-45\\字幕夹\\q33-22-黑.png",
+  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-22-黑.png",
+  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-22-黑.png",
+  "layer_rel": "定版/Q33-22-黑.png",
+  "preview_rel": "定版/Q33-22-黑_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-22-黑_成品预览.png",
+  "preview_kind": "无字素材＋定版字幕合成预览",
+  "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.27\\01-Q33-俱乐部\\今日新版\\Q33-22-11.27-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-45\\flow\\素材-A-T1-M005黑帽.mp4",
+  "preview_frame_seconds": 1,
+  "preview_source_note": "",
+  "sha256": "a2327930e12b5dc3d6b7d209cb67d443aa4da8264d386e88bbd8991ad167a10c",
+  "preview_sha256": "233641ca79126aad11f41eb2fd731008437d6d40497fd819e40dd6dad9642c42",
+  "size": [
+    1536,
+    2752
+  ],
+  "preview_size": [
+    720,
+    1280
+  ],
+  "basis": "用户授权本次入库上线；原始文件逐字节保留",
+  "confidence": "已证实",
+  "contested": false,
+  "discarded": [],
+  "author": "郑惠跃",
+  "copywriter": "郑惠跃",
+  "author_status": "confirmed",
+  "author_confirmed_at": "2026-11-27T17:22:22+08:00",
+  "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.27\\01-Q33-俱乐部\\今日新版\\Q33-22-11.27-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-45",
+  "copy": {
+    "source": "Q33-22_图片可见原文及对照译文.txt",
+    "lines": [
+      "Secrets even doctors",
+      "won't tell you",
+      "1.Drink beer",
+      "You pee right away - (it means you're young)",
+      "2.Insomnia",
+      "Take Vitamin B6 - Sleep sweetly",
+      "3.Fine lines",
+      "Take Vitamin A - smooth fine lines faster",
+      "4.Hair loss",
+      "Aveya Hair Growth shampoo on Amazon",
+      "(Grows hair like grass in 7 days)",
+      "5.Grey hair",
+      "Take Vitamin H - Turns black without dye.",
+      "6. Yellow teeth",
+      "OLCG Stain-removal Toothpaste from Amazon",
+      "Turn on Your Teeth Brightening & Whitening",
+      "Switch to Pearl-White Teeth in one week",
+      "中文译文：按图片外文补译，仅记录原文说法，不代表医学或功效认可。",
+      "连医生都不会告诉你的秘密",
+      "1. 喝啤酒：一喝就想上厕所——原文称，这说明你还年轻。",
+      "2. 失眠：原文称，维生素 B6 能让人睡得香甜。",
+      "3. 细纹：原文称，维生素 A 能更快抚平细纹。",
+      "4. 脱发：亚马逊上的 Aveya 生发洗发水。原文称，7 天内头发就能像草一样长。",
+      "5. 白发：原文称，维生素 H 能让白发不用染就变黑。",
+      "6. 黄牙：亚马逊上的 OLCG 去渍牙膏。原文称，能提亮、美白牙齿，一周就能让牙齿白如珍珠。"
+    ],
+    "download_rel": "文案/Q33-22-黑_原文案.txt",
+    "original_download_rel": "文案/Q33-22-黑_原文案.txt",
+    "sha256": "20d4c99b65c12c92355bbf5648c56fd903bfdd6e8f4969454f837296044f3712"
+  },
+  "copy_rel": "文案/Q33-22-黑_原文案.txt",
+  "updated_at": "2026-11-27T17:22:22+08:00",
+  "title": "",
+  "products": "",
+  "variant_label": "黑底白字",
+  "board_parent_code": "Q33-22",
+  "upload_date": {
+    "date": "2026-11-27",
+    "source": "字幕上传提交日期",
+    "sha256": "a2327930e12b5dc3d6b7d209cb67d443aa4da8264d386e88bbd8991ad167a10c"
+  }
+}

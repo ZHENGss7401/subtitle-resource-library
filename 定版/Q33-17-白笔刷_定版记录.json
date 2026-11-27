@@ -1,0 +1,83 @@
+{
+  "code": "Q33-17-白笔刷",
+  "pkg_code": "Q33-17",
+  "aliases": [],
+  "dates": [
+    "11.27"
+  ],
+  "src_packages": [
+    "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.27\\01-Q33-俱乐部\\Q33-17-11.27-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-40"
+  ],
+  "src_file": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.27\\01-Q33-俱乐部\\Q33-17-11.27-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-40\\字幕夹\\q33-17-白笔刷.png",
+  "definitive": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-17-白笔刷.png",
+  "definitive_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-17-白笔刷.png",
+  "layer_rel": "定版/Q33-17-白笔刷.png",
+  "preview_rel": "定版/Q33-17-白笔刷_成品预览.png",
+  "preview_abs": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\0. 字幕资源库\\定版\\Q33-17-白笔刷_成品预览.png",
+  "preview_kind": "无字素材＋定版字幕合成预览",
+  "preview_from": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.27\\01-Q33-俱乐部\\Q33-17-11.27-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-40\\flow\\素材-A-T1-M011黑帽.mp4",
+  "preview_frame_seconds": 1,
+  "preview_source_note": "",
+  "sha256": "2451db1f9d680442d33839c5df2ee1cfaa37ad77aaff4f01b326be6fa6e880c5",
+  "preview_sha256": "e0ece41bd63799ba5913d624c1a58cfbc35ea643632b7a5f67994e9df0c69e41",
+  "size": [
+    937,
+    1678
+  ],
+  "preview_size": [
+    720,
+    1280
+  ],
+  "basis": "用户授权本次入库上线；原始文件逐字节保留",
+  "confidence": "已证实",
+  "contested": false,
+  "discarded": [],
+  "author": "郑惠跃",
+  "copywriter": "郑惠跃",
+  "author_status": "confirmed",
+  "author_confirmed_at": "2026-11-27T17:22:21+08:00",
+  "author_source": "Y:\\足贴视频素材\\BOREAC淋巴滴剂\\2. 半成品\\11.27\\01-Q33-俱乐部\\Q33-17-11.27-英文-郑惠跃-郑惠跃-（连医生都不会告诉你的秘密）-Aveya洗发水+OLCG去污牙膏-郑雅斯-40",
+  "copy": {
+    "source": "Q33-17定版文案.docx",
+    "lines": [
+      "Secrets even doctors",
+      "won't tell you",
+      "1.Coca Cola",
+      "Drink less - piles on fat fast",
+      "2.Constipation",
+      "Vitamin C-Unclogs your gut",
+      "3.Insomnia",
+      "Vitamin B6 - Brings back sleep",
+      "4.Hair loss",
+      "Aveya Hair Growth shampoo on Amazon",
+      "(Grows hair like grass in 7 days)",
+      "5.Grey hair",
+      "Vitamin H - Turns black without dye.",
+      "6. Yellow teeth ",
+      "OLCG Stain-removal Toothpaste from",
+      "Amazon Turn on Your Teeth Brightening & Whitening",
+      "Switch to Pearl-White Teeth in one week",
+      "连医生都不会告诉你的秘密",
+      "1. 可口可乐——少喝一点，脂肪会快速堆积",
+      "2. 便秘——维生素C——疏通肠道",
+      "3. 失眠——维生素B6——恢复睡眠",
+      "4. 脱发——亚马逊上的Aveya生发洗发水（7天内让头发像草一样生长）",
+      "5. 白发——维生素H——无需染发即可变黑。",
+      "6. 黄牙—— 来自亚马逊的OLCG 去渍牙膏——让牙齿焕发光彩并美白一周内即可拥有珍珠白牙齿"
+    ],
+    "download_rel": "文案/Q33-17-白笔刷_原文案.docx",
+    "original_download_rel": "文案/Q33-17-白笔刷_原文案.docx",
+    "sha256": "ee835f46c46c7f94d640ac577b554968b8bf1030cb31c9f84fb56bd4482a0246"
+  },
+  "copy_rel": "文案/Q33-17-白笔刷_原文案.docx",
+  "updated_at": "2026-11-27T17:22:21+08:00",
+  "title": "",
+  "products": "",
+  "variant_label": "白笔刷（洋红字）",
+  "board_parent_code": "Q33-17",
+  "upload_date": {
+    "date": "2026-11-27",
+    "source": "字幕上传提交日期",
+    "sha256": "2451db1f9d680442d33839c5df2ee1cfaa37ad77aaff4f01b326be6fa6e880c5"
+  }
+}
